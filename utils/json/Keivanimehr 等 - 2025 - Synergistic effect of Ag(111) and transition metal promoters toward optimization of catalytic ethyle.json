@@ -1,0 +1,207 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Au",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "协同效应",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "协同效应",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "优化",
+        "end_node": "电荷平衡"
+    },
+    {
+        "start_node": "电子受体TM",
+        "relationship": "结合",
+        "end_node": "电子供体Cs"
+    },
+    {
+        "start_node": "电荷平衡",
+        "relationship": "抑制",
+        "end_node": "亲核氧物种"
+    },
+    {
+        "start_node": "亲核氧物种",
+        "relationship": "促进",
+        "end_node": "乙烯燃烧"
+    },
+    {
+        "start_node": "电荷平衡",
+        "relationship": "减轻",
+        "end_node": "过度亲电性"
+    },
+    {
+        "start_node": "过度亲电性",
+        "relationship": "促进",
+        "end_node": "EO异构化"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "提高",
+        "end_node": "△△EActivation"
+    },
+    {
+        "start_node": "△△EActivation",
+        "relationship": "范围",
+        "end_node": "1.29-2.71 eV"
+    },
+    {
+        "start_node": "高△△EActivation",
+        "relationship": "对应",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "电子供体",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "过渡金属",
+        "relationship": "电子受体",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "亲电攻击"
+    },
+    {
+        "start_node": "亲电攻击",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "优于",
+        "end_node": "单促进剂"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "关键",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "原子氧物种",
+        "relationship": "形成",
+        "end_node": "OMC中间体"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "转化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "转化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "完全氧化",
+        "end_node": "CO2 H2O"
+    },
+    {
+        "start_node": "亲核氧物种",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "亲电氧物种",
+        "relationship": "导致",
+        "end_node": "选择性环氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "改变",
+        "end_node": "电子态"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "加速",
+        "end_node": "OMC异构化"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230°C"
+    },
+    {
+        "start_node": "O2压力",
+        "relationship": "范围",
+        "end_node": "0.1 bar"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "DOI",
+        "end_node": "10.1038/s41598-025-95642-2"
+    },
+    {
+        "start_node": "Cs22Cu24Re24Au30",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    }
+]

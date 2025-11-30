@@ -1,0 +1,192 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高比表面积载体",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "酸性载体",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3载体",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SiO2载体",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "转化率",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "无影响",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "环氧乙烷异构化",
+        "relationship": "导致",
+        "end_node": "选择性降低"
+    },
+    {
+        "start_node": "载体表面",
+        "relationship": "催化",
+        "end_node": "环氧乙烷异构化"
+    },
+    {
+        "start_node": "环氧乙烷异构化",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "钝化",
+        "end_node": "酸性位点"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "环氧乙烷异构化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高Cs浓度",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高Cs浓度",
+        "relationship": "引入",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "硅烷化",
+        "relationship": "钝化",
+        "end_node": "OH基团"
+    },
+    {
+        "start_node": "硅烷化",
+        "relationship": "降低",
+        "end_node": "副反应速率"
+    },
+    {
+        "start_node": "硅烷化",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "170-180°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "180°C"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "25-160 L/gAg/h"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "范围",
+        "end_node": "40-70 nm"
+    },
+    {
+        "start_node": "载体比表面积",
+        "relationship": "范围",
+        "end_node": "0.1-380 m2/g"
+    },
+    {
+        "start_node": "环氧乙烷异构化",
+        "relationship": "一级反应",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "环氧乙烷异构化",
+        "relationship": "线性依赖",
+        "end_node": "载体比表面积"
+    },
+    {
+        "start_node": "低转化率",
+        "relationship": "对应",
+        "end_node": "76%选择性"
+    },
+    {
+        "start_node": "低氧含量",
+        "relationship": "导致",
+        "end_node": "选择性骤降"
+    },
+    {
+        "start_node": "低氧含量",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1016/j.cattod.2019.04.049"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "发表年份",
+        "end_node": "2019"
+    }
+]

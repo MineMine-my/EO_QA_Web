@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "O(ad)_3-coordinate-site/Ag(110)",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "O(ad)_3-coordinate-site/Ag(110)",
+        "relationship": "具有",
+        "end_node": "100%选择性"
+    },
+    {
+        "start_node": "O(ad)_4-coordinate-site/Ag(110)",
+        "relationship": "形成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "O(ad)_4-coordinate-site/Ag(110)",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "O(ad)_3-coordinate-site/Ag(111)",
+        "relationship": "形成",
+        "end_node": "CH2-CH2-O中间体"
+    },
+    {
+        "start_node": "CH2-CH2-O中间体",
+        "relationship": "异构化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "CH2-CH2-O中间体",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "反应路径(a)",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "反应路径(b)",
+        "relationship": "形成",
+        "end_node": "CH2-CH2-O中间体"
+    },
+    {
+        "start_node": "反应路径(b)",
+        "relationship": "导致",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "三配位氧",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "四配位氧",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Eley-Rideal机制",
+        "relationship": "描述",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "表面氧金属环",
+        "relationship": "是",
+        "end_node": "CH2-CH2-O中间体"
+    },
+    {
+        "start_node": "活化能",
+        "relationship": "范围",
+        "end_node": "6.8-19.2 kcal/mol"
+    },
+    {
+        "start_node": "O(ad)_3-coordinate-site/Ag(110)",
+        "relationship": "活化能",
+        "end_node": "13.6-14.4 kcal/mol"
+    },
+    {
+        "start_node": "O(ad)_4-coordinate-site/Ag(110)",
+        "relationship": "活化能",
+        "end_node": "13.3-19.2 kcal/mol"
+    },
+    {
+        "start_node": "O(ad)_3-coordinate-site/Ag(111)",
+        "relationship": "活化能",
+        "end_node": "6.8-10.1 kcal/mol"
+    }
+]

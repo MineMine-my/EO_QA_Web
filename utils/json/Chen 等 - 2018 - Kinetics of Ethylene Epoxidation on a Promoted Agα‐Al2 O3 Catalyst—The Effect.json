@@ -1,0 +1,242 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯促进剂",
+        "relationship": "抑制",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氯化有效性因子",
+        "relationship": "影响",
+        "end_node": "反应级数"
+    },
+    {
+        "start_node": "氯化有效性因子",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化有效性因子",
+        "relationship": "抑制",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "Z*增加",
+        "relationship": "提高",
+        "end_node": "O2反应级数"
+    },
+    {
+        "start_node": "Z*增加",
+        "relationship": "降低",
+        "end_node": "C2H4反应级数"
+    },
+    {
+        "start_node": "CO2共进料",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CO2共进料",
+        "relationship": "抑制",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "CO2共进料",
+        "relationship": "更强抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "参与",
+        "end_node": "选择性氧化"
+    },
+    {
+        "start_node": "亲核性氧",
+        "relationship": "参与",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "增加",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "减少",
+        "end_node": "亲核性氧"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "513K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "5.3bar"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "500000cm3h-1"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "35wt%"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "浓度",
+        "end_node": "628ppm"
+    },
+    {
+        "start_node": "Re促进剂",
+        "relationship": "浓度",
+        "end_node": "440ppm"
+    },
+    {
+        "start_node": "Li促进剂",
+        "relationship": "浓度",
+        "end_node": "33ppm"
+    },
+    {
+        "start_node": "Na促进剂",
+        "relationship": "浓度",
+        "end_node": "42ppm"
+    },
+    {
+        "start_node": "Mn促进剂",
+        "relationship": "浓度",
+        "end_node": "115ppm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "值",
+        "end_node": "1.25m2g-1"
+    },
+    {
+        "start_node": "银分散度",
+        "relationship": "值",
+        "end_node": "0.47%"
+    },
+    {
+        "start_node": "氯化有效性因子",
+        "relationship": "范围",
+        "end_node": "2.1-8.9"
+    },
+    {
+        "start_node": "O2进料浓度",
+        "relationship": "范围",
+        "end_node": "2-7mol%"
+    },
+    {
+        "start_node": "C2H4进料浓度",
+        "relationship": "范围",
+        "end_node": "20-40mol%"
+    },
+    {
+        "start_node": "CO2进料浓度",
+        "relationship": "范围",
+        "end_node": "1-5mol%"
+    },
+    {
+        "start_node": "乙烷进料",
+        "relationship": "浓度",
+        "end_node": "0.4mol%"
+    },
+    {
+        "start_node": "氯乙烷进料",
+        "relationship": "浓度",
+        "end_node": "1.5-6.3ppm"
+    },
+    {
+        "start_node": "环氧乙烷选择性",
+        "relationship": "范围",
+        "end_node": "81.7-86.6%"
+    },
+    {
+        "start_node": "环氧乙烷速率",
+        "relationship": "降低",
+        "end_node": "40%"
+    },
+    {
+        "start_node": "CO2速率",
+        "relationship": "降低",
+        "end_node": "63%"
+    },
+    {
+        "start_node": "O2反应级数",
+        "relationship": "范围",
+        "end_node": "0.7-1"
+    },
+    {
+        "start_node": "C2H4反应级数",
+        "relationship": "范围",
+        "end_node": "0.5-负值"
+    },
+    {
+        "start_node": "CO2反应级数",
+        "relationship": "值",
+        "end_node": "-0.6"
+    },
+    {
+        "start_node": "环氧乙烷反应级数",
+        "relationship": "值",
+        "end_node": "-0.49"
+    },
+    {
+        "start_node": "表观活化能",
+        "relationship": "范围",
+        "end_node": "104.6-211.8kJmol-1"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "是",
+        "end_node": "共同中间体"
+    },
+    {
+        "start_node": "共同中间体",
+        "relationship": "分支",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "共同中间体",
+        "relationship": "分支",
+        "end_node": "CO2"
+    }
+]

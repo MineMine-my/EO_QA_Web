@@ -1,0 +1,92 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "铬催化剂",
+        "relationship": "催化",
+        "end_node": "烯烃环氧化"
+    },
+    {
+        "start_node": "CpCr(O)Cl2",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "O2",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "铬氧物种",
+        "relationship": "催化",
+        "end_node": "烯烃环氧化"
+    },
+    {
+        "start_node": "计算化学",
+        "relationship": "指导",
+        "end_node": "催化剂选择"
+    },
+    {
+        "start_node": "自旋表面交叉",
+        "relationship": "降低",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "溶剂效应",
+        "relationship": "提高",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "反应能垒",
+        "relationship": "范围",
+        "end_node": "20.0-24.4 kcal/mol"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "室温"
+    },
+    {
+        "start_node": "反应时间",
+        "relationship": "范围",
+        "end_node": "2小时"
+    },
+    {
+        "start_node": "转化率",
+        "relationship": "范围",
+        "end_node": "45%"
+    },
+    {
+        "start_node": "产率",
+        "relationship": "范围",
+        "end_node": "22%"
+    }
+]

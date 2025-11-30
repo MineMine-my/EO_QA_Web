@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag2O表面",
+        "relationship": "促进",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "低碱性",
+        "relationship": "抑制",
+        "end_node": "氧金属环"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag2O表面",
+        "relationship": "抑制",
+        "end_node": "氧金属环"
+    },
+    {
+        "start_node": "非活化路径",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "非活化路径",
+        "relationship": "无活化能",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯氧基",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯氧基路径",
+        "relationship": "活化能",
+        "end_node": "20 kcal/mol"
+    },
+    {
+        "start_node": "非活化路径",
+        "relationship": "活化能",
+        "end_node": "14 kcal/mol"
+    },
+    {
+        "start_node": "乙醛路径",
+        "relationship": "活化能",
+        "end_node": "35 kcal/mol"
+    },
+    {
+        "start_node": "乙烯醇路径",
+        "relationship": "活化能",
+        "end_node": "35 kcal/mol"
+    },
+    {
+        "start_node": "高活化能",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "低活化能",
+        "relationship": "促进",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag2O表面",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "表面氧碱性",
+        "relationship": "影响",
+        "end_node": "反应路径"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "研究",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "Ag14O9团簇",
+        "relationship": "模拟",
+        "end_node": "Ag2O表面"
+    },
+    {
+        "start_node": "实验活化能",
+        "relationship": "范围",
+        "end_node": "14-22 kcal/mol"
+    },
+    {
+        "start_node": "理论活化能",
+        "relationship": "匹配",
+        "end_node": "实验值"
+    }
+]

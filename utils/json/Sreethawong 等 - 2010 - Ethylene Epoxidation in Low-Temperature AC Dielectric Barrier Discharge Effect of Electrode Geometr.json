@@ -1,0 +1,207 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "圆柱DBD",
+        "relationship": "优于",
+        "end_node": "平行DBD"
+    },
+    {
+        "start_node": "圆柱DBD",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "圆柱DBD",
+        "relationship": "降低",
+        "end_node": "功率消耗"
+    },
+    {
+        "start_node": "电极几何",
+        "relationship": "影响",
+        "end_node": "性能"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "范围",
+        "end_node": "0.2:1-1:1"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "影响",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "0.25:1",
+        "relationship": "最优",
+        "end_node": "O2/C2H4比"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "25-27°C"
+    },
+    {
+        "start_node": "电压",
+        "relationship": "范围",
+        "end_node": "13-21 kV"
+    },
+    {
+        "start_node": "电压",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "15 kV",
+        "relationship": "最优",
+        "end_node": "圆柱DBD电压"
+    },
+    {
+        "start_node": "19 kV",
+        "relationship": "最优",
+        "end_node": "平行DBD电压"
+    },
+    {
+        "start_node": "频率",
+        "relationship": "范围",
+        "end_node": "400-800 Hz"
+    },
+    {
+        "start_node": "500 Hz",
+        "relationship": "最优",
+        "end_node": "输入频率"
+    },
+    {
+        "start_node": "停留时间",
+        "relationship": "范围",
+        "end_node": "5.7-25.1 s"
+    },
+    {
+        "start_node": "停留时间",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "长停留时间",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "电极边缘比",
+        "relationship": "影响",
+        "end_node": "等离子体分布"
+    },
+    {
+        "start_node": "低边缘比",
+        "relationship": "提高",
+        "end_node": "均匀性"
+    },
+    {
+        "start_node": "圆柱DBD",
+        "relationship": "具有",
+        "end_node": "低边缘比"
+    },
+    {
+        "start_node": "等离子体",
+        "relationship": "激活",
+        "end_node": "反应物"
+    },
+    {
+        "start_node": "氧活性物种",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "CO"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "H2"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "C2H2"
+    },
+    {
+        "start_node": "高电压",
+        "relationship": "促进",
+        "end_node": "部分氧化"
+    },
+    {
+        "start_node": "部分氧化",
+        "relationship": "生成",
+        "end_node": "CO"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "平行DBD",
+        "relationship": "促进",
+        "end_node": "裂解反应"
+    },
+    {
+        "start_node": "圆柱DBD",
+        "relationship": "促进",
+        "end_node": "偶联反应"
+    }
+]

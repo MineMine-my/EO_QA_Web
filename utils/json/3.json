@@ -1,0 +1,217 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "中和",
+        "end_node": "酸位点"
+    },
+    {
+        "start_node": "酸位点",
+        "relationship": "导致",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "异构化",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "燃烧",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "晶格缺陷"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "参与",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "改善",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "Sn",
+        "relationship": "促进",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "Sn",
+        "relationship": "减少",
+        "end_node": "积碳"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "增强",
+        "end_node": "金属形式"
+    },
+    {
+        "start_node": "金属形式",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrTiO3",
+        "relationship": "增强",
+        "end_node": "相互作用"
+    },
+    {
+        "start_node": "相互作用",
+        "relationship": "提高",
+        "end_node": "吸附能力"
+    },
+    {
+        "start_node": "CH4",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "He",
+        "relationship": "提供",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "CH4+He",
+        "relationship": "提供",
+        "end_node": "协同效应"
+    },
+    {
+        "start_node": "CH4+He",
+        "relationship": "减少",
+        "end_node": "积碳"
+    },
+    {
+        "start_node": "积碳",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "548K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "24.7 psia"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "6000 h-1"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:1"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "44-61 nm"
+    },
+    {
+        "start_node": "Cu粒径",
+        "relationship": "范围",
+        "end_node": "4.7-5.8 nm"
+    },
+    {
+        "start_node": "Sn粒径",
+        "relationship": "范围",
+        "end_node": "2.8-2.9 nm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "极低"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    },
+    {
+        "start_node": "溶胶凝胶",
+        "relationship": "用于",
+        "end_node": "载体合成"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "参与",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "是",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    }
+]

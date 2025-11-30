@@ -1,0 +1,871 @@
+Fuel 381 (2025) 133346
+Contents lists available at ScienceDirect
+Fuel
+journal homepage: www.elsevier.com/locate/fuel
+Full Length Article
+Reaction gas induced activity enhancement for silver catalyst in
+ethylene epoxidation
+Xiaojun Lu1, Pei Zhang1, Zhichao Deng, Chengyang He, Rui Zhang*
+School of Chemical Engineering and Pharmacy and Key Laboratory for Green Chemical Process of Ministry of Education, Wuhan Institute of Technology, Wuhan 430205,
+PR China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Ethylene oxide (EO) is an indispensable cornerstone chemical for producing industrial products such as cosmetics
+Ethylene epoxidation and pharmaceuticals. The Ag/α-Al2O3 based ethylene epoxidation process is a successful method for producing
+Silver catalyst EO on an industrial scale. However, achieving high production rates and selectivity for EO through catalyst
+Induction
+preparation innovation has been challenging due to the elusive and non-unified reaction mechanism. In this
+Carbonate species study, a simple but effective induction procedure conducted at elevated temperatures (>260 ◦C) was found to
+Subsurface oxygen
+enhance the activity of Ag/α-Al2O3 for EO production. An 82 % increase of the EO production rate, from 1.19 ×
+10 (cid:0)2 to 2.17 ×10 (cid:0)2 mol/h/gAg, was achieved after induction at 260 ◦C. Suitable gas atmosphere (e.g., O2, C2H4,
+and fully reactive gases) was found to be another requisite for successfully inducing the increase in the EO
+production rate. O2-TPD analyses showed that more subsurface oxygen was generated in a suitable gas atmo-
+sphere compared to N2. In-situ diffuse reflectance infrared Fourier transform spectroscopy results elucidate the
+formation of carbonates on the Ag surface after induction. The presence of carbonates stabilizes more subsurface
+oxygen, facilitating the adsorption and dissociation of O2 and C2H4, thereby enhancing the reaction rate of the
+ethylene epoxidation process. The induced high activity could be maintained stably, as there was no sign of
+activity decrease over a 120-hour operation after induction. Due to the induced high activity, the Ag loading of
+the catalyst can be reduced in industrial applications, effectively lowering production costs.
+1. Introduction Selective ethylene oxidation and the side reactions are given by the
+following set of reaction equations:
+elec
+E
+tr
+th
+o
+y
+ca
+le
+t
+n
+al
+e
+y s
+is
+is ,
+p
+t
+r
+h
+o
+e
+p o
+d
+s
+i
+e
+re
+d
+c t
+a s
+s y
+a
+n
+n
+t h
+im
+es
+p
+is
+o
+o
+rt
+f
+a
+o
+n
+l
+t
+e fi
+in
+n
+t
+s
+e r
+fr
+m
+o
+e
+m
+d i
+s
+a
+y
+t
+n
+e
+g
+p
+a
+r
+s
+o
+p
+d
+r
+u
+o
+c
+d
+t
+u
+i
+c
+n
+e d
+C O
+by
+2 PrimaryreactionC2H4 +1/2O2 →C2H4OΔH1 = (cid:0) 105kJ/mol
+renewable energy, and etc. The epoxidation of ethylene to produce Sidereaction:C2H4 +3O2 →2CO2 +2H2OΔH2 = (cid:0) 1327kJ/mol
+ethylene oxide (EO) offers a pathway for large-scale application. EO is a
+key intermediate in the production of a wide variety of commercial Sidereaction: C2H4O+5/2O2 →2CO2 +2H2OΔH3 = (cid:0) 1221kJ/mol
+products, including coolants, lubricants, paints, cosmetics, and phar-
+maceuticals [1–3]. About 72 % of EO is used to synthesis glycols, mainly Elucidating the action mechanism of oxygen species on Ag catalysts,
+monoethylene glycol (MEG), which is further polymerized to synthesis as well as their reactivity and selectivity with ethylene, would enable the
+polyethylene terephthalate (PET) resin, the material from which most rational design of highly selective catalysts for ethylene epoxidation
+manufactured plastic containers are made [4–6]. The catalyst consisting [11]. Oxygen atoms on the catalyst surface have been proposed to have
+o
+w
+f
+i d
+α
+e
+-A
+ly
+l 2
+u
+O
+s
+3
+e d
+a s
+e
+t
+f
+h
+fe
+e
+c
+s
+ti
+u
+v
+p
+e
+p
+c
+o
+a
+r
+t
+t
+a
+a
+l
+n
+ys
+d
+t
+s
+i
+i
+n
+lv
+t
+e
+h
+r
+e
+a
+i
+s
+n
+t
+d
+h
+u
+e
+s t
+a
+r
+c
+i
+t
+a
+i
+l
+v e
+p r
+c
+o
+o
+d
+m
+u
+p
+ct
+o
+i
+n
+on
+en
+o
+t
+f
+i s
+E
+t
+O
+h e
+[ 7
+o
+,
+n
+8
+l
+]
+y
+.
+t
+p
+w
+h
+o
+il ic
+a d
+o
+s
+x
+o
+y
+r
+g
+p
+e
+t
+n
+io
+a
+n
+t o
+st
+m
+at
+[
+e
+1
+s,
+2 ,
+n
+1
+a
+3
+m
+].
+e
+T
+ly
+h e
+e l
+C
+e –– ctr
+C
+o p
+b
+h
+o
+i
+n
+li
+d
+c
+in
+o x
+t
+y
+h
+g
+e
+e
+e
+n
+t h
+a
+y
+to
+le
+m
+ne
+a
+m
+nd
+o le
+n
+c
+u
+u
+c
+l
+l
+e
+e o
+is
+-
+Due to the moderate strength of the Ag–O bond [9] and the weak an electron-rich group, and the more electrophilic the molecules
+strength of the Ag–C bond [10], silver is an effective active component involved in the reaction are, the more they tend to attack the C
+––C
+bond
+for ethylene epoxidation compared with Au, Cu, and other elements. in the ethylene molecule, which is favorable for the electrophilic
+* Corresponding author.
+E-mail address: ruizhang@wit.edu.cn(R. Zhang).
+1 X.L. and P.Z. contributed equally to this paper.
+https://doi.org/10.1016/j.fuel.2024.133346
+Received 28 June 2024; Received in revised form 12 September 2024; Accepted 30 September 2024
+Available online 12 October 2024
+0016-2361/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+
+X. Lu et al. F u e l 381 (2025) 133346
+reaction to form ethylene oxide [13–15]. Therefore, to improve the the precipitate was allowed to age for 30 min. The silver oxalate pre-
+selectivity and reaction activity, more active oxygen species need to be cipitate was washed eight times with deionized water and then dissolved
+generated through catalyst preparation and reaction engineering. in a solution composed of ethanolamine, ethylenediamine, and deion-
+Previous study have suggested that the reaction activity and selec- ized water to prepare the SAC solution. The mass ratio of ethanolamine,
+tivity of pure silver catalysts are not ideal for the production of ethylene ethylenediamine, and deionized water was set to 1:3:4. Finally,
+oxide [7]. Due to the sensitivity of the silver nanoparticle structure, it is ammonium perrhenate and cesium sulfate were added to the SAC so-
+prone to deactivation during the reaction, resulting in reduced reaction lution for wet impregnation on the α-Al2O3 support. A mass ratio of
+activity and selectivity. Therefore, appropriate catalytic promoters, such 100:0.30:0.25 (2 g silver nitrate, 0.005 g ammonium perrhenate, and
+as rhenium (Re), cesium (Cs), chlorine (Cl), other transition metals, and 0.004 g cesium sulfate.) was used for the elements of Ag, Re, and Cs in
+alkali metals, were introduced to adjust the defects of the silver active the impregnation solution.
+sites for improving reaction activity and selectivity [16,17]. Cs is a key The α-Al2O3 support (3–4 mm in average diameter) was first vac-
+promoter to improve the selectivity of silver catalysts for ethylene uumed in a rotary evaporator during the wet impregnation. The
+epoxidation. Nielsen, Rochelle [18]found that adding a small amount of impregnation solution (1:1 in Vsolution/Vpore) was dripped onto the
+Cs to the silver catalyst can effectively improve the selectivity of the support holding in a flask on the rotary evaporator. Excess solvent was
+silver catalyst. Re can weaken the interaction between adsorbed oxygen evaporated under a vacuum at 50 ◦C. The catalyst was then dried in an
+and silver, promote the migration of adsorbed oxygen from the surface oven at 90 ◦C for 6 h after impregnation. The dried catalyst was calcined
+to the subsurface, and facilitate the formation of ethylene oxide [19]. in a tube furnace with N2 as a protecting gas. The temperature increased
+Other studies found that the silver catalyst and Re promoter can increase from room temperature to 330 ◦C at 4 ◦C/min during calcination and
+the selectivity of ethylene oxide by about 5 %. The promoter Re mainly was maintained at the peak temperature for 5 min to allow for the
+changes the chemical environment of the active sites, enabling the decomposition of the precursors. Finally, the sample was cooled to room
+catalyst to activate more electrophilic oxygen and reduce the electron temperature and sealed for experiments and characterization. No other
+charge density of oxygen atoms [20,21]. Although the cost of the pre-treatment of the catalyst was performed prior to the experiment.
+precious metal itself is high, its very low dosage, along with its ability to Silver loading was controlled to 20 % when taking the mass of the
+improve reaction efficiency, reduce raw material consumption, and support as 1, and the actual loading for each batch of catalyst prepara-
+extend catalyst life, can significantly reduce production costs and tion was determined by inductively coupled plasma (ICP) analysis
+improve the overall economic efficiency of the ethylene epoxidation (Table S1). The pure silver catalyst was prepared using the same pro-
+process. However, the addition of additives and modulation of surface cedure without adding promoters.
+oxygen properties can achieve a high selectivity with low activity. The
+simultaneous high activity and high selectivity Ag catalysts are still a 2.2. Catalyst characterization
+challenge that needs to be solved.
+Our previous study found that there was an abnormal increase in The α-Al2O3 support and the prepared silver catalyst were tested by a
+outlet EO content when the reaction temperature decreased from a mercury porosimetry (Autopore IV9520, Micromeritics) to determine
+stability test temperature of 260–230 ◦C compared with the control the pore properties, including the pore volume, average pore diameter,
+group at the same temperature [22]. This phenomenon led us to this and specific surface area. The morphologies of the support and the
+study to pursue a simple method for obtaining a high activity with a high loaded silver particles were analyzed by a scanning electron microscope
+selectivity. In this study, we report an unusual activity improvement for (SEM). The number of particles counted for the particle size analysis was
+the Cs and Re promoted silver catalyst in EO production with a simple 350. The device used was Type JSM5510LV from Japan Electronics
+yet very effective induction treatment. Two key parameters, tempera- Corporation, with a resolution of 3.2 nm and a measuring voltage of 10
+ture and inducing gas atmosphere, were studied thoroughly for induc- kV. The field emission sweep electron microscope (FESEM) was used to
+tion for Re and Cs promoted silver catalysts. The particle size observe the size and dispersion of the silver nanoparticles in a better
+distribution of Ag on the surface of α-Al2O3 was analyzed both before resolution. The equipment used was Gemini SEM300, with an acceler-
+and after induction. Additionally, O2-TPD and in-situ diffuse reflectance ation voltage of 3 kV and a probe current of 3 pA–20 nA with a reso-
+infrared Fourier transform spectroscopy (DRIFTS) were employed to lution of 0.7 nm at 15 kV.
+elucidate the mechanism underlying the induction behavior. The pro- X-ray diffraction (XRD) was used to determine the silver crystals and
+posed mechanism suggests that carbonates formed during induction their facets for the fresh and used samples. The device used was D8
+stabilize subsurface oxygen species and enhance the adsorption and ADVANCE from Bruker, with an operating voltage of 40 kV and a cur-
+desorption of reaction gases, resulting in a significant improvement in rent of 40 mA. A scanning rate of 5 ◦/min was applied to cover the
+reaction performance post-induction. The stability of the activity scanning angle (2θ) of 20–90◦. The crystal facets of the catalysts were
+enhancement following induction was also investigated. This study identified by matching the collected diffraction pattern with the refer-
+provides valuable insights into reducing the catalyst cost in EO ence included in the Joint Committee on Powder Diffraction Standards
+production. (JCPDS) database.
+The oxygen temperature programming desorption (O2-TPD) analysis
+2. Materials and methods of the samples was carried out by using the automatic chemisorption
+instrument (AutoChem II 2920, Micromeritics). A 50–100 mg sample
+2.1. Catalyst preparation with a mesh size of 20–80 was placed in the reaction tube. After purging
+and drying, the sample was saturated with O2 at 50 ◦C. The samples were
+Two different types of silver catalyst were prepared for the designed heated at 10 ◦C/min from room temperature to 200 ◦C for drying pre-
+experiments, with the former containing Re and Cs as promoters and the treatment and were purged by He stream (30–50 mL/min) for 1 h. After
+latter consisting solely of silver. The catalyst with Cs and Re added was cooling to 50 ◦C, desorption of the sample was carried out up to a
+named Ag-Cs-Re/Al2O3, while the one without promoters was named temperature of 800 ◦C at 10 ◦C/min with He gas flow. The signal of
+Ag/Al2O3. Catalysts were prepared by vacuum impregnation using a exhaled gas was detected by a TCD.
+silver amine complex (SAC) compound as the precursor. Silver nitrate
+solution was prepared by dissolving silver nitrate in deionized water. 2.3. Catalyst performance test
+Meanwhile, a solution of ammonium oxalate was prepared by ammo-
+nium oxalate and deionized water at 50 ◦C. A precipitate of silver oxa- Experiments to investigate the performance of the catalyst were
+late was then obtained by mixing these two solutions. Prior to filtration, conducted in a fixed bed reactor with an inner diameter of 8 mm and a
+2
+
+X. Lu et al. F u e l 381 (2025) 133346
+length of 40 cm. At least 12 cm constant temperature for the catalyst 3. Result and discussion
+loading region was achieved by three individually controlled heating
+elements along the reactor. The reaction temperature was monitored by 3.1. Morphological and micro-structural properties of the catalyst
+a thermocouple located at the center of the catalyst bed. In each run, 1 g
+of 1–2 mm sized catalyst was diluted with silica sand three times in The porosity analysis results are shown in Table 1. The support has a
+packing volume (Vsand/Vcat =3) and loaded into the constant temper- low specific surface area and a fair pore volume. After Ag loading, the
+ature region of the reactor. A widely industrial-scale EO project used values for pore feature parameters are reduced except for bulk density.
+feedstock gas composition was applied for all experimental runs, which The average pore size after silver loading remains large (450 nm),
+consists of 28 % C2H4, 7.5 % O2, 62.5 % N2, 2 % CO2, and 0.5 ppm which, along with the low specific surface area of the α-Al2O3 carrier, is
+C2H4Cl2. The weight hourly space velocity (WHSV) of the feed gas was suitable for ethylene epoxidation. This facilitates the mass transfer of the
+set at 4.2 L/h/gcat, and the pressure was stabilized to 1.5 MPa by means generated ethylene oxide into the bulk and reduces its deep oxidation to
+of a back pressure regulator. The product and unreacted feedstock were CO2.
+depressurized to atmospheric pressure and sent to online gas chroma- The FESEM images and particle size distribution for the fresh Cs-Re-
+tography (GC-8890 N, Agilent) equipped with two autosamplers and Ag/Al2O3 catalyst and XRD analysis for both the fresh and the induced
+two detectors. Analysis of C2H4 and EO was carried out by FID, and Ag-Cs-Re/Al2O3 catalyst samples are presented in Fig. 1. The high-
+permanent gases (O2, N2, and CO2) were analyzed by TCD. The equa- resolution FESEM images show that α-Al2O3 is bound together in a
+tions to calculate the conversion of the reactants, the EO selectivity, and multi-directional lamellar structure with a size ranging from submicron
+the EO production rate are given in Part 1 in the Supporting Information. to several microns and with a thickness of approximately 200–400 nm.
+The freshly prepared Ag-Cs-Re/Al2O3 catalyst particles have an irregular
+prism-like surface and are loaded on the planes and edges of the support
+2.4. Induction experiments for the catalyst lamellae. The loosely bound state is one of the factors that causes the
+silver catalyst to migrate, aggregate, and form large particles at elevated
+To conduct the induction experiments, after the freshly charged temperatures or after long-term operation [47]. Statistical analysis using
+catalyst was run at 230 ◦C until it reached a steady state, the reactor’s Nano Measurer software indicates that Ag particle diameters range from
+temperature was set to the corresponding induction temperature (230 – 100 nm to 280 nm, with a mean diameter of 195 nm. It’s observed that,
+270 ◦C) while maintaining the same gas pressure, flow rate, and despite their large size, silver particles are well dispersed on the α-Al2O3
+composition. An induction time of ten hours was selected to ensure that support. Additionally, large silver catalysts are also commonly used in
+EO production during the induction process reached a steady state. In ethylene epoxidation reactions. [7,8].
+order to discover the essential factor, other than temperature, for the The XRD result in Fig. 1c suggests that Ag remains at the state of Ag0
+successful induction to high activity for the silver catalyst, a variety of for the Ag-Cs-Re/Al2O3 catalyst samples before and after induction.
+atmospheres, including inert N2, reacting gas, C2H4, and O2 were Silver clusters are predominantly present on the most stable Ag (111)
+employed to perform the induction experiments. Once the catalyst ac- crystalline facet (Fig. 1d). The facets identified for Ag are consistent with
+tivity reached a steady state at 230 ◦C, the feed gas was switched to the the information included in JCPD #89-3722 and those reported in the
+selected single gas (e.g., N2, C2H4 and O2) with nitrogen used as the literature [23]. The crystallite size of Ag suggested by Rietveld Refine-
+balance gas, at the same operating pressure to initiate the induction ment is 25–34 nm. These results indicate that Ag particles are in poly-
+process. At the same time, the temperature of the reactor was increased crystals with domain structure [24]. As shown in Fig. 1d, the extensive
+to 260 ◦C with a ramp rate of 5 ◦C/min. At the end of the induction peak overlap for fresh and induced Ag-Cs-Re/Al2O3 catalyst samples
+period, the temperature was returned to the reaction temperature of suggests that the silver surface remains in the metallic state. However,
+230 ◦C before the feed gas was switched to reaction gases, which had the the small peak shift of Ag3d3/2 and Ag3d5/2 from fresh and induced Ag-
+same composition as the initial reaction gases. Cs-Re/Al2O3 catalyst indicates an amount of silver oxide may exist on
+the surface, which originated from the oxidation of Ag at a high tem-
+perature during the reaction process.
+2.5. In-situ DRIFTS experiment The elemental mapping for the prepared Ag-Cs-Re/Al2O3 catalyst is
+presented in Fig. 2. It demonstrates that on top of the evenly distributed
+In-situ diffuse reflectance infrared Fourier transform spectroscopy Al and O, the loaded silver is dispersed as particles in a diameter of
+studies were conducted on a Bruker Invenio S infrared spectrometer several hundred nanometers. The distribution of silver and other ele-
+equipped with an MCT detector for the promoted and unpromoted silver ments shown by the elemental mapping is consistent with the FESEM
+catalysts in an in-situ cell. Potassium bromide was added to the catalyst image in Fig. 1a.
+sample at a ratio of 30:1 (mKBr:mcatalyst) and loaded into the sample
+holder. The procedure for in-situ DRIFTS experiments can be divided into 3.2. Induced behavior
+three steps: adsorption and desorption before induction and adsorption
+and desorption after in-situ induction. The detailed procedure for the in- In our previous study, we observed that the activity of the Ag catalyst
+situ DRIFTS experiment is as follows. After loading the catalyst into the gradually increased during the reaction at a high operating temperature
+in-situ cell, the cell and the lines were purged with a mixture of air and [22]. To investigate this behavior, we designed experiments with tem-
+C2H4. The cell temperature was increased to 230 ◦C, and pressure perature and gas components as the main parameters.
+increased to 1.5 MPa with a constant flow of air and C2H4 to allow the
+ethylene epoxidation to take place. After 4 h of reaction, the system was Table 1
+cooled down to 50 ◦C, and air (in another case, C2H4) was used to purge Porosity of support and catalyst.
+out the reactants and products for adsorption. Infrared signals were then
+d
+m
+e
+e
+s
+a
+o
+s
+r
+u
+p
+r
+t
+e
+io
+d
+n
+f o
+u
+r
+n
+t
+d
+h
+e
+e
+r
+O
+va
+2
+c
+a
+u
+d
+u
+s
+m
+or p
+co
+ti
+n
+o
+d
+n
+i t
+a
+i
+t
+o
+a
+n
+i
+s
+r
+a
+p
+t
+r
+5
+e
+0
+ss
+a
+u
+n
+re
+d
+o
+3
+f
+0
+1
+0
+. 5
+◦C
+M
+,
+P
+re
+a
+s p
+an
+ec
+d
+t i
+5
+v
+0
+e l
+◦
+y
+C
+. T
+an
+h
+d
+e
+Parameters α-Al2O3support A (A g g c a a o t n al y α s -A t l2O3 support)
+Total pore volume (mL/g) 0.57 0.32
+in-situ cell was then subjected to the in-situ induction stage, during which Total specific surface area (m2/g) 4.24 2.86
+the cell was operated at 260 ◦C and 1.5 MPa with a constant flow of a Median pore diameter (A, nm) 334.46 204.42
+mixture of air and C2H4 for 5 h to allow the induction to occur. After Average pore diameter (nm) 538.46 447.10
+induction, the specific adsorption procedure was the same as that for the Bulk density (g/mL) 1.28 1.72
+Porosity (%) 72.80 54.92
+sample before induction.
+3
+
+X. Lu et al. F u e l 381 (2025) 133346
+Fig. 1. Morphological and structural analysis for the prepared Ag-Cs-Re/Al2O3 catalyst: (a) FESEM image of the fresh Ag-Cs-Re/Al2O3 catalyst; (b) particle size
+distribution of the fresh Ag-Cs-Re/Al2O3 catalyst; (c) XRD diagram for the fresh and used Ag-Cs-Re/Al2O3 catalysts; (d) XPS result for the fresh and used Ag-Cs-Re/
+Al2O3 catalysts.
+Fig. 2. Elemental mapping for the fresh Ag-Cs-Re/Al2O3 catalyst.
+4
+
+X. Lu et al. F u e l 381 (2025) 133346
+3.2.1. The effect of temperature on the induction behavior 260 ◦C or 270 ◦C, the conversion of C2H4 almost doubled the value
+Induction experiments were performed in the temperature range before induction. The C2H4 conversion following induction at 250 ◦C
+from 230 to 270 ◦C, a temperature range between the normal operating shows even a slight decrease while the EO formation rate has improved
+temperature (210–240 ◦C) for Ag-Cs-Re/Al2O3 catalysts and the slightly. It indicates that the EO selectivity increased after the induction
+decomposition temperature (>300 ◦C) during the preparation of the Ag- process.
+Cs-Re/Al2O3 catalyst. The reacting gas was directly employed as induced Besides the improvement in EO production activity caused by in-
+gas in this group of experiments. The induction results regarding the EO duction at elevated temperatures, the selectivity of the Ag-Cs-Re/Al2O3
+production, the C2H4 conversion, and the EO selectivity under different catalyst for EO was also improved, as shown in Fig. 3c. Among the
+induction temperatures range from 240 to 270 ◦C are reported in Fig. 3. investigated temperatures, 250 ◦C benefits EO selectivity the most,
+The production rate of EO gradually increased to a steady value of increasing it from 83.5 % to 88 %. However, it improves the EO reaction
+around 1.19 ×10 (cid:0) 2 mol/h/gAg during the first 18 h. The EO formation rate the least (Fig. 3a). The EO selectivity has increased by a constant
+rate increased as the induction phase began at a higher temperature than value about 87 % after the induction at 250–270 ◦C. Meanwhile, the
+the reaction temperature of 230 ◦C. When the induction temperature selectivity of EO (Fig. 3c) shows a decrease during the induction period,
+was set to 250 ◦C, a rise of about 10 % in the EO production rate was indicating that higher temperatures intensified the reaction rate of EO
+observed. However, as the induction period ended at 28 h, the EO while favoring the deep oxidation of ethylene.
+production rate decreased rapidly to a value similar to that before in- These collective experiments confirm that a sufficiently high tem-
+duction. When the induction temperature is raised to 260 ◦C, the in- perature is essential to initiate the induction effect on Ag-Cs-Re/Al2O3
+duction phenomenon becomes significant, with an 82 % improvement in catalysts to achieve a higher EO production rate. When the reaction rates
+the EO production rate, from 1.19 ×10 (cid:0) 2 to 2.17 ×10 (cid:0) 2 mol/h/gAg. obtained after induction are plotted as a function of induction temper-
+However, no further enhancement of the induction process was ature, as shown in Fig. 3d, we could determine a turning region with
+observed at an even higher temperature (270 ◦C). Instead, the activity respect to temperature to induce a significant increase in EO activity.
+was suppressed compared to the results obtained by induction at 260 ◦C. Moreover, the experimental results indicate that the optimal induction
+It can be concluded that temperature is the essential factor for the in- temperature is around 260 ◦C and that an induction temperature beyond
+duction behavior to occur, while relatively low temperatures (below this does not further benefit the EO production activity.
+250 ◦C) do not lead to the observed induction behavior.
+The C2H4 conversion results during induction, as well as the pre-and 3.2.2. The effect of the atmosphere on the induction behavior
+post-induction reactions shown in Fig. 3b, correspond to EO production Temperature is a prerequisite for higher activity by causing the Ag-
+rate results shown in Fig. 3a. When the induction temperature was set to Cs-Re/Al2O3 catalyst to undergo induction behavior. The previous
+Fig. 3. Time courses of (a) EO formation rate, (b) EO selectivity, (c) C2H4 conversion, and (d) outlet EO content before and after induced at different temperatures for
+ethylene epoxidation catalyzed by Ag-Cs-Re/Al2O3 catalyst at reaction conditions of 230 ◦C, 1.5 MPa C2H4, 1.5 MPa O2 and a gas hourly space velocity of 4200
+mL⋅h (cid:0)1⋅ gA (cid:0) g 1.
+5
+
+X. Lu et al. F u e l 381 (2025) 133346
+observation when we first discovered the induction behavior led us to The C2H4 reaction rates presented in Fig. 4b show a trend similar to
+deduce that temperature may not be the only factor facilitating such a that of the EO contents in the outflow streams. There were no changes in
+phenomenon. Therefore, we used three single gases (ethylene, oxygen their pre- and post-induction values by N2, but significant changes were
+and nitrogen) to study the effect of gas atmosphere on the induction observed when the Ag-Cs-Re/Al2O3 catalysts were induced by O2, C2H4,
+effect. An optimal induction temperature of 260 ◦C and an induction or a mixture of these gases. The C2H4 conversion following O2 induction
+time of 10 h were employed, whereas the pre- and post-induction re- is at the lowest level of the three successful induction results, suggesting
+action temperature was maintained at 230 ◦C for all experimental runs. that less C2H4 underwent deep oxidation to form CO2 when combined
+As shown in Fig. 4a, induction behavior for increased EO activity with the data in Fig. 4a.
+could not be achieved using the inert gas N2, as the activity of the Ag-Cs- In addition, the difference in induction behavior caused by the
+Re/Al2O3 catalyst remained unchanged at an EO formation rate of 1.19 different gases is pronounced in the selectivity of the EO product, as
+×10 (cid:0) 2 mol/h/gAg before and after the induction period at 260 ◦C. It was shown in Fig. 4c. Induction by N2 had no observable effect on product
+also observed that the improved activities by induction could be ach- selectivity, although Ag-Cs-Re/Al2O3 catalyst particles did become
+ieved by using either or both of the reaction gases, O2 and C2H4, with EO larger during the induction process (see Fig. 5below). Induction with
+production activity nearly doubled. It should be noted that the O2- pure C2H4 led to a slight decrease in EO selectivity from 82 % prior to
+induced EO formation rate is higher than that induced by C2H4 despite induction to 80.5 % post-induction. In contrast, induction with oxygen
+being very close before induction, suggesting that O2-induction may and the complete reaction gases both increase the EO selectivity from 80
+result in a better effect on enhancing EO activity. Although the focus is % to 85 %. The higher selectivity for EO is thus closely related to the gas
+on the EO activity at the steady state of the Ag-Cs-Re/Al2O3 catalyst after used during the induction process. When induction is carried out with
+induction, the data in the transient period between the end of the in- gases containing oxygen, the role of oxygen may be prominent
+duction phase and the formation of the following steady state has also compared to other gases. Oxygen adsorbed on the surface of the Ag-Cs-
+attracted our attention. If only one of the reaction gases is used for in- Re/Al2O3 catalyst may facilitate the formation of active species, such as
+duction, the overall rate of EO generation will increase before a new subsurface oxygen, during the reaction, resulting in higher EO selec-
+steady state is established, primarily because of the lack of EO in the tivity [25].
+reactor system during the induction period, whereas with the use of the With the result in this section and above regarding induction tem-
+full reacting gas the originally existing high EO concentration in the perature, it can be seen that both temperature and gas conditions are
+reactor system has to be replaced by a low EO concentration, i.e., it necessary for induction to be effective. A sufficiently high temperature
+changes from a high to a stable EO concentration state. alone does not initiate the induction process or increase EO activity, as
+Fig. 4. Time courses of (a) EO formation rate, (b) EO selectivity, and (c) C2H4 conversion before and after induced at 260 ◦C under different atmospheres for ethylene
+epoxidation catalyzed by Ag-Cs-Re/Al2O3 catalyst at reaction conditions of 230 ◦C, 1.5 MPa C2H4, 1.5 MPa O2 and a gas hourly space velocity of 4200 mL⋅h (cid:0)1⋅gA (cid:0) g 1.
+When one single gas was used during the induction period, no reaction data are available for the induction period.
+6
+
+X. Lu et al. F u e l 381 (2025) 133346
+Fig. 5. FESEM images of Ag-Cs-Re/Al2O3 catalyst after induced by (a) reacting gas and (b) N2 at 260 ◦C; Particle size distribution of Ag/α-Al2O3 after induced by (c)
+reacting gas and (d) N2 at 260 ◦C.
+demonstrated by the inability of N2 to achieve an induction effect. In- of the particle size for the fresh Ag-Cs-Re/Al2O3 catalyst) appeared for
+duction with O2-containing gas is necessary to enhance EO selectivity. both samples. Once induction to a higher EO rate was successfully
+However, the mechanisms behind the increase in EO generation rate and achieved by treating the Ag-Cs-Re/Al2O3 catalyst with the reacting gas
+selectivity remain unclear based on existing literature. Therefore, we at a temperature higher than 250 ◦C, a slight aggregation of silver par-
+further explore this phenomenon using advanced characterization ticles was observed, with an average particle size of 210 nm. Where no
+techniques such as O2-TPD and DRIFTS. improvement in EO activity was obtained with the induction procedure
+under N2 gas atmosphere, the average silver particle size has increased
+to 310 nm with a broader size distribution. The aggregation of silver
+3.3. Exploring the induction mechanism particles leading to the growth of silver particles is thought to be one of
+the causes of Ag-Cs-Re/Al2O3 catalyst deactivation, particularly the
+3.3.1. The morphology of the catalyst after induction decrease in the EO formation rate [27]. Moreover, previous work has
+To examine the morphological properties of the Ag-Cs-Re/Al2O3 shown that with the growth of silver particles, the rate of the primary
+catalysts after the reaction-induction-reaction process with different gas reaction (ethylene epoxidation) decreases while the rate of the second-
+atmospheres, FESEM analysis was performed on two Ag-Cs-Re/Al2O3 ary reaction (deep oxidation of C2H4 to form CO2 and H2O) increases
+catalysts: one induced with fully reacting gas and the other with N2. The significantly, resulting in a decrease in the selectivity of the EO [28,29].
+results and their particle size distributions are shown in Fig. 5. The FESEM results obtained here suggest that the growth rate of silver
+Compared with the FESEM images before and after induction, it was particles may be attenuated when exposed to the reacting gases.
+found that the silver particles changed from an irregular prism-like
+shape to a spherical appearance. This demonstrates that rearrange- 3.3.2. O2-TPD analysis of induced catalysts
+ments occurred on the surface of the silver particles under the reaction Oxygen activation on the catalyst surface plays an important role in
+conditions. Although a low temperature could not achieve successful the ethylene epoxidation reaction, and O2-TPD is one of the most
+induction, it still led to the rearrangement of Ag particles during the effective techniques for studying the oxygen adsorption and activation
+reaction, as noted in the previous study [26]. Therefore, we hypothesize capacity of catalysts. Molecularly adsorbed oxygen is resolved on the
+that the rearrangement of the silver particle on the α-Al2O3 surface is not silver surface at relatively low temperatures, while lattice oxygen occurs
+the key factor to achieve the induction effect. at 750 ◦C [30]. And the oxygen resolved at 200–500 ◦C is usually
+Even though the Ag-Cs-Re/Al2O3 catalyst samples were run at the considered to be the active oxygen species on silver, which are classified
+same temperature and duration (reaction +induction), the silver par- as nucleophilic, electrophilic, and subsurface oxygens [31–34]. The O2-
+ticles on α-Al2O3 exhibited differences in size distribution and average TPD results for the Ag-Cs-Re/Al2O3 catalyst induced by different single
+diameter. After induction, particle sizes larger than 280 nm (the up limit
+7
+
+X. Lu et al. F u e l 381 (2025) 133346
+gases are shown in Fig. 6. The nucleophilic, electrophilic, and subsurface the preparation of Ag/α-Al2O3.
+oxygen ratios were found by fitting are N2 (36:46:18), O2 (49:9:42), and DFT calculations in previous studies have shown that carbonates
+C2H4 (33:22:45), respectively. It was clearly found that the percentage stabilize more subsurface oxygen, which alters the electronic structure
+of subsurface oxygen induced through oxygen and ethylene was much of the silver surface and increases its activity, particularly at higher
+higher, so induction through these two gases showed significantly coverage [40]. Additionally, XRD results from this study indicate that
+higher activity. It was further found that although the nitrogen-induced the Ag-Cs-Re/Al2O3 catalyst is mainly dominated by Ag (111) crystal-
+Ag-Cs-Re/Al2O3 catalyst had a high content of nucleophilic oxygen, the lites, leading to more carbonate species formation on the surface at
+reaction data showed that its activity was not as good as that of the ethylene-rich conditions (C2H4:O2 = 4:1 in this experiment) [41,42].
+oxygen and ethylene-induced Ag-Cs-Re/Al2O3 catalysts, which also Consequently, more subsurface oxygen can be stabilized in the Ag-Cs-
+confirmed that subsurface oxygen was more active than electrophilic Re/Al2O3 catalyst after the induction process. Considering that subsur-
+oxygen for the epoxidation of ethylene. Therefore, more subsurface face oxygen can stabilize the adsorption of C2H4 and O2, and enhance
+oxygen was generated on the surface of the Ag-Cs-Re/Al2O3 catalysts the dissociation of O2, it thereby promotes the epoxidation of ethylene
+induced by oxygen and ethylene, which was more favorable for the [40,43]. The carbonates generated during the induction process can
+reaction. significantly enhance the reaction rate of ethylene epoxidation. It should
+be noted that subsurface oxygen can also increase the selectivity of
+3.3.3. In-situ DRIFTS analysis ethylene. Recent literature reports the existence of subsurface oxygen
+Based on the O2-TPD results indicating that more active oxygen species unique to EO production, which may be responsible for inducing
+species were obtained through the induction process, in situ DRIFTS elevated selectivity [25]. The Ag-Cs-Re/Al2O3 catalysts showed bond
+analysis was further applied to reveal the high reactivity and the vibrational peaks at 842 cm (cid:0) 1 in the infrared spectra of the catalysts,
+behavior of the Ag/α-Al2O3 surface. The infrared spectra of fresh Ag-Cs- which is the attributed to Al-O bonding on the surface, a similar peak has
+Re/Al2O3 catalysts before and after in situ induction with reacting gases also been observed in the previous studies [44].
+in the cell were obtained (Fig. 7). Two infrared vibrational peaks The DRIFTS results of Ag-Cs-Re/Al2O3 catalyst before and after in-
+appeared simultaneously at 1754 cm (cid:0) 1 and 1273 cm (cid:0) 1 after induction, duction with reacting gases under C2H4 atmosphere are shown in
+corresponding to the vibrational characteristic peaks of C ––O and C–O Fig. 7b. Stretching vibrational peaks of carbonates are also observed.
+[35,36]. This suggests the formation of new species on the Ag-Cs-Re/ Surface carbonates are also stable under ethylene atmosphere (after
+Al2O3 catalyst surface during the induction process, possibly carbonates, treatment). The adsorption peaks at 2100–1850 cm (cid:0) 1, 1530–1360 cm (cid:0) 1,
+acetates, or oxalates. Further observation of the spectrum of the induced and 1150–800 cm (cid:0) 1 are both generated under C2H4 atmosphere, which
+Ag-Cs-Re/Al2O3 catalyst after O2 adsorption at 300 ◦C revealed that are the vibrational absorption peaks of C–H and C ––C bond in the
+these species remained stable at high temperatures. Considering that ethylene.
+oxalates and acetates cannot exist stably at 300 ◦C [37], these species are
+highly likely to be carbonates, which can remain stable at high tem- 3.3.4. Mechanism of induction
+peratures. This is consistent with the formation of carbonate on the Ag After systematical characterization of induced catalysts, it was found
+particle surface observed during the reaction in previous studies that catalysts prepared using the impregnation method with Ag (111)
+[35,38]. Therefore, we can conclude that the intermediate products silver crystalline surfaces as the main catalysts could form carbonate
+generated in the EO production process, aldehyde, may form a stable species on the Ag surface induced by high temperature under reactive
+carbonate structure on the Ag surface at high temperature during the gas conditions (Fig. 8). The presence of carbonates could stabilize more
+induction process. The formation and accumulation of carbonates are sub-surface oxygen, promote the dissociative adsorption of C2H4 and O2,
+more favorable under certain pressure and temperature conditions. benefit the process of ethylene epoxidation, and significantly increase
+Besides, The peak intensity enhancement after induction at 1421 cm (cid:0) 1 the reaction rate with high selectivity.
+may also be attributed to newly generated C–O bond vibrations of
+monodentate and bidentate carbonate [39], the peak at 1421 cm (cid:0) 1 of 3.4. Stability test for the silver catalyst after successful induction
+the sample before induction may correspond to the remaining nitrate in
+With an increase in EO production rate with induction procedures for
+Ag/α-Al2O3, it is of great importance to examine whether the high EO
+activity could be stably maintained. The results are shown in Fig. 9. The
+EO production rate and selectivity were both stably maintained for 120
+h after induction. The formation rate and selectivity of EO reached 1.65
+×10 (cid:0) 2 mol/h/gAg and 83 % at the 150th hour, respectively. No decrease
+in EO formation rate or selectivity was observed, suggesting that the
+successfully induced Ag/Al2O3 catalyst can maintain its EO activity over
+a long period of operation.
+In general, increasing the temperature leads to an increase in the
+chemical reaction rate; however, it simultaneously decreases product
+selectivity, a phenomenon known as the seesaw effect. This occurs
+because, while the reaction rate increases with temperature, the reaction
+rate of its side reaction, deep oxidation, also increases, resulting in a
+decrease in selectivity for ethylene epoxidation [16,45–49]. Rojluechai,
+Chavadej, Schwank, Meeyoo [45] prepared an Ag/Au catalyst with a
+conversion of 1.8 % and a selectivity of 79.0 %, and Ren, Cheng, Li, Li,
+Dai, Sun, Cheng [19]prepared an Ag catalyst with a conversion of 11.5
+% and a selectivity of 72.4 %. A comparison of different catalysts in the
+literature showed a significant negative correlation between conversion
+and selectivity. However, the simple induction process proposed in this
+study achieved dual success in conversion and selectivity, reaching 12.5
+Fig. 6. O2-TPD results for Ag-Cs-Re/Al2O3 catalyst induced with various gases % and 84.4 %, respectively. As shown in the EO formation rate com-
+at 260 ◦C. parison in Fig. 10b, the EO formation rate after induction reached 2.17
+8
+
+X. Lu et al. F u e l 381 (2025) 133346
+Fig. 7. DRIFTS result for O2 and C2H4 adsorption for the Ag-Cs-Re/Al2O3 catalyst before and after in-situ induction with reacting gases.
+Fig. 8. Schematic illustration of silver catalyst gas-induced surface.
+Fig. 9. Long period running performance of induced Ag/Al2O3 catalyst at reaction conditions of 230 ◦C, 1.5 MPa C2H4, 1.5 MPa O2 and a gas hourly space velocity of
+4200 mL⋅h (cid:0)1⋅gA (cid:0) g 1.
+9
+
+X. Lu et al. F u e l 381 (2025) 133346
+Fig. 10. The comparison of catalysis performance of induced Ag-Cs-Re/Al2O3 catalyst and Ag based catalysts in previous studies [19,27,45,46,48–50].
+×10 (cid:0) 2 mol/h/gAg, which is 13 % higher than the highest reaction rate the work reported in this paper.
+reported in some of the work in the literature [27,48–50]. In conclusion,
+this study presents a method to improve catalyst performance, enabling Data availability
+the efficient conversion of ethylene to EO through common catalyst
+preparation methods. Data will be made available on request.
+4. Conclusion Acknowledgment
+An induced behavior of 82 % higher activity for EO production over This work was supported by the National Science Foundation for
+Ag-Cs-Re/Al2O3 catalysts was found at elevated temperatures in the Young Scientists of China (No. 22202165) and Wuhan Institute of
+presence of reaction gases. An induction temperature of 260 ◦C was Technology, China (20QD74 and CX2022057).
+identified as optimal for achieving a high EO production rate and
+selectivity simultaneously. Suitable atmospheres (e.g., O2, C2H4, and
+Appendix A. Supplementary material
+fully reactive gases) are also necessary to conduct a successful induction.
+FESEM results indicated that the growth rate of silver particles in the
+Supplementary data to this article can be found online at https://doi.
+reaction process may be attenuated when exposed to the reacting gases
+org/10.1016/j.fuel.2024.133346.
+during induction. O2-TPD analyses showed that more subsurface oxygen
+was generated using O2 as the induction gas compared to N2. In situ
+References
+DRIFTS experiments demonstrated that the induction process produced
+C–O and C ––O bond vibrations at 1273 cm (cid:0) 1 and 1754 cm (cid:0) 1, respec-
+[1] Pinaeva L, Noskov AJPC. Prospects for the development of ethylene oxide
+tively, attributed to the vibrations of carbonates formed on the silver and production catalysts and processes. Pet Chem 2020;60:1191–206. https://doi.org/
+carrier surfaces. The formation of carbonates under the reactive condi- 10.1134/S096554412011016X.
+[2] Ren T, Patel M, Blok K. Olefins from conventional and heavy feedstocks: Energy use
+tions facilitates the stabilization of more subsurface oxygen species. This in steam cracking and alternative processes. Energy 2006;31(4):425–51. https://
+stabilization promotes the adsorption and dissociation of O2 and C2H4 doi.org/10.1016/j.energy.2005.04.001.
+on the reaction surface, greatly enhancing reaction activity. By utilizing [3] Chen Y, Wei J, Duyar MS, Ordomsky VV, Khodakov AY, Liu J. Carbon-based
+catalysts for Fischer-Tropsch synthesis. Chem Soc Rev 2021;50(4):2337–66.
+the induced behavior of high ethylene oxide activity, the silver loading
+https://doi.org/10.1039/D0CS00905A.
+can be reduced. As the silver content decreases, the addition of precious [4] Zhang J, Dang L, Lai T, Yuan H, Zhang D, Gao G. Pathway modulation and
+metal promoters also decreases, significantly lowering the catalyst cost substrate partitioning for CO2-assisted hydration of ethylene oxide catalyzed by
+for producing ethylene oxide with silver catalysts and improving the swelling poly(ionic liquid)s. Fuel 2024;355:129521. https://doi.org/10.1016/j.
+fuel.2023.129521.
+economic efficiency of production. [5] Yuan H, Dang L, Tang H, Wang B, Zhang J, Lai T, et al. Bi-functional phosphonium
+poly(ionic liquid)s catalyzed CO2-promoted hydration of ethylene oxide. Fuel
+2023;345:128210. https://doi.org/10.1016/j.fuel.2023.128210.
+CRediT authorship contribution statement
+[6] Guo Y, Zhang J, Sun N, Ling L, Zhang R, Guo H, et al. Ethylene carbonate generated
+efficiently via ethylene oxide and CO2 on the Li-MgO(100) surface based on the
+Xiaojun Lu: Writing – original draft. Pei Zhang: Methodology, synergistic activation of bimetals without halogen. Fuel 2023;342:127823. https://
+Investigation. Zhichao Deng: Writing – review & editing, Data curation. doi.org/10.1016/j.fuel.2023.127823.
+[7] Pu T, Tian H, Ford ME, Rangarajan S, Wachs IE. Overview of selective oxidation of
+Chengyang He: Visualization, Investigation. Rui Zhang: Writing – re- ethylene to ethylene oxide by Ag catalysts. ACS Catal 2019;9(12):10727–50.
+view & editing, Methodology, Formal analysis, Data curation. https://doi.org/10.1021/acscatal.9b03443.
+[8] Keijzer PH, Donoeva B, de Jong KP, de Jongh PE. Supported silver catalysts
+prepared via melt infiltration: synthesis, characterization and performance in
+Declaration of competing interest selective hydrogenation. Catal Today 2021;375:393–400. https://doi.org/
+10.1016/j.cattod.2020.03.017.
+The authors declare that they have no known competing financial
+[9] Montemore MM, van Spronsen MA, Madix RJ, Friend CM. O2 activation by metal
+surfaces: implications for bonding and reactivity on heterogeneous catalysts. Chem
+interests or personal relationships that could have appeared to influence Rev 2018;118(5):2816–62. https://doi.org/10.1021/acs.chemrev.7b00217.
+10
+
+X. Lu et al. F u e l 381 (2025) 133346
+[10] Li H, Cao A, Nørskov JK. Understanding trends in ethylene epoxidation on group IB [31] Serafin JG, Liu AC, Seyedmonir SR. Surface science and the silver-catalyzed
+metals. ACS Catal 2021;11(19):12052–7. https://doi.org/10.1021/ epoxidation of ethylene: an industrial perspective. J Mol Catal A: Chem 1998;131
+acscatal.1c03094. (1):157–68. https://doi.org/10.1016/S1381-1169(97)00263-X.
+[11] Pu T, Setiawan A, Mosevitzky Lis B, Zhu M, Ford ME, Rangarajan S, et al. Nature [32] Atkins M, Couves J, Hague M, Sakakini BH, Waugh KC. On the role of Cs, Cl and
+and reactivity of oxygen species on/in silver catalysts during ethylene oxidation. subsurface O in promoting selectivity in Ag/α-Al2O3 catalysed oxidation of ethene
+ACS Catal 2022;12(8):4375–81. https://doi.org/10.1021/acscatal.1c05939. to ethene epoxide. J Catal 2005;235(1):103–13. https://doi.org/10.1016/j.
+[12] Bukhtiyarov VI, Prosvirin IP, Kvon RI. Study of reactivity of oxygen states adsorbed jcat.2005.07.019.
+at a silver surface towards C2H4 by XPS, TPD and TPR. Surf Sci 1994;320(1): [33] Dellamorte JC, Lauterbach J, Barteau MA. Effect of preparation conditions on Ag
+L47–50. https://doi.org/10.1016/0039-6028(94)00562-1. catalysts for ethylene epoxidation. Top Catal 2010;53(1):13–8. https://doi.org/
+[13] Bukhtiyarov VI, Nizovskii AI, Bluhm H, Ha¨vecker M, Kleimenov E, Knop-Gericke A, 10.1007/s11244-009-9440-9.
+et al. Combined in situ XPS and PTRMS study of ethylene epoxidation over silver. [34] Bukhtiyarov VI, Knop-Gericke A. Chapter 9:Ethylene Epoxidation over Silver
+J Catal 2006;238(2):260–9. https://doi.org/10.1016/j.jcat.2005.11.043. Catalysts. 2011.
+[14] Rocha TCR, Oestereich A, Demidov DV, Ha¨vecker M, Zafeiratos S, Weinberg G, [35] Force EL, Bell ATJJoC. Infrared spectra of adsorbed species present during the
+et al. The silver–oxygen system in catalysis: new insights by near ambient pressure oxidation of ethylene over silver. J. Catal. 1975;38(1-3):440-60. Doi: 10.1016/
+X-ray photoelectron spectroscopy. Phys Chem Chem Phys 2012;14(13):4554–64. 0021-9517(75)90107-4.
+https://doi.org/10.1039/C2CP22472K. [36] Kirschbaum C, Saied EM, Greis K, Mucha E, Gewinner S, Scho¨llkopf W, et al.
+[15] Jones TE, Rocha TCR, Knop-Gericke A, Stampfl C, Schlo¨gl R, Piccinin S. Resolving Sphingolipid Isomers Using Cryogenic Infrared Spectroscopy. Angew
+Thermodynamic and spectroscopic properties of oxygen on silver under an oxygen Chem Int Ed 2020;59(32):13638–42. https://doi.org/10.1002/anie.202002459.
+atmosphere. Phys Chem Chem Phys 2015;17(14):9288–312. https://doi.org/ [37] Mu J, Perlmutter DD. Thermal decomposition of carbonates, carboxylates,
+10.1039/C5CP00342C. oxalates, acetates, formates, and hydroxides. Thermochim Acta 1981;49(2):
+[16] Jankowiak JT, Barteau MAJJoC. Ethylene epoxidation over silver and 207–18. https://doi.org/10.1016/0040-6031(81)80175-X.
+copper–silver bimetallic catalysts: II. Cs and Cl promotion. J Catal 2005;236(2): [38] Bulushev DA, Paukshtis EA, Nogin YN, Bal’zhinimaev BS. Transient response and
+379–86. https://doi.org/10.1016/j.jcat.2005.10.017. infrared studies of ethylene oxide reactions on silver catalysts and supports. Appl
+[17] Serafin JG, Liu AC, Seyedmonir SRJC. ChemInform abstract: surface science and Catal, A 1995;123(2):301–22. https://doi.org/10.1016/0926-860X(94)00221-5.
+the silver-catalyzed epoxidation of ethylene: an industrial perspective. [39] Podobin´ski J, Datka J. Basic sites on alumina with preadsorbed ethanol and
+ChemInform 1998. https://doi.org/10.1002/chin.199840309. ammonia—an IR study. Molecules 2024;29(8):1726. https://doi.org/10.3390/
+[18] R.P. Nielsen, Rochelle JHL. Catalyst for production of ethylene oxide. US; 1976. molecules29081726.
+[19] Ren D, Cheng G, Li J, Li J, Dai W, Sun XX, et al. Effect of rhenium loading sequence [40] Xu Y, Greeley J, Mavrikakis MJJotACS. Effect of Subsurface Oxygen on the
+on selectivity of Ag–Cs catalyst for Ethylene Epoxidation. Catal Lett 2017. https:// Reactivity of the Ag(111) Surface. J. Am. Chem. Soc. 2005;127(37):12823. Doi:
+doi.org/10.1007/s10562-017-2211-5. 10.1021/ja043727m.
+[20] Xu H, Zhu L, Nan Y, Xie Y, Cheng D. Revisit the role of metal dopants in enhancing [41] Isegawa K, Ueda K, Amemiya K, Mase K, Kondoh H. Formation and behavior of
+the selectivity of Ag-catalyzed ethylene epoxidation: optimizing oxophilicity of carbonates on Ag(110) in the presence of ethylene and oxygen. J Phys Chem C
+reaction site via cocatalytic mechanism. ACS Catal 2021;11(6):3371–83. https:// 2021;17:125. https://doi.org/10.1021/acs.jpcc.0c11597.
+doi.org/10.1021/acscatal.0c04951. [42] Kazuhisa Isegawa KU, Satoru Hiwasa, Kenta Amemiya, Kazuhiko Mase, Hiroshi
+[21] Jingfa D, Jun Y, Shi Z, Xiaohong Y. Promoting effects of Re and Cs on silver catalyst Kondoh. Formation of Carbonate on Ag(111) under Exposure to Ethylene and
+in ethylene epoxidation. J Catal 1992;138(1):395–9. https://doi.org/10.1016/ Oxygen Gases Evidenced by Near Ambient Pressure XPS and NEXAFS. Chem. Lett.
+0021-9517(92)90033-E. 2019;48(2). Doi: 10.1246/cl.180891.
+[22] He C, Lu X, Liu Y, Yan Z, Zhang R, Liu X. Stability enhancement for silver catalyst [43] Linic S, Barteau MA. Construction of a reaction coordinate and a microkinetic
+in ethylene epoxidation by support treatment. Catal Commun 2023;178:106669. model for ethylene epoxidation on silver from DFT calculations and surface science
+https://doi.org/10.1016/j.catcom.2023.106669. experiments. J Catal 2003;214(2):200–12. https://doi.org/10.1016/S0021-9517
+[23] Sun L, Huang H, Che P, Lin Q, Lian K, Li J, et al. In situ discovery on the formation (02)00156-2.
+of supported silver catalysts for ethylene epoxidation. Adv Powder Technol 2022; [44] Debnath S, Jorewitz M, Asmis KR, Müller F, Stückrath JB, Bischoff FA, et al.
+33(9):103732. https://doi.org/10.1016/j.apt.2022.103732. Infrared photodissociation spectroscopy of (Al2O3)2–5FeO + : influence of Fe-
+[24] A. J. F. van Hoof EARH, A. P. van Bavel, H. Friedrich, and E. J. M. Hensen. substitution on small alumina clusters. Phys Chem Chem Phys 2022;24(35):
+Structure Sensitivity of Silver-Catalyzed Ethylene Epoxidation. ACS Catal. 2019;9 20913–20. https://doi.org/10.1039/D2CP02938C.
+(11). Doi: 10.1021/acscatal.9b02720. [45] Rojluechai S, Chavadej S, Schwank JW, Meeyoo VJCC. Catalytic activity of
+[25] Chen D, Chen L, Zhao Q-C, Yang Z-X, Shang C, Liu Z-P. Square-pyramidal ethylene oxidation over Au, Ag and Au–Ag catalysts: Support effect. Catal Commun
+subsurface oxygen [Ag4OAg] drives selective ethene epoxidation on silver. Nat 2007;8(1):57–64. https://doi.org/10.1016/j.catcom.2006.05.029.
+Catal 2024;7(5):536–45. https://doi.org/10.1038/s41929-024-01135-2. [46] Chen BWJ, Wang B, Sullivan MB, Borgna A, Zhang JJAc. Unraveling the
+[26] van Hoof AJF, Filot IAW, Friedrich H, Hensen EJM. Reversible restructuring of Synergistic Effect of Re and Cs Promoters on Ethylene Epoxidation over Silver
+silver particles during ethylene epoxidation. ACS Catal 2018;8(12):11794–800. Catalysts with Machine Learning-Accelerated First-Principles Simulations. ACS
+https://doi.org/10.1021/acscatal.8b03331. Catal. 2022(4):12. Doi: 10.1021/acscatal.1c05419.
+[27] Iyer KR, Bhan AJJoC. Particle size dependence of ethylene epoxidation rates on [47] Diao W, DiGiulio CD, Schaal MT, Ma S, Monnier JR. An investigation on the role of
+Ag/a-Al2O3 catalysts: Why particle size distributions matter. J. Catal. 2023. Doi: Re as a promoter in AgCsRe/α-Al2O3 high-selectivity, ethylene epoxidation
+10.1016/j.jcat.2023.02.008. catalysts. J Catal 2015;322:14–23. https://doi.org/10.1016/j.jcat.2014.11.007.
+[28] Van dR, J. E., Kanungo S, Welling TAJ, Versluijs-Helder M, Nijhuis TA, De Jong KP, [48] Deng J, Yang J, et al. Promoting effects of Re and Cs on silver catalyst in ethylene
+et al. Preparation and particle size effects of Ag/α-Al2O3 catalysts for ethylene epoxidation. J Catal 1992. https://doi.org/10.1016/0021-9517(92)90033-E.
+epoxidation. J Catal 2017;356:65-74. Doi: 10.1016/j.jcat.2017.10.001. [49] Ren D, Cheng G, Li J, Li J, Dai W, Sun X, et al. Effect of rhenium loading sequence
+[29] And SL, Barteau MA. Formation of a Stable Surface Oxametallacycle that Produces on selectivity of Ag–Cs catalyst for ethylene epoxidation. Catal Lett 2017;147(12):
+Ethylene Oxide. ACS Catal 2001. https://doi.org/10.1021/ja0118136. 2920–8. https://doi.org/10.1007/s10562-017-2211-5.
+[30] Kim Y-C, Park N-C, Shin J-S, Lee SR, Lee YJ, Moon DJ. Partial oxidation of ethylene [50] Jing X, Wang H, Chen H, Huang J, Li Q, Sun D. Biosynthesized Ag/α-Al2O3 catalyst
+to ethylene oxide over nanosized Ag/α-Al2O3 catalysts. Catal Today 2003;87(1): for ethylene epoxidation: the influence of silver precursors. RSC Adv 2014;4(52):
+153–62. https://doi.org/10.1016/j.cattod.2003.09.012. 27597–603. https://doi.org/10.1039/C4RA03312D.
+11
+

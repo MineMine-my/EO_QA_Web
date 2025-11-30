@@ -1,0 +1,217 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cu-Ag催化剂",
+        "relationship": "优于",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "Cu负载",
+        "relationship": "范围",
+        "end_node": "0.1-1.0%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "500-540K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1.34atm"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:6-6:1"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "11-13wt%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "制备方法",
+        "relationship": "是",
+        "end_node": "浸渍法"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "10-20μm"
+    },
+    {
+        "start_node": "转化率",
+        "relationship": "范围",
+        "end_node": "0.2-3.5%"
+    },
+    {
+        "start_node": "选择性",
+        "relationship": "范围",
+        "end_node": "44-60%"
+    },
+    {
+        "start_node": "活化能",
+        "relationship": "范围",
+        "end_node": "10.9-20.7kcal/mol"
+    },
+    {
+        "start_node": "乙烯反应级数",
+        "relationship": "范围",
+        "end_node": "-0.4-0.5"
+    },
+    {
+        "start_node": "氧反应级数",
+        "relationship": "范围",
+        "end_node": "0.2-0.7"
+    },
+    {
+        "start_node": "氧吸附",
+        "relationship": "是",
+        "end_node": "速率控制步骤"
+    },
+    {
+        "start_node": "表面反应",
+        "relationship": "是",
+        "end_node": "速率控制步骤"
+    },
+    {
+        "start_node": "乙烯压力",
+        "relationship": "影响",
+        "end_node": "速率控制步骤"
+    },
+    {
+        "start_node": "氧压力",
+        "relationship": "影响",
+        "end_node": "速率控制步骤"
+    },
+    {
+        "start_node": "乙烯压力",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧压力",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧压力",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "乙烯压力",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "降低",
+        "end_node": "乙烯反应级数"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "影响",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "促进",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "抑制",
+        "end_node": "H原子转移"
+    },
+    {
+        "start_node": "H原子转移",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "是",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "促进",
+        "end_node": "氧解离"
+    }
+]

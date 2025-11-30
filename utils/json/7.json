@@ -1,0 +1,182 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "范围",
+        "end_node": "25-100 ppm"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "25 ppm Re",
+        "relationship": "达到",
+        "end_node": "最大选择性"
+    },
+    {
+        "start_node": "浸渍方法",
+        "relationship": "影响",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "优于",
+        "end_node": "共浸渍"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re2O7",
+        "relationship": "阻塞",
+        "end_node": "低选择性位点"
+    },
+    {
+        "start_node": "Re2O7",
+        "relationship": "均匀化",
+        "end_node": "氧吸附位点"
+    },
+    {
+        "start_node": "均匀氧吸附",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "协同",
+        "end_node": "Re"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "协同",
+        "end_node": "Re"
+    },
+    {
+        "start_node": "Cu-Re-Ag",
+        "relationship": "优化",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "490-571 K"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "10-11 wt.%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "氧反应级数",
+        "relationship": "反映",
+        "end_node": "表面均匀性"
+    },
+    {
+        "start_node": "Re促进",
+        "relationship": "稳定",
+        "end_node": "氧反应级数"
+    },
+    {
+        "start_node": "缺陷位点",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "平台位点",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re氧化物",
+        "relationship": "阻塞",
+        "end_node": "缺陷位点"
+    },
+    {
+        "start_node": "高Re负载",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "高Re负载",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "优化制备",
+        "relationship": "实现",
+        "end_node": "高选择性"
+    }
+]

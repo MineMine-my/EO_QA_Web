@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "MoO2(acac)2",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "TBHP",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "MoO2(acac)2",
+        "relationship": "形成",
+        "end_node": "H2O2加合物"
+    },
+    {
+        "start_node": "H2O2加合物",
+        "relationship": "数量",
+        "end_node": "三个"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "偏好",
+        "end_node": "协同路径"
+    },
+    {
+        "start_node": "协同路径",
+        "relationship": "能垒",
+        "end_node": "26.7 kcal/mol"
+    },
+    {
+        "start_node": "TBHP",
+        "relationship": "偏好",
+        "end_node": "分步机理"
+    },
+    {
+        "start_node": "分步机理",
+        "relationship": "能垒",
+        "end_node": "33.8 kcal/mol"
+    },
+    {
+        "start_node": "反应能垒",
+        "relationship": "范围",
+        "end_node": "70°C"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "活性顺序",
+        "end_node": "Mo>W>Ti>V>Re"
+    },
+    {
+        "start_node": "MoO2(acac)2",
+        "relationship": "是",
+        "end_node": "均相催化剂"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "使用",
+        "end_node": "ωB97x-D"
+    },
+    {
+        "start_node": "溶剂效应",
+        "relationship": "使用",
+        "end_node": "PCM模型"
+    },
+    {
+        "start_node": "反应机理",
+        "relationship": "依赖",
+        "end_node": "氧化剂性质"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

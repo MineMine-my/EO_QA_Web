@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "反应物",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "溶剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "介孔二氧化硅",
+        "relationship": "载体",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "亲水性孔",
+        "relationship": "富集",
+        "end_node": "甲醇"
+    },
+    {
+        "start_node": "疏水性孔",
+        "relationship": "富集",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "压力",
+        "relationship": "影响",
+        "end_node": "乙烯浓度"
+    },
+    {
+        "start_node": "压力",
+        "relationship": "范围",
+        "end_node": "5-55 bar"
+    },
+    {
+        "start_node": "温度",
+        "relationship": "范围",
+        "end_node": "20°C"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "影响",
+        "end_node": "扩散系数"
+    },
+    {
+        "start_node": "表面化学",
+        "relationship": "影响",
+        "end_node": "组成"
+    },
+    {
+        "start_node": "表面化学",
+        "relationship": "影响",
+        "end_node": "传输性质"
+    },
+    {
+        "start_node": "OH基团密度",
+        "relationship": "影响",
+        "end_node": "乙烯浓度"
+    },
+    {
+        "start_node": "压力增加",
+        "relationship": "提高",
+        "end_node": "乙烯扩散"
+    },
+    {
+        "start_node": "亲水性孔",
+        "relationship": "抑制",
+        "end_node": "甲醇扩散"
+    },
+    {
+        "start_node": "疏水性孔",
+        "relationship": "促进",
+        "end_node": "甲醇扩散"
+    },
+    {
+        "start_node": "GXL",
+        "relationship": "应用",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "分子模拟",
+        "relationship": "研究",
+        "end_node": "相平衡"
+    },
+    {
+        "start_node": "分子模拟",
+        "relationship": "研究",
+        "end_node": "传输性质"
+    },
+    {
+        "start_node": "氢键",
+        "relationship": "影响",
+        "end_node": "分子分布"
+    }
+]

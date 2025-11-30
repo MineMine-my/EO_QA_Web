@@ -1,0 +1,92 @@
+[
+    {
+        "start_node": "FeZSM-5",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Na改性",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Na-FeZSM-5",
+        "relationship": "选择性",
+        "end_node": "80-84%"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "-60°C"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "亲电性",
+        "end_node": "氧物种"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "副反应",
+        "end_node": "丁醛"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙烯压力",
+        "relationship": "影响",
+        "end_node": "丁醛选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "不抽氢",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

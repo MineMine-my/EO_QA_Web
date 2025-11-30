@@ -1,0 +1,197 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "作为",
+        "end_node": "催化剂前驱体"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "氧化",
+        "end_node": "Ag颗粒"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "形成",
+        "end_node": "CaO载体"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "提高",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230-350°C"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "1000-2000 h-1"
+    },
+    {
+        "start_node": "低GHSV",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "经历",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "诱导期",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag颗粒",
+        "relationship": "形成",
+        "end_node": "3D微结构"
+    },
+    {
+        "start_node": "3D微结构",
+        "relationship": "防止",
+        "end_node": "Ag烧结"
+    },
+    {
+        "start_node": "3D微结构",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "氧化",
+        "end_node": "Ca2Ag7"
+    },
+    {
+        "start_node": "Ca2Ag7",
+        "relationship": "氧化",
+        "end_node": "Ag"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "生成",
+        "end_node": "钙化合物"
+    },
+    {
+        "start_node": "钙化合物",
+        "relationship": "包括",
+        "end_node": "CaO"
+    },
+    {
+        "start_node": "钙化合物",
+        "relationship": "包括",
+        "end_node": "Ca(OH)2"
+    },
+    {
+        "start_node": "钙化合物",
+        "relationship": "包括",
+        "end_node": "CaCO3"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "H2O"
+    },
+    {
+        "start_node": "CO2",
+        "relationship": "形成",
+        "end_node": "CaCO3"
+    },
+    {
+        "start_node": "H2O",
+        "relationship": "形成",
+        "end_node": "Ca(OH)2"
+    },
+    {
+        "start_node": "CaAg2催化剂",
+        "relationship": "选择性",
+        "end_node": "60-65%"
+    },
+    {
+        "start_node": "CaAg2催化剂",
+        "relationship": "转化率",
+        "end_node": "1.5-2.5%"
+    },
+    {
+        "start_node": "Ag/CaO催化剂",
+        "relationship": "选择性",
+        "end_node": "较低"
+    },
+    {
+        "start_node": "CaAg2催化剂",
+        "relationship": "优于",
+        "end_node": "Ag/CaO催化剂"
+    },
+    {
+        "start_node": "氧吸附",
+        "relationship": "驱动",
+        "end_node": "CaAg2氧化"
+    },
+    {
+        "start_node": "钙",
+        "relationship": "强亲和",
+        "end_node": "氧"
+    },
+    {
+        "start_node": "钙氧亲和",
+        "relationship": "导致",
+        "end_node": "Ag偏析"
+    }
+]

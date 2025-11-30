@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CH3CN·HOF",
+        "relationship": "稳定",
+        "end_node": "HOF"
+    },
+    {
+        "start_node": "CH3CN·HOF",
+        "relationship": "降低",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "氢键",
+        "relationship": "稳定",
+        "end_node": "反应物"
+    },
+    {
+        "start_node": "氢键",
+        "relationship": "降低",
+        "end_node": "能垒高度"
+    },
+    {
+        "start_node": "HF",
+        "relationship": "自催化",
+        "end_node": "环氧化反应"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "0-25°C"
+    },
+    {
+        "start_node": "HOF",
+        "relationship": "具有",
+        "end_node": "强亲电性"
+    },
+    {
+        "start_node": "HOF",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "过渡态",
+        "relationship": "具有",
+        "end_node": "HO+特征"
+    },
+    {
+        "start_node": "CH3CN",
+        "relationship": "氢键",
+        "end_node": "HOF"
+    },
+    {
+        "start_node": "B1B95",
+        "relationship": "性能",
+        "end_node": "优异"
+    },
+    {
+        "start_node": "TPSS33B95",
+        "relationship": "性能",
+        "end_node": "优异"
+    },
+    {
+        "start_node": "PBE0",
+        "relationship": "性能",
+        "end_node": "良好"
+    },
+    {
+        "start_node": "动力学泛函",
+        "relationship": "高估",
+        "end_node": "能垒高度"
+    },
+    {
+        "start_node": "BMK",
+        "relationship": "高估",
+        "end_node": "能垒高度"
+    },
+    {
+        "start_node": "杂化GGA",
+        "relationship": "低估",
+        "end_node": "能垒高度"
+    },
+    {
+        "start_node": "CH3CN·HOF",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "HF",
+        "relationship": "加速",
+        "end_node": "环氧化反应"
+    },
+    {
+        "start_node": "极性过渡态",
+        "relationship": "需要",
+        "end_node": "中等HF交换"
+    }
+]

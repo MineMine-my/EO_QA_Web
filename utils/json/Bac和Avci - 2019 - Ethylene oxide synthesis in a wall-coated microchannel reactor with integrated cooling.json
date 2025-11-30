@@ -1,0 +1,147 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "473–573 K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "10–30 bar"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.25–3.0"
+    },
+    {
+        "start_node": "高O2浓度",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高O2浓度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "微通道反应器",
+        "relationship": "提高",
+        "end_node": "传热系数"
+    },
+    {
+        "start_node": "微通道反应器",
+        "relationship": "提高",
+        "end_node": "时空产率"
+    },
+    {
+        "start_node": "集成冷却",
+        "relationship": "消除",
+        "end_node": "热点形成"
+    },
+    {
+        "start_node": "集成冷却",
+        "relationship": "提供",
+        "end_node": "近等温条件"
+    },
+    {
+        "start_node": "催化剂层厚度",
+        "relationship": "范围",
+        "end_node": "5×10-5 m"
+    },
+    {
+        "start_node": "进料温度",
+        "relationship": "范围",
+        "end_node": "503–553 K"
+    },
+    {
+        "start_node": "Ag/α-Al2O3",
+        "relationship": "DOI",
+        "end_node": "10.1016/j.cej.2018.10.041"
+    },
+    {
+        "start_node": "Ag/α-Al2O3",
+        "relationship": "发表年份",
+        "end_node": "2018"
+    },
+    {
+        "start_node": "部分氧化",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "CH4",
+        "relationship": "作为",
+        "end_node": "惰性调节剂"
+    },
+    {
+        "start_node": "铝材料",
+        "relationship": "提供",
+        "end_node": "等温条件"
+    },
+    {
+        "start_node": "壁厚增加",
+        "relationship": "促进",
+        "end_node": "轴向传热"
+    }
+]

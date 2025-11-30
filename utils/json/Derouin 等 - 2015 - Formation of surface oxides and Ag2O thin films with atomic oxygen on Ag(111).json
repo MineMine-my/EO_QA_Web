@@ -1,0 +1,207 @@
+[
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "形成",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "形成",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "生成",
+        "end_node": "表面氧化物"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "生成",
+        "end_node": "Ag2O薄膜"
+    },
+    {
+        "start_node": "低通量",
+        "relationship": "促进",
+        "end_node": "表面氧化物"
+    },
+    {
+        "start_node": "高通量",
+        "relationship": "促进",
+        "end_node": "Ag2O薄膜"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "阻碍",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "包含",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "活化",
+        "end_node": "吸附氧"
+    },
+    {
+        "start_node": "吸附氧",
+        "relationship": "参与",
+        "end_node": "部分氧化"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "减少",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "影响",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "决定",
+        "end_node": "反应路径"
+    },
+    {
+        "start_node": "表面结构",
+        "relationship": "决定",
+        "end_node": "化学行为"
+    },
+    {
+        "start_node": "高覆盖度",
+        "relationship": "形成",
+        "end_node": "氧化物相"
+    },
+    {
+        "start_node": "氧化物相",
+        "relationship": "可能是",
+        "end_node": "活性相"
+    },
+    {
+        "start_node": "氧诱导重构",
+        "relationship": "产生",
+        "end_node": "表面结构"
+    },
+    {
+        "start_node": "p(4×4)结构",
+        "relationship": "表征",
+        "end_node": "氧饱和表面"
+    },
+    {
+        "start_node": "c(3×5√3)结构",
+        "relationship": "存在于",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "p(4×5√3)结构",
+        "relationship": "存在于",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "Ag2O(111)",
+        "relationship": "导致",
+        "end_node": "p(7×7)重构"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "形成",
+        "end_node": "吸附氧"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "形成",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "重新出现",
+        "end_node": "O2脱附"
+    },
+    {
+        "start_node": "高温脱附峰",
+        "relationship": "对应",
+        "end_node": "Ag2O分解"
+    },
+    {
+        "start_node": "低温脱附峰",
+        "relationship": "对应",
+        "end_node": "表面氧化物分解"
+    },
+    {
+        "start_node": "高能量",
+        "relationship": "促进",
+        "end_node": "Ag2O薄膜"
+    },
+    {
+        "start_node": "高能量",
+        "relationship": "增加",
+        "end_node": "表面粗糙度"
+    },
+    {
+        "start_node": "表面粗糙度",
+        "relationship": "增加",
+        "end_node": "表面积"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "显示",
+        "end_node": "Moiré图案"
+    },
+    {
+        "start_node": "氧通量",
+        "relationship": "影响",
+        "end_node": "氧化物类型"
+    },
+    {
+        "start_node": "氧能量",
+        "relationship": "影响",
+        "end_node": "氧化物类型"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "不同于",
+        "end_node": "Ag2O薄膜"
+    },
+    {
+        "start_node": "Ag2O薄膜",
+        "relationship": "缺乏",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "必要",
+        "end_node": "部分氧化"
+    }
+]

@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>乙烯环氧化催化剂智能问答</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf9 100%);
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+            color: #2c3e50;
+        }
+
+        /* ========== 左侧历史记录面板 ========== */
+        #history-panel {
+            width: 230px;
+            background: white;
+            padding: 20px 16px;
+            border-right: 1px solid #e0e6ed;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 2px 0 12px rgba(0, 0, 0, 0.06);
+        }
+
+        #history-panel h3 {
+            margin-bottom: 16px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #2c3e50;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        #history-list {
+            flex: 1;
+            overflow-y: auto;
+            max-height: calc(100vh - 200px);
+            padding-right: 4px;
+        }
+
+        .history-item {
+            padding: 8px 12px;
+            margin: 6px 0;
+            background: #f8fafd;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            color: #2980b9;
+            transition: all 0.2s ease;
+            border-left: 3px solid transparent;
+            word-break: break-word;
+        }
+
+        .history-item:hover {
+            background: #edf5ff;
+            border-left-color: #3498db;
+            transform: translateX(2px);
+        }
+
+        .history-item + .history-item {
+            margin-top: 6px;
+        }
+
+        #clear-history {
+            margin-top: 16px;
+            padding: 8px 12px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 13px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        #clear-history:hover {
+            background: #c0392b;
+        }
+
+        #back-home {
+            width: 100%;
+            padding: 10px 12px;
+            margin-bottom: 30px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            transition: background 0.2s, transform 0.15s;
+        }
+
+        #back-home:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+        }
+
+        /* 滚动条美化 - 隐藏滚动条 */
+        #history-list::-webkit-scrollbar {
+            width: 0px;
+        }
+        #history-list::-webkit-scrollbar-thumb {
+            background: transparent;
+        }
+        #history-list::-webkit-scrollbar-thumb:hover {
+            background: transparent;
+        }
+        
+        /* ========== 右侧问答主区 ========== */
+        #main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 24px;
+            position: relative;
+        }
+
+        /* 聊天容器：留出输入框空间 */
+        #chat-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+            margin-bottom: 80px; /* 留出输入框+空白区域的空间 */
+        }
+
+        .message {
+            max-width: 75%;
+            padding: 14px 18px;
+            margin: 12px 0;
+            border-radius: 18px;
+            line-height: 1.55;
+            word-break: break-word;
+            font-size: 14px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .user-message {
+            align-self: flex-end;
+            background: linear-gradient(to right, #3498db, #2980b9);
+            color: white;
+            border-bottom-right-radius: 6px;
+        }
+
+        .bot-message {
+            align-self: flex-start;
+            background: #f9fbfd;
+            color: #2c3e50;
+            border: 1px solid #eaeef5;
+            border-bottom-left-radius: 6px;
+        }
+
+        /* 输入区域：固定在底部 */
+        #input-wrapper {
+            position: absolute;
+            bottom: 24px; /* 距离底部留白 */
+            left: 50%;
+            transform: translateX(-50%);
+            width: 85%;
+            max-width: 620px;
+            display: flex;
+            gap: 12px;
+        }
+
+        #question-input {
+            flex: 1;
+            padding: 14px 20px;
+            border: 2px solid #dde5f0;
+            border-radius: 30px;
+            font-size: 15px;
+            outline: none;
+            background: #fff;
+            transition: border-color 0.3s;
+        }
+
+        #question-input:focus {
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15);
+        }
+
+        #send-btn {
+            padding: 14px 24px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 15px;
+            transition: background 0.2s, transform 0.15s;
+        }
+
+        #send-btn:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+        }
+
+        #send-btn:active {
+            transform: translateY(0);
+        }
+        
+        /* 追问按钮样式 - 已移除 */
+        .follow-up-btn {
+            display: none; /* 隐藏追问按钮 */
+        }
+        
+        .context-buttons {
+            display: none; /* 隐藏追问按钮容器 */
+        }
+        
+        /* 隐藏右侧滚动条 */
+        #chat-container::-webkit-scrollbar {
+            width: 0px;
+        }
+        #chat-container::-webkit-scrollbar-thumb {
+            background: transparent;
+        }
+        #chat-container::-webkit-scrollbar-thumb:hover {
+            background: transparent;
+        }
+        
+        /* ✅ 修改后的高亮动画：浅蓝色背景，无紫色边框 */
+        .highlight-animation {
+            animation: highlightPulse 2s ease-in-out;
+        }
+
+        @keyframes highlightPulse {
+            0% { 
+                background-color: #f0f6ffff; /* 浅蓝色 */
+                box-shadow: 0 0 0 rgba(0, 0, 0, 0); /* 无边框/阴影 */
+            }
+            50% { 
+                background-color: #e4f0fcff; /* 更明显的浅蓝 */
+                box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+            }
+            100% { 
+                background-color: inherit; 
+                box-shadow: none; 
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 左侧：历史记录 -->
+    <div id="history-panel">
+        <button id="back-home" onclick="window.location.href='/'">
+            🏠 返回主页
+        </button>
+        <h3>💬 问答历史</h3>
+        <div id="history-list"></div>
+        <button id="clear-history" onclick="clearHistory()">清空历史</button>
+    </div>
+
+    <!-- 右侧：AI问答界面 -->
+    <div id="main-content">
+        <div id="chat-container"></div>
+        <div id="input-wrapper">
+            <input type="text" id="question-input" placeholder="请输入您的问题（例如：Ag 催化剂的作用是什么？）" />
+            <button id="send-btn" onclick="askQuestion()">发送</button>
+        </div>
+    </div>
+
+    <script>
+        // ========== 复用历史功能 ========== 
+        const HISTORY_KEY = 'kg_question_history';
+        let historySet = new Set();
+        let conversationHistory = []; // 存储完整的对话历史
+
+        // 初始化历史记录
+        function initHistory() {
+            const saved = localStorage.getItem(HISTORY_KEY);
+            if (saved) {
+                try {
+                    const list = JSON.parse(saved);
+                    list.forEach(item => {
+                        historySet.add(item);
+                        conversationHistory.push({
+                            id: Date.now() + Math.random(),
+                            question: item,
+                            timestamp: new Date().toISOString()
+                        });
+                    });
+                } catch (e) {
+                    console.warn('历史记录解析失败', e);
+                }
+            }
+            renderHistory();
+        }
+
+        // 渲染历史列表到 DOM
+        function renderHistory() {
+            const container = document.getElementById('history-list');
+            container.innerHTML = '';
+            const historyArray = [...historySet].reverse();
+            
+            historyArray.forEach((term, index) => {
+                const div = document.createElement('div');
+                div.className = 'history-item';
+                div.textContent = term;
+                div.title = `点击跳转到 "${term}" 的对话`;
+                
+                const historyItem = conversationHistory.find(item => item.question === term);
+                
+                if (historyItem) {
+                    div.onclick = () => scrollToConversation(historyItem.id, term);
+                }
+                
+                container.appendChild(div);
+            });
+        }
+
+        // 添加搜索词到历史
+        function addToHistory(term) {
+            if (!term.trim()) return;
+            
+            const historyItem = {
+                id: Date.now() + Math.random(),
+                question: term,
+                timestamp: new Date().toISOString()
+            };
+            
+            historySet.delete(term);
+            historySet.add(term);
+            conversationHistory.push(historyItem);
+            
+            if (historySet.size > 20) {
+                const first = historySet.values().next().value;
+                historySet.delete(first);
+                conversationHistory = conversationHistory.filter(item => item.question !== first);
+            }
+            
+            localStorage.setItem(HISTORY_KEY, JSON.stringify([...historySet]));
+            renderHistory();
+        }
+
+        // 清空历史
+        function clearHistory() {
+            if (confirm('确定要清空所有问答历史吗？')) {
+                historySet.clear();
+                conversationHistory = [];
+                localStorage.removeItem(HISTORY_KEY);
+                renderHistory();
+                document.getElementById('chat-container').innerHTML = '';
+            }
+        }
+
+        // ========== 问答逻辑 ========== 
+        const questionInput = document.getElementById('question-input');
+        const chatContainer = document.getElementById('chat-container');
+
+        questionInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                askQuestion();
+            }
+        });
+
+        function askQuestion() {
+            const question = questionInput.value.trim();
+            if (!question) return;
+
+            // 创建用户消息
+            const userMsg = document.createElement('div');
+            userMsg.className = 'message user-message';
+            userMsg.textContent = question;
+            userMsg.setAttribute('data-question', question);
+            userMsg.setAttribute('data-id', Date.now() + Math.random());
+            chatContainer.appendChild(userMsg);
+
+            // 清空输入框
+            questionInput.value = '';
+
+            // 滚动到底部（确保新消息可见）
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            // 显示加载提示
+            const loadingMsg = document.createElement('div');
+            loadingMsg.className = 'message bot-message';
+            loadingMsg.textContent = '正在思考中...';
+            loadingMsg.setAttribute('data-id', 'loading-' + Date.now());
+            chatContainer.appendChild(loadingMsg);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            // 发送请求到后端
+            const encodedQuestion = encodeURIComponent(question);
+            
+            fetch(`/api/ask_question?q=${encodedQuestion}`)
+                .then(response => response.json())
+                .then(data => {
+                    // 移除加载提示
+                    const loadingElement = document.querySelector('[data-id="loading-' + loadingMsg.getAttribute('data-id').split('-')[1] + '"]');
+                    if (loadingElement) {
+                        chatContainer.removeChild(loadingElement);
+                    }
+                    
+                    const botMsg = document.createElement('div');
+                    botMsg.className = 'message bot-message';
+                    botMsg.textContent = data.answer || '抱歉，未能获取回答';
+                    botMsg.setAttribute('data-answer', data.answer || '抱歉，未能获取回答');
+                    botMsg.setAttribute('data-id', Date.now() + Math.random());
+                    chatContainer.appendChild(botMsg);
+                    
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                    
+                    addToHistory(question);
+                })
+                .catch(err => {
+                    console.error('Error:', err);
+                    const loadingElement = document.querySelector('[data-id^="loading-"]');
+                    if (loadingElement && loadingElement.parentNode === chatContainer) {
+                        chatContainer.removeChild(loadingElement);
+                    }
+                    
+                    const errorMsg = document.createElement('div');
+                    errorMsg.className = 'message bot-message';
+                    errorMsg.textContent = '请求失败，请稍后重试';
+                    errorMsg.setAttribute('data-id', Date.now() + Math.random());
+                    chatContainer.appendChild(errorMsg);
+                    
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                });
+        }
+
+        // 滚动到特定对话位置并高亮
+        function scrollToConversation(historyId, questionText) {
+            const userMessages = document.querySelectorAll('.message.user-message');
+            
+            for (let i = 0; i < userMessages.length; i++) {
+                const msg = userMessages[i];
+                if (msg.textContent === questionText) {
+                    msg.scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'start',
+                        inline: 'nearest'
+                    });
+                    
+                    msg.classList.add('highlight-animation');
+                    
+                    const nextElement = msg.nextElementSibling;
+                    if (nextElement && nextElement.classList.contains('bot-message')) {
+                        nextElement.classList.add('highlight-animation');
+                    }
+                    
+                    setTimeout(() => {
+                        msg.classList.remove('highlight-animation');
+                        if (nextElement && nextElement.classList.contains('bot-message')) {
+                            nextElement.classList.remove('highlight-animation');
+                        }
+                    }, 2000);
+                    
+                    return;
+                }
+            }
+            
+            alert('未找到对应的对话记录');
+        }
+
+        window.onload = () => {
+            initHistory();
+        };
+    </script>
+</body>
+</html>
+
+

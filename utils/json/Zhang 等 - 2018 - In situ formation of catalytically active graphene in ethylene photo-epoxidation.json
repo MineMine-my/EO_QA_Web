@@ -1,0 +1,132 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200–300°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "10–30 bar"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "石墨烯",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "石墨烯缺陷",
+        "relationship": "作为",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "光激发",
+        "relationship": "生成",
+        "end_node": "石墨烯"
+    },
+    {
+        "start_node": "石墨烯/Ag/Al2O3",
+        "relationship": "实现",
+        "end_node": "常温反应"
+    },
+    {
+        "start_node": "Ag/Al2O3",
+        "relationship": "低活性",
+        "end_node": "常温条件"
+    },
+    {
+        "start_node": "石墨烯/Ag/Al2O3",
+        "relationship": "高活性",
+        "end_node": "常温条件"
+    },
+    {
+        "start_node": "光激发",
+        "relationship": "降低",
+        "end_node": "反应温度"
+    },
+    {
+        "start_node": "光激发",
+        "relationship": "降低",
+        "end_node": "反应压力"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "前体",
+        "end_node": "石墨烯"
+    },
+    {
+        "start_node": "石墨烯",
+        "relationship": "富集",
+        "end_node": "反应物"
+    },
+    {
+        "start_node": "石墨烯缺陷",
+        "relationship": "吸附",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "石墨烯缺陷",
+        "relationship": "吸附",
+        "end_node": "C2H4"
+    },
+    {
+        "start_node": "热电子",
+        "relationship": "促进",
+        "end_node": "O-O断裂"
+    },
+    {
+        "start_node": "DOI 10.1038/s41467-018-05352-9",
+        "relationship": "发表年份",
+        "end_node": "2018"
+    },
+    {
+        "start_node": "石墨烯/Ag/Al2O3",
+        "relationship": "DOI",
+        "end_node": "10.1038/s41467-018-05352-9"
+    }
+]

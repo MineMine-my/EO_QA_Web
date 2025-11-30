@@ -1,0 +1,1686 @@
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+1
+2 Nanocatalysts Unravel the Selective State of Ag
+3
+4
+Maximilian Lamoth,[a] Travis Jones,*[a] Milivoj Plodinec,[a] Albert Machoke,[b] Sabine Wrabetz,[a]
+5
+6 Michael Krämer,[c] Andrey Karpov,[c] Frank Rosowski,[c,d] Simone Piccinin,[e] Robert Schlögl,[a,b]
+7 and Elias Frei*[a]
+8
+9
+10
+Inthepresentwork,wereportonacomparativestudyofmodel thosespeciesisshowntodependstronglyonthepre-treatment
+11
+catalysts during ethylene epoxidation reaction under industri- and reaction conditions, showing both are critical for effective
+12
+ally relevant conditions. The catalysts consist of Ag nano- oxygenmanagement.BycomparisonwithaconventionalAg/α-
+13
+particles <6nm and a reference sample ~100nm. Combining AlO catalyst, we demonstrate a low concentration of oxygen
+14 2 3
+catalytic data with transmission electron microscopy, thermal in/on Ag leads to the highest selectivity regardless of particle
+15
+desorption spectroscopy, and density functional theory allows size. However, particle size dependent oxophilicity leads to
+16
+us to show that catalytic performance is linked to the oxygen significantly lower TOFs for the Ag nanoparticles. This study
+17
+concentrationin/ontheAgparticles.Isotopeexperimentsusing provides fundamental understanding of the performance of
+18
+18O and C18O are conducted to gain insight into the nature supported Ag particles in ethylene epoxidation and offers new
+19 2 2
+andlocationofoxygenin/ontheAgnanoparticles.Theoxygen strategies to improve performance under industrially relevant
+20
+species responsible for theCO formation andinhibition of the conditions.
+21 2
+overall catalytic activity are identified, and the abundance of
+22
+23
+24
+Introduction ing to increase the reactivity per unit mass relative to macro-
+25
+scopic crystals of the same substance.[1] Besides, the formation
+26
+An intuitive approach to maximize the conversion of a catalyst ofnanoparticlesof,typically,1–10nmgivesrisetophenomena
+27
+istoincreaseitsactivesurfaceareatoprovidemorecatalytically describedasparticlesize(PS)effects.[2]Thispropertyhasalready
+28
+relevant reaction sites. This is accessible by, e.g., nanostructur- beenobservedforanumberofsupportedmetalbasedcatalysts
+29
+like Co,[3] Ni,[4] Pd,[5] Pt,[6] Cu,[7] Ag[8] and Au.[9] The overall
+30
+consensusfromsuchobservationsisthatthePSeffectstrongly
+31
+[a] Dr.M.Lamoth,Dr.T.Jones,Dr.M.Plodinec,Dr.S.Wrabetz,Prof.R.Schlögl, depends on the kind of reaction as well as the active material,
+32 Dr.E.Frei
+therebyleadingtobeneficialordetrimentaleffects.
+33 FritzHaberInstituteoftheMaxPlanckSociety
+DepartmentofInorganicChemistry The possibility of a PS effect for Ag in the partial oxidation
+34
+Faradayweg4–6 of ethylene to ethylene epoxide (EO) has long captivated
+35 14195Berlin(Germany)
+researchers, as it could act on EO selectivity and or conversion
+36 E-mail:efrei@fhi-berlin.mpg.de
+trjones@fhi-berlin.mpg.de by altering the nature of the oxygen species on and in the Ag
+37
+[b] Dr.A.Machoke,Prof.R.Schlögl particles. Yet, after more than 40years of research[10] it is still
+38 MaxPlanckInstituteforChemicalEnergyConversion
+debatedifatrueAgPSeffectevenexists,muchlesswhetherit
+39 DepartmentHeterogeneousReactions
+Stiftstraße34-36 contributestoEOselectivityanditsroleinoxygenmanagement
+40
+45470MülheimanderRuhr(Germany) of real catalysts. An overview of some selected results dealing
+41 [c] Dr.M.Krämer,Dr.A.Karpov,Dr.F.Rosowski
+with the influence of the Ag particle size for supported Ag
+42 ProcessResearchandChemicalEngineering
+ProcessCatalysisResearch catalysts in the epoxidation of ethylene is shown in Scheme1.
+43
+BASFSE WuandHarriott[10b]studiedsupportedAgonsilicaintherange
+44 67063Ludwigshafen(Germany)
+of 3–50nm Ag PS and observed the highest conversions of
+45 [d] Dr.F.Rosowski
+46 BasCat-UniCatBASFJointLab ethylene, X(C 2 H 4 ), at around 5–6nm, but with very low
+TechnicalUniversityBerlin selectivity to ethylene epoxide, S(EO), the latter steadily
+47 Hardenbergstraße36 increased with increasing PS. Verykios et al.[11] investigated
+48 10623Berlin(Germany)
+[e] Dr.S.Piccinin largerAgparticles,startingfrom30nm,andobservedthesame
+49
+IstitutoOfficinadeiMateriali(CNR-IOM) phenomenonforS(EO),withaminimuminX(CH)intherange
+50 AreaScienceParkBasovizza 2 4
+of 50–70nm Ag PS. This is in reasonable agreement with the
+51 S.S.14,Km.163,5
+34149Trieste(Italy) observations of Wu and Harriot. However, since Verykios et al.
+52
+Supporting information for this article is available on the WWW under normalized their rates per square meter of “free-metallic-silver
+53
+https://doi.org/10.1002/cctc.202000035 surface area” determined by selective oxygen chemisorption,
+54
+©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA.This any comparison in terms of X(CH) has to be interpreted with
+55 isanopenaccessarticleunderthetermsoftheCreativeCommonsAttri- 2 4
+caution. Investigations of Cheng and Clearfield[12] showed a
+56 bution License, which permits use, distribution and reproduction in any
+medium,providedtheoriginalworkisproperlycited. maximum of S(EO) and X(CH) at around 50nm, with a
+57 2 4
+ChemCatChem2020,12,2977–2988 2977 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2977/2988]
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22 Scheme1.OverviewofthecatalyticactivityofsupportedAgcatalystsintheepoxidationofethylene.Thereportsarearrangedregardingtheirinvestigated
+23 Agparticlesizeupto100nmschematicallyshowingtheirconversionofethyleneX(C 2 H 4 ),theirselectivitytoethyleneepoxideS(EO)andtheyearof
+appearance.
+24
+25
+26
+27
+decrease in S(EO) for larger PS in stark contrast to the Demidov and co-workers[16] investigating the model catalyst
+28
+aforementioned studies. Lee et al.[13] also observed a steady Ag/HOPG which stayed inactive for an average Ag PS of 8nm.
+29
+increase in S(EO) for increasing PS, but this time from 6–50nm Incontrast,40nmAgparticlesonHOPGshowedtheformation
+30
+andintherangeof50–100nmS(EO)remainedunchanged.The of ethylene epoxide. These results stand contradictory to the
+31
+X(CH) showed a maximum at 40–50nm in the case of report of Fotopoulus et al.,[17] where a catalyst with 9nm Ag 32 2 4
+corundum supported Ag and a plateau starting at around particlesonMCM-41showedaX(CH)ofupto65%withS(EO)
+33 2 4
+60nm for silica supported Ag. The Ag on corundum support of30–35%.Suchreasonableperformanceswerecomparableto
+34
+performed similar to results reported by Cheng and Clearfield. the reference Ag/α-AlO catalyst with Ag particle sizes
+35 2 3
+Goncharova et al.[14] were able to show a steady increase in S >60nm.
+36
+(EO) from 10–100nm, which is in line with that reported by The essence of more than 40years of research regarding
+37
+Wu/Harriot and Verykios et al., and a maximum in X(CH) at the PS effect of Ag in the ethylene epoxidation reaction is
+38 2 4
+around 50nm in agreement with Cheng/Clearfield. The listed unclear.ThetrendsoftheS(EO)andX(CH)curvesillustratedin
+39 2 4
+results were obtained during a period of 20years and it took Figure1 are arbitrary with respect to the Ag PS regimes. A
+40
+another17yearsuntilthegroupofPetradeJonghinvestigated maximum for X(CH) for Ag PS around 50–60nm, as well as a
+41 2 4
+the PS of Ag and its influence on the ethylene epoxidation poorS(EO)forsmallAgparticlesseemtobeconsistent.But,the
+42
+reaction.Incontrasttothepreviousinvestigations,theS(EO)at origin of the observed effects for different catalysts is still not
+43
+aconstantlowconversionof2.8%werecompared,resultingin clearandtheobservationsoftenappearcontradictory.
+44
+constant S(EO) values. The achieved X(CH) were again in An explanation for the inconsistent situation in terms of a
+45 2 4
+agreement withpreviousstudies, reachingitsmaximum at 60– Ag PS effect might be the broad PS distributions achieved so
+46
+70nm.As aconsequence,noPSeffectontheselectivityinthe far. Furthermore, the achieved Ag PS were above the relevant
+47
+rangeof20–200nmAgPSwasobserved.Averyrecentstudyof range, up to 6nm, for which a dependence on catalytic
+48
+van Hoof et al.[15] identified an increase in selectivity with PS performance is expected.[8,18] Besides, related oxidation reac-
+49
+(from ca. 20–200nm). The Ag weight-based activity decreased tions might also be helpful and serve as orientation for any PS
+50
+until 50nm and was stable afterwards. Besides, the Ag surface effect. Lei et al.[8] used Ag cluster-based catalysts supported on
+51
+area-based activity was stable until 50nm and increased with silicon wafer in the range of 0.5–3.5nm. Those small clusters
+52
+the Ag PS. The proposed explanation involves the complex and particles were active and selective in epoxidation of
+53
+interplay of Ag bulk, Ag crystallite size and grain boundaries, propylene with high turnover rates. Comparable results were
+54
+whichremainedratherelusive. achieved in our recently published study[19] of supported Ag
+55
+Since the synthesis of Ag particles <10nm is difficult to catalysts in the oxidation of CO. In-situ synthesized Ag clusters
+56
+accomplish, only a limited number of studies are available. <1nm showed exceptionally high CO oxidation rates com-
+57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2978 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2978/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+Experimental Section
+1
+2
+Listoftheusedchemicals
+3
+4 Carl Roth, >99.9%; Oxalic acid dehydrate: >99%, Carl Roth; KOH:
+5 Merck, >85%, for synthesis; Ethylenediamine: 99.5%; Fluka; α-
+AlO: provided by BASF; Aerosil 300: Degussa; Ag powder:
+6 2 3
+<70mesh,99.999%,AlfaAesar
+7
+8 Synthesis of Ag/SiO 2 and Ag/α-Al 2 O 3 has already been
+described.[19] In short, a vacuum assisted impregnation technique
+9
+wasappliedtoachieveacontrolleddistributiononthesupport.For
+10
+the silica (Aerosil® 300, Degussa, hydrophilic fumed silica powder,
+11 primary particles: spherical, 7–40nm, no porosity) supported
+12 catalyst AgNO was dissolved in water according to 5wt.-% Ag
+3
+13 loading (labeled as Ag5/SiO) and used as impregnation solution.
+2
+14 The amount of H 2 O needed for impregnation was determined by
+determining the “solvent capacity volume”. The impregnated
+15
+support was dried, transferred into 100–200μm sieve fraction and
+16 subsequently calcined at 600°C for 1h in a rotating tube furnace
+17 withaconstantflowof21%O inAr(300ml·min(cid:0)1)withaheating
+2
+18 rateof2°C·min(cid:0)1.
+19
+For the synthesis of the industrial reference sample, 15wt.-% Ag
+20 was loaded on α-AlO using an Ag oxalate based precursor 2 3
+21 according to patent literature, labeled as Ag15/α-AlO.[20] The α-
+2 3
+22 F (g ig re u e r n e ), 1 A .P g X 1 R 5/ D α o -A f l A O g5 ( / r S e iO d) 2 a (b n l d ue th , e 5 d ti a m ta e b s a a s m e p e l n if t i r e i d es ), f A o g rA p g o 0 w ( d g e re r y a , s P r D e F fe 8 re 7 n - ce Al 2 O 3 support was then impregnated with the silver oxalate-
+23 2 3 ethylenediaminesolutionfollowedbyacalcinationunderair.
+0720)andα-AlO (darkred,PDF74-2206).
+2 3
+24 Ethyleneepoxidationwasperformedinastainlesssteelplugflow
+25 reactor (inner diameter 4mm) at 17.5bar absolute pressure and a
+26 gas composition of 7/8/50/35 for O 2 /Ar/N 2 /C 2 H 4 at a GHSV of
+pared to Ag nanoparticles of 1–6nm. Further, the Ag clusters 4850h(cid:0)1. The temperature was raised stepwise with a 1°C·min(cid:0)1
+27
+and particles showed much higher CO oxidation rates than a heatingrateandadwelltimeof6hoursforeachtemperaturestep.
+28
+Ag/α-AlO reference catalyst with 40nm crystalline domain Thecompositionoftheexhaustgaseswasanalysedonlineusinga
+29 2 3 gaschromatograph(Agilent7890N)equippedwithaFIDandTCD
+size.
+30 detector.Thesampleswerepre-treatedfor24hoursat210°Ceither
+SincebothstudiesshowedthatAgnanoparticlesareableto
+31 inN orsyntheticair(namedasO).Forthekineticanalysisinternal
+performoxidationreactions,themotivationofthisstudywasto 2 2 32 andexternaltransportlimitations,aswellasheattransferproblems,
+transfertheseperformancestotheepoxidationofethyleneand areexcludedbyreferencemeasurements(FigureS12).
+33
+to answer the long standing question of a Ag PS effect.
+34 Ethylene oxide decomposition tests were performed at 250°C
+Unraveling this possible PS effect is expected to lead to a
+35 under a constant flow of 1% EO in He. The temperature is higher
+deeperunderstandingoftheselectivestateofAgingeneral,as thantheactualtestingtemperaturetoforcetheEOdecomposition.
+36
+the PS effect has been linked to the nature of the adsorbed All tested samples were pre-treated in synthetic air at 250°C for
+37
+oxygenspeciespresentonactivecatalysts.[16] 10min.TheProductswereanalysedbyGC-MSanalysis.
+38
+39 Applying the recently introduced synthesis strategy,[19] SiO 2 Powder X-ray diffraction (PXRD) patterns were recorded using a
+supported Ag nanoparticles up to 6nm with a narrow PS Bruker AXS D8 Advance II Theta/Theta diffractometer in Bragg-
+40
+41 d co is n tr d ib u u ct t e io d n st a u re dy in f v o e r s a ti n g y at c e a d t . al T y o tic en d s is u c r u e ss t i h o e n, r t e h le e va sa n m ce pl o e f s t a h re e B p r o e s n it t i a o n n o s g e e n o si m tiv e e try Ly u n si x n E g ye Ni sil f i i c lt o e n red str C ip u K d α e 1 t + e 2 cto ra r. dia T t h io e n s a a n m d ple a
+42 powder was filled into the recess of a cup-shaped sample holder,
+tested under industrially relevant conditions of high pressure.
+43 thesurfaceofthepowderbedbeingflushwiththesampleholder
+The performances of the Ag/SiO catalysts are compared to a
+44 2 edge(frontloading).Theresultingdiffractogramswereanalyzedby
+45 conventional Ag/α-Al 2 O 3 catalyst. All samples are thoroughly full pattern fitting using the Topas software[21] to extract lattice
+analyzedbeforeandaftercatalytictestingbywayofpowderX- parameters,crystallitesizesandAgloading.
+46
+ray diffraction (PXRD) and transmission electron microscopy
+47 Scanning transmission electron microscopy (STEM) imaging was
+(TEM).Further,thermaldesorptionspectroscopy(TDS)allowsus performed using a double Cs corrected JEM-ARM200CF (Jeol)
+48
+toidentifytherelevantAg-Ointeractionsrelatedtothecatalytic operatedat200kVandequippedwithHAADF(highangleannular
+49
+results. Within this study the adding of promoters on the dark-field) and BF (bright-field) detectors. Samples were prepared
+50 catalystorusingorganochlorideasco-feedisexcluded(asused by direct deposition of dry powder onto a Quantifoil Au holey
+51 grid.Fortheresultinghistograms,thediameterof1000particlesfor on the industrially applied catalyst),[20] since it influences the
+52 Ag5/SiO and200particlesforAg15/α-AlO weremeasured.
+origin of the Ag(cid:0) O interaction and will be part of a separated 2 2 3
+53
+manuscript. Thermal desorption spectroscopy (TDS) was applied for the
+54 temperature programmed desorption of oxygen. Therefore, a self-
+55 constructed setup which enables the testing of powder samples
+56 wasused.Thesetupisequippedwithmassflowcontrollers,anIR-
+57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2979 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2979/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+light furnace (Behr IRF 10) and a mass spectrometer (Pfeiffer
+1 Table1. Overview of the investigated catalysts with nominal and exper-
+Vacuum QME 200). The powder sample is placed on a small
+imentally determined Ag loading (ICP-OES and PXRD), Ag domain size
+2 quartz-glass boat which is placed in a quartz tube (inner diameter (PXRD full pattern fitting), support BET surface area (SA ) and internal
+BET
+3 of 14mm, outer diameter of 20mm, length of 450mm) located number.
+4 inside the furnace and connected to the system using Ultra Torr
+Catalyst Agloading Ag SA FHI#
+5 vacuum fittings. Prior to the desorption experiment the samples [wt.-%] domainsize sup BE p T orts
+6 werepre-treatedat1barin25%O 2 inAr(syntheticair)ataflowof (nom.) (exp.) [nm] [m2·g(cid:0)1]
+100ml·min(cid:0)1 for 12h at 210°C, which cleans the surface of the
+7 sample and saturates the Ag with oxygen (surface and bulk). The Ag5/SiO 2 5.0 4.4[a] 6.5�0.7 328 29714
+8 gases are detected using the mass spectrometer leak valve. Ag15/α-Al 2 O 3 15.5 12.4[a] 39.4�4.2 1.0 29934
+13.9[b]
+9 Afterwards the system is stepwise brought to 9·10(cid:0)7mbar and
+10 directly connected to the mass spectrometer. The desorption [a]ICP-OES.[b]PXRD(Rietveld).
+experiment is conducted at a heating rate of 25°C·min(cid:0)1 up to
+11
+700°C.Allmassesandthetemperaturearemonitoredonline.
+12
+13 Inductive coupled plasma – optical emission spectroscopy (ICP-
+(Ag15/α-AlO) was synthesized, following Rosendahl et al.[20]
+14 OES) was used to determine the Ag loading of the catalysts. 2 3
+Therefore,thesampleissolubilizedusingLiF,nitricacidandwater The corresponding PXRD are shown in Figure1. The Ag15/α-
+15
+at230°C,dilutedwithwaterandanalyzedwithaPerkinElmerICP AlO catalyst exhibits slightly broadened Ag reflections (in
+16 2 3 OESOptima8300. comparison to the Ag powder reference, Figure1 green
+17
+18 Microcalorimetry was performed in a HT1000 (RT–1000°C) and pattern) and reflections of α-Al 2 O 3 . The widening is explained
+MS70(RT–100°C)Tian-Calvetcalorimeter(Setaram)combinedwith by the reduced domain size, which was determined to be
+19
+a custom-designed high vacuum (HV) and gas dosing apparatus. 39.4�4.2nm by full pattern fitting. Ag5/SiO shows a pro-
+20 The sample was placed in batch reactor. O and CH adsorption 2 2 2 4 nouncedbroadeningoftheAgreflections,adirectindicationof
+21 experiments at 230°C were performed after cleaning the samples
+the smaller domain sizes of 6.5�0.7nm. The SiO support is
+22 at400°Cfor15hinH (400mbar).Thereoxidation/regenerationat 2 2
+23 350°CinO 2 waskeptfor5h(400mbar). responsibleforthediffusereflectionvisibleintherangeof30–
+40°2Θ.TheAglatticeparametersarealsodeterminedforAg5/
+24 Density functionaltheory(DFT)calculations wereperformedwith
+SiO and Ag15/α-AlO as 4.089�0.012Å and 4.08603�
+25 the Quantum ESPRESSO package[22] at the PBE level including 2 2 3
+0.00009Å, respectively. Within the uncertainty of the fitted
+26 dispersion corrections with the exchange-hole dipole moment
+(XDM)model.[23]Followingearlierwork,[24]PAWdatasetsweretaken results, the lattice parameters are in good agreement with the
+27
+fromPSlibrary[25]andusedwithakineticenergycutoffof30Ry.A reported reference value of 4.086Å[27] for Ag0. Complementary
+28
+k-point mesh equivalent to (12×12) for the (1×1) Ag(111) surface to PXRD, STEM analysis was performed in order to extract the
+29 unit cell was employed along with Marzari-Vanderbilt smearing
+PS information illustrated in Figure2. For Ag15/α-AlO the Ag
+30 witha0.02Rysmearingparameter.[26]Minimumenergypathswere 2 3
+particles are well distributed over the support (Figure2a) with
+31 computed with the climbing image nudged elastic band method
+dominant PSs between 50–150nm (see histogram inset Fig- 32 usingeightimagesforeachpath.
+ure2b, average PS 105nm and a standard deviation of 86nm)
+33
+anda minor fraction of particles intherange of20–40nm and
+34
+<200nm.Figure2bshowsinadditiontheelementspecificEDX
+35
+Results and Discussion maps(seealsoFigureS2).ThemainPSdeterminedbySTEMare
+36
+larger than the domain sizes determined by PXRD, indicating
+37
+TheinvestigatedcatalystsconsistofAgparticlesonSiO andα- that the fraction of larger particles have been formed by
+38 2
+AlO. The low surface area α-AlO support serves as industrial sintering. The Ag particles were sometimes irregularly shaped
+39 2 3 2 3
+reference with large Ag particles. To stabilize Ag nanoparticles (non-spherical),whichexplainsthebroaddistribution.ForAg5/
+40
+in the range of ~2nm a high surface area support material in SiO (Figure2 c, d) the Ag particles are homogeneously
+41 2
+the range of 300–400m2·g(cid:0)1 has to be used.[19] To avoid EO distributed over the whole support with a very narrow size
+42
+isomerization and combustion, support materials in the distribution (corresponding histogram inset Figure2d, a PS of
+43
+ethylene epoxidation reaction have to be chemically inert and 2.3nm and a standard deviation of 0.72nm, see also Fig-
+44
+with no acid functional groups. The used SiO material fulfills ureS3a). The absence of Ag particles larger than 5.8nm is in
+45 2 thegivencriteria(Table1,328m2·g(cid:0)1)asthoroughlyverifiedby good agreement with the results from PXRD (domain sizes of
+46
+EOdecompositionexperiments,conductedpriortothecatalytic 6.5�0.7nm). Since XRD is only sensitive to crystallites <2–
+47
+tests (Figure S1, Table S1). In the following the non-reducible 3nm,themainfractionoftheAgPSstaysinvisibleandtheXRD
+48
+supportsareinterpretedasinertwithoutanyfurtherimpacton domain size is interpreted as upper limit. An overview of the
+49
+theresults. relevant parameters of the used catalysts is presented in
+50
+Table1.TheAgloadingwasexperimentallydeterminedbyICP-
+51
+OES and resulted in 4.4wt.-% Ag for the Ag5/SiO sample and
+52 2
+Samplepreparationandcharacterization 12.4wt.-% for Ag15/α-AlO. In addition, the quantitative PXRD
+53 2 3
+analysis(Rietveldmethod)forAg15/α-AlO determinedtheAg
+54 2 3
+According to an established synthesis protocol,[19] 5wt.-% Ag loading to be 13.9wt.-%. Generally, the quantitative assess-
+55
+supported on SiO (Ag5/SiO) was prepared. In addition, a mentsareingoodagreementwiththenominalvalues.
+56 2 2
+reference sample with 15.5wt.-% Ag supported on α-AlO
+57 2 3
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2980 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2980/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by Beijing
+University
+of Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14 Figure3.Selectivitytoethyleneepoxideasfunctionoxygenconversionfor
+15 catalystAg15/α-Al 2 O 3 (blacktriangle),Ag5/SiO 2 (cid:0) N 2 (bluesquares)andAg5/
+SiO(cid:0) O (greencircles)at17.5bar,GHSV4850h(cid:0)1,CH :O =35:7.
+16 2 2 2 4 2
+17
+18
+19
+increasing the temperature leads to decreasing S(EO) and
+20
+strong increase in X(O) following an expected S to X behavior.
+21 2
+At~210°CAgnanoparticlesstarttosinterandtheAg5/SiO(cid:0) N
+22 2 2
+catalyst loses activity (see FigureS5, decrease of EO and CO
+23 Figure2.STEMADFimagesofcatalystAg15/α-AlO (A)andthecorrespond- 2
+2 3 rates). Since the deactivation of the Ag5/SiO(cid:0) N catalyst starts
+24 ingelementalmappingsofAgred,Algreen,Oblueandparticlesize 2 2
+distribution(B,seealsoFigureS2forEDX).STEMADFofAg5/SiO (C).The already at 200°C, the same catalyst was tested again until
+25 2
+brightspotsrefertoAgparticles.ForcatalystAg5/SiO 2 alsotheparticlesize 230°C (to trigger deactivation) and 180°C (to avoid deactiva-
+26 distributionisshown(D).
+tion).ThecorrespondingPSanalysis(FigureS3c)aftertestingat
+27
+elevatedtemperatureshowsabroaddistributionofAgparticles
+28
+until40nm(mainPS~5nm).Thisservesasatextbookexample
+29
+Ethyleneepoxidationtests of sintered particles continuously growing in size. In contrast,
+30
+thePSdistributionfromthecatalysttesteduntil180°C(highest
+31
+All catalysts were tested in the epoxidation of ethylene to EO S(EO)) remains narrow (FigureS3b, main PS ~2nm, almost
+32
+with applied gas feed, temperatures and pressures of the identicaltothefreshsampleS3a).Thesmallincreaseofparticles
+33
+industrial process (without co-feeds, see also experimental in the range of 1–2nm is explained by the coalescence of Ag
+34
+part).[20] As a surface purification step, a pre-treatment temper- clustersstillpresentafterthecalcinationprocess.[19]Someofthe
+35
+ature of 210°C was chosen, which corresponds to the Ag nanoparticles sintered, which is in line with the low
+36
+decomposition temperature of both AgCO (175°C–225°C[28]) Tammann temperature (<100°C ) of unsupported 2nm Ag
+37 2 3
+and AgO (~200°C[29]). In the following, the pre-treatment nanoparticles, however, since the sintering of the Ag nano-
+38 2
+atmospheres, which were varied for the Ag5/SiO sample from particles lead to a loss in activity without influencing the S(EO)
+39 2
+N to O (synthetic air), is part of the label, i.e. Ag5/SiO-N or (FigureS5a 210°C) the insignificant change of the PS distribu-
+40 2 2 2 2
+Ag5/SiO(cid:0) O (this is not necessary for the reference catalyst tion is excluded as source of the activation process.[30] This is
+41 2 2
+since identical performances were obtained). Figure3 shows S supported by the loss in S(EO) at 230°C (FigureS3c) demon-
+42
+(EO) as a function of the oxygen conversion, X(O), at various stratingthatsinteringandS(EO)aredecoupledphenomena.
+43 2
+temperatures (dwelled for 6h each) for the Ag5/SiO(cid:0) N, Ag5/ Since we recently demonstrated that smaller Ag particles
+44 2 2
+SiO(cid:0) O catalyst and the Ag15/α-AlO reference. The perform- exhibit a stronger oxygen interaction,[19] it is reasonable to
+45 2 2 2 3
+ance of the Ag15/α-AlO catalyst in steady state follows a interpret the activation phase of the Ag5/SiO(cid:0) N catalyst as 46 2 3 2 2
+typical S to X behavior (lower selectivity at higher conversions) being influenced by its Ag(cid:0) O chemistry. To gain further
+47
+indicatedbythegreyline.Besides,thehighselectivity towards experimentalevidence,theAg5/SiO catalystwaspre-treatedin
+48 2
+EO is instantly reached and only at higher reaction temper- syntheticair(Ag5/SiO(cid:0) O)beforetesting.Weexcludesintering
+49 2 2
+atures(190and200°C)anincreaseinS(EO)asfunctionoftime effectsbysyntheticairtreatmentssincethecatalystwasalready
+50
+is observed (see also FigureS4, due to decreasing CO rates). calcinedat600°Cfor1h.Figure3showsthedirectcomparison
+51 2
+The Ag5/SiO(cid:0) N catalyst shows a pronounced activation of Ag5/SiO(cid:0) N (blue) and Ag5/SiO(cid:0) O (green) catalysts. The
+52 2 2 2 2 2 2
+period, for which the S(EO) steadily increases with time and Ag5/SiO(cid:0) O catalyst shows poor S(EO) and X(O) at low
+53 2 2 2
+temperature.TheS(EO),e.g.,increasesfrom48%at150°C(after temperatures. In comparison to the Ag5/SiO(cid:0) N catalyst, its
+54 2 2
+2.5h dwell time) to a maximum of 64% at 180°C, which is activation phase is more pronounced and prolonged. The
+55
+interpreted as successful activation. The corresponding X(O) completely activated state is not reached until 190°C (max-
+56 2
+shows only minor changes up to 180°C (~4–7%). Further imum in S(EO) of 61%) and generally the Ag5/SiO(cid:0) O catalyst
+57 2 2
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2981 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2981/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+is less active (i.e. at 200°C same S(EO) but only 50% of the
+1
+conversion) than its Ag5/SiO(cid:0) N counterpart. However, upon
+2 2 2 increasing the temperature, the Ag5/SiO(cid:0) O catalyst still
+3 2 2
+reaches the typical S-X behavior (green line) seen for the other
+4
+catalysts. In summary, the SiO supported Ag nanoparticles
+5 2
+show, after a distinct activation period, a promising catalytic
+6
+performance in comparison to the Ag15/α-AlO reference.
+7 2 3
+Since the increase in S(EO), and generally the different
+8
+activationbehaviorofthecatalysts,isnotasinteringeffect,the
+9
+Ag(cid:0) O interaction, respectively stored oxygen in/on Ag, might
+10
+be responsible for the observed effects. This is supported by
+11
+studieswhichshowthatthepre-treatmentalsopre-determines
+12
+the existence of highly stable oxygen species in/on the Ag
+13
+nanoparticles difficult to allocate for oxidation reactions.[12–13,31]
+14
+The existence of highly temperature stable oxygen species for
+15
+Ag nanoparticles below 6nm[19] might also influence the
+16
+catalyticperformanceandberesponsibleforthediversepicture
+17
+of catalytic activities in oxidation reactions as illustrated in
+18
+Scheme1.
+19
+20
+21
+ImpactoftheAg-oxygeninteraction
+22
+23
+To have access to the oxygen concentration in/on Ag and the
+24
+correspondingAg-oxygeninteraction,thermaldesorptionspec-
+25
+troscopy (O-TDS) was applied. A dedicated setup for powder
+26 2
+samples was used, which allows a sample pretreatment under
+27
+1bar and the subsequent desorption experiment at 10(cid:0)6mbar,
+28
+as bridge between conventional TPD[32] (desorption in to inert
+29
+gas) and surface science related TDS[33] experiments. The
+30
+calcinedcatalystswerein-situpretreatedunderAr(Ag5/SiO(cid:0) Ar
+31 2
+12h at 210°C, analogue to Ag5/SiO(cid:0) N) or synthetic air (12h 32 2 2
+at 210°C) and compared to the Ag15/α-AlO reference, pre-
+33 2 3
+treated under synthetic air as well (Figure4a). The desorbed
+34
+oxygen signal is normalized to the sample weight. For Ag5/
+35
+SiO(cid:0) O, two regions in which oxygen desorbs can be clearly
+36 2 2
+distinguished, with region I (200°C–500°C) having a maximum
+37
+at 350°C and region II appearing for T>540°C (where Ag
+38
+nanoparticles already start to melt). The temperature range for
+39
+region I is consistent with the oxygen present in surface
+40
+reconstructions on low miller index surfaces (e.g. nucleophilic
+41
+oxygen) known to participate in combustion in model
+42
+studies.[34] From desorption temperature alone, we cannot
+43
+determineiftheoxygendesorbinginregionIisalsoassociated
+44
+withoxygenontheunreconstructedsurface,aspeciesthatmay
+45
+participate in EO formation.[35] The desorption temperature for
+46
+region II is in line with dissolved oxygen and/or electrophilic
+47 Figure4.(a)O-TDSAg5/SiO pre-treatedinAr(blue),syntheticair(green)
+oxygen participating in EO formation during temperature 2 2
+48 andAg15/α-Al 2 O 3 insyntheticairnormalizedtothecatalystweight.(b)
+programmed reaction.[24,36] However, since the mentioned oxy- 18O16O-TDSofAg15/α-AlO treatedfordifferenttimeswith18O.(c)18O16O-
+49 gen species were identified on model systems, their roles and TDSofAg5/SiO 2 treated 2 for 3 differenttimeswith18O 2 . 2
+50
+relevanceforsupportedAgcatalystsremainsratherspeculative
+51
+andwillnotbefurtherdiscussed.
+52
+After pre-treatment in Ar the amount of O desorption in activation behavior seen for the different pre-treatments, Ag5/
+53 2
+region I is reduced by 54%. Region II, however, stays almost SiO(cid:0) N and Ag5/SiO(cid:0) O. The species desorbed in region I,
+54 2 2 2 2
+unaffected,emphasizedbytheconvergingamountofdesorbed with a high population on Ag5/SiO(cid:0) O, likely reacts with 55 2 2
+oxygen at around 620°C. These different oxygen desorption ethylene to contribute to the unselective total oxidation
+56
+signalsindicateacriticalcorrelationbetweenthedifferences in reactiontoCO (seeCO formationratesFigureS5).Further,this
+57 2 2
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2982 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2982/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+might be the origin of a possible blocking of the reaction sites (all known forms of adsorbed atomic oxygen readily react with
+1
+andexplaintheloweredX(O).Theoxygenspeciesdesorbingin CO to form surface carbonates), while dissolved and electro-
+2 2 x
+region II are not affected by the Ar pre-treatments, consistent philic oxygen has low propensity to form carbonates
+3
+withitsassignmenttodissolvedoxygen.[24,36]TheO desorption (Scheme2).[38][39]To avoidtheissueofcarbonateformationand
+4 2
+behavior of the Ag15/α-AlO(cid:0) O reference (pre-treated in subsequent isotope mixing on the surface by contact to the
+5 2 3 2
+synthetic air) is entirely different to the Ag5/SiO(cid:0) O sample. environment,theprecursorsamples(e.g.AgNO/SiO)werefirst
+6 2 2 3 2
+The temperature of the maximum in oxygen desorption is in-situ calcined in synthetic air. The in-situ generated Ag5/
+7
+shifted by ~200°C to lower temperatures (T =165°C) and a SiO(cid:0) O and Ag15/α-AlO(cid:0) O catalysts were subsequently
+8 max 2 2 2 3 2
+second desorption event is located a high temperatures (likely exposed to only C18O at 40°C for 30min to saturate the
+9 2
+related to dissolved oxygen species). Besides, the quantity of surface.
+10
+desorbedoxygenissignificantlydecreasedforAg15/α-AlO(cid:0) O While oxygen is able to migrate/diffuse into the TDS
+11 2 3 2
+(2.49μmol(O)/g ) compared to Ag5/SiO(cid:0) O (14.64μmol(O)/ accessible sub-surface region of Ag during the in-situ gener-
+12 cat 2 2
+g ).CalculatingtheAg:Oratio(basedontheAgloadingofthe ation step, the low temperature C18O exposure ensures the
+13 cat 2
+samples) as indication for the oxygen concentration in/on Ag, surfacelimitedcarbonateformationcannotaccesstheseburied
+14
+the Ag nanoparticles are significantly enriched in oxygen by a species.[39b] The carbonates formed during C18O exposure are
+15 2
+factorof~20(Ag:O=30vs.600forAg15/α-AlO,onlythefirst consequently partially labeled “AgC18O16O”. Temperature in-
+16 2 3 2 2
+desorption events are integrated, for Ag5/SiO range of ~200– duced decomposition of the surface carbonates results in the 17 2
+500°C and for Ag15/α-AlO the range of ~100–300°C). Since release of CO, which is either mono- (C18O16O, m/z=46) or
+18 2 3 2
+thesampleswerepre-treatedidentically(saturatedwithoxygen double-labeled(C18O,m/z=48).IfalltheC18O adsorbstoform
+19 2 2
+at 210°C for 12h) and the heating rates were also the same carbonate with pre-adsorbed 16O the statistical ratio of
+20
+(25°C/min),ashiftofthedesorptiontemperatureisinterpreted C18O :C18O16OwillbeseenduringTDS(e.g.1:2fortridentateor
+21 2
+as a change of the electronic structure of the Ag and the 1:1 for bidentate carbonate), however, since different types of
+22
+strengthoftheAg(cid:0) Ointeraction,respectively. This issimilarto carbonates might contribute a rather qualitative statement
+23
+TPD studies on supported Au samples, which also identified a seems reliable.[33a] Conversely, if free surface is available or the
+24
+size dependent desorption energy excluding support effects.[37] oxygenisnotaccessible,C18O willadsorbanddesorbasm/z=
+25 2
+However, based on the different quantities of the desorption 48 in TDS.[40] The dominant desorption species for Ag5/SiO
+26 2
+(Ag:Oratios,asaconsequenceofthestrongerAg:Ointeraction (Figure5b) is identified as C18O with a distinctly smaller 27 2
+and the high dispersion on SiO) and the shift in the T , the desorption event for C18O16O both appearing at a desorption
+28 2 max
+surface or subsurface location of the oxygen cannot be temperature in the range of surface carbonates or weakly
+29
+deduced. To aid in the assignment of the oxygen species bound CO.[39b,40–41] The fraction of oxygen species able to
+30 2
+observedinTDS,isotopeexchangeexperimentswith18O were interact with adsorbed C18O seems to be insignificant, also
+31 2 2
+conductedinsidetheTDSsetup.Afterpre-treatingtheAg15/α- confirmed by reference measurements with pure C18O. This 32 2
+AlO and Ag5/SiO catalysts for 12h at 210°C in synthetic air, meansthestoredoxygenin/onAg,whichformsunderreaction
+33 2 3 2
+the exposure times of 18O was adjusted to 0min, 10min and conditions unselectively CO, is due to the strong Ag(cid:0) O
+34 2 2
+60min(alsoat210°C).Figure4(b)and4(c)showthedesorption interaction of the nanoparticles unable to form carbonates.
+35
+signal of m/z=34 for Ag15/α-AlO and Ag5/SiO, which Saturating the surface of Ag15/α-AlO with C18O offers a
+36 2 3 2 2 3 2
+represents the mixed labeled oxygen isotopomer (16O18O). As a differentpicture(Figure5a).AtlowtemperaturesagainC18O is
+37 2
+function of time, the mixed labeled oxygen increases (no mainly detected, but at elevated temperatures the amount of
+38
+change of m/z=36, see also FigureS6), which implies that the mixed labeled C16,18O increases significantly. This is a clear
+39 2
+oxygen (here: 18O) is dissociatively activated, accumulating as indication that oxygen stored in the Ag15/α-AlO sample is
+40 2 2 3
+atomicoxygenin/onAg.Therecombinationofstored(16O)and accessible and, at least in parts, located on the surface. The
+41
+exchanged (18O) oxygen corresponds to a second order quantities of the desorbed CO traces (m/z=46 and 48) was
+42 2
+desorption kinetic,[33c] independent of the Ag particles size and nearly equal for both catalysts, which is line with our
+43
+desorptiontemperature.Theshift oftheT withan increased interpretationthattheamountofoxygenstoredin/onAg5/SiO
+44 max 2
+saturation of labeled oxygen to higher (Ag15/α-AlO, Fig-
+45 2 3
+ure4b)andlower(Ag5/SiO,Figure4c)temperaturesrepresents 46 2
+attractive (higher T) and repulsive (lower T) interactions of the
+47
+adsorbed species.[33b] This seems to be conclusive since the
+48
+oxygen concentration in/on Ag5/SiO is significantly higher.
+49 2
+Besides, the labeled 18O oxygen species are also desorbing in
+50
+thehightemperatureregionsasmixedlabeled16,18O,whichare
+51 2
+likely related to subsurface or dissolved oxygen species. Since
+52
+the exchange of oxygen was conducted at 210°C, diffusion
+53
+processesareverylikelyinvolved.
+54
+To elucidate the accessibility of the atomic oxygen species 5 5 5 6 in/onAg,asecondexperimentwithC18O 2 wasconducted.Such S te c r h m e i m na e l 2 o . r P s o u s b s - i s b u le rfa su ce rfa o c x e yg A e g n 2 . C I O n 3 th fo e rm ca a s t e io o n f o su n b A -s g u n rf a a n c o e p o a x r y ti g c e le n s C v 1 i 8 a O 2
+atestcanefficientlyidentifythesurfaceatomicoxygenspecies mightadsorbontheAgsurfaceanddesorbalsoasC18O 2 . 57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2983 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2983/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17 Figure6.O 2 -TDSforAg5/SiO 2 pre-treatedinsyntheticair(green)with
+subsequentethyleneepoxidationat230°Cat1bar(red).Additionally,the
+18
+desorptionspectrumofcatalystAg5/SiO(cid:0) N afterreachingsteadystatein
+2 2
+19 ethyleneepoxidationat180°Cisshown(darkred).
+20
+21
+22
+where nucleophilic oxygen, and afterwards incompletely in
+23
+region II wheredissolved and/or electrophilicoxygen might be
+24
+located)istentativelyinterpretedasevidencefortheimportant
+25
+role of dissolved oxygen species in product formation.[15] To
+26
+confirmthenon-reversiblecharacteroftheactivationperiod,in
+27
+particular for Ag nanoparticles, an increasing/decreasing/
+28
+increasingtemperaturetestingprotocolshouldleadtodifferent
+29
+catalytic performances in terms of activity and S(EO) for Ag5/
+30 Figure5.In-situcalcinedcatalystssaturatedwithC18O 2 at40°C.Heatingrates SiO(cid:0) N. Figure S9a shows the results of the applied program.
+31 of25°C/minwereapplied.CO signalsm/z=46(redcircles)and48(blue 2 2
+2 Within the first increasing branch of the temperature the 32 circles)areshownfor(a)Ag15/α-Al 2 O 3 and(b)Ag5/SiO 2 . development of the S(EO) is distinctly visible, starting at 150°C
+33
+with around 20% and finally reaching 58%. The second
+34
+increasing branch (ca. 25 to 35h TOS) shows only minor
+35
+is not accessible for carbonate formation under the selected changes in terms of S(EO) (58 to 62%) as a function of the
+36
+conditions. temperature, but significantly higher formation rates for EO
+37
+To test the necessity of stored oxygen in epoxidation, the than CO. Since 170°C was selected three times as a reaction
+38 2
+influence of oxygen on the catalytic performance was further temperature,FigureS9bhighlightsthechangesasafunctionof
+39
+evaluatedbyTDSexperimentssimulatingtheactivationperiod. time. The continuously decreasing CO formation rates and
+40 2
+Thein-situcreatedAg5/SiO(cid:0) O catalystwastestedat1barand stableEOformationratesleadtoanincreasedS(EO).Thisserves
+41 2 2
+reaction feed(CH :O =5:1)for4hat 230°CintheTDSsetup as (another) experimental evidence that activation means non-
+42 2 4 2
+(Figure S7a). After reaching a steady state conversion, the reversible consumption of unselective oxygen species towards
+43
+resulting O-TDS spectrum was recorded (Figure6). A signifi- a selective, oxygen poor state of Ag. Due to the insulating
+44 2
+cantlyreducedamountofoxygendesorbedfromthecatalystin character of supported Ag particles and the oxygen of the
+45
+region I (green and red curves Figure6). In addition, a supports (SiO, α-AlO), a discrimination in electrophilic or 46 2 2 3
+completely activated Ag5/SiO catalyst tested under 17.5bar nucleophilic oxygen species was not possible. However, based
+47 2
+was transferred to the TDS setup and an oxygen desorption on the discussed oxygen poor character of the Ag particles in
+48
+experiment was conducted. The corresponding O desorption the selective state, the concentration of atomic oxygen species
+49 2
+signal is negligible, demonstrating a correlation between the onthesurfaceanditsstabilityseemstobecritical.Toelucidate
+50
+selective catalytic performance and the oxygen poor state. The if any oxygen, stored in/on Ag, is needed at all to activate the
+51
+same behavior is observed for the Ag15/α-AlO sample, after reactants, microcalorimetry is applied (Figure7). Prior to a
+52 2 3
+in-situactivationunderreactionfeed(FigureS7b+candFigure surface titration at 230°C with CH and O, the oxygen in/on
+53 2 4 2
+S8). Generally, activating a supported Ag catalyst, independent thesupportedAgcatalystsisremovedunderH atmosphereat
+54 2
+oftherespectiveparticlesize,leadsintheTDSaccessiblerange 400°C (“chemically cleaned”). Subsequent dosing of CH 55 2 4
+to an oxygen poor and selective catalyst. The consecutive showed no measureable ΔH (differential heat of adsorption).
+56 ads
+removal of the oxygen species (at first completely in region I Adding O resulted in ΔH values between 55kJ·mol(cid:0)1 (Ag5/
+57 2 ads
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2984 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2984/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+monolayers (ML) is estimated. In the context of the almost
+1
+absentoxygendesorptionsignalafterreachingaselectivestate
+2 (Figure6),thesurfacecoverageisintherangeof<0.005ML(<
+3
+1%ofthestartingvalue,0.07μmol/g ).
+4 cat
+5
+6
+KineticEvaluation
+7
+Figure7.MicrocalorimetrystudyofAg5/SiO andAg15/α-AlO toprobethe
+2 2 3
+8 abilityinactivatingO andCH at230°Cafterdifferentpretreatment
+2 2 4 Basedonthediscussedcatalyticinvestigation akinetic analysis
+9 conditions(400°CinH 2 and350°CinO 2 ).Theinitialdifferentialheatof
+adsorptionvaluesaregiveninkJ·mol(cid:0)1. with respect to Arrhenius plots and corresponding apparent
+10
+activationenergies(E )ofEOandCO formationwasconducted
+11 A 2
+(Figure8). Figure8(a) shows the E of Ag5/SiO and Ag15/α-
+12 A 2
+AlO after reaching steady state (FigureS4, 30–60h TOS;
+13 2 3
+SiO) and 18kJ·mol(cid:0)1 (Ag15/α-AlO), still in the range where FigureS9,25–35hTOS).TheE forEOareverysimilar(Ag15/α-
+14 2 2 3 A
+molecularly adsorbed O is adsorbed.[19] In an attempt to AlO: 98�1kJ·mol(cid:0)1 and Ag5/SiO: 96�1kJ·mol(cid:0)1) evidenc-
+15 2 2 3 2
+dissolve/store again traces of oxygen in/on Ag, both samples ing that the nature of the active Ag and the formation
+16
+weretreatedinO at350°C(abovetheTammantemperatureof mechanism is identical independent of the Ag PS. The E for 17 2 A
+Ag). Dosing again O leads to significantly increased ΔH of CO of the reference system is slightly higher than for the Ag
+18 2 ads 2
+110kJ·mol(cid:0)1 (Ag5/SiO) and 65kJ·mol(cid:0)1 (Ag15/α-AlO), in the nanoparticles (Ag15/α-AlO: 114�3kJ·mol(cid:0)1 and Ag5/SiO:
+19 2 2 3 2 3 2
+range where O is activated dissociatively.[19] This is interpreted 103�5kJ·mol(cid:0)1), which might explain the lower S(EO) rea-
+20 2
+as a successful incorporation of oxygen in/on Ag by high soned in the stronger Ag(cid:0) O interaction leading locally to an
+21
+temperature activation (350°C) as responsible for the O unwanted oxygen enrichment. This interpretation is supported
+22 2
+activationatreactionconditions.TheΔH forAgnanoparticles by Figure8(b) showing the E of Ag5/SiO(cid:0) N during and after
+23 ads A 2 2
+isincreasedfollowingitsstrongerAg(cid:0) Ointeraction,interpreted the activation period. The E for EO is identical to the values
+24 A
+as PS dependent oxophilicity. When titrating with CH again, obtainedfromtheactivatedsample(98�2kJ·mol(cid:0)1).TheE for
+25 2 4 A
+an enormous heat evolution due to a chemical reaction with CO is different for the activation phase (48�4kJ·mol(cid:0)1) and
+26 2
+the stored atomic oxygen is observed (>300kJ·mol(cid:0)1). Ob- the activated sample (100�2kJ·mol(cid:0)1) extracted from two
+27
+viously, a small quantity of dissolved oxygen appears to be linear fits. This means, in the low temperature regime (160–
+28
+enough to activate[24,36a] O and to form Agδ+O to facilitate 180°C)when the sampleis still rich in oxygen andunselective,
+29 2 x
+ethylene adsorption/reaction.[42] As a consequence, purely the E for CO is significantly decreased and in the high
+30 A 2
+metallic Ag0 (without Ag d-/O p-hybridized states, “closed d- temperature regime close to the steady state values (180–
+31
+band”)[43] is unable to activate the reactants.[34b] In turn, the 200°C) almost doubled. Since the ln(rate) of the EO formation
+32
+oxygen traces needed for an active Agδ+O are within the follows during the entire temperature range a linear behavior,
+33 x
+detection limit/resolution of the TDS setup.[35d] Under the the unselective sites are removed during activation without
+34
+assumption that the surface sites quantified by ethylene their transformation into selective ones (FigureS5). As a
+35
+adsorption(30.8μmol/g )[19]andthequantifiedatomicoxygen consequence, ethylene adsorbing on an oxygen enriched sur-
+36 cat
+amount desorbing in region I (Figure4a, 14.64μmol/g ) is face reacts unselectively to CO (or to acetaldehyde and then
+37 cat 2
+solely present on the surface, a coverage in the range of 0.5 CO)butonasurfacepoorinoxygennotnecessarilytoEO.This
+38 2
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+Figure8.Arrheniusplotsandtheresultingapparentactivationenergies(E)forEOandCO formationoncatalystsAg5/SiO andAg15/α-AlO afterreaching
+56 A 2 2 2 3
+steadystate(a).ArrheniusplotsandtheresultingE forEOandCO formationofAg5/SiO(cid:0) N duringtheactivationphaseandafterwards(b).
+A 2 2 2 57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2985 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2985/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+evidences that different oxygen species are involved. Further, branching ratio we performed a series a DFT calculations
+1
+the selective transfer of an oxygen atom is part of the rate including the exchange-hole dipole moment model for
+2 determining step. If the selective oxygen stems from an dispersion.[23] Here we examined OMC formation and its
+3
+unreconstructedAgsurface,thesub-surfaceregimeorispartof subsequent decomposition into AcH/EO using a (3×3) surface
+4
+aSO intermediateisbeyondthescopeofthisstudy.However, unit cell of Ag(111) with 1–4 oxygen adatoms on the surface,
+5 x
+calculatingtheturnoverfrequency(TOF,basedontheethylene 1/9–4/9 mononlayer coverage (ML). (For completeness a (4×4)
+6
+adsorption capacities[19]) for both catalysts in the selective cell with 2/16ML oxygen was also included.) The lower cover-
+7
+regimeatalmostidenticalX(O)(Ag5/SiO(cid:0) N at190°C:X(O)= age range is near that observed on Ag surfaces,[35c,d] while the
+8 2 2 2 2
+11.80 and for Ag15/α-AlO at 170°C: X(O)=11.54, see also higher coverage is in the range of the maximum oxygen
+9 2 3 2
+Figure3),theTOFforAg15/α-AlO isalmostthree-timeshigher coverage seen in this work (~0.5ML). In addition, kinetic
+10 2 3
+compared to Ag5/SiO (for the EO and CO formation, see Monte-Carlo modelling on the surface coverage of oxygen on
+11 2 2
+FigureS10). In light of the oxygen poor Ag surfaces in the Ag (111) identified a pressure dependent phase with a low
+12
+selective state, these results might be explained by different coverage of oxygen <0.05ML.[45] Figure9 shows the activation
+13
+strength of the Ag(cid:0) O interaction leading to a decreased TOFs energiestoEOandAcHcomputedonthesesurfacesplottedas
+14
+for the Ag nanoparticles independent of the reaction path (EO a function of the corresponding heats of reaction. The stability
+15
+orCO formation).Thisisgenerallynamedasparticlesizeeffect. of the OMC intermediate is interpreted as descriptor for
+16 2 selectivitytowardsEO.[46]InspectionofFigure9revealstheBell-
+17
+Evans-Polanyi principle holds for the OMC decomposition; the
+18
+ADFTperspective activation energy scales with the heat of reaction. Moreover,
+19
+theactivationenergiesalsoscalewiththecoverageofadsorbed
+20
+Atfirstglancethisneedforlowatomicoxygenconcentrationis oxygen, with the low coverage cases having nearly equivalent
+21
+at odds with older proposals suggesting surface oxides are activation energies to EO and AcH. Conversely, at 4/9ML
+22 needed for EO production.[16,36a,44] The reasons for the require- oxygen coverage, approximately the maximum seen in this
+23
+ment of low atomic oxygen concentration can, however, be work,theactivationenergytoAcHis15kJ·mol(cid:0)1belowthatto
+24
+seenwhenconsideringhowitreactswithadsorbedethyleneas EO. This finding shows that, regardless of its nature, adsorbed
+25
+afunctionofoxygencoverage.Todosoitishelpfultobeginby atomic oxygen tends to favor AcH/CO production at high
+26 2
+examining the high coverage limit of oxygen. The reaction oxygencoverage.Thisbehaviorcanberationalizedbyconsider-
+27
+between ethylene and atomic oxygen is often thought to ingthatthebranchingratiointheOMCmechanismismediated
+28
+proceed through an oxometallacycle (OMC) intermediate,[35a,44b] by the relative strength of its C(cid:0) Ag and O(cid:0) Ag bonds, with
+29
+where the OCH fragment is bound to the surface through an decomposition to EO favored by an increase in O(cid:0) Ag bond
+30 2 4
+Ag(cid:0) O and an Ag(cid:0) C bond (FigureS11). In the OMC mechanism strength relative to C(cid:0) Ag.[47] Increasing the surface oxygen
+31
+ethylene reacts with O to form an OMC, which then decom- coverage will increase the amount of Agδ+ and O adatom
+32
+poses into EO or AcH (acetaldehyde). As AcH rapidly burns on repulsion,[43b] which will favor AcH production. This repulsive
+33
+Ag surfaces, the branching ratio to the two products places an behaviorisdirectlyevidencedfortheAg5/SiO nanoparticlesby
+34 2
+upper limit on EO selectivity. On the bulk oxide surface the the TDS 18O exchange experiments. In short, the activation
+35 2
+OMC mechanism is predicted to appear once surface O barriers calculated for the formation of EO vs. AcH as function
+36
+vacanciesarepresent,andispredictedtofavorAcHproduction
+37
+by31kJ·mol-1,[44b]makingoxygenonthereducedoxidesurface
+38
+selectivetoAcH,andhenceCO,throughtheOMCmechanism.
+39 2
+Similar behavior has been seen on the oxygen induced surface
+40
+reconstructions (nucleophilic oxygen) that can form at the
+41
+oxygen chemical potentials relevant for ethylene
+42
+epoxidation.[34b,35b,c]Inparticular,boththeoxygenreconstructed
+43
+Ag(110)[34] and Ag(111)[34b] surfaces are found to selectively
+44
+produce AcH/CO. Thus, the (nucleophilic) oxygen concentra-
+45 2
+tion should be minimized to achieve high S(EO). On unrecon-
+46
+structed surfaces,adsorbed oxygen cab form EOat acompara-
+47
+bleratetoAcH.[44b]Suchaphaseisalsopertinenttocatalysis;a
+48
+lowcoverageofoxygenhasbeenobservedonunreconstructed
+49
+Ag surfaces, again, at oxygen chemical potentials relevant for
+50
+ethylene epoxidation.[35c,d] The unreconstructed atomic oxygen
+51
+phase also likely plays a role in mediating the coverage of
+52
+electrophilic oxygen during catalysis.[34b] Thus, it is critical to
+53
+understand how atomic oxygen on the surface should be
+54
+managed to achieve high S(EO). How the chemistry of this 55 Figure9.DFTcalculationsoftheactivationbarriersfortheformationofEO
+phase changes as a function of coverage is, however, unclear. andAcHfromanOMCintermediateasafunctionoftheoxygencoverageon
+56
+To investigate the role of oxygen coverage on the OMC Ag(111).
+57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2986 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2986/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+of the oxygen coverage on the Ag surface gives a direct Supporting Information
+1
+explanation for the experimental findings: increasing the
+2
+concentration of atomic oxygen adsorbed on Ag reduces EO Additional information on the PS distribution, kinetic analysis
+3
+selectivity(Figure3,6and7)regardlessofwhetheritispresent andDFTcalculationsaregiven.
+4
+inanunreconstructedadatomphaseorasnucleophilicoxygen.
+5
+6
+Acknowledgment
+7
+Conclusion
+8
+MLacknowledgesMaikeHashagenfortheBETmeasurements.We
+9
+BasedontheadvancedsynthesisofsupportedAgnanoparticles thank Höchstleistungsrechenzentrum Stuttgart (HLRS) for access
+10
+<6nm with a narrow size distribution (Ag5/SiO model to the supercomputer HazelHen through the SEES2 project. BASF
+11 2
+catalysts),[19] we demonstrate its activity and selectivity in the SEiskindlyacknowledgedforfunding.
+12
+ethyleneepoxidationunderindustriallyrelevantconditions.The
+13
+high strength of the Ag(cid:0) O interaction allowed a resolution of
+14
+theactivationperiodandtheidentificationoftheselectivestate Conflict of Interest
+15
+ofAg.TheconceptofanoxygenpoorandselectivestateofAg
+16
+is independent of the Ag particle size and transferable to a Theauthorsdeclarenoconflictofinterest.
+17
+Ag15/α-AlO reference system. Complementary TDS experi-
+18 2 3
+ments of Ag5/SiO and Ag15/α-AlO extracted the differences
+19 2 2 3 Keywords: Ag(cid:0) O interaction · Ag nanoparticles · ethylene
+in Ag(cid:0) O interaction also with respect to quantity and accessi-
+20 epoxidation · oxophilicity · supported Ag catalysts · selective
+bility. The Ag nanoparticles exhibit a high strength in Ag(cid:0) O
+21 state
+interaction, coupled to a comparably high oxygen concen-
+22
+tration and low accessibility. These findings make the trans-
+23
+formationofAgnanoparticlesintoaselectivecatalystchalleng-
+24
+ing and serve as explanation on the diverse performances
+25 [1] R.Schlögl,Angew.Chem.Int.Ed.2015,54,3465–3520.
+discussed in the literature. The present findings correlate well
+26 [2] a)R. Schlögl, S.B. AbdHamid, Angew. Chem. Int. Ed. 2004, 43, 1628–
+with a suite of spectroscopic studies aimed at finding the 1637;b)J.R.Anderson,Sci.Prog.1985,69,461–484.
+27
+oxygenspeciesresponsibleforselectiveoxidation.Thestandard [3] J.P.denBreejen,P.B.Radstake,G.L.Bezemer,J.H.Bitter,V.Frøseth,A.
+28 Holmen,K.P.dJong,J.Am.Chem.Soc.2009,131,7197–7203.
+picture on the roles of nucleophilic (combustion) and
+29 [4] A.Ueno,H.Suzuki,Y.Kotera,J. Chem.Soc.FaradayTrans.11983,79,
+electrophilic[48] (selective) oxygen is oversimplified, since under 127–136.
+30
+reaction conditions nucleophilic oxygen doesnot appear to be [5] J. Hoffmann, I. Meusel, J. Hartmann, J. Libuda, H.J. Freund, J. Catal.
+31 2001,204,378–392.
+necessary. Adsorbed atomic oxygen, as shown by isotope 32 [6] N.I.Jaeger,A.L.Jourdan,G.Schulz-Ekloff,J.Chem.Soc.FaradayTrans.
+exchange experiments, can easily migrate into the sub-surface 1991,87,1251–1257.
+33
+region[49]whereitcanmodifytheelectronicstructureofAg.As [7] I.Kasatkin,P.Kurr,B.Kniep,A.Trunschke,R.Schlögl,Angew.Chem.Int.
+34 Ed.2007,46,7324–7327.
+a consequence, a key to a selective state of the catalyst is to
+35 [8] Y.Lei,F.Mehmood,S.Lee,J.Greeley,B.Lee,S.Seifert,R.E.Winans,J.W.
+minimize the atomic oxygen on the surface. In industrially Elam,R.J.Meyer,P.C.Redfern,D.Teschner,R.Schlögl,M.J.Pellin,L.A.
+36
+applied systems this is realized by promoters.[50] Due to the Curtiss,S.Vajda,Science2010,328,224–228.
+37 [9] J.T.Miller,A.J.Kropf, Y. Zha,J.R. Regalbuto,L.Delannoy,C.Louis, E.
+strong Ag(cid:0) O interaction of nanoparticles (higher oxophilicity),
+38 Bus,J.A.vanBokhoven,J.Catal.2006,240,222–234.
+notonlytheactivationphaseisintriguing,butalsotheoxygen [10] a)J.E. vandenReijen, S. Kanungo, T.A.J. Welling, M. Versluijs-Helder,
+39
+poorAgsurfacemightaccumulatelocallyanexcessofadsorbed T.A. Nijhuis, K.P. deJong, P.E. deJongh, J. Catal. 2017, 356, 65–74;
+40 b)J.C.Wu,P.Harriott,J.Catal.1975,39,395–402.
+oxygen leading to a lowered S(EO) and E of CO. Further, the
+41 A 2 [11] X.E.Verykios,F.P.Stein,R.W.Coughlin,J.Catal.1980,66,368–382.
+TOFsfortheEOandCO formationoftheAgnanoparticlesare [12] S.Cheng,A.Clearfield,J.Catal.1985,94,455–467.
+42 2
+negatively affected (~1/3 compared to Ag15/α-AlO) and a [13] J.K.Lee,X.E.Verykios,R.Pitchai,Appl.Catal.1989,50,171–188.
+43 2 3 [14] S.N. Goncharova, E.A. Paukshtis, B.S. Bal’zhinimaev, Appl. Catal. A
+distinctPSeffectisevidenced.
+44 1995,126,67–84.
+In summary, the concept of highly dispersed nanoparticles [15] A.J.F. vanHoof, E.A.R. Hermans, A.P. vanBavel, H. Friedrich, E.J.M.
+45 creating more active sites is, particularly for Ag, however, not Hensen,ACSCatal.2019,9,9829–9839.
+46 [16] D.V.Demidov,I.P. Prosvirin,A.M. Sorokin,T.Rocha,A.Knop-Gericke,
+without pitfalls. The design challenge remains in the trans-
+47 V.I.Bukhtiyarov,Kinet.Catal.2011,52,855–861.
+formationofreactivesitesintoselectiveones.Thepresentcase [17] A.P.Fotopoulos,K.S.Triantafyllidis,Catal.Today2007,127,148–156.
+48
+illustrates how the reaction of nanostructures with unexpected [18] a)M.Boudart,Adv.Catal.1969,20,153;b)R.vanHardeveld,F.Hartog,
+49 Adv. Catal. 1972, 22, 75–113; c)C.T. Campbell, J.R.V. Sellers, Faraday
+stability parameters may override the positive effect of higher
+50 Discuss.2013,162,9–30;d)C.T.Campbell,Z.Mao,ACSCatal.2017,7,
+dispersion. The intriguing Ag(cid:0) O chemistry incombination with 8460–8466.
+51
+a PS dependent activation led to the controversially discussed [19] M. Lamoth, M. Plodinec, L. Scharfenberg, S. Wrabetz, F. Girgsdies, T.
+52 Jones, F. Rosowski, R. Horn, R. Schlögl, E. Frei, ACS Appl. Nano Mater.
+role of Ag nanoparticles and a PS effect, which has now been
+53 2019,2,2909–2920.
+understoodandclarified. [20] T. Rosendahl, T. Mäurer, C.K. Dobner, A. Lehr, J. Wanka, BASF SE,
+54
+Ludwigshafen(GER),Germany,2013,p.55.
+55 [21] A. Coelho, TOPAS: General Profile and Structure Analysis Software for
+56 Powder Diffraction Data; Bruker AXS GmbH: Karlsruhe, Germany 2014,
+version5. 57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2987 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2987/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+FullPapers
+ChemCatChem doi.org/10.1002/cctc.202000035
+[22] P.Giannozzi,S.Baroni,N.Bonini,M.Calandra,R.Car,C.Cavazzoni,D. [36] a)V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,Surf.Sci.1994,320,L47-L50;
+1
+Ceresoli, G.L. Chiarotti, M. Cococcioni, I. Dabo, A. DalCorso, S. b)R. Wyrwich, T.E. Jones, S. Günther, W. Moritz, M. Ehrensperger, S.
+2 deGironcoli, S. Fabris, G. Fratesi, R. Gebauer, U. Gerstmann, C. Böcklein, P. Zeller, A. Lünser, A. Locatelli, T.O. Menteş, M.Á. Niño, A.
+3 Gougoussis,A.Kokalj,M.Lazzeri,L.Martin-Samos,N.Marzari,F.Mauri, Knop-Gericke,R.Schlögl,S.Piccinin,J.Wintterlin,J.Phys.Chem.C2018,
+R. Mazzarello, S. Paolini, A. Pasquarello, L. Paulatto, C. Sbraccia, S. 122,26998–27004.
+4
+Scandolo, G. Sclauzero, A.P. Seitsonen, A. Smogunov, P. Umari, R.M. [37] L.K.Ono,B.R.Cuenya,J.Phys.Chem.C2008,112,18543–18550.
+5 Wentzcovitch,J.Phys.Condens.Matter2009,21,395502. [38] S. Böcklein, S. Günther, J. Wintterlin, Angew. Chem. Int. Ed. 2013, 52,
+6 [23] a)A.D. Becke, E.R. Johnson, J. Chem. Phys. 2007, 127, 154108; b)A. 5518–5521.
+Otero-de-la-Roza,E.R.Johnson,J.Chem.Phys.2012,136,174109. [39] a)C.T. Campbell, Surf. Sci. 1985, 157, 43–60; b)C.T. Campbell, M.T.
+7
+[24] T.E. Jones, R. Wyrwich, S. Böcklein, E.A. Carbonio, M.T. Greiner, A.Y. Paffett,Surf.Sci.1984,143,517–535.
+8 Klyushin, W. Moritz, A. Locatelli, T.O. Menteş, M.A. Niño, A. Knop- [40] X.-C.Guo,R.J.Madix,J.Phys.Chem.B2001,105,3878–3885.
+9 Gericke,R.Schlögl,S.Günther,J.Wintterlin,S.Piccinin,ACSCatal.2018, [41] I.E.Wachs,S.R.Kelemen,J.Catal.1981,71,78–87.
+8,3844–3852. [42] T.E. Jones, T.C.R. Rocha, A. Knop-Gericke, C. Stampfl, R. Schlögl, S.
+10
+[25] A.DalCorso,Comput.Mater.Sci.2014,95,337–350. Piccinin,ACSCatal.2015,5,5846–5850.
+11 [26] N.Marzari,D.Vanderbilt,A.DeVita,M.C.Payne,Phys.Rev.Lett.1999, [43] a)L. Zwiener, T. Jones, E.H. Wolf, F. Girgsdies, M. Plodinec, A.Y.
+12 82,3296–3299. Klyushin,E.Willinger,F.Rosowski,R.Schlögl,E.Frei,Eur.J.Inorg.Chem.
+[27] E.R.Jette,F.Foote,J.Chem.Phys.1935,3,605–616. 2019,2019,2333–2345;b)W.-X.Li,C.Stampfl,M.Scheffler,Phys.Rev.B
+13
+[28] N.Koga,S.Yamada,T.Kimura,J.Phys.Chem.C2013,117,326–336. 2002,65,075407.
+14 [29] W.M.Haynes,CRCHandbookofChemistryandPhysics,96thEdition,CRC [44] a)C.Stegelmann,N.C.Schiødt,C.T.Campbell,P.Stoltze,J.Catal.2004,
+15 Press,2015. 221, 630–649; b)M.O. Özbek, R.A. vanSanten, Catal. Lett. 2013, 143,
+[30] W.Luo,W.Hu,S.Xiao,J.Phys.Chem.C2008,112,2359–2369. 131–141.
+16 [31] R.W.Clayton,S.V.Norval,inCatalysis:Volume3,Vol.3(Eds.:C.Kemball, [45] M. Huš,M. Grilc,A.Pavlišič, B.Likozar,A.Hellman, Catal.Today2019,
+17 D.A.Dowden),TheRoyalSocietyofChemistry,1980,pp.70–97. 338,128–140.
+18 [32] a)J.M.Kanervo,T.J.Keskitalo,R.I.Slioor,A.O.I.Krause,J.Catal.2006, [46] L.Zhu,W.Zhang,J.Zhu,D.Cheng,Appl.Catal.A2017,538,27–36.
+238, 382–393; b)G.W. Busser, O. Hinrichsen, M. Muhler, Catal. Lett. [47] A.Kokalj,P.Gava,S.deGironcoli,S.Baroni,J.Catal.2008,254,304–309.
+19
+2002,79,49–54. [48] T.C.R.Rocha,A.Oestereich,D.V.Demidov,M.Hävecker,S.Zafeiratos,
+20 [33] a)M. Bowker, M.A. Barteau, R.J. Madix, Surf. Sci. 1980, 92, 528–548; G.Weinberg,V.I.Bukhtiyarov,A.Knop-Gericke,R.Schlögl,Phys.Chem.
+21 b)X.Bao,J.Deng,S.H.Dong,Surf.Sci.1985,163,444–456;c)G.Rovida, Chem.Phys.2012,14,4554–4564.
+J.Phys.Chem.1976,80,150–154. [49] T.E. Jones, T.C.R. Rocha, A. Knop-Gericke, C. Stampfl, R. Schlögl, S.
+22 [34] a)C.T. Campbell, M.T. Paffett, Surf. Sci. 1984, 139, 396–416; b)T.E. Piccinin,Phys.Chem.Chem.Phys.2014,16,9002–9014.
+23 Jones, R. Wyrwich, S. Böcklein, T.C.R. Rocha, E.A. Carbonio, A. Knop- [50] C.-J.Chen,J.W.Harris,A.Bhan,Chem.Eur.J.2018,24,12405–12415.
+24 Gericke,R.Schlögl,S.Günther,J.Wintterlin,S.Piccinin,J.Phys.Chem.C
+2016,120,28630–28638.
+25
+[35] a)S.Linic,M.A.Barteau,J.Am.Chem.Soc.2002,124,310–317;b)W.-X.
+26 Li,C.Stampfl,M.Scheffler,Phys.Rev.B2003,68,165412;c)T.E.Jones,
+27 T.C.R.Rocha,A.Knop-Gericke,C.Stampfl,R.Schlögl,S.Piccinin,Phys. Manuscriptreceived:January8,2020
+Chem.Chem.Phys.2015,17,9288–9312;d)E.A.Carbonio,T.C.R.Rocha, Revisedmanuscriptreceived:March23,2020
+28 A.Y.Klyushin,I.Píš,E.Magnano,S.Nappini,S.Piccinin,A.Knop-Gericke, Acceptedmanuscriptonline:April1,2020
+29 R.Schlögl,T.E.Jones,Chem.Sci.2018,9,990–998. Versionofrecordonline:May7,2020
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+ChemCatChem2020,12,2977–2988 www.chemcatchem.org 2988 ©2020TheAuthors.PublishedbyWiley-VCHVerlagGmbH&Co.KGaA
+WileyVCH Montag,25.05.2020 1
+2011/164488 [S.2988/2988]
+18673899,
+2020,
+11,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000035
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+

@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/YSZ",
+        "relationship": "形成",
+        "end_node": "Ag团簇"
+    },
+    {
+        "start_node": "Ag团簇",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag团簇",
+        "relationship": "烧结",
+        "end_node": "大Ag颗粒"
+    },
+    {
+        "start_node": "大Ag颗粒",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/GDC",
+        "relationship": "线性增加",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/GDC",
+        "relationship": "线性增加",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "正电流",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "正电流",
+        "relationship": "提高",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "220–320°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "常压"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.29–2"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "2–15 nm"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "电化学氧化",
+        "relationship": "产生",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "电化学氧化",
+        "relationship": "竞争",
+        "end_node": "氧析出反应"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "捕获",
+        "end_node": "Ag+离子"
+    },
+    {
+        "start_node": "Ag+离子",
+        "relationship": "还原",
+        "end_node": "Ag团簇"
+    },
+    {
+        "start_node": "反应磁控溅射",
+        "relationship": "制备",
+        "end_node": "Ag/GDC"
+    },
+    {
+        "start_node": "化学浸渍",
+        "relationship": "制备",
+        "end_node": "Ag/YSZ"
+    },
+    {
+        "start_node": "Ag2CO3",
+        "relationship": "热分解",
+        "end_node": "金属Ag"
+    },
+    {
+        "start_node": "金属Ag",
+        "relationship": "形成",
+        "end_node": "纳米颗粒"
+    },
+    {
+        "start_node": "纳米颗粒",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "GDC载体",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "法拉第效率"
+    },
+    {
+        "start_node": "法拉第效率",
+        "relationship": "范围",
+        "end_node": "7–25%"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "C掺杂h-BN",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "C掺杂h-BN",
+        "relationship": "具有",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "C掺杂h-BN",
+        "relationship": "形成",
+        "end_node": "活化区域"
+    },
+    {
+        "start_node": "活化区域",
+        "relationship": "范围",
+        "end_node": "~5.0 Å"
+    },
+    {
+        "start_node": "O2吸附",
+        "relationship": "第一步",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "O2吸附",
+        "relationship": "强于",
+        "end_node": "C2H4吸附"
+    },
+    {
+        "start_node": "OOC2H4中间体",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OOC2H4中间体",
+        "relationship": "形成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "环氧乙烷形成",
+        "relationship": "能垒",
+        "end_node": "0.39 eV"
+    },
+    {
+        "start_node": "乙醛形成",
+        "relationship": "能垒",
+        "end_node": "0.96 eV"
+    },
+    {
+        "start_node": "环氧乙烷形成",
+        "relationship": "优先于",
+        "end_node": "乙醛形成"
+    },
+    {
+        "start_node": "距离增加",
+        "relationship": "轻微影响",
+        "end_node": "活化能垒"
+    },
+    {
+        "start_node": "距离增加",
+        "relationship": "轻微影响",
+        "end_node": "反应中间体"
+    },
+    {
+        "start_node": "C掺杂",
+        "relationship": "功能化",
+        "end_node": "h-BN"
+    },
+    {
+        "start_node": "C掺杂h-BN",
+        "relationship": "作为",
+        "end_node": "无金属催化剂"
+    },
+    {
+        "start_node": "C掺杂h-BN",
+        "relationship": "适用于",
+        "end_node": "氧化反应"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "范围",
+        "end_node": "2-3 h"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "673 K"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "降低",
+        "end_node": "表面积"
+    },
+    {
+        "start_node": "表面积",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag迁移",
+        "relationship": "导致",
+        "end_node": "烧结"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "100-400 nm"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "烧结"
+    },
+    {
+        "start_node": "长煅烧时间",
+        "relationship": "促进",
+        "end_node": "烧结"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "影响",
+        "end_node": "粒径"
+    },
+    {
+        "start_node": "高负载量",
+        "relationship": "增加",
+        "end_node": "粒径"
+    },
+    {
+        "start_node": "Al2O3载体",
+        "relationship": "支撑",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "540 K"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "6-10%"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "10%"
+    },
+    {
+        "start_node": "Ag前驱体",
+        "relationship": "影响",
+        "end_node": "性能"
+    },
+    {
+        "start_node": "银硝酸盐",
+        "relationship": "作为",
+        "end_node": "Ag前驱体"
+    },
+    {
+        "start_node": "O2吸附",
+        "relationship": "表征",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "TPD",
+        "relationship": "检测",
+        "end_node": "氧物种"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "粒径分布"
+    },
+    {
+        "start_node": "短煅烧时间",
+        "relationship": "减少",
+        "end_node": "烧结"
+    },
+    {
+        "start_node": "短煅烧时间",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "影响",
+        "end_node": "TOF"
+    },
+    {
+        "start_node": "高负载量",
+        "relationship": "提高",
+        "end_node": "TOF"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "TOF"
+    },
+    {
+        "start_node": "Ag迁移",
+        "relationship": "形成",
+        "end_node": "Ag膜"
+    },
+    {
+        "start_node": "Ag膜",
+        "relationship": "覆盖",
+        "end_node": "大孔壁"
+    },
+    {
+        "start_node": "Ag迁移",
+        "relationship": "减少",
+        "end_node": "中孔Ag"
+    }
+]

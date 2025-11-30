@@ -1,0 +1,648 @@
+Chemical Engineering Science 321 (2026) 122652
+Contents lists available at ScienceDirect
+Chemical Engineering Science
+journal homepage: www.elsevier.com/locate/ces
+Engineering surface Si-OH species for highly effective ethylene epoxidation
+on Ag/SiO catalyst
+2
+Kaipeng Caoa,1, Min Huanga,1, Gang Wanga,b,c, Jie Lia,b, Chunshan Lia,b,*
+aState Key Laboratory of Mesoscience and Engineering, CAS Key Laboratory of Green Process and Engineering, Beijing Key Laboratory of Ionic Liquids Clean Process,
+Institute of Process Engineering, Chinese Academy of Sciences, Beijing 100190, PR China
+bSchool of Chemical Engineering, University of Chinese Academy of Sciences, Beijing 101408, PR China
+cLongzihu New Energy Laboratory, Zhengzhou Institute for Emerging Industrial Technology, Henan University, Zhengzhou 450000, PR China
+A R T I C L E I N F O A B S T R A C T
+Keywords: The catalyst supports for ethylene epoxidation are conventionally limited to low-surface-area α-Al2O3 to suppress
+Ethylene epoxidation undesired secondary transformations of ethylene oxide (EO). In this work, high specific surface area SiO2 was
+Support management employed as a support. Systematic investigations reveal hydrogen-bonded silanol groups as a critical factor
+Silver catalysts
+influencing EO selectivity through dual mechanisms. These groups significantly affect the desorption kinetics of
+surface Si-OH
+surface species on Ag nanoparticles, potentially affecting the elementary steps of EO production. Furtherly, they
+EO selectivity also serve as active sites for EO secondary conversion. Thermal pretreatment (700 ◦C) for SiO2 support effectively
+reduces hydrogen-bonded silanols via dehydration/condensation while retaining the silica’s porous architecture.
+The resulting Ag/SiO2 catalyst features ultrasmall Ag nanoparticles (~3 nm) and demonstrates exceptional
+performance of 81 % EO selectivity without requiring promoters. Furthermore, kinetic studies of the ethylene
+oxidation reaction were conducted to investigate the impact of silanol species on reaction. This study provides
+new insights into the influence of surface hydroxyls on ethylene epoxidation and offers a potential strategy for
+optimizing catalyst performance through controlled surface modification.
+1. Introduction remain the sole choice in the industrial sphere for this reaction. (Hwang
+et al., 2024) Research has shown that the delicate structure of the silver
+Ethylene oxide (EO) is a highly significant raw material and synthetic surface and reactive oxygen species, which can vary significantly across
+intermediate, with extensive applications in the production of ethylene different facets, play a crucial role in determining both activity and
+glycol, nonionic surfactants, alcohol ethers, and various other oxygen- selectivity. (Christopher and Linic, 2008; Hus and Hellman, 2019; Guo
+containing downstream products. (Pu et al., 2019) The chlorohydrin et al., 2024) The EO selectivity achieved by an unpromoted silver
+process, initially employed for EO production in 1914, was progressively catalyst is around 50 %. (Christopher and Linic, 2008; van Santen and
+discontinued due to its hazardous nature and pollution issues. Currently, Kuipers, 1987; Jalil et al., 2025) Numerous studies have been devoted to
+ethylene epoxidation stands as the synthetic principal route for large- enhancing the performance of conventional Ag-based epoxidation cat-
+scale EO production. In EO production processes, a major focus is alysts through the use of promoters, such as Cs, Mo, Re, and SO4
+2(cid:0)
+, with
+placed on reducing the complete oxidation of both ethylene and EO (Chu the promoting mechanisms typically classified into geometric and
+et al., 2025; Soni et al., 2025). Therefore, precise control of the selective electronic effects. (Hwang et al., 2024; Ramirez et al., 2016; Serafin
+epoxidation reactions for EO synthesis is crucial, as improvements in et al., 1998; Diao et al., 2015; Keijzer et al., 2025; Keijzer et al., 2025;
+catalyst selectivity can lead to significant capital savings and notable Salaev, 2021; Keivanimehr et al., 2025) Furthermore, Cl is incorporated
+reductions in emissions. (Hus et al., 2023). into the catalytic system to facilitate the chlorine deposition on the
+Despite the first report of the catalytic process for ethylene epoxi- catalyst surface, acting as a promoter. (Rocha et al., 2014; Pursell et al.,
+dation in 1931 and ongoing research efforts, silver-based catalysts 2003; Campbell and Paffett, 1984; Iyer and Bhan, 2024) Most recently,
+* Corresponding author at: State Key Laboratory of Mesoscience and Engineering, CAS Key Laboratory of Green Process and Engineering, Beijing Key Laboratory of
+Ionic Liquids Clean Process, Institute of Process Engineering, Chinese Academy of Sciences, Beijing 100190, PR China.
+E-mail address: csli@ipe.ac.cn(C. Li).
+1 These authors contributed equally to this work.
+https://doi.org/10.1016/j.ces.2025.122652
+Received 9 July 2025; Received in revised form 9 September 2025; Accepted 19 September 2025
+Available online 20 September 2025
+0009-2509/© 2025 Published by Elsevier Ltd.
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+Jalil reported that the addition of Ni in a 1:200 Ni to Ag atomic ratio to achieve a typical silver loading of 15 wt% (the mass percentage of Ag
+supported Ag catalyst could provide a ~ 25 % selectivity increase. (Jalil relative to SiO2 is 15 %). Following the impregnation process, the
+et al., 2025) Additionally, the size of silver particles is acknowledged as samples were dried at 120 ◦C for an overnight period to obtain the Ag/
+another crucial factor influencing process selectivity. Silver particles SiO2 precursor. Afterwards, the samples were compressed and sieved
+sized from tens to hundreds of nanometers are typically required to into uniform granules (20–40 mesh) and subsequently activated in situ
+achieve high EO selectivity (Sun et al., 2022; van den Reijen et al., 2017; within the reaction tubes for the subsequent evaluation. This activation
+Keijzer et al., 2024; Egelske et al., 2022; van Hoof et al., 2019). Under was conducted under a meticulously controlled atmosphere with a ni-
+multiple optimization, a well-engineered catalyst can achieve an EO trogen to hydrogen ratio of 9:1, at a temperature of 350 ◦C, and was
+selectivity rate of 90 % with Cl co-flow. (Pu et al., 2019; Salaev et al., sustained for a period of 2 h. The reduced sample is referred to as Ag/
+2021). SiO2 catalyst.
+The support also plays a crucial role in this reaction. Previous studies
+have underscored the challenge faced when employing high specific
+surface area oxides as supports for silver catalysts in ethylene epoxida- 2.3. Characterization
+tion, as they often display inferior performance due to the surface’s
+propensity for promoting the undesired decomposition of EO. (Yong X-ray diffraction (XRD) patterns were obtained on an X-ray diffrac-
+et al., 1991; van den Reijen et al., 2019; Kanoh et al., 1979; Jain and tometer of PANalytical X’Pert PRO with Cu Kα radiation (scanning
+Stangland, 2025) Triantafyllidis et al. (Fotopoulos and Triantafyllidis, speed: 5◦/min, scanning region: 10 ~ 90◦). The morphologies of zeolites
+2007) compared the activity of silver catalysts supported on non porous were acquired using Hitachi SU8020 scanning electron microscope
+SiO2, silicates, aluminosilicates, and α (cid:0) Al2O3 in ethylene epoxidation. (SEM). Transmission electron micrograph (TEM) images were obtained
+They found that the selectivity of ethylene oxide on silver catalysts on a JEOL JEM-2100F microscope. Textural properties of the samples
+supported on mesoporous aluminosilicates was comparable to that of were obtained on a Micromeritics ASAP 2460 analyzer through N2
+Ag/α (cid:0) Al2O3 catalysts. However, mesoporous aluminosilicates have adsorption and desorption measurements. X-ray photoelectron spec-
+almost zero selectivity for ethylene oxide due to the presence of a small troscopy (XPS) analysis was conducted on an ESCALAB 250Xi electron
+number of acidic sites on their surface. It is widely acknowledged that spectrometer. 1H NMR spectra were recorded on the AVANCE III HD
+the secondary conversion of EO is strongly influenced by the acidic 500 MHz resonant spectrometer from Brooke. Before test, samples were
+properties of the support. (Fotopoulos and Triantafyllidis, 2007; Lee treated under vacuum at 350 ◦C for 6 h to remove the physically
+et al., 1988; Bulushev et al., 1995) The EO precursors (intermediate adsorbed water.
+species), initially formed on silver sites, undergo isomerization to acet- The oxygen temperature-programmed oxidation (O2-TPO) experi-
+aldehyde on either Lewis or Brønsted acid sites of the support. Acetal- ments were performed on a Micromeritics Autochem II 2920 equipped
+dehyde is subsequently oxidized on the silver sites, ultimately producing with a TCD detector. 0.1 g Ag/SiO2 catalyst was loaded into a U-shaped
+CO2. Besides, hydroxyl groups have been reported to play a prominent quartz tube and pretreated under flowing of a 10 % H2 in He gas mixture
+role in the secondary conversion of EO. (van den Reijen et al., 2019) at a rate of 30 mL/min at 350 ◦C for 2 h. Subsequently, the sample was
+Nevertheless, the influence of support surface characteristics on the cooled to 50 ◦C, and the gas flow was switched to a 5 % O2/He mixture
+ethylene epoxidation reaction process and subsequent reactions remains (30 mL/min). The temperature was then linearly ramped from 50 ◦C to
+poorly understood, hindering the development of high surface area 350 ◦C at a rate of 10 ◦C/min. TCD signals were recorded to quantify
+supports for the process. (Mao and Vannice, 1995) Consequently, oxygen consumption. Temperature programmed desorption of oxygen
+α-Al2O3 with low surface areas (<1 m2/g) has predominantly been (O2-TPD) and ethylene (C2H4-TPD) was performed on a Micromeritics
+adopted to mitigate the conversion of EO. Autochem II 2920 equipped with a mass spectrometer. All the experi-
+In this study, Ag/SiO2 catalysts with ultrasmall silver nanoparticles ment is conducted with 0.1 g sample, which was paced in a U-shaped
+(~3 nm) were prepared using high specific surface area SiO2 with quartz tube. Under a continuous flow of a 10 % H2 in He gas mixture at a
+varying surface properties for the ethylene epoxidation reaction. It’s rate of 30 mL/min, the sample was heated up to 350◦C for a pretreat-
+revealed that surface hydroxyls, particularly hydrogen-bonded silanol ment period of 2 h. After the pretreatment process, the temperature was
+groups, play a primary factor contributing to the reduced selectivity of cooled down to 50◦C, and a mixture of 10 % O2 (or C2H4) in He was
+EO during the epoxidation reaction, and the mechanism was revealed. introduced with a flowing rate of 30 mL/min and maintained for 1 h to
+This work provides new insights into the effect of support on Ag catalyst, enable the samples to adsorb O2 (or C2H4) until saturation. Subse-
+and offers a strategy for enhancing the product selectivity of the quently, to eliminate weakly physically adsorbed O2 (or C2H4) from the
+ethylene epoxidation reaction. surface of the test sample, the gas flow was switched to pure He at a rate
+of 30 mL/min and maintained for another hour. Finally, the temperature
+2. Experimental section was gradually increased to 900◦C at a rate of 10◦C /min to initiate the
+desorption process. During this stage, the signals of the desorbed gases
+2.1. Materials and reagents were captured and analyzed using a mass spectrometer.
+Acid-base titration analysis was used to measure the total content of
+Silica (SiO2, analytical grade, Shanghai Zhongye New Material Co., silanol groups on the surface of silica. (Wang et al., 2015) Firstly, 25 ml
+Ltd.); Silver nitrate (AgNO3, analytical grade, Xilong Scientific Co., ethanol and 75 ml NaCl solution (20 wt%) were add into the conical
+Ltd.); N2, O2, C2H4, H2, CO2, and EO standard gas (Containing 0.5 % flask; Then, 1 g pre-dried silica (pre-drying temperature: 110 ◦C) was
+ethylene oxide and balanced with 99.5 % nitrogen) are all supplied by added, and the flask was sealed tightly before being vigorously shaken to
+Langfang Langwei Gas Co., Ltd. ensure uniform mixing. The mixture was then allowed to equilibrate for
+24 h to facilitate the interaction between the silica and the solution. To
+2.2. Catalyst preparation maintain a pH of 4 within the conical flask, 0.01 mol/L hydrochloric
+acid was carefully titrated into the solution. Following this, a basic
+Amorphous silica (SiO2) was adopted as the support material for the burette filled with V1 ml of 0.01 mol/L (CNaOH) NaOH solution was then
+preparation of Ag/SiO2 catalysts. The surface concentration of silanol used to incrementally adjust the pH of the solution from 4 to 9. This
+(Si-OH) groups on the SiO2 was regulated through heat treatment at adjustment was held for a minimum of 20 s to ensure stability. At the end
+temperatures of 500◦C, 600◦C, 700◦C, and 800 ◦C respectively for a of this step, the volume of NaOH in the basic burette was denoted as V2.
+duration of 300 min each. Different batches of SiO2 were then subjected Utilizing formula (1), the silicon hydroxyl content (M, mmol/g) on the
+to equal volume impregnation with an aqueous silver nitrate solution to surface of the silica could be calculated.
+2
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+M=
+CNaOH ×(V1 (cid:0) V2 )
+×100% (1)
+isothermal conditions (200 ◦C) to track dynamic surface species evolu-
+mSiO2 tion during catalysis.
+The Fourier transform infrared (FTIR) spectra were collected using a
+Nicolet-380 spectrometer equipped with a MCT detector. Experimental 2.4. Catalysis test
+samples were compressed into self-supporting wafers and mounted in an
+in situ reaction cell. Prior to measurement, the wafers were pretreated The performance of catalysts was evaluated in a fixed bed reactor,
+through dehydration at 400 ◦C under nitrogen flow (30 mL/min) for 30 employing a quartz tube with an inner diameter of 10 mm and a length
+min to remove physisorbed water. After cooling to room temperature, of 450 mm as the reaction tube. The reduced Ag/SiO2 catalyst (0.7 g,
+the spectra were recorded. For the in situ FTIR study of EO conversion, 20–40 mesh) was cooled to reaction temperature (200 ◦C), and a
+the dehydrated catalyst was exposed to a 0.5 % EO gas mixture mixture of reactant gas (C2H4: O2: N2 =10: 30: 60) was introduced. The
+(balanced with N2) under continuous flow (30 mL/min) at 200 ◦C. Time- reaction proceeded under atmospheric pressure with a GHSV of 5657
+resolved infrared spectra were collected throughout the gas exposure mL/g/h. The products analysis was carried out using an Agilent 7890B
+period, with the background spectrum recorded under identical thermal gas chromatograph equipped with HP-PLOT/Q, MolSieve 5A, and Por-
+conditions at 200 ◦C prior to EO introduction. apak Q column, complemented by both thermal conductivity detector
+In situ Raman spectroscopy was conducted on a Horiba LabRAM HR (TCD) and flame ionization detector (FID). The experiment of ethylene
+evolution system to probe surface species on Ag particles. Prior to re- oxide conversion on SiO2 and Ag/SiO2 catalysts was carried out at a
+action, the catalyst was subjected to a reduction pretreatment under temperature of 200 ◦C, with an EO standard gas (EO/N2 =0.5/99.5)
+flowing H2/N2 (1:4) at 350 ◦C for 2 h. Subsequently, the system was flow of 1200 mL/g/h and 5657 mL/g/h respectively.
+cooled to 50 ◦C under inert atmosphere, followed by acquisition of
+baseline Raman spectra. The pretreated catalyst was exposed to an O2/ 3. Results and discussion
+N2 (1:9) mixture with temperature-programmed heating to 200 ◦C. In
+situ Raman spectra were recorded at key thermal stages (50 ◦C, 100 ◦C, 3.1. Characterization and quantitative analysis of surface Si-OH species
+150 ◦C, and 200 ◦C), with the system held for 20 min at each temper-
+ature to ensure thermal equilibration. At 200 ◦C, the feed gas was The SiO2 support with abundant surface hydroxyl groups was first
+switched to O2/C2H4/N2 (3:1:6) to initiate ethylene epoxidation. Time- calcined at varying temperatures (500-800◦C) to systematically modu-
+resolved Raman spectra were continuously acquired over 30 min under late the concentration and configuration of surface silanol species. (Sot
+et al., 2019) Subsequently, silver was loaded on the untreated/thermally
+Fig. 1. Characterization and quantitative analysis of surface Si-OH species by employing in situ FTIR, 1H NMR and chemical titration method. (a, b, c) pristine SiO2
+support samples treated at different calcination temperature. (d, e, f) Ag/SiO2 catalyst series prepared using the corresponding SiO2 support after treatment.
+3
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+treated SiO2 supports through equal volume impregnation method, silanol species exhibited minimal reduction (0.061 to 0.047 mmol/g).
+fabricating Ag/SiO2 catalysts with silver loading of 15 wt%. Charac- Strikingly, hydrogen-bonded silanols demonstrated a 5.5-fold depletion
+terization and quantitative analysis of surface Si-OH species were con- from 0.186 mmol/g to 0.034 mmol/g, suggesting their much higher
+ducted by employing FTIR, 1H NMR and chemical titration method. thermal sensitivity. A similar trend is observed for Ag/SiO2 catalysts
+Silanol species are typically identified by the O-H stretching vibration (Fig. 1d-f), indicating that the loading of silver does not significantly
+frequencies in infrared spectroscopy, with isolated silanols exhibiting an alter the concentration and distribution of silanols on the surface of the
+infrared stretching frequency of approximately 3745 cm (cid:0) 1 and SiO2 support.
+hydrogen-bonded silanols displaying frequencies ranging from 3715 to
+3540 cm (cid:0) 1. (Dib et al., 2021; Paukshtis et al., 2019; Mori et al., 2002;
+Cornac et al., 1984) FTIR spectra in Fig. 1aillustrates that the infrared 3.2. Characterization of morphology and texture properties
+peaks corresponding to surface silanol groups diminish dramatically
+with increasing heat treatment temperature, particularly those associ- Scanning electron microscopy (SEM) and transmission electron mi-
+ated with hydrogen-bonded silanols. This was further confirmed by 1H croscopy (TEM) analyses were conducted on SiO2 samples treated at
+NMR spectra from Fig. 1b. According to the literature, the chemical shift different temperatures and the corresponding Ag/SiO2 catalysts. As
+at 1.86 ppm corresponds to isolated silanol species, whereas the peak at shown in Fig. 1a, there is no significant change in the morphology of
+2.9 ppm is attributed to hydrogen-bonded silanol species. (Qu et al., SiO2 with increasing heat treatment temperature. The particles pre-
+2005; Dubray et al., 2022) Deconvolution analysis reveals that as the dominantly exhibit a spherical shape with an average size of approxi-
+heat treatment temperature of the SiO2 support increases, the reduction mately 50 nm. TEM results of Ag/SiO2 catalysts reveal ultrasmall silver
+in hydrogen-bonded silanols exceeds that of isolated silanols, leading to particles (ca. 1.5–5.5 nm) on the SiO2 support, with a slight increase in
+a gradual increase in the proportion of isolated silanols. Specifically, the silver particle size across samples prepared with SiO2 treated at
+proportion of hydrogen-bonded silanols declined from 75.1 % to 40.52 enhanced temperatures. This trend is consistent with the enhanced peak
+%, whereas isolated silanols rose from 24.83 % to 59.48 %. Titration intensity observed in the X-ray diffraction (XRD) patterns shown in
+methods were employed to quantify the silanol species on the SiO2 Fig. 2b. N2 physisorption analysis was employed to investigate the
+surface (Wang et al., 2015; Lin et al., 2009; Kang et al., 2001). textural properties of both supports and corresponding catalysts. As
+Combining the ratios derived from 1H NMR spectra, the quantities of shown in Fig. 2c, the N2 adsorption–desorption isotherms of SiO2 car-
+each silanol type were calculated, as detailed in Fig. 1c. Thermal riers treated at different temperatures and their derived Ag/SiO2 cata-
+treatment at 800 ◦ C induced a 3.1-fold reduction in total silanol content lysts all exhibited type IV characteristics with H3-type hysteresis loops
+from 0.25 mmol/g to 0.08 mmol/g. This overall decrease primarily in the P/P0 range of 0.9–1.0. The pore size distribution profiles (Fig. S1)
+originated from hydrogen-bonded silanol elimination, while isolated revealed broad hierarchical porous architectures spanning 0–150 nm
+with irregular pore geometries. Quantitative analysis using BET and BJH
+Fig. 2. Physicochemical properties characterizations of pristine SiO2 support and Ag/SiO2 catalysts. (a) Micro-morphological of pristine SiO2 supports (SEM images)
+treated at different calcination temperature and Ag/SiO2 catalysts (TEM images) prepared using the corresponding SiO2 support after treatment. (b) XRD patterns of
+Ag/SiO2 catalysts, (c-e) Textural structure information of SiO2 support and Ag/SiO2 catalysts obtained from physical N2 adsorption and desorption isotherms.
+4
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+models demonstrated comparable textural parameters (specific surface 1989) which may affect the electronic properties of the supported Ag
+area, pore volume, average pore diameter, and pore size distribution) for particles.
+SiO2 supports and Ag/SiO2 catalysts treated below 700 ◦C, respectively To elucidate the nature of oxygen species on silver particles, spec-
+(Fig. 2e, Fig. S1). However, thermal treatment at 800 ◦C seemingly troscopic investigations were conducted. Fig. 3e-f presents the
+induced sintering effects, manifested by obvious reduction in surface temperature-dependent in situ Raman spectra of O2-oxidized Ag/SiO2
+area and increase in average pore diameter. catalysts under flowing O2 atmosphere across a temperature range of
+50–200 ◦C. The results reveal that both hydrogen-bonded silanol rich
+Ag/SiO2 and nearly hydrogen-bonded silanol free samples exhibit a
+3.3. Physicochemical properties characterizations of Ag/SiO2 catalysts prominent oxygen species-related peak centered around 800 cm (cid:0) 1,
+which should be assigned to dioxygen complexes (O2*), (Liu et al., 2022;
+XPS analysis confirms the predominant presence of metallic silver
+Chen et al., 2025; Pu et al., 2023) and showing greater thermal stability
+(Ag0) across all Ag/SiO2 catalysts, with consistent electronic states
+at lower temperatures as the peak intensity progressively diminishes
+observed regardless of support pretreatment conditions (Fig. 3a). The
+with increasing temperature. Most recently, Jalil reported that nickel
+oxygen temperature programmed oxidation (O2-TPO) characterization
+(Ni) as a dopant in Ag that can facilitate selective oxidation by activating
+of Ag/SiO2 catalysts demonstrates distinct oxidation behavior variations
+molecular oxygen (O2) without binding oxygen (O) too strongly, indi-
+depending on SiO2 support pretreatment temperatures. Elevating the
+cating a strong correlation between desorption ability of O species and
+support pretreatment temperature induces a concomitant reduction in
+EO selectivity. (Jalil et al., 2025) In our work, temperature programmed
+oxygen adsorption capacity, although similar oxidation temperatures
+are observed for catalysts with supports pretreated at ≤ 700 ◦C. This
+desorption of oxygen (O2-TPD) analysis for Ag/SiO2 catalysts with
+different surface Si-OH species was also conducted to elucidate the sil-
+behavior likely originates from the growth of silver particles (evidenced ver–oxygen interaction dynamics influenced by silanol. The TPD profile
+by TEM and XRD analysis). Notably, at 800 ◦C pretreatment, the cata- of the catalyst pre-oxidized at 50 ◦C exhibits two characteristic
+lysts exhibit a pronounced low-temperature shift (~25 ◦C) in their TCD
+desorption peaks. While all samples demonstrate a low-temperature
+response profiles. This should be related to highly strained four- desorption peak around 200 ◦C, those containing hydrogen-bonded
+membered siloxane rings on the silica material formed at high temper-
+silanol groups reveal an additional prominent high-temperature peak
+atures (when reaching 800 ◦C), (Scott and Basset, 1994; Bunker et al.,
+Fig. 3. Physicochemical properties characterizations of Ag/SiO2 catalysts. (a) XPS Ag 3d spectra, (b) O2-TPO, (c) O2-TPD, and (d) C2H4-TPD of reduced Ag/SiO2
+catalysts prepared using SiO2 support after treatment at different calcination temperature. (e-f) In situ Raman spectra of temperature-programmed oxidation (50 (cid:0)
+200 ◦C, spectra every 50 ◦C). The reduction of catalyst is conducted in 30 mL/min 10 %H2/He flow at 350 ◦C for 2 h.
+5
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+(>500 ◦C). Notably, the Ag/SiO2 catalyst with untreated support dis- 700 ◦C (hydrogen-bonded silanol groups are effectively reduced). This
+plays the most intensive high-temperature desorption feature. Nagy suggests that there should be an interfacial interaction between the
+et al. and Bao et al. have assigned this peak to subsurface oxygen (Oγ) silanol groups and the silver particles or clusters, which could poten-
+that diffuses via an interstitial diffusion mechanism. (Qu et al., 2005; tially influence the electronic characteristics of the silver and the
+Zhang et al., 2016; Nagy et al., 1999) It is noteworthy that this peak is desorption behavior of surface species.
+prominently observed on silica-supported silver catalysts, while very Intriguingly, this “silanol-mediated” effect also significantly in-
+week on polycrystalline silver foil. (Qu et al., 2005; Zhang et al., 2016; fluences ethylene desorption behavior, as evidenced by the temperature
+Nagy et al., 1999) However, this Oγ desorption peak in our work grad- programmed desorption of ethylene (C2H4-TPD) profiles in Fig. 3d. With
+ually diminishes with the reduction of hydrogen-bonded silanol groups progressive depletion of hydrogen-bonded silanol groups on the catalyst
+in the samples, and is almost undetectable in the sample treated at surface, the ethylene desorption peak systematically shifts toward lower
+Fig. 4. Effect of treatment temperature of SiO2 support on the EO transformation and by-products distribution over (a) SiO2 support and Ag/SiO2 catalysts (b)
+without and (c) with oxygen. (d) Relationship between the density of H-bonded Si-OH group and EO transformation on SiO2 support and Ag/SiO2 catalysts. (e) Effect
+of treatment temperature of SiO2 support on the space time yield of EO in ethylene epoxidation over Ag/SiO2 catalysts. (f) Correlation between the density of H-
+bonded Si-OH group and space time yield of EO on Ag/SiO2 catalysts. (g) Catalytic stability test at 200 ◦C at a space time of 5657 mL/g/h (without CO2: C2H4/O2/N2
+=1/3/6, with CO2: CO2/C2H4/O2/N2 =of 0.15/1/3/5.85).
+6
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+temperatures, reaching its minimum desorption temperature on the 3.5. Spectroscopic study of ethylene epoxidation and EO transformation
+700 ◦C treated sample. However, a counterintuitive reversal emerges
+upon further increasing the pretreatment temperature to 800 ◦C, where Pu et al. have systematically studied oxygen species on Ag/αAl2O3
+the desorption peak shifts back toward higher temperatures. This non- using Raman spectroscopy and identified that silver–oxygen species
+monotonic thermal response implies the formation of distinct surface formed on silver particle surfaces serve as the determining factor for
+species at elevated temperatures, which may induce electronic or ethylene epoxidation selectivity. (Pu et al., 2023; Pu et al., 2022) In this
+structural modifications to silver nanoparticles, thereby altering their work, we employed In situ Raman spectroscopy to probe oxygen species
+interaction dynamics with ethylene. evolution on silica-supported silver nanocatalysts during ethylene
+oxidation. The results revealed comparable surface oxygen species
+3.4. Reaction performance of ethylene epoxidation and EO profiles between two distinct catalysts with markedly different catalytic
+transformation performance (Figs. 5a, d). Both samples displayed a predominant
+characteristic peak at ~ 800 cm (cid:0) 1, which was identified as diatomic
+The effect of SiO2 supports treated at different temperatures and oxygen configurations (O2*). (Liu et al., 2022; Chen et al., 2025; Pu
+corresponding Ag/SiO2 catalysts on the transformation of EO was et al., 2023) Chen et al. (Chen et al., 2025) reported that the O2* species,
+investigated. For SiO2 without silver loading (Fig. 4a), the EO conver- which tends to form under higher O2 pressures and oxygen coverages,
+sion rate decreased from 0.11 mmol/g/h (untreated) to 0.02 mmol/g/h plays a pivotal role in facilitating the selective formation of EO. How-
+(treated at 800 ◦C) with the decreasing of the density of H-bonded Si-OH ever, the O1* species with a peak position around 350 cm (cid:0) 1 tends to
+group, representing a nearly sixfold reduction. The primary product of induce C-C bond cleavage or deep oxidation, leading to the formation of
+EO conversion was acetaldehyde, with minor products including 2- carbon dioxide (CO2). This unique feature on Ag/SiO2 (with O2* as a
+methyl-1,3-dioxolane and ethylene glycol (Confirmed by mass spec- dominant species) potentially originates from the silica support’s in-
+trometry, Fig. S2). Additionally, the EO decomposition performance of fluence on silver particle properties, accounting for the exceptional 80 %
+Ag/SiO2 catalysts with SiO2 supports pretreated at different tempera- EO selectivity achieved in our catalyst system without additional pro-
+tures was also evaluated. As shown in Fig. 4b, the presence of Ag moters. These findings suggest that silica-supported silver catalysts may
+significantly amplified the transformation capability of EO compared to possess certain intrinsic benefits for ethylene epoxidation. Specifically,
+the unsupported SiO2 case. For the untreated Ag/SiO2 catalyst, the the silica substrate appears to influence the electronic properties of sil-
+conversion rate of EO reaches as high as 0.77 mmol/gcat/h, indicating ver, thereby stabilizing key oxygen intermediates. However, this po-
+that Ag particles formed on SiO2 support play a significant role in EO tential advantage has historically been overshadowed by challenges in
+conversion. The EO conversion rate over Ag/SiO2 catalysts decreased controlling secondary ethylene oxide conversion on the support surface.
+significantly from 0.77 mmol/g/h to 0.20 mmol/g/h as the pretreatment To elucidate the mechanistic details of EO secondary conversion
+temperature of the SiO2 support increased to 700 ◦C. A similar trend was during ethylene epoxidation, we performed in situ FTIR to monitor EO
+observed in the presence of oxygen, except for that acetaldehyde un- decomposition on catalyst surfaces. As illustrated in Fig. 5b, exposure of
+derwent further oxidation to form CO2 (Fig. 4c). (Miller et al., 2020) untreated silica support to EO shows a complex array of surface in-
+However, when the SiO2 support was pretreated at 800 ◦C, the EO termediates, with spectral features systematically assigned based on
+conversion rate slightly increased to 0.22 mmol/g/h. This may be also established vibrational signatures. (Bulushev et al., 1995) The weak
+related to high-strain four-membered siloxane rings generated at 800 ◦C bands at 3065 and 3005 cm (cid:0) 1 correspond to vibrations of CH2 belonging
+(evidenced by TPO and TPD results). (Scott and Basset, 1994; Dubois to EO. (Xiong et al., 2021) The broad absorption spanning 3200–3600
+and Zegarski, 1993) The correlation between the hydrogen-bonded cm (cid:0) 1 originates from hydroxyl groups participating in hydrogen-bond
+silanol content of the samples and the conversion rate of EO is illus- interactions, critical for stabilizing adsorbed species, while the bands
+trated in Fig. 4d. The results demonstrate a nearly linear relationship at 2885 and 2950 cm (cid:0) 1 should be attributed to the stretching CH vi-
+between the quantity of hydrogen-bonded silanol species and the extent brations of CH2 and CH3 fragments belonging to surface species. The
+of EO conversion rate for both SiO2 and Ag/SiO2 catalysts, regardless of peaks of these surface species can also be observed on low hydroxyl SiO2
+the presence of oxygen. (Fig. 5e), but significantly weakened. The coexistence of these in-
+The performance of Ag/SiO2 catalysts prepared from SiO2 supports termediates highlights the competition between EO stabilization and
+pretreated at different temperatures was evaluated for the ethylene decomposition on silica surfaces, with the hydroxyl species at 3400
+epoxidation reaction, with the results shown in Fig. 4eand Fig. S3. The cm (cid:0) 1 likely serving as pivotal intermediates governing both EO reten-
+catalyst prepared using the untreated support exhibited a space time tion and subsequent secondary conversion events. Based on the exper-
+yield (STY) of EO as low as 0.31 mmol/g/h, with an EO selectivity of just imental observations and relevant literature reports, we propose that the
+15.7 %. As the treatment temperature increased, the conversion of glycol-like surface species (–OCH2CH2OH) serves as the key intermedi-
+ethylene showed a slight decrease, while the selectivity to EO dramati- ate in the conversion of EO on hydrogen-bonded silanol. (Bulushev et al.,
+cally improved. At a 700 ◦C treated support, the STY reached 1.38 1995) As shown in Fig. S5; this intermediate may undergo subsequent
+mmol/g/h, with an ethylene conversion of 7.3 % and an EO selectivity of transformations through three possible pathways: (1) hydrogen transfer
+75.1 %. The significant improvement in the selectivity and yield of EO is to form acetaldehyde as the primary byproduct, (2) reaction with
+inversely correlated with the sharp reduction in the quantity of silanol another EO molecule or acetaldehyde to generate 2-methyl-1,3-dioxo-
+species on the catalyst surface, particularly hydrogen-bonded silanol lane, or (3) hydrolysis with environmental water molecules to produce
+species (Fig. 4f). When the support pretreatment temperature furtherly ethylene glycol.
+reaches 800 ◦C, the selectivity of EO over the Ag/SiO2 catalyst decreases, The characteristic band at 1620 cm (cid:0) 1, corresponding to the asym-
+likely related to the high-strain four-membered siloxane rings formed in metric stretching vibrations of surface carboxylates (–COO), exhibited
+the SiO2 support. Fig. 4g illustrates that the catalyst with a support remarkable enhancement on Ag/SiO2 catalysts (Fig. 5c) compared to
+pretreated at 700◦C exhibited excellent performance, maintaining an EO SiO2 (Fig. 5b). However, comparable intensities of carboxylate species
+selectivity of approximately 75 % during 500 min of reaction, with were observed on both high and low hydrogen-bonded silanol samples
+negligible signs of deactivation. Furthermore, the introduction of CO2 after silver loading (Fig. 5c f). This suggests that the dramatic difference
+into the system enhanced EO selectivity to 81 % without causing a in EO conversion capability between the two catalysts originates from
+noticeable reduction in reaction activity (Fig. 4g, Fig. S4). their silanol characteristics rather than silver species variations. Inter-
+estingly, FTIR spectra show a significant reduction in the hydroxyl
+(3400 cm (cid:0) 1) and CH2 and CH3 (2885 and 2950 cm (cid:0) 1) related to
+–OCH2CH2OH surface species on Ag/SiO2 catalysts (Fig. 5c f) compared
+7
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+Fig. 5. (a) In situ Raman spectra of silver–oxygen species during the ethylene-oxygen reaction over the Ag/SiO2 catalyst with untreated SiO2. In situ FTIR spectra of
+EO conversion on (b) untreated SiO2 and (c) the corresponding Ag/SiO2 catalyst; (d) In situ Raman spectra of silver–oxygen species during the ethylene-oxygen
+reaction over Ag/SiO2 catalyst with SiO2 pretreated at 700 ◦C. In situ FTIR spectra of EO conversion on (e) SiO2 treated at 700 ◦C and (f) corresponding Ag/SiO2
+catalyst. All spectroscopic measurements were conducted at 200 ◦C.
+to SiO2 supports (Fig. 5b e), although silver loading dramatically 3.6. Kinetic insights into ethylene epoxidation over Ag/SiO2
+enhanced the secondary conversion capacity of EO. This apparent
+contradiction indicates that the introduced silver species facilitate rapid A systematic kinetic investigation was conducted to elucidate the
+transformation and desorption of the glycol-like surface intermediates ethylene epoxidation behavior over Ag/SiO2 catalysts with varying
+(–OCH2CH2OH), leading to the formation of final products including hydrogen-bonded silanol densities. Prior to kinetic measurements,
+acetaldehyde, 2-methyl-1,3-dioxolane, and ethylene glycol, thereby rigorous validation experiments confirmed the elimination of internal
+achieving the observed magnitude enhancement in EO conversion effi- and external diffusion limitations. The reaction order of ethylene (or
+ciency after silver modification. oxygen) is determined by varying the concentration of ethylene (or
+oxygen) while keeping the oxygen (or ethylene) concentration constant
+at a substantial excess. The obtained relationship between the genera-
+tion rate of the product (EO/CO2) and the concentration of the reactants
+Fig. 6. Kinetic insights into ethylene epoxidation. Effect of H-bonded Si-OH group density on the reaction order of (a) ethylene and (b) oxygen and (c) activation
+barrier for EO formation and ethylene over-oxidation.
+8
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+(ethylene/oxygen) is shown in the Fig. S6. Further analysis revealed Data availability
+critical structure–activity relationships between silanol density and ki-
+netic parameters. Fig. 6ademonstrates that increasing hydrogen-bonded Data will be made available on request.
+silanol content enhances the ethylene reaction order for EO formation,
+while simultaneously diminishing its influence on CO2 production. References
+Conversely, Fig. 6b illustrates an inverse correlation between silanol
+density and oxygen reaction orders for both pathways (EO and CO2), Pu, T
+o
+.
+x
+,
+id
+T
+a
+ia
+ti
+n
+o
+,
+n
+H
+o
+.,
+f
+F
+et
+o
+h
+r
+y
+d
+l
+,
+e
+M
+ne
+. E
+to
+.,
+e
+R
+t
+a
+h
+n
+y
+g
+le
+a
+n
+ra
+e
+j a
+o
+n
+x
+,
+i d
+S
+e
+. ,
+b
+W
+y
+a
+A
+c
+g
+h
+c
+s,
+a t
+I
+a
+.E
+ly
+.,
+s t
+2
+s
+0
+.
+1
+A
+9
+C
+.
+S
+O
+C
+v
+a
+e
+t
+r
+a
+v
+l
+i
+.
+e
+9
+w
+, 1
+o
+0
+f
+7
+s
+2
+e
+7
+le
+–
+c
+1
+ti
+0
+v
+7
+e
+5 0.
+indicating a reduced impact of oxygen concentration on the reaction
+Chu, Y., Liang, H., Lin, Q., Huang, H., Che, P., Han, Y., 2025. Effect of water vapor on the
+rates of these processes. structure and performance of silver catalysts for ethylene oxidation. Chem. Eng. J.
+Temperature-dependent studies (195–215◦C, Fig. S7) enabled 518, 146994.
+Soni, Y., March, S., Suib, S.L., Sykes, E.C.H., Deshlahra, P., 2025. Structure and reactivity
+determination of Arrhenius parameters. Fig. 6c establishes a direct
+of AgCu/SiO2 bimetallic catalysts for alkene epoxidation. ChemCatChem
+proportionality between silanol density and apparent activation en- e202500123.
+ergies: the apparent activation energy for EO increases systematically Hus, M., Grilc, M., Terzan, J., Gyergyek, S., Likozar, B., Hellman, A., 2023. Going beyond
+silver in ethylene epoxidation with first-principles catalyst screening. Angew. Chem.
+with silanol content, whereas exhibiting an inverse trend for CO2. This
+Int. Ed. 62, e202218456.
+energetic decoupling mechanism explains the enhanced EO selectivity Hwang, A., Klaucke, J., Lizandara-Pueyo, C., Karpov, A., Iglesia, E., 2024. Roles of Re
+observed in hydrogen-bonded silanol depleted catalysts. Consequently, and Cs promoters and organochlorine moderators in the synthesis of ethylene oxide
+minimizing the number of hydrogen-bonded silanol species is critical on Ag-based catalysts. ChemCatChem 16, e202400111.
+Christopher, P., Linic, S., 2008. Engineering selectivity in heterogeneous catalysis: Ag
+when employing high surface area SiO2 as a support for silver catalysts nanowires as selective ethylene epoxidation catalysts. J. Am. Chem. Soc. 130,
+in ethylene epoxidation. 11264–11265.
+Hus, M., Hellman, A., 2019. Ethylene epoxidation on Ag(100), Ag(110), and Ag(111): a
+joint ab initio and kinetic Monte Carlo study and comparison with experiments. ACS
+4. Conclusion Catal. 9, 1183–1196.
+Guo, M., Dongfang, N., Iannuzzi, M., van Bokhoven, J.A., Artiglia, L., 2024. Structure
+In this study, Ag/SiO2 catalysts with nano-sized silver supported on a
+A
+n
+C
+d
+S
+r
+C
+e
+a
+a
+t
+c
+a
+t
+l
+i
+.
+v i
+1
+t
+4
+y
+,
+o
+1
+f
+0
+a
+2
+c
+3
+ti
+4
+v
+–
+e
+1 0
+ox
+2
+y
+4
+g
+4
+e
+.
+n species on silver surfaces for ethylene epoxidation.
+high-surface-area silica were synthesized and systematically investi-
+van Santen, R.A., Kuipers, H., 1987. The mechanism of ethylene epoxidation. Adv. Catal.
+gated for ethylene epoxidation. Our findings highlight the crucial role of 35, 265–321.
+hydrogen-bonded silanol species in governing the catalytic performance Jalil, A., Happel, E.E., Cramer, L., Hunt, A., Hoffman, A.S., Waluyo, I., Montemore, M.M.,
+Christopher, P., Sykes, E.C.H., 2025. Nickel promotes selective ethylene epoxidation
+of Ag/SiO2. These species significantly influence the isomerization of EO
+on silver. Science 387, 869–873.
+into acetaldehyde and other by-products, while also affecting the Ramirez, A., Hueso, J.L., Suarez, H., Mallada, R., Ibarra, A., Irusta, S., Santamaria, J.,
+desorption kinetics of surface species on silver. Moreover, we confirm 2016. A nanoarchitecture based on silver and copper oxide with an exceptional
+response in the chlorine-promoted epoxidation of ethylene. Angew. Chem. Int. Ed.
+that O2* is the predominant reactive oxygen species on the Ag surface
+55, 11158–11161.
+and that hydrogen-bonded silanols substantially hinder the desorption Serafin, J.G., Liu, A.C., Seyedmonir, S.R., 1998. Surface science and the silver-catalyzed
+of surface oxygen species, thereby potentially impacting the overall epoxidation of ethylene: an industrial perspective. J. Mol. Catal. A Chem. 131,
+epoxidation process. Additionally, these silanols promote the formation
+157–168.
+Diao, W., DiGiulio, C.D., Schaal, M.T., Ma, S., Monnier, J.R., 2015. An investigation on
+of glycol-like intermediates from EO, and their interaction with silver the role of Re as a promoter in Ag-Cs-Re/α-Al2O3 high-selectivity ethylene
+species facilitates the transformation and desorption of these in- epoxidation catalysts. J. Catal. 322, 14–23.
+termediates, further accelerating the secondary conversion of EO. Ki- Keijzer, C.J., Weide, P.T., Helfferich, K.H., Zieciak, J., de Ridder, M., Dalebout, R.,
+Lohr, T.L., Lockemeyer, J.R., van den Brink, P., de Jongh, P.E., 2025. Insight into the
+netic analysis reveals that reducing hydrogen-bonded silanol content
+influence of Re and Cl on Ag catalysts in ethylene epoxidation. Cat. Sci. Technol. 15,
+lowers the activation energy for EO formation while increasing it for 323–333.
+deep oxidation reactions. High-temperature treatment of the silica Keijzer, C.J., van de Ven, N.M.T., Dalebout, R., Lohr, T.L., Lockemeyer, J.R., van den
+Brink, P., de Jongh, P.E., 2025. Influence of alkali and chloride promoters on silver
+support effectively diminishes hydrogen-bonded silanol species, thereby
+catalysts in ethylene epoxidation. J. Catal. 450, 115592.
+enhancing EO selectivity. As a result, thermal pre-treatment of the Salaev, M.A., 2021. Computational insights into promoting effects of alkali metals, Re,
+support improves catalyst selectivity to 81 %, primarily by reducing the and Cl for silver catalysts of ethylene epoxidation. Mol. Catal. 507, 111543.
+Keivanimehr, F., Mokhtarian, M., Habibzadeh, S., 2025. Synergistic effect of Ag(111) and
+density of hydrogen-bonded silanol groups.
+transition-metal promoters toward optimization of catalytic ethylene epoxidation
+selectivity. Sci. Rep. 15, 4567.
+CRediT authorship contribution statement Rocha, T.C.R., Haevecker, M., Knop-Gericke, A., Schlo¨gl, R., 2014. Promoters in
+heterogeneous catalysis: the role of Cl on ethylene epoxidation over Ag. J. Catal.
+312, 12–16.
+Kaipeng Cao: Writing – original draft, Investigation, Formal anal- Pursell, D.P., Bocquet, M.L., Vohs, J.M., Dai, H.L., 2003. Adsorption structure, energetics,
+ysis, Data curation. Min Huang: Software, Investigation, Formal anal- and thermal reactions of vinyl chloride on Ag(111). Surf. Sci. 522, 90–104.
+ysis. Gang Wang: Writing – review & editing, Formal analysis. Jie Li: Campbell, C.T., Paffett, M.T., 1984. The role of chlorine promoters in catalytic ethylene
+epoxidation over the Ag(110) surface. Appl. Surf. Sci. 19, 28–42.
+Writing – review & editing, Formal analysis. Chunshan Li: Writing – Iyer, K.R., Bhan, A., 2024. The role of chlorine promoters in mediating particle-size
+review & editing, Project administration, Funding acquisition, effects in silver-catalyzed ethylene epoxidation. J. Catal. 436, 115451.
+Conceptualization. Sun, L., Huang, H., Che, P., Lin, Q., Lian, K., Li, J., Zhang, Y., Han, Y., 2022. In-situ
+discovery on the formation of supported silver catalysts for ethylene epoxidation.
+Adv. Powder Technol. 33, 103478.
+Declaration of competing interest van den Reijen, J.E., Kanungo, S., Welling, T.A.J., Versluijs-Helder, M., Nijhuis, T.A., de
+Jong, K.P., de Jongh, P.E., 2017. Preparation and particle-size effects of Ag/α-Al2O3
+catalysts for ethylene epoxidation. J. Catal. 356, 65–74.
+The authors declare that they have no known competing financial
+Keijzer, C.J., Smulders, L.C.J., Wezendonk, D., de Rijk, J.W., de Jongh, P.E., 2024.
+interests or personal relationships that could have appeared to influence Influence of Ag particle size and Ag:Al2O3 surface ratio in catalysts for the chloride-
+the work reported in this paper. promoted ethylene epoxidation. Catal. Today 428, 114120.
+Egelske, B.T., Xiong, W., Zhou, H., Monnier, J.R., 2022. Effects of the method of active-
+site characterization for determining structure-sensitivity in Ag-catalyzed ethylene
+Acknowledgments epoxidation. J. Catal. 410, 221–235.
+van Hoof, A.J.F., Hermans, E.A.R., van Bavel, A.P., Friedrich, H., Hensen, E.J.M., 2019.
+Structure sensitivity of silver-catalyzed ethylene epoxidation. ACS Catal. 9,
+This work is supported by the National Natural Science Fund for
+9829–9839.
+Distinguished Young Scholars (Grant 22025803), and funding from Salaev, M.A., Salaeva, A.A., Vodyankina, O.V., 2021. Towards the understanding of
+Zhongke-Yuneng Joint R&D Center. promoting effects of Re, Cs and Cl promoters for silver catalysts of ethylene
+epoxidation: a computational study. Catal. Today 375, 585–590.
+9
+
+K. Cao et al. C h e m i c a l E n g i n e e r i n g S c i e n c e 321 (2026) 122652
+Yong, Y.S., Kennedy, E.M., Cant, N.W., 1991. Oxide-catalyzed reactions of ethylene oxide Dubray, F., Dib, E., Medeiros-Costa, I., Aquino, C., Minoux, D., van Daele, S.,
+under conditions relevant to ethylene epoxidation over supported silver. Appl. Catal. Nesterenko, N., Gilson, J.-P., Mintova, S., 2022. The challenge of silanol species
+76, 31–48. characterization in zeolites. Inorg. Chem. Front. 9, 1125–1133.
+van den Reijen, J.E., Versluis, W.C., Kanungo, S., d’Angelo, M.F., de Jong, K.P., de Lin, O.H., Akil, H.M., Ishak, Z.A.M., 2009. Characterization and properties of activated
+Jongh, P.E., 2019. From qualitative to quantitative understanding of support effects nanosilica/polypropylene composites with coupling agents. Polym. Compos. 30,
+on the selectivity in silver-catalyzed ethylene epoxidation. Catal. Today 338, 31–39. 1693–1700.
+Kanoh, H., Nishimura, T., Ayame, A., 1979. Supported silver catalysts for the oxidation of Kang, S., Hong, S.I., Choe, C.R., Park, M., Rim, S., Kim, J., 2001. Preparation and
+ethylene—effects of thermal treatment of alumina as catalyst support. J. Catal. 57, characterization of epoxy composites filled with functionalized nanosilica particles
+372–379. obtained via sol–gel process. Polymer 42, 879–887.
+Jain, D., Stangland, E., 2025. A perspective on the role and development of supports for Scott, S.L., Basset, J.M., 1994. Coordination chemistry on surfaces: a new method to graft
+maximizing the efficiency of catalytic gas-phase ethylene epoxidation. Energy Fuels rhenium(VII) oxide on highly dehydroxylated oxides. J. Am. Chem. Soc. 116,
+39, 12309–12322. 12069–12070.
+Fotopoulos, A.P., Triantafyllidis, K.S., 2007. Ethylene epoxidation on Ag catalysts Bunker, B.C., Haaland, D.M., Michalske, T.A., Smith, W.L., 1989. Kinetics of dissociative
+supported on non-porous, microporous and mesoporous silicates. Catal. Today 127, chemisorption on strained edge-shared surface defects on dehydroxylated silica.
+148–156. Surf. Sci. 222, 95–118.
+Lee, J.K., Verykios, X.E., Pitchai, R., 1988. Support participation in chemistry of ethylene Liu, C., Wijewardena, D.P., Sviripa, A., Sampath, A., Flaherty, D.W., Paolucci, C., 2022.
+oxidation on silver catalysts. Appl. Catal. 44, 223–237. Computational and experimental insights into reactive forms of oxygen species on
+Bulushev, D.A., Paukshtis, E.A., Nogin, Y.N., Balzhinimaev, B.S., 1995. Transient- dynamic Ag surfaces under ethylene epoxidation conditions. J. Catal. 405, 445–461.
+response and infrared studies of ethylene-oxide reactions on silver catalysts and Chen, C.-T., Sviripa, A., Verma, S., Paolucci, C., Flaherty, D.W., 2025. Reactions of
+supports. Appl. Catal. A 123, 301–322. surface peroxides contribute to rates and selectivities for C2H4 epoxidation on silver.
+Mao, C.F., Vannice, M.A., 1995. High-surface-area α-aluminas. III. Oxidation of ethylene, ACS Catal. 15, 1387–1398.
+ethylene oxide, and acetaldehyde over silver dispersed on high-surface-area Pu, T., Setiawan, A., Foucher, A.C., Guo, M., Jehng, J.-M., Zhu, M., Ford, M.E., Stach, E.
+α-alumina. Appl. Catal. A 122, 61–76. A., Rangarajan, S., Wachs, I.E., 2023. Revealing the nature of active oxygen species
+Wang, Y., He, M.Y., Chen, R.Y., 2015. Fabrication of mechanically robust antireflective and reaction mechanism of ethylene epoxidation by supported Ag/α-Al2O3 catalysts.
+films using silica nanoparticles with enhanced surface hydroxyl groups. J. Mater. ACS Catal. 14, 406–417.
+Chem. A 3, 1609–1618. Qu, Z.P., Cheng, M.J., Huang, W.X., Bao, X.H., 2005. Formation of subsurface oxygen
+Sot, P., Cop´eret, C., van Bokhoven, J.A., 2019. Fully dehydroxylated silica generated species and its high activity toward CO oxidation over silver catalysts. J. Catal. 229,
+from hydrosilane: surface defects and reactivity. J. Phys. Chem. C 123, 446–458.
+23480–23487. Zhang, X.D., Dong, H., Wang, Y., Liu, N., Zuo, Y.H., Cui, L.F., 2016. Study of catalytic
+Dib, E., Costa, I.M., Vayssilov, G.N., Aleksandrov, H.A., Mintova, S., 2021. Complex H- activity at the Ag/Al-SBA-15 catalysts for CO oxidation and selective CO oxidation.
+bonded silanol network in zeolites revealed by IR and NMR spectroscopy combined Chem. Eng. J. 283, 1097–1107.
+with DFT calculations. J. Mater. Chem. A 9, 27347–27352. Nagy, A.J., Mestl, G., Herein, D., Weinberg, G., Kitzelmann, E., Schlo¨gl, F., 1999. The
+Paukshtis, E.A., Yaranova, M.A., Batueva, I.S., Balzhinimaev, B.S, 2019. A FTIR study of correlation of subsurface oxygen diffusion with variations of silver morphology in
+silanol nests over mesoporous silicate materials. Microporous Mesoporous Mater. the silver–oxygen system. J. Catal. 182, 417–429.
+288, 109597. Miller, J.H., Joshi, A., Li, X., Bhan, A., 2020. Catalytic degradation of ethylene oxide over
+Mori, T., Kuroda, Y., Yoshikawa, Y., Nagao, M., Kittaka, S., 2002. Preparation of a water- Ag/α-Al2O3. J. Catal. 389, 714–720.
+resistant siliceous MCM-41 sample through improvement of crystallinity and its Dubois, L.H., Zegarski, B.R., 1993. The bonding of alkoxysilanes to dehydroxylated silica
+prominent adsorption features. Langmuir 18, 1595–1603. surfaces: a new adhesion mechanism. Abstr. Pap. Am. Chem. Soc. 205, 88-PHYS.
+Cornac, M., Janin, A., Lavalley, J.C., 1984. Application of FTIR spectroscopy to the study Pu, T., Setiawan, A., Lis, B.M., Zhu, M., Ford, M.E., Rangarajan, S., Wachs, I.E., 2022.
+of sulfidation of Mo catalysts supported on alumina or silica (4000–400 cm-1 range). Nature and reactivity of oxygen species on/in silver catalysts during ethylene
+Infrared Phys. 24, 143–150. oxidation. ACS Catal. 12, 4375–4381.
+Qu, Z.P., Huang, W.X., Zhou, S.T., Zheng, H., Liu, X.M., Cheng, M.J., Bao, X.H., 2005. Xiong, H., Zhu, X., Lu, S., Zhou, C., Xu, W., Zhou, Z., 2021. Enhancement of plasma-
+Enhancement of the catalytic performance of supported-metal catalysts by catalytic oxidation of ethylene oxide (EO) over Fe–Mn catalysts in a dielectric barrier
+pretreatment of the support. J. Catal. 234, 33–36. discharge reactor. Sci. Total Environ. 788, 147741.
+10
+

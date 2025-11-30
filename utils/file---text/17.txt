@@ -1,0 +1,617 @@
+ChemicalEngineeringJournal284(2016)149–157
+ContentslistsavailableatScienceDirect
+Chemical Engineering Journal
+journal homepage: www.elsevier.com/locate/cej
+a
+Preparation of Ag/ -Al O for ethylene epoxidation by an impregnation–
+2 3
+bioreduction process with Cinnamomum camphora extract
+Xiaolian Jinga,b, Jiale Huanga, Huixuan Wanga, Mingming Dua, Daohua Suna,⇑ , Qingbiao Lia,b
+aDepartmentofChemicalandBiochemicalEngineering,CollegeofChemistryandChemicalEngineering,andNationalLaboratoryforGreenChemicalProductionsofAlcohols,
+EthersandEsters,XiamenUniversity,Xiamen361005,PRChina
+bCollegeofChemistry&LifeScience,QuanzhouNormalUniversity,Quanzhou362002,PRChina
+h i g h l i g h t s g r a p h i c a l a b s t r a c t
+(cid:1)Impregnation–bioreductionmethod
+wasusedtopreparethesupportedAg
+catalyst.
+(cid:1)Influenceofbioreduction
+temperature,concentrationofCC
+extract,silverloadingamount,
+calcinationtemperatureandCs
+additiononcatalyticperformance
+wereinvestigated.
+(cid:1)Theoptimizedcatalyst15Ag/a-Al O -
+2 3
+150CsgavetheEOconcentrationsof
+1.70%,EOselectivityof87.46%andEO
+STYof223.07gh(cid:3)1L(cid:3)1 at200(cid:1)C.
+cat
+(cid:1)Theas-synthesizedAgcatalyst
+exhibitedhighcatalyticstability
+during50h.
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: SupportedAgcatalystforethyleneepoxidationwaspreparedbyanimpregnation–bioreductionprocess
+Received28May2015 withCinnamomum camphora (CC) extract. Influence ofbioreduction temperature, concentration of CC
+Receivedinrevisedform27July2015 extract,silverloadingamount,calcinationtemperatureaswellasCspromoteroncatalyticperformance
+Accepted9August2015
+werethoroughlyinvestigatedandthecatalystswerecharacterized.Theresultsshowedthatthecatalyst
+Availableonline28August2015
+preparedfrombioreductionprocessexhibitedexcellentperformancefortheethyleneepoxidationwith
+O . Proper amount of Cs addition could effectively improve the catalytic performance of the catalyst.
+2
+Keywords: Theoptimalcatalyst15Ag/a-Al O -150CsgavetheEOconcentrationsof1.70%,EOselectivityof87.46%
+Impregnation–bioreduction andEOSTYof223.07gh(cid:3)1L(cid:3)1 2 at 3 200(cid:1)C,showinghighcatalyticstabilitywithnosignificantdecreasein
+Cinnamomumcamphoraextract cat
+theactivityandtheselectivityduring50h.
+Agcatalyst
+Ethyleneepoxidation
+(cid:3)2015ElsevierB.V.Allrightsreserved.
+1.Introduction chemicals[1–5].SincethediscoveryoftheLefortprocessin1931
+[6], direct oxidation of ethylene to EO with molecular oxygen in
+Asthemostutilizedepoxidespecies,ethyleneoxide(EO)isan the presence of supported Ag catalysts has emerged as the main
+important raw material in chemical manufacturing process and route for EO production. To date, Ag is still the most active
+accountingforapproximately40–50%ofthetotalvalueoforganic componentforethyleneepoxidation.TheincreaseoftheEOselec-
+tivitybyonly1%leadstoconsiderableprofit[7].Hence,research
+anddevelopmentofmoreefficientAgcatalystareofgreatsignifi-
+⇑
+Correspondingauthor.Tel.:+865922183088;fax:+865922184822. cance[8,9].
+E-mailaddress:sdaohua@xmu.edu.cn(D.Sun).
+http://dx.doi.org/10.1016/j.cej.2015.08.082
+1385-8947/(cid:3)2015ElsevierB.V.Allrightsreserved.
+
+150 X.Jingetal./ChemicalEngineeringJournal284(2016)149–157
+Impregnationisthemostwidelyusedmethodfortheprepara- extractinthisstudy.Weconcentratedonoptimizingtheprepara-
+a
+tionofsupportedAgcatalyst.Basedontheconventionalimpregna- tionprocessoftheAg/ -Al O catalystsbytheIMP–BRmethodand
+2 3
+tion, extensive research has devoted to four main aspects: (i) Ag developingcatalyticapplicationoftheobtainedcatalystsforethy-
+precursorortheimpregnatingsolution,(ii)impregnatingprocess, leneepoxidation.Influenceofbiomassconcentration,bioreduction
+(iii)thermaltreatmentprocessofthecatalystand(iv)promoters. temperature, calcination temperature, Ag loading amount on the
+Silversaltsincludeinorganicandorganicsalts,areusedasthepre- ethyleneepoxidation was thoroughly investigated. And the addi-
+cursors[10–17].Impregnatingtemperature,timeandcomposition tion of Cs promoter also was researched. Besides, comparative
+ofimpregnatingsolutionwouldaffecttheactivityofthecatalyst. studywascarriedoutbetweentheoptimizedcatalystandindus-
+a
+Calcinationtemperatureandtimecouldalsoinfluencetheperfor- trial catalyst and the stability of the Ag/ -Al O catalyst was
+2 3
+manceoftheAgcatalyst.Forexample,highcatalyticperformance tested.
+forethyleneepoxidationwasachievedoverthesupportedAgcat-
+alyst obtained by a multi-stage calcination process with control- 2.Experimentalsection
+ling atmosphere [18]. Besides, addition of promoters such as Cs,
+C1, Cu, Cd, Pt, Re and other alkali metals, could further enhance 2.1.Materialsandchemicals
+theperformancetosomeextent[12,19–22].
+Asanewlydevelopedmethod,biosynthesisofmetalnanoparti- C.camphora(CC)leaveswerepickedupatXiamenUniversity.
+cles has received increasing attention in the last decade [23,24]. The dried CC leaves was milled to a 20-mesh powder for use. a -
+Biosynthesis of metal nanoparticles by both plants and microor- Al O were purchased from Tianjin Chemical Research & Design
+2 3
+ganismscouldbeusedforthepreparationofcatalysts.Incontrast Institute.Thecommercial a -Al O wasgroundintoa20–40mesh
+2 3
+with the elaborate cell cultivation, plant-mediated strategy powderandcalcinedat600(cid:1)Cfor6h.Otherregentsusedinthis
+appears to be a simple and viable method for the preparation of workwereboughtfromAladdinReagents(Shanghai).
+efficientcatalyst[25–32].Forexample,Maetal.[25]preparedsup-
+ported Ru catalyst with Cacumen platycladi (CP) extract and find 2.2.PreparationofCCextract
+the biosynthesized Ru-based catalysts showed excellent perfor-
+mance in hydrogenation of maleic anhydride. Ag/TiO 2 and Au/ 15g CC biomass was added to 100mL deionized water, and
+TiO 2 is prepared by using the extracts from the vascular plant after 5min boiling,the solutionwas filtered and transferred to a
+Citrus limon, which exhibited great photo degradation effect for volumetricflask,dilutedwithdeionizedwaterto100mL.Thecon-
+an organic dye [26]. Both AgAu/SiO 2 –Al 2 O 3 and Au/SiO 2 –Al 2 O 3 centrationofthisCCextractwasdenotedas15g/L,andothercon-
+wereobtainedwithCamelliasinensisplantextract,andtheformer centrationsofCCextractwerepreparedasdescribedpreviouslyby
+showedbetterbehaviorforCOoxidationprocess,whilethelatter adjustingthedosageofCCbiomass.
+show much better performance in the CO hydrogenation process
+[27]. Zhan and Du et al. [28–30] prepared Au/TS-1 catalysts by 2.3.Preparationofsilver-ethylenediaminecomplex
+usingCPextract,whichexhibitedbothgoodperformanceandsta-
+bility for propylene epoxidation in vapor phase under H 2 /O 2 . Silver–ethylenediamine complex was prepared from AgNO 3 .
+BiosynthesizedAu/TS-1using CPextractalso showexcellentcat- First, 1.1575g AgNO was dissolved in 3.9mL deionized water
+3
+alytic activity for the liquid phase epoxidation of styrene with and 0.5249g ammonium oxalate was dissolved in 7.1mL deion-
+aqueousH 2 O 2 [31].ByusingCPextract,bimetallicAu(cid:3)Pd/TiO 2 cat- izedwater,thenmixedtheabovetwosolutionsandawhitepre-
+alystsispreparedandshowexcellentdurabilityandreusabilityfor cipitate was generated. The precipitate was filtered, washed and
+solvent-free oxidation of benzyl alcohol to benzaldehyde with then dried under vacuum at room temperature. After that, the
+molaroxygen[32]. obtained precipitate was dissolved in 5mL ethylenediamine–wa-
+In our previous work, thermal decomposition with the assis- ter solution (1:1, v/v) to get the silver–ethylenediamine complex
+tanceofCinnamomumcamphora(CC)extractwasadoptedtopre- solutionfornextuse.
+a
+pare active Ag/ -Al O catalyst for ethylene epoxidation [16].
+2 3
+AndtheresultsshowthatthesinteringandaggregationofAgpar- 2.4.PreparationofAg/Al O catalysts
+2 3
+ticlesandAglossduringthereactionwerealleviated.Furthermore,
+comparativestudies indicatedthat Ag catalyst prepared with sil- The catalyst was prepared by an impregnation–bioreduction
+ver–ethylenediaminecomplexperformedhighercatalyticactivity process,asshowninScheme1.1.0g a -Al O supportwasimpreg-
+2 3
+than those with silver nitrate and silver–ammonia complex [15]. nated with a certain amount of silver–ethylenediamine complex
+Asacontinuationofourpreviouswork[15,16],asimpleandcon- solution,anddriedat50(cid:1)Cfor12hinvacuum.Thentheobtained
+venient impregnation–bioreduction (IMP–BR) method shown in solidwasdippingwithCCextractinaniso-volumetricwayfor24h
+a
+Scheme 1 is used to prepare the Ag/ -Al 2 O 3 catalyst with CC atindicatedtemperature,driedat50(cid:1)Cfor24hinvacuumandcal-
+Scheme1. SchematicdescriptionofpreparingsupportedAgcatalystbyanIMP–BRmethodwithCinnamomumcamphora(CC)extract.
+
+X.Jingetal./ChemicalEngineeringJournal284(2016)149–157 151
+Fig.1. EpoxidationofethyleneoverAg/a-Al2O3preparedwithdifferentbioreductiontemperatures.(Reactionconditions:feedgasV(C2H4):V(O2):V(CO2):V(N2)=15:7:5:73,
+reactionpressure=2MPa,GHSV=7000mlh(cid:3)1mlc (cid:3) a 1 t.).
+cinedinN atrequiredtemperature.FortheCs-promotedcatalysts, (99.999%), 7% O (99.999%), 5% CO (99.999%) and balanced with
+2 2 2
+a
+the -Al O support was treated with cesium nitrate solution at N (99.999%) at 2MPa total pressure. 0.5mL catalyst was loaded
+2 3 2
+room temperature, and dried in vacuum. The Cs-treated a -Al O into the reactor and the space velocity was 7000mLh(cid:3)1mL(cid:3)1.
+2 3 cat
+support was used to prepare the catalyst in the same procedure The reaction products were analyzed online by a gas chro-
+as mentionedabove.Thecatalysts withdifferentCs contentscan matograph equipped witha thermalconductivitydetector (TCD),
+be obtained by treating a -Al O with different concentration of usingaPorapakQpackedcolumn(2mm(cid:4)3m),andaflameion-
+2 3
+cesiumnitratesolution.TheobtainedAgcatalystsaredenotedas ization detector (FID), using a ß-ß-oxydipropionitrile packed col-
+xAg/ a -Al O -yCs-z, where x is the calculated weight percent of umn(2mm(cid:4)1.5m).
+2 3
+Ag in the catalysts, y is the Cs contents in the catalysts, and z is
+thecalcinationtemperature.
+3.Resultsanddiscussion
+2.5.Characterizationofthecatalysts 3.1.Influenceofbioreductiontemperature
+Scanning electron microscopy (SEM) images of the samples Theinfluenceofbioreductiontemperatureonthecatalyticper-
+were taken on a Hitachi S-4800 microscope. Size distribution of formance of the Ag/ a -Al O catalysts was investigated. Different
+2 3
+theresultingAgNPswasestimatedthroughthepreviousmethod catalysts were prepared by reducing the silver-ethylenediamine
+[31].X-raypowderdiffraction(XRD)experimentswereconducted complex impregnated on a -Al O support at 30, 60 and 90(cid:1)C,
+2 3
+onaPanalyticalX’pertPROdiffractometer(PANalyticalBV,Nether- respectively. And the catalytic performance of ethylene epoxida-
+lands)withmonochromatizedCuKaradiationatavoltageof40kV tion over Ag/ a -Al O with different bioreduction temperatures is
+2 3
+andacurrentof30mA.ForO 2 -TPDmeasurements,thesamplewas showninFig.1.AsshowninFig.1,whenthebioreductiontemper-
+pretreatedunderanHeflowof30mL/minat250(cid:1)Cfor1h,then atureis30(cid:1)C,EOconcentrationincreasesfrom1.05to1.61%with
+cooledto170(cid:1)CandswitchingO 2 (30mL/min)tothesample.After the catalytic reaction temperature changing from 220 to 240(cid:1)C.
+1h in O 2 , the sample was cooled to room temperature and He Whenthebioreductionwasconductedat60(cid:1)C,2.02%ofEOcon-
+(30mL/min) was used to remove O 2 in gas phase. O 2 desorption centrationwasachievedat240(cid:1)C.As90(cid:1)Cischosenforprepara-
+process was recorded in the He flow by raising the temperature tion, the performance of the corresponding catalyst decreased
+atarateof10(cid:1)Cmin(cid:3)1.
+slightlycomparedtothatpreparedat60(cid:1)C.Thecatalystprepared
+at30(cid:1)Cexhibitedthehighestselectivity(Fig.1B),whileconsider-
+2.6.Catalyticactivitytests ingEOconcentration,60(cid:1)Cwastheoptimalbioreductiontemper-
+aturetoachievethehighestEOyield(Fig.1D).
+a
+The catalytic tests were carried out in a vertical fixed-bed XRDisusedtocharacterizetheAg/ -Al O preparedatdifferent
+2 3
+stainless-steel reactor. The gas feed composition was 15% C H bioreduction temperatures in Fig. 2. Curve a in Fig. 2 shows the
+2 4
+
+152 X.Jingetal./ChemicalEngineeringJournal284(2016)149–157
+Fig.3. FTIRspectraofAg/a-Al2O3preparedwithdifferentbioreductiontempera-
+tures.(a)withoutbioreduction;(b)30(cid:1)C;(c)60(cid:1)C;(d)90(cid:1)C.
+3.2.InfluenceofCCextractconcentration
+TheinfluenceofCCextractconcentrationonthecatalyticper-
+a
+formanceofAg/ -Al O catalystswithAgloadingof15%wasstud-
+2 3
+ied.AllthecatalystsshowninTable1arepreparedat60(cid:1)Cwith
+15wt.% Ag loading and calcined at 600(cid:1)C for 1h in N . In the
+2
+absence of biomass, only 0.63% EO concentration and 20.67% EO
+selectivity were obtained at higher reaction temperature, i.e.
+250(cid:1)C.ItcanbeseenthatnotonlytheEOconcentrationandselec-
+tivityweresignificantlyenhanced,butalsotheinitiationtempera-
+tureeffectivelydecreasedbyusingCCextract.Withtheincreaseof
+theCCextractconcentrationfrom0.01 to0.15g(cid:5)mL(cid:3)1, thecorre-
+spondinginitiationtemperaturedecreasedfrom240(cid:1)Cto200(cid:1)C.
+However,itincreasedalittlewithfurtherincreasingtheCCextract
+Fig.2. XRDpatternsofAg/a-Al2O3preparedwithdifferentbioreductiontemper- concentration.Thelowestinitiationtemperature200(cid:1)Cwasfound
+atures.(a)withoutbioreduction;(b)30(cid:1)C;(c)60(cid:1)C;(d)90(cid:1)C. on the catalysts prepared with 0.10 and 0.15g(cid:5)mL(cid:3)1 CC extract.
+And much better catalytic activity was obtained at 0.15g(cid:5)mL(cid:3)1.
+When the biomass concentration was higher than 0.15g(cid:5)mL(cid:3)1,
+diffraction peaks of the silver–ethylenediamine complex impreg- theepoxidationperformanceexhibitedadownwardtrend.EOcon-
+natedon a -Al O supportwithoutfurtherbioreductionandaseries centrationwasanimportantindexinpracticalindustrialprocess.
+2 3
+a
+ofpeaksrelatedtotheAgprecursorappearedcomparingtothe -
+Al O support. With increasing bioreduction temperature, XRD
+2 3
+Table1
+p
+to
+ea
+m
+ks
+et
+r
+a
+e
+l
+l
+l
+a
+ic
+te
+A
+d
+g
+to
+be
+th
+ca
+e
+m
+A
+e
+gp
+st
+r
+r
+e
+o
+c
+n
+u
+g
+r
+e
+so
+r.
+r
+P
+d
+e
+e
+a
+c
+k
+r
+s
+ea
+r
+s
+e
+e
+la
+d
+te
+w
+d
+h
+t
+il
+o
+e
+t
+p
+h
+e
+e
+ak
+A
+s
+g
+a
+p
+s
+r
+s
+e
+ig
+c
+n
+u
+a
+rs
+b
+o
+le
+r
+Effect of concentration of CC extract on ethylene epoxidation over Ag/a-Al2O3
+catalysts.
+completely disappeared when the bioreduction was carried out
+at60(cid:1)CandonlypeaksattributedtometallicAgwasdetectedon CC Reaction EO EO EOspace
+concentration temperature concentration selectivity timeyield
+t 9 h 0 e (cid:1)C su , p th p e or A t. g F p u e r a th ks er b i e n c c a r m ea e si s n h g ar t p h e e r, b s i u o g re g d e u st c i t n io g n th t e em fo p r e m ra a t t u io re n t o o f (g(cid:5)mL(cid:3)1) ((cid:1)C) (%) (%) (gh(cid:3)1L(cid:3) ca 1 t)
+0 250 0.63±0.09 20.67±2.19 43.77±9.73
+largerAgparticles.
+0.01 240 1.00±0.07 86.73±2.39 140.71±8.77
+a
+FTIRspectroscopywasusedtoanalyzetheAg/ -Al 2 O 3 prepared 260 1.24±0.04 73.71±0.33 171.95±5.09
+at different bioreduction temperatures. As shown in Fig. 3, after 0.05 220 0.94±0.02 92.13±1.13 122.85±2.69
+impregnated with Ag precursor, new bands at 3317, 3263, 1615, 240 0.97±0.02 88.91±3.59 125.33±2.64
+1309, 1000 and 770cm(cid:3)1 arose comparing with the IR spectrum 250 1.28±0.01 79.60±0.16 165.94±0.87
+of the a -Al 2 O 3 support. Among the bands, those at 3317cm(cid:3)1 0.10 2 2 0 1 0 0 1 0. . 9 00 0 ± ± 0 0 . . 0 0 1 2 9 9 1 4 . . 8 04 5 ± ± 1 0. . 8 4 9 5 1 1 1 3 6 0 . . 2 1 3 4 ± ± 3 2 . . 1 3 4 0
+and 3263cm(cid:3)1 can be assigned to the stretching vibration of N- 220 1.11±0.01 87.76±2.47 142.91±2.22
+H.Andthebandat1615cm(cid:3)1canbeattributedtothescissoring 230 1.28±0.02 85.35±0.61 163.09±1.03
+vibration of NH while that at 1309cm(cid:3)1 can be assigned to the 0.15 200 1.02±0.00 88.67±0.44 134.51±0.54
+vibration of CH 2 . In addition, the bands at 770 and 1000cm(cid:3)1 210 1.25±0.01 85.31±0.74 165.42±0.22
+2 220 1.68±0.01 79.63±0.31 221.12±3.50
+canbeassignabletothestretchingvibrationofAg-CafterAgcom- 0.20 210 0.92±0.01 97.43±0.85 118.75±1.74
+plexingwithorganicligand.ByreducingtheAgprecursorat30(cid:1)C 220 0.99±0.01 94.33±0.44 126.09±2.63
+(curvebin Fig. 3), the above-mentioned peaks wereweak.How- 230 1.11±0.01 93.48±1.00 146.38±1.53
+240 1.19±0.03 88.11±1.02 153.01±1.16
+ever, if further increasing the bioreduction temperature to 60 or
+0.25 210 0.89±0.01 95.14±1.43 114.60±1.57
+90(cid:1)C, the bands related to the Ag precursors disappeared. From 220 1.00±0.01 93.24±0.21 130.94±0.62
+theaboveresults,itcanbeconcludedthatthebioreductionofAg 230 1.13±0.01 88.67±2.52 146.21±2.17
+precursorswas influencedby thetemperatureand 60(cid:1)C was the 240 1.18±0.01 87.27±2.90 153.91±2.83
+optimalbioreductiontemperature,whichwasselectedforthecat-
+Reaction conditions: feed gas V(C2H4):V(O2):V(CO2):V(N2)=15:7:5:73, reaction
+alystpreparation. pressure=2MPa,GHSV=7000mlh(cid:3)1mlc (cid:3) a 1 t.
+
+X.Jingetal./ChemicalEngineeringJournal284(2016)149–157 153
+Fig.4. SEMimagesandsizedistributions(insets)ofAg/a-Al2O3preparedwithdifferentconcentrations ofCCextract:(A)0,(B)0.05,(C)0.10,(D)0.15,(E)0.20,(F)
+0.25gmL(cid:3)1.
+process were closely associated with the morphologyand size of
+AgNPsonthesupport.And0.15g(cid:5)mL(cid:3)1wastheoptimalconcentra-
+tionforthecatalystpreparation.
+3.3.Influenceofsilverloading
+a
+Epoxidation of ethylene over Ag/ -Al O catalysts with differ-
+2 3
+ent silver loadings at 220(cid:1)C is shown in Fig. 5. For the catalysts
+with 5 Ag and 10% loading, higher EO selectivity than 85% was
+achieved, while the EO concentrations on both are lower than
+1.2%.TheEOconcentrationincreasesastheincreasingofAgload-
+ing till it reached around 15% and then decreased as the further
+a
+increaseofAgloading.AsshowninFig.5,15Ag/ -Al O exhibiting
+2 3
+thebestcatalyticperformance.WithalowerAgloading,thecon-
+centration of active center might be insufficient, leading to the
+low catalytic activity. While excessive Ag loading might give rise
+Fig. 5. Epoxidation of ethylene over Ag/a-Al2O3 catalysts with different silver
+tothesinteringofAgNPs,whichalsoledtothedecreaseofcatalytic
+loadingsat220(cid:1)C.
+performance. SEMimagesin Fig. S1 (Supplementaryinformation,
+ThehighestEOconcentration(1.68%)wasachievedat220(cid:1)C,giv- SI) show that obvious agglomeration occurred on the catalysts
+with20%and25%Agloading.
+ing rise to the highest EO space time yield (STY) of
+221.12g(cid:5)h(cid:3)1(cid:5)L(cid:3)1.
+cat
+SEMisusedtofurthercharacterizethecatalystspreparedfrom 3.4.Influenceofcalciningtemperature
+differentCCextractconcentration.AsshowninFig.4,whennoCC
+extract is used, large AgNPs with mean diameter of Asacommonbutimportantprocedureincatalystpreparation,
+208.4±174.2nmareobserved(Fig.4A).AfterCCextractwasintro- calcinationcanbeadoptedtoimprovethecatalystperformanceby
+duced, size of the AgNPs on the support decreased. When enhancing the interaction between metal and support. For the
+0.15g(cid:5)mL(cid:3)1CCextractwasused,itwasfoundthatsphericalAgNPs biosynthesizedcatalyst,calcinationwasanessentialwaytoexpose
+withmeandiameterof127.4±81.1nmwerewelldispersedonthe the reactive center by removing the residual biomolecule on the
+support (Fig. 4D). While, when 0.20 (Fig. 4E) and 0.25g(cid:5)mL(cid:3)1 catalyst. And it was found that the residual biomolecules on the
+(Fig.4F)CCextractwereused,thinsheetswithobviousagglomer- metal NPs can prevent them from sintering or agglomerating
+ation instead of spherical AgNPs were obtained on the support. [16]. Influence of calcination temperature in N atmosphere on
+2
+a
+Therefore, CC extract concentrations in the catalyst preparation ethylene epoxidation over Ag/ -Al O catalyst was investigated.
+2 3
+
+154 X.Jingetal./ChemicalEngineeringJournal284(2016)149–157
+Table2
+EffectofcalcinationpretreatmenttemperatureunderN2onethyleneepoxidationoverAg/a-Al2O3catalysts.
+Calcinationtemperature((cid:1)C) Reactiontemperature((cid:1)C) EOconcentration(%) EOselectivity(%) EOspacetimeyield(gh(cid:3)1L(cid:3) ca 1 t)
+Withoutcalcination 230 0.72±0.01 95.51±1.73 100.21±0.58
+240 0.82±0.01 86.04±0.32 112.55±0.50
+250 1.41±0.01 79.11±0.71 195.63±0.85
+260 2.22±0.08 62.04±1.82 300.35±10.88
+200 200 0.81±0.01 92.98±2.12 105.98±1.45
+210 0.89±0.01 88.36±0.37 115.67±0.83
+220 1.04±0.01 82.16±1.06 135.18±0.47
+230 1.27±0.01 74.96±0.19 164.74±3.31
+240 1.60±0.01 65.12±0.79 205.34±1.73
+300 200 0.75±0.02 95.82±1.25 99.00±2.20
+210 0.96±0.01 86.42±1.14 125.98±1.74
+220 1.16±0.03 84.22±1.63 152.66±4.29
+230 1.39±0.01 80.28±1.06 183.51±0.94
+400 200 0.81±0.02 96.60±2.67 109.30±2.62
+210 0.97±0.01 89.12±1.04 129.14±2.01
+220 1.17±0.01 88.91±1.32 159.56±2.59
+230 1.41±0.01 84.73±0.22 194.09±1.55
+500 200 0.86±0.02 94.89±2.36 114.02±2.04
+210 0.98±0.01 88.09±0.87 129.83±1.63
+220 1.20±0.02 85.48±1.05 160.45±3.24
+230 1.54±0.03 80.75±0.76 200.34±2.58
+600 200 0.92±0.01 93.24±3.08 120.77±2.43
+210 1.10±0.01 88.58±2.72 142.80±2.83
+220 1.43±0.02 86.10±1.52 187.77±4.82
+230 1.87±0.02 75.43±1.41 241.85±3.89
+700 200 0.78±0.01 94.65±1.42 103.48±1.52
+210 0.85±0.00 90.36±0.36 112.78±0.09
+220 0.96±0.02 84.16±1.53 126.17±2.35
+230 1.14±0.01 78.56±0.89 149.19±0.77
+240 1.40±0.01 70.16±0.10 183.99±0.73
+800 240 0.83±0.02 82.37±1.05 111.00±2.91
+250 0.91±0.01 72.62±0.78 123.90±1.06
+260 1.01±0.01 55.80±1.45 136.37±0.82
+Reactionconditions:feedgasV(C2H4):V(O2):V(CO2):V(N2)=15:7:5:73,reactionpressure=2MPa,GHSV=7000mlh(cid:3)1mlc (cid:3) a 1 t.
+Table3
+EpoxidationofethyleneoverbiosynthesizedAg/a-Al2O3catalystsandtheindustrial
+catalystYS-7.
+Catalyst 15Ag/aAl2O3-150Cs YS-7
+Reactiontemperature((cid:1)C) 190 200
+EOconcentration(%) 1.37 1.34
+EOselectivity(%) 89.61 80.60
+EOspacetimeyield(gh(cid:3)1L(cid:3) ca 1 t) 180.42 166.24
+Reaction conditions: feed gas V(C2H4):V(O2):V(CO2):V(N2)=15:7:5:73, reaction
+pressure=2MPa,GHSV=7000mLh(cid:3)1mLc (cid:3) a 1 t.
+Fig.6. EpoxidationofethyleneoverAg/a-Al2O3catalystswithdifferentCscontents
+at200(cid:1)C.
+All catalysts in Table 2 were prepared at 60(cid:1)C, 0.15g(cid:5)mL(cid:3)1 CC
+extract and with 15wt.% Ag loading. It can be seen that without
+calcination,theinitiationtemperatureofthebiosynthesizedcata-
+lystwas230(cid:1)Cshowingpooractivityfortheethyleneepoxidation.
+After calcination between 200–700(cid:1)C, the initiation temperature
+of the catalysts decreased to 200(cid:1)C. After calcination at 800(cid:1)C,
+the initiation temperature is up to 240(cid:1)C. These results indicate
+thatthereactiontemperaturecanbeeffectivelyloweredbyappro-
+priate calcination. Moreover, the catalytic performance was also
+influenced by the calcination temperature. For example, at the
+same reaction temperature of 220(cid:1)C, EO selectivity was close to
+o tu r r h e i s gh (e e x r c t e h p a t n 8 8 0 0 0 % (cid:1) f C o ) r . t T h h e e c E a O tal c y o s n ts ce c n al t c r i a n t e io d n at at di 2 ff 2 e 0 re (cid:1) n C t i t n e c m re p a e s r e a d - F to ig ( . g 7 ) . is O 0 2- , T 5 P 0 D ,1 p 0 ro 0 fi ,1 le 5 s 0 o , f 2 A 0 g 0 / , a 3 - 0 A 0 l2 , O 5 3 00 w l it g h g d c (cid:3) i a f 1 t f , e r r e e s n p t e C c s ti c v o e n ly t . ents;Cscontentfrom(a)
+
+X.Jingetal./ChemicalEngineeringJournal284(2016)149–157 155
+from1.04%to1.68%withincreasingcalcinationtemperaturefrom catalystswithAgloadingof15%andCscontentsof0–500 l gg(cid:3)1
+cat
+200to400(cid:1)C,andthendecreasedto0.96%at700(cid:1)C.WhilenoEO wastestedat200(cid:1)C.Thecatalyticperformanceofthesecatalysts
+wasdetectedforcatalystcalcinedat800(cid:1)Catthereactiontemper- ispresented in Fig. 6. It canbe seen that both EO concentrations
+ature of 220(cid:1)C. Therefore, the best calcination temperature was and EO selectivity increased with the Cs contents from 0 to
+600(cid:1)C. 150 l g(cid:5)g(cid:3)1,andthendecreasedwithfurtherincreasingtheCscon-
+cat
+tents from 150 to 500 l gg(cid:3)1. The catalyst 15Ag/ a -Al O -150Cs
+cat 2 3
+3.5.InfluenceofCspromoter withCscontentsof150 l gg c (cid:3) a 1 t gavethehighestEOconcentrations
+of1.70%,EOselectivityof87.46%andEOspacetimeyield(STY)of
+Asthemostcommonpromoter,Csplaysanimportantroleon 223.07gh(cid:3)1L(cid:3) ca 1 t .Fromtheabovediscussion,itcanbeseenthatthe
+a
+EO selectivity in ethylene epoxidation [33]. In this work, Cs was catalyticperformanceofAg/ -Al 2 O 3 catalystswasstronglyaffected
+introducedbyimpregnatingthe a -Al 2 O 3 supportwithCsNO 3 prior byCscontents.Comparingwiththecatalyst15Ag/ a -Al 2 O 3 -600with-
+to the bioreduction. The epoxidation performance of Ag/ a -Al O outCsadditioninTable2,althoughtheEOSTYissimilar,EOselec-
+2 3 a
+tivityis 12% higherwithcomparableEO concentration on 15Ag/ -
+Al O -150Cs. And more importantly, the reaction temperature
+2 3
+decreasedby20(cid:1)C,whichcouldgreatlyreduceenergyconsumption.
+Comparativestudywascarriedoutbetweenthebiosynthesizedcat-
+a
+alyst15Ag/ -Al O -150CsandindustrialcatalystYS-7fromYanshan
+2 3
+petrochemical companyin the samereactionsystem. The catalytic
+performanceofthetwocatalystsispresentedinTable3.Atthesame
+EO concentration of (cid:6)1.35%, 15Ag/ a -Al O -150Cs exhibited the EO
+2 3
+selectivityof89.61%whichwas9%higherthanthatofYS-7catalyst,
+andthereactiontemperaturewas9(cid:1)ClowerthanthatofYS-7cata-
+a
+lyst.Therefore,theperformanceofthebioreductioncatalyst15Ag/ -
+Al O -150CswassuperiortothatofYS-7catalyst.
+2 3
+a
+O -TPD results of the Ag/ -Al O catalysts with different Cs
+2 2 3
+contents are presented in Fig. 7. The nonpromoted catalyst had
+threepeaksinthetemperatureof200–500(cid:1)C.Thepeakat260(cid:1)C
+F 2 i 0 g 0 .8 (cid:1)C . ; S h tab E i O lit c y o o n f c 1 en 5 t A r g a / t a io - n Al ( 2 % O ) 3 ; - s 15 E 0 O Cs s c e a le ta c l t y iv s i t ty fo ( r % e ) t ; h 4 yle E n O e S e T p Y ox ( i g d h at (cid:3) i 1 on Lc (cid:3) f a 1 o t) r . 50hat w in a t s h d e u r e eg t u o la th r e si d lv e e s r or s p u t r i f o a n ce o [ f 3 n 4 u ], cl a e n o d ph th il e ic p o e x a y k g a e t n 3 s 3 p 5 ec (cid:1) i C es co lo u c ld ate b d e
+Fig.9. SEMcharacterizationoftheoptimumcatalyst(15Ag/a-Al2O3-150Cs)before(A)andafter(C)thestabilitytest.(B)and(D)isthecorrespondingsizeanalysisofAg
+nanoparticlesonthecatalysts.
+
+156 X.Jingetal./ChemicalEngineeringJournal284(2016)149–157
+attributedtothedesorptionofelectrophilicoxygenspecieslocated AppendixA.Supplementarydata
+inthesilvercrystallinedefectswhereepoxidizingoxygenspecies
+are located [35]. The peak at 405(cid:1)C was associated with oxygen Supplementarydataassociatedwiththisarticlecanbefound,in
+species from subsurface [12]. Increasing the Cs contents from 0 theonlineversion,athttp://dx.doi.org/10.1016/j.cej.2015.08.082.
+to 500 l gg(cid:3)1, the peak at 260(cid:1)C was gradually enhanced, how-
+cat
+ever, the peak at 335(cid:1)C increased firstly when the Cs contents
+increased from 0 to 150 l gg c (cid:3) a 1 t and then decreased when the Cs References
+contentswere200–500 l g(cid:5)g(cid:3)1.WhentheCscontentwaslessthan
+cat
+150 l g(cid:5)g(cid:3)1, Cs addition caused a significant increase in both the [1] A.Chongterdtoonskul,J.W.Schwank,S.Chavadej,Effectsofoxidesupportson
+cat
+electrophilicoxygenspeciesandnucleophilicoxygenspeciescom- ethyleneepoxidationactivityoverAg-basedcatalysts,J.Mol.Catal.A:Chem.
+358(2012)58–66.
+pared withthe nonpromoted catalyst, and increasedthe electron [2] J.Lacson,EthyleneOxide,ChemicalEconomicsHandbook,SRIInternational,
+density of adsorbed oxygen species, inhibiting EO ring-opening MenloPark,Calif,2003.
+[36–40].WhentheconcentrationofCswashigherthan150 l gg(cid:3)1, [3] M. Ghanta, B. Subramaniam, H.-J. Lee, D.H. Busch, Highly selective
+cat homogeneous ethylene epoxidation in gas (ethylene)-expanded liquid:
+the catalytic performance of the Ag catalysts decreased. It is
+transportandkineticstudies,AIChEJ.59(2013)180–187.
+becausethathighconcentrationofnucleophilicoxygenspeciesis [4] W.J. Yan, A. Ramanathan, M. Ghanta, B. Subramaniam, Towards highly
+unfavorable to ethylene epoxidation, resulting in complete ethy- selective ethylene epoxidation catalysts using hydrogen peroxide and
+tungsten-or niobium-incorporated mesoporous silicate (KIT-6), Catal. Sci.
+leneoxidation[41–44].
+Technol.4(2014)4433–4439.
+[5] T.Sreethawong,T.Suwannabart,S. Chavadej, Ethyleneepoxidationin low-
+a temperatureACcoronadischargeoverAgcatalyst:effectofpromoter,Chem.
+3.6.StabilityoftheCspromotedAg/ -Al O catalyst
+2 3 Eng.J.155(2009)396–403.
+[6] T.E.Lefort,Processfortheproductionofethyleneoxide,FrenchPatent729952,
+Theoptimumcatalyst(15Ag/ a -Al O -150Cs)isusedforalong- 1931.
+2 3
+[7] H.Takada,M.Shima,Silvercatalystforproductionofethyleneoxide,method
+timereactiontesttoevaluatethestabilityofthecatalystprepared
+for production thereof, and method for production of ethylene oxide. U.S.
+bythebioreductionmethod.AsshowninFig.8,thespecificactiv- Patent6103916(2000-8-15).
+ityonstreamisidealandstablein50h,withtheEOconcentration [8] M.A.Pena,D.M.Carr,K.L.Yeung,A.Varma,Ethyleneepoxidationinacatalytic
+packed-bedmembranereactor,Chem.Eng.Sci.53(1998)3821–3834.
+of1.60–1.70%,theEOselectivityishigherthan85%andtheEOSTY
+[9] M.O.Özbek,R.A.vanSanten,Themechanismofethyleneepoxidationcatalysis,
+isabout200g(cid:5)h(cid:3)1L(cid:3) ca 1 t . Catal.Lett.143(2013)131–141.
+Fig.9showstheSEMcharacterizationoftheoptimumcatalyst [10] B.A. Rokicki, C. Verrier, Method for preparing an epoxidation catalyst, U.S.
+(15Ag/ a -Al O -150Cs) before and after the stability test. After a Patent8546297(2013-10-1).
+2 3 [11] A.Ayame,Y.Uchida,H.Ono,M.Miyamoto,T.Sato,H.Hayasaka,Epoxidationof
+long-timereactiontestonstream,thesizeoftheAgnanoparticles ethyleneoversilvercatalystssupportedona-aluminacrystalcarriers,Appl.
+increasedalittle,andtheAgnanoparticlesmaintainedwelldisper- Catal.A244(2003)59–70.
+siononthesupport.Ithadbeenreportedthatplantbiomassstill [12] M.C.N.A.deCarvalho,F.B.Passos,M.Schmal,Studyoftheactivephaseofsilver
+catalystsforethyleneepoxidation,J.Catal.248(2007)124–129.
+remainedonthesurfaceofthecalcinedcatalyst,andtheprotective
+[13] J.C.Dellamorte,J.Lauterbach,M.A.Barteau,RheniumpromotionofAgandCu–
+effectofthebiomoleculesoncatalystssurfacehasbeenprovedby Agbimetalliccatalystsforethyleneepoxidation,Catal.Today120(2007)182–
+the previous studies [28–30]. The high catalytic stability of the 185.
+a [14] P.Christopher,S.Linic,Engineeringselectivityinheterogeneouscatalysis:Ag
+15Ag/ -Al O -150Cs catalyst might be due to the existence of
+2 3 nanowiresasselectiveethyleneepoxidationcatalysts,J.Am.Chem.Soc.130
+residual bimolecular on the catalysts preventing Ag NPs from (2008)11264–11265.
+agglomeration. [15] X.L.Jing,H.X.Wang,H.M.Chen,J.L.Huang,Q.B.Li,D.H.Sun,BiosynthesizedAg/
+a-Al2O3catalystforethyleneepoxidation:theinfluenceofsilverprecursors,
+RSCAdv.4(2014)27597–27603.
+4.Conclusion [16] D.H.Sun,H.X.Wang,G.L.Zhang,J.L.Huang,Q.B.Li,PreparationofAg/a-Al2O3
+forethyleneepoxidationthroughthermaldecompositionassistedbyextractof
+Cinnamomumcamphora,RSCAdv.3(2013)20732–20737.
+a
+Insummary,wehavefabricatedtheAg/ -Al O catalystsbythe [17] W.J.Diao,C.D.DiGiulio,M.T.Schaal,S.G.Ma,J.R.Monnier,Aninvestigationon
+impregnation–bioreductionmethodforethylen 2 ee 3 poxidationwith the role of Re as a promoter in AgCsRe/a-Al2O3 high-selectivity, ethylene
+epoxidationcatalysts,J.Catal.322(2015)14–23.
+O . The preparation process was thoroughlyinvestigatedand the
+2 [18] N.Rizkalla,Processforpreparingsilvercatalyst,U.S.Patent6184175,(2001-2-
+optimal preparing conditions of the Ag catalysts were identified 6).
+asfollow:bioreductiontemperature60(cid:1)C,silverloading15%,con- [19] D.M. Minahan, G.B. Hoflund, W.S. Epling, D.W. Schoenfeld, Study of Cs-
+centration of CC extract 0.15gmL(cid:3)1, calcination temperature
+promoted,a-alumina-supportedsilver,ethyleneepoxidationcatalysts:IIIand
+nonpromotedcatalysts,J.Catal.168(1997)393–399.
+600(cid:1)C.ItwasfoundthatthecatalyticperformanceofAg/ a -Al 2 O 3 [20] W.S.Epling,G.B.Hoflund,D.M.Minahan,StudyofCs-promoted,a-alumina-
+catalysts can be strongly affected by Cs contents. Cs promoter supportedsilver,ethylene-epoxidationcatalysts,J.Catal.171(1997)490–497.
+[21] M.O.Özbek,I.Önal,R.VanSanten,Ethyleneepoxidationcatalyzedbychlorine-
+canenhancetheAgelectropositivitybenefitfortheadsorptionof
+promoted silver oxide, J. Phys. Condensed Matter: Inst. Phys J. 23 (2011).
+oxygenspecies.ThebestCsadditionamountwas150 l gg c (cid:3) a 1 t .The 404202-404202.
+optimized catalyst 15Ag/ a -Al O -150Cs led to the EO concentra- [22] J.C.Dellamorte,J.Lauterbach,M.A.Barteau,Promoter-inducedmorphological
+2 3
+tionsof1.70%,EOselectivityof87.46%andEOSTYof223.07gh(cid:3)1- changes of Ag catalysts for ethylene epoxidation, Ind. Eng. Chem. Res. 48
+(2009)5943–5953.
+L(cid:3)
+ca
+1
+t
+at200(cid:1)C,whichwassuperiortotheindustrialYS-7catalystfrom
+[23] S.Iravani,Greensynthesisofmetalnanoparticlesusingplants,GreenChem.13
+Yanshanpetrochemicalcompany.Inaddition,stabilitytestshowed (2011)2638–2650.
+therewasnosignificantdecreaseinboththeactivityandtheselec- [24] J.L. Huang, L.Q. Lin, D.H. Sun, H.M. Chen, D.P. Yang, Q.B. Li, Bio-inspired
+synthesisofmetalnanomaterialsandapplications,Chem.Soc. Rev.(2015),
+tivity during 50h. The high catalytic stability of the catalysts was http://dx.doi.org/10.1039/C5CS00133A.
+duetothe existenceof residualbiomoleculeson thecatalystspre- [25] Y. Ma, Y.Q. Huang, Y.W. Cheng, L.J. Wang, X. Li, Selective liquid-phase
+ventingAgNPsfromagglomeration. hydrogenationofmaleicanhydridetosuccinicanhydrideonbiosynthesized
+Ru-basedcatalysts,Catal.Commun.57(2014)40–44.
+[26] W.B.Liang,T.L.Church,A.T.Harris,Biogenicsynthesisofphotocatalytically
+Acknowledgments activeAg/TiO2andAu/TiO2composites,GreenChem.14(2012)968–975.
+[27] A.R.Vilchis-Nestor,M.Avalos-Borja,S.A.Gómez,J.A.Hernández,A.Olivas,T.A.
+Zepeda,Alternativebio-reductionsynthesismethodforthepreparationofAu
+ThisworkwassupportedbytheNSFCProjects(Nos.21206140 (AgAu)/SiO2–Al2O3catalysts:OxidationandhydrogenationofCO,Appl.Catal.
+and21406186),theScienceandTechnologykeyProgramofFujian B90(2009)64–73.
+[28] G.W.Zhan,M.M.Du,J.L.Huang,Q.B.Li,GreensynthesisofAu/TS-1catalysts
+Province(No.2013H0044)andScienceandTechnologyProgramof
+via two novel modes and their surprising performance for propylene
+Xiamen,China(No.3502Z20133006). epoxidation,Catal.Commun.12(2011)830–833.
+
+X.Jingetal./ChemicalEngineeringJournal284(2016)149–157 157
+[29] G.W.Zhan,M.M.Du,D.H.Sun,J.L.Huang,X.Yang,Y.Ma,A.-R.Ibrahim,Q.B.Li, [37] J.F.Deng,J.Yang,S.Zhang,X.H.Yuan,PromotingeffectsofReandCsonsilver
+Vapor-phase propylene epoxidation with H2/O2 over bioreduction Au/TS-1 catalystinethyleneepoxidation,J.Catal.138(1992)395–399.
+catalysts:synthesis,characterization,andoptimization,Ind.Eng.Chem.Res. [38] R.B.Grant,C.A.J.Harbach,R.M.Lambert,S.A.Tan,Alkalimetal,chlorineand
+50(2011)9019–9026. other promoters in the silver-catalysed selective oxidation of ethylene, J.
+[30] M.M.Du,G.W.Zhan,X.Yang,H.X.Wang,W.S.Lin,Y.Zhou,J.Zhu,L.Q.Lin,J.L. Chem.Soc.,FaradayTransactions1:Phys.Chem.CondensedPhases83(1987)
+Huang, D.H. Sun, L.S. Jia, Q.B. Li, Ionic liquid-enhanced immobilization of 2035–2046.
+biosynthesized Au nanoparticles on TS-1 toward efficient catalysts for [39] R.B.Grant,R.M.Lambert,Ethyleneoxideisomerisationonsingle-crystalAg
+propyleneepoxidation,J.Catal.283(2011)192–201. (111)inatomicallycleanandCs-moderatedconditions,J.Catal.93(1985)92–
+[31] J.L.Huang,C.Liu,D.H.Sun,Y.L.Hong,M.M.Du,T.Odoom-Wubah,W.P.Fang,Q. 99.
+B.Li,BiosynthesizedgoldnanoparticlessupportedoverTS-1towardefficient [40] N. Macleod, J.M. Keel, R.M. Lambert, The effects of catalyst aging under
+catalystforepoxidationofstyrene,Chem.Eng.J.235(2014)215–223. industrialconditions:ethyleneoxideconversionoverAg-Cs/a-Al2O3catalysts,
+[32] Y.L.Hong,X.L.Jing,J.L.Huang,D.H.Sun,T.Odoom-Wubah,F.Yang,M.M.Du,Q. Catal.Lett.86(2003)51–56.
+B. Li, Biosynthesizedbimetallic Au–Pd nanoparticles supported on TiO2for [41] V.I.Bukhtiyarov,A.F.Carley,L.A.Dollard,M.W.Roberts,XPSstudyofoxygen
+solvent-free oxidation of benzyl alcohol, ACS Sustain. Chem. Eng. 2 (2014) adsorptiononsupportedsilver:effectofparticlesize,Surf.Sci.381(1997)
+1752–1759. L605–L608.
+[33] M.O.Özbek,I.Önal,R.A.vanSanten,Chlorineandcaesiumpromotionofsilver [42] V.I.Bukhtiyarov,A.I.Boronin,V.I.Savchenko,Stagesinthemodificationofa
+ethyleneepoxidationcatalysts,ChemCatChem5(2013)443–451. silversurfaceforcatalysisofthepartialoxidationofethylene:I.Actionof
+[34] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,B.S.Bal’zhinimaev,E.A.Podgornov, oxygen,J.Catal.150(1994)262–267.
+XPSandTPDstudiesofCs–OcomplexesonAgsurfaces:singlecrystalversus [43] V.I.Bukhtiyarov,M.Hävecker,V.V.Kaichev,A.Knop-Gericke,R.W.Mayer,R.
+supportedcatalysts,Appl.Surf.Sci.115(1997)135–143. Schlögl,Atomicoxygenspeciesonsilver:photoelectronspectroscopyandx-
+[35] B.S.Bal’zhinimaev,Ethyleneepoxidationoversilvercatalysts,Kinet.Catal.40 rayabsorptionstudies,Phys.Rev.B67(2003)235422.
+(1999)795–810. [44] V.I.Bukhtiyarov,V.V.Kaichev,E.A.Podgornov,I.P.Prosvirin,XPS,UPS,TPDand
+[36] S.A. Tan, R.B. Grant, R.M. Lambert, Secondary chemistry in the selective TPRstudiesofoxygenspeciesactiveinsilver-catalysedethyleneepoxidation,
+oxidation of ethylene: effect of Cl and Cs promoters on the adsorption, Catal.Lett.57(1999)233–239.
+isomerisation,andcombustionofethyleneoxideonAg(111),J.Catal.106
+(1987)54–64.
+

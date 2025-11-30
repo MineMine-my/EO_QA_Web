@@ -1,0 +1,842 @@
+CatalLett(2012)142:991–1002
+DOI10.1007/s10562-012-0848-7
+Ethylene Epoxidation Activity Over Ag-Based Catalysts
+on Different Nanocrystalline Perovskite Titanate Supports
+Atiporn Chongterdtoonskul • Johannes W. Schwank •
+Sumaeth Chavadej
+Received:16February2012/Accepted:28May2012/Publishedonline:19June2012
+(cid:2)SpringerScience+BusinessMedia,LLC2012
+Abstract Ag-based catalysts on different nanocrystalline 1 Introduction
+perovskite supports (MgTiO , CaTiO , SrTiO , and
+3 3 3
+BaTiO ), and nanocrystalline TiO support prepared by a Silver-catalyzed ethylene epoxidation to produce ethylene
+3 2
+sol–gelmethodandonacommerciala-Al O supportwere oxide(EO),akeyintermediateinthechemicalindustry,is
+2 3
+comparatively studied for catalytic activity of the ethylene an industrially applied heterogeneous catalytic process. A
+epoxidation reaction. The dependence of ethylene oxide number of significant efforts have been made to improve
+production performance on calcination temperature of the thecatalystsusedinthisprocesssincethediscoveryofthis
+support, type of titanate nanocrystal supports, Ag loading, reaction byLefort [1].Theactive phase ofsilver catalysts,
+and reaction temperature was systematically investigated. themechanismofthisreaction,andtheeffectofpromoters
+The catalysts were analytically characterized by a Bru- have been intensively investigated [2–16]. Ayame et al.
+nauer–Emmett–Teller (BET) surface area, X-ray diffrac- [17] synthesized pure crystalline a-Al O carriers used in
+2 3
+tion (XRD), field emission scanning electron microscopy catalytic epoxidation from primary a-Al O crystal parti-
+2 3
+(FE-SEM), transmission electron microscopy (TEM), cles. The carriers had high purity with homogeneous pore
+energy-dispersive X-ray spectroscopy (EDS), temperature distribution and the pores comprised spaces or cavities
+programmed desorption (TPD), and X-ray photoelectron surrounded by crystal planes of the primary particles. The
+spectroscopy (XPS). Among studied catalysts, the Agcatalystssupportedonthea-Al O crystalcarrierswere
+2 3
+17.2 wt% Ag/SrTiO catalyst exhibited the highest cata- found to exhibit good catalytic performance i.e. high and
+3
+lytic activity towards ethylene epoxidation reaction. very stable ethylene conversion and ethylene oxide selec-
+tivity in the ethylene epoxidation reaction without added
+Keywords Perovskite supports (cid:2) SrTiO (cid:2) organic halides. In 2007, Fotopoulos and Triantafyllidis
+3
+Nanocrystalline TiO (cid:2) Sol–gel (cid:2) Ethylene epoxidation [18]comparedtheethyleneepoxidationperformanceofAg
+2
+catalysts supported on non-porous SiO , microporous sili-
+2
+calitezeolite,andMCM-41andHMSmesoporoussilicates
+toconventionallowsurfaceareaa-Al O .TheAgcatalysts
+A.Chongterdtoonskul(cid:2)S.Chavadej(&) 2 3
+supported on MCM-41 and HMS mesoporous silicates
+ThePetroleumandPetrochemicalCollege,Chulalongkorn
+were found to be active in ethylene epoxidation reaction,
+University,SoiChula12,PhyathaiRoad,Pathumwan,
+Bangkok10330,Thailand providing EO selectivity similar to or slightly lower than
+e-mail:sumaeth.c@chula.ac.th thoseoftheAgcatalystssupportedonnon-porousSiO and
+2
+conventional low surface area a-Al O at a relatively low
+J.W.Schwank 2 3
+temperature (*503 K). Particularly, one of the most
+DepartmentofChemicalEngineering,UniversityofMichigan,
+AnnArbor,MI48109,USA interesting developments for catalysis is the modification
+of the surface structure and electronic properties of nano-
+S.Chavadej
+particles [19]. These characteristics determine the features
+CenterofExcellenceonPetrochemicalandMaterials
+oftheinteractionofreactantswithactivesites,reactivityof
+Technology,ChulalongkornUniversity,Bangkok10330,
+Thailand adsorbed species, and structure so they directly affect the
+123
+
+992 A.Chongterdtoonskuletal.
+activity and selectivity of nano-systems in heterogeneous usedasaAgsupportfortheethyleneepoxidationreaction.
+catalysis. Moreover, the catalytic performance of each studied cata-
+Furthermore, a number of researchers have extensively lyst was correlated with its physical properties.
+investigated new preparation methods, i.e. deposition–
+precipitation, atomic layer deposition, etc., to improve the
+performance of catalysts for individual reactions [20, 21]. 2 Experimental
+Kim et al. [22] compared several preparation methods for
+a-Al O supported Ag catalysts i.e. precipitation, modified 2.1 Materials
+2 3
+precipitation, water–alcohol, and microemulsion methods.
+Among all the preparation methods, the catalysts prepared a-Al O withaspecificsurfaceareaof0.109 m2/gwassup-
+2 3
+by a water–alcohol method had higher activities for the pliedbyFluka.Silvernitrate(AgNO )wassuppliedbyS.R.
+3
+ethylene oxide than those prepared by a microemulsion Lab. Tetraisopropyl orthotitanate (TIPT, Ti(OCH(CH ) ) ),
+3 2 4
+method. This might be due to the larger particle sizes magnesium nitrate hexahydrate (Mg(NO ) (cid:2)6H O), calcium
+3 2 2
+(about30 nm)aswellaseasierdesorptionofthemolecular nitrate tetrahydrate (Ca(NO ) (cid:2)4H O), strontium nitrate
+3 2 2
+oxygen from the catalysts. They also found that the Ag (Sr(NO ) ),bariumnitrate(Ba(NO ) ),andlaurylamine(LA,
+3 2 3 2
+particles of about 30 nm (catalysts prepared by modified CH (CH ) NH )werepurchasedfromMerck.Acetylacetone
+3 2 11 2
+precipitation and water–alcohol methods) showed better (ACA, CH COCH COCH ) was obtained from S.D. Fine-
+3 2 3
+stability and higher activity than the particles smaller than Chemical. Hydrochloric acid (HCl) and ethanol (C H OH)
+2 5
+15 nm (catalysts prepared by precipitation and micro- werepurchasedfromLabscan.Allchemicalsusedwereana-
+emulsion methods). lyticalgradeandusedasreceivedwithoutfurtherpurification.
+Oneofthemostpromisingcatalystpreparationmethods
+issol–gel.Thesol–gelprocesshasemergedasaneffective 2.2 Catalyst Preparation Procedures
+technique for the synthesis of noble metal-dielectric
+nanocomposites with enhanced nonlinear optical proper- A nanocrystalline TiO support was synthesized via the
+2
+ties. The advantages of the sol–gel process are high sol–gelprocesswithsurfactant-assistedtemplateinaTIPT/
+homogeneity of the starting solutions in the molecular LA modified with an ACA system [24, 28–33]. ACA was
+scale, low processing temperatures, and the possibility of first mixed with TIPT at a molar ratio of 1:1. Then, the
+incorporating many different metal dopants into different mixed TIPT/ACA solution was gently shaken until
+matrixes, leading to a variety of synthesized materials for homogeneous mixing. A quantity of 60 ml of distilled
+various applications [23, 24]. Furthermore, Puangpetch water and 0.5 ml of HCl were added consecutively in a
+et al. [25] proved that the nanocrystalline structures with a separate beaker, followed by the LA surfactant to obtain
+high pore uniformity of SrTiO were active for photocat- 0.1 M of LA. Afterwards, the mixture was stirred until a
+3
+alytic water splitting. Recently, they compared the photo- clear solution was obtained. Next, the LA solution was
+catalytic H production performance on different types of added to the ACA-modified TIPT solution. The resultant
+2
+perovskite titanate nanocrystal photocatalysts (MgTiO , mixture was continuously stirred to obtain a homoge-
+3
+CaTiO , and SrTiO ). The experimental results showed neously transparent sol. Then, the sol-containing solution
+3 3
+that the 0.5 wt% Pt-loaded SrTiO nanocrystals synthe- was placed in an oven at 353 K for a week in order to
+3
+sized by a single-step sol–gel method and calcined at obtain complete gel formation. Subsequently, the gel was
+923 K exhibited the highest photocatalytic H production furtherdriedat353 Kfor2 daystoeliminatetheremaining
+2
+activity [26]. solvent which was mainly the distilled water used in the
+In our previous work [27], the effects of various oxide preparation of the LA solution. The dried gel was finally
+supports(Al O ,Al O C,a-Al O ,SiO ,andSrTiO ) calcined at 923 K to remove the LA surfactant and to
+2 3,Acid 2 3 2 3 2 3
+for Ag catalysts on EO selectivity and yield were investi- subsequently produce the desired nanocrystalline TiO
+2
+gated. The Ag supported on SrTiO was found to be the support.
+3
+most effective catalyst for epoxidation of ethylene, giving The nanocrystalline perovskite titanates (MgTiO , Ca-
+3
+unusually high EO selectivity up to 99 % and a yield of TiO , SrTiO , and BaTiO ) were also synthesized by the
+3 3 3
+4.5 %. With a continuation of the achievement of the same sol–gel process with the aid of a structure-directing
+perovskite SrTiO nanocrystal catalyst development, the surfactantasusedforthesynthesisoftheTiO support[25,
+3 2
+purposeofthispresentworkwastoinvestigatethecatalytic 26, 34, 35]. Firstly, the TIPT and ACA at an equimolar
+EO activity of Ag-based catalysts on various nanocrystal- ratio were mixed together. The mixed TIPT/ACA solution
+line perovskite titanate supports. Various nanocrystal was gently shaken until a homogeneous mixture was
+perovskite titanates and TiO synthesized via the sol–gel achieved.Anappropriateamountofcorrespondingalkaline
+2
+methodwiththeaidofastructure-directingsurfactantwere earth nitrate (Mg(NO ) (cid:2)6H O, Ca(NO ) (cid:2)4H O, Sr(NO )
+3 2 2 3 2 2 3 2
+123
+
+NanocrystallinePerovskiteTitanateSupports 993
+or Ba(NO ) ) was dissolved in distilled water. Next, etha- (Quantachrome, SAA-1MP) to determine the specific sur-
+3 2
+nol was mixed with the as-prepared alkaline earth nitrate face areas of all synthesized catalyst samples. Prior to
+solution. After that, 1.112 g of the LA surfactant and analysis, each catalyst sample was outgassed at 473 K for
+0.5 ml of HCl were added to obtain the alkaline earth 8 h.
+nitrate/LA/HClsolution.Thealkalineearthnitrate/LA/HCl The surface morphology of the studied catalysts was
+solutionwaspouredintotheTIPT/ACAsolution,basedon observedbyafieldemissionscanningelectronmicroscope
+the alkaline earth metal-to-Ti molar ratio of 1:1 and the (FE-SEM, JEOL 5200-2AE). Before the examination, the
+LA-to-(alkalineearthmetal ? Ti)ratioof0.25:1.Thefinal sampleswerecoatedwithPttoimprovetheirconductivity.
+mixturewascontinuouslystirredatroomtemperatureuntil The catalyst morphologies and particle sizes of the loaded
+ahomogeneoustransparentsolwasobtained.Then,thesol- Ag were examined by transmission electron microscopy
+containing solution was placed in an oven at 353 K for (TEM, JEOL 3011 at 300 kV and JEOL 2010 at 200 kV).
+4 days to achieve complete gelation. Afterwards, the gel The specimens for the TEM analysis were prepared by
+was further dried at 353 K for 4 days to eliminate the ultrasonically dispersing powders of the catalysts in etha-
+solvents. Finally, the dried gel was calcined at 923 K (the nolandthenplacingdropsofthesuspensionontoaCugrid
+calcination temperature of all synthesized supports was coated with a carbon film. An energy dispersive X-ray
+performed only at 923 K because the highest catalytic spectroscope (EDS) attached to the TEM was used to
+activity was found on the SrTiO support at that tempera- verify the existence of Ag particles on the different sup-
+3
+ture,asdescribedlaterinSect.3.2.1)toproducethedesired ports. The Ag particle sizes were determined from statis-
+nanocrystalline perovskite titanate supports. tical analysis of the diameters of particles obtained from
+All Ag-based catalysts on different synthesized nano- the TEM images.
+crystalline perovskite titanates (MgTiO , CaTiO , SrTiO , The oxygen and ethylene adsorption capabilities of the
+3 3 3
+andBaTiO ),TiO anda-Al O werepreparedbyincipient catalysts were obtained using a temperature-programmed
+3 2 2 3
+wetness impregnation. The nanocrystalline perovskite ti- desorption (TPD) analyzer (Quantachrome, Chembet
+tanates and a-Al O supports were impregnated with an 3000). For the TPD experiments, oxygen (4.99 % O in
+2 3 2
+aqueoussilvernitratesolutiontoachievedifferentnominal He) or pure ethylene (99.99 % C H ) was allowed to
+2 4
+Ag loadings of 12.5, 15, 17.5, and 20 wt%. After the adsorb onto the catalyst surface at 473 K for 2 h. After
+impregnation step, the catalysts were dried at 383 K that,thecatalystsampleswerecooledtoroomtemperature
+overnight, followed by calcination in air at 773 K for 5 h. in a stream of high-purity He. The catalyst samples were
+then heated from room temperature to 1,173 K with a
+2.3 Catalyst Characterization Techniques heating rate of 10 K/min, and the desorbed gas was swept
+by the high-purity He at a flow rate of 20 cm3/min. The
+Thecrystallinityofthesynthesizedcatalystswasexamined desorption profile of either oxygen or ethylene present in
+byanX-raydiffractometer(XRD,Rigaku,RINT2200HV) theeffluentstreamwasmeasuredbyathermalconductivity
+equipped with a Ni filter and a Cu Ka radiation source detector (TCD).
+(k = 1.542 A˚)operatingat40 kVand30 mA.Thecatalyst The oxidation state of the supported Ag particles on
+sampleswerescannedusingacontinuousscanningmodeat different supports wasanalyzed byan X-ray photoelectron
+a rate of 5(cid:3) min-1 in the range of 2h from 5(cid:3) to 90(cid:3). The spectroscope (XPS, Shimadzu, Kratos). A monochromatic
+Ag crystallite size (D) was calculated from the line Al Ka source was used as the X-ray source. The relative
+broadening of the corresponding X-ray diffraction peak of surface charging of the samples was corrected by refer-
+Ag using the Debye–Scherrer equation [36, 37] with the encing all the energies to the C1s level as an internal
+full line width at half maximum of intensity and the 2h standard at 284.8 eV [38]. A thermogravimetric-differ-
+value, as follows: ential thermal analyzer (TG–DTA, PerkinElmer, Pyris
+Diamond) was used to quantify the amount of coke
+0:9k
+D¼ deposited on the spent catalysts [39, 40].
+Bcosh
+wherekisthex-raywavelength(1.542 A˚ forCusource),B 2.4 Activity Testing Experiments
+is the full width at half maximum (FWHM) of the dif-
+fractionpeakmeasuredat2h,andhisthediffractionangle. The catalytic ethylene epoxidation activities over different
+The actual contents of the Ag loaded on the catalyst synthesizedcatalystswereperformedinapacked-bed8-mm
+samples were analyzed by an atomic absorption spectro- ID tubular reactor under 24.7 psia with different reaction
+photometer (AAS, Varian, Spectr AA-300). The N temperatures. A 30 mg packed catalyst was initially pre-
+2
+adsorption–desorption isotherms were obtained by a treatedwithoxygenat473 Kfor2 hinordertodiminishall
+Brunauer–Emmett–Teller (BET) surface area analyzer impurities and to remove residual moisture from the
+123
+
+catalyst.Thefeedgaswasamixtureof40 %ethyleneinHe,
+pure oxygen (HP grade),and pure helium (HP grade). The
+flowratesofthesegasstreamswereregulatedbymassflow
+controllers to achieve a feed gas composition of 6 % eth-
+yleneand6 %oxygenwithaheliumbalance.Thefeedgas
+waspassedthroughthereactorataconstantspacevelocity
+of6,000 h-1,andthereactiontemperaturewasvariedfrom
+498to563 Kforallcatalysts.Thecompositionsofthefeed
+and product gases were analyzed by using an on-line gas
+chromatograph (Perkin Elmer, ARNEL) equipped with a
+60/80CARBOXEN1packedcolumn(capableofseparating
+carbon monoxide, carbon dioxide, ethylene, and oxygen)
+and a Rt-U PLOT capillary column (capable of separating 10 15 20 25 30 35 40 45 50 55
+EO, ethane, and propane). The CO concentration was
+neglectedunderthestudiedconditionsbecauseitwasbelow
+thedetectablelimit.Theformationofacetaldehydewasnot
+detected because it was further oxidized to carbon dioxide
+and water so it appeared only in trace amounts (below the
+detectablelimit)[41].ThemeasuredamountCO camefrom
+2
+the oxidation of ethylene, EO and further oxidation of
+acetaldehyde.Thecatalyticactivitiesofallcatalystsat6 hof
+operation were used for comparisons. Moreover, the cata-
+lyticsystemwasoperatedupto48 hoverthebesttwoAg-
+basedcatalystsandtheAgoncommerciala-Al O catalyst 2 3
+toobservethelong-termstabilityofthesecatalysts.
+3 Results and Discussion
+3.1 Catalyst Characterization Results
+3.1.1 XRD Results
+Figure 1 shows the XRD patterns of Ag/SrTiO catalysts 3
+with various Ag loadings. Compared with the pristine
+SrTiO , all the Ag-loaded ones were found to exhibit the
+3
+similar highly crystalline structure, which refers to the Moreover, only the Ag/MgTiO catalyst showed a clear
+3
+single phase of cubic perovskite-type SrTiO [34]. The Ag Opeak.TheXRDresultssuggestthattheAg-loadedon
+3 2
+dominant peaks of metallic silver at 2h of about 28(cid:3), 38(cid:3), various supports is mostly in the metallic form, except the
+and 44(cid:3) correspond to (110), (111), and (200) planes, MgTiO exhibiting a significant amount of Ag O.
+3 2
+respectively. On the other hand, there was the presence of
+anextremelysmallAg Opeakat2hof35(cid:3)whichwasalso 3.1.2 Specific Surface Area Results
+2
+previouslyobservedfortheSrTiO calcinedat773 K[42].
+3
+The XRD results reveal thatthe Ag catalyston the SrTiO As shown in Table 1, the specific surface area of the
+3
+support was mostly in metallic form which is in good unloaded SrTiO decreases from 6 to 1.9 m2/g with
+3
+agreementwithourpreviouswork[27].TheXRDpatterns increasing calcination temperature from 673 to 1,073 K.
+of Ag catalysts on different perovskite titanate supports at The reduction in the specific surface area of the Ag
+their optimum Ag loadings (corresponding to their highest unloadedSrTiO withincreasingcalcinationtemperatureis
+3
+catalytic activities towards ethylene epoxidation reaction) according to the pore collapse, relating to the crystalliza-
+are comparatively shown in Fig. 2. All of the Ag/nano- tion of the walls separating the mesopores. Indeed, phase
+crystallinecubicperovskitetitanatecatalysts(Ag/MgTiO , transformation and sintering might be involved [43]. As
+3
+Ag/CaTiO , Ag/SrTiO , and Ag/BaTiO ) showed higher shown in Table 2, among the Ag catalysts on different
+3 3 3
+crystalline structures than that of the Ag/TiO catalyst. supportscalcinedat923 K,thespecificsurfaceareaofAg-
+2
+).u.a(
+ytisnetnI
+Metallic silver (Ag)
+Silver oxide (AgO) 2
+19.8 wt.% Ag
+17.2 wt.% Ag
+14.9 wt.% Ag
+12.3 wt.% Ag
+0 wt.% Ag
+2θ (degree)
+Fig.1 XRD patterns of Ag/SrTiO catalysts with various Ag
+3
+loadings. The SrTiO support was calcined at 923K, followed by
+3
+Agimpregnationandasecondcalcinationat773K
+10 15 20 25 30 35 40 45 50 55
+).u.a(
+ytisnetnI
+994 A.Chongterdtoonskuletal.
+Metallic silver (Ag)
+Silver oxide (AgO)
+2
+17.1 wt.% Ag/BaTiO 3
+17.2 wt.% Ag/SrTiO
+3
+17.0 wt.%Ag/CaTiO 3
+17.3 wt.%Ag/MgTiO
+3
+14.7 wt.%Ag/TiO
+2
+2θ (degree)
+Fig.2 XRD patterns of Ag catalysts on different supports at their
+optimum Ag loadings. The SrTiO support was calcined at 923K, 3
+followedbyAgimpregnationandasecondcalcinationat773K
+123
+
+NanocrystallinePerovskiteTitanateSupports 995
+Table1 Characteristics of the 17.5wt% Ag catalysts on SrTiO sizeattheoptimumAgloadingof17.5 wt%(providingthe
+3
+supportsatvarioussupportcalcinationtemperatures highest EO activity [27]). As the support calcination tem-
+peratureincreased,bothcrystallineandparticlesizesofAg
+Support Specific Agparticle Agcrystallite
+calcination surfacearea sizea(nm) sizeb(nm) became larger, whereas the specific surface area of the
+temperature(K) (m2/g) SrTiO support decreased markedly. This is possibly
+3
+673 4.7(6.0)c 53.4±0.5 50.1 because the calcination temperature of the support may
+alter the physical properties of the support surface [33].
+773 3.0(4.4)c 58.6±0.5 52.1
+Interestingly, for any support calcination temperature, the
+873 1.9(3.1)c 57.2±0.5 54.3
+crystallite size was close to the particle size, suggesting
+923 1.5(2.8)c 59.4±0.5 57.3
+thatthispreparationtechniquecanproducesinglenanosize
+973 1.4(2.3)c 61.6±0.5 64.4
+crystalline Ag particles in the range of 50–70 nm.
+1,073 1.2(1.9)c 65.9±0.5 69
+Table 2showsthespecificsurfacearea,particlesizeand
+a FromTEManalysis crystallite size of Ag loaded on different titanate supports
+b FromXRDanalysis at their optimum Ag loadings towards their highest cata-
+c SpecificsurfaceareaofsupportwithoutAgloading lytic ethylene epoxidation activities. The prepared Ag
+catalysts on all studied titanate supports had single crys-
+talline particles. The SrTiO support provided the largest
+3
+based catalysts on the BaTiO support is the lowest one, Ag particle size as compared with the other supports.
+3
+followed by the Ag/SrTiO catalyst. However, the specific The existence of Ag nanoparticles on all the supports
+3
+surface area of the TiO -supported catalyst was much was verified by the TEM/EDS technique. The inhomoge-
+2
+higher than those of all perovskite titanate supports. neous dispersion of Ag nanoparticles throughout the dif-
+ferentsupportsisdisplayedinFig. 6.TheAgparticlesizes
+3.1.3 Surface Morphology on the studied SrTiO supports at different calcination
+3
+temperatures(Table 1)becamelargerwhenthecalcination
+Fromthesurfacemorphologiesofthe17.5 wt%Ag-loaded temperatureincreased.ThelargestAgparticlesizeofabout
+on SrTiO supports calcined at different temperatures, it 66 nm was obtained from the SrTiO support calcined at
+3 3
+canbeclearly seenthattheparticlesoftheSrTiO support 1,073 K. Furthermore, the average sizes of Ag nanoparti-
+3
+become larger as the calcination temperature increased clesinallthetitanatecatalystsaresummarizedinTable 2.
+(Fig. 3). These results correspond well with the specific ThelargestaverageAgparticlesize(59 nm)wasfoundon
+surface area results. As will be discussed later, the the SrTiO support, while the smallestaverage Ag particle
+3
+17.2 wt% Ag catalyst on the SrTiO support calcined at size (44 nm) was found on the TiO support. The particle
+3 2
+923 K provided the highest catalytic performance of the sizes observed from the TEM images were found to be
+ethylene epoxidation reaction. Thus, this present work close to the crystallite sizes obtained from the XRD anal-
+focused on this calcination temperature for all other sup- ysis. Both TEM and XRD results verify that the synthesis
+ports. The surface morphologies of the Ag catalysts on technique used in this study could provide the single
+different supports before the reaction (Fig. 4) were com- crystallinestructureofAgparticlesonallstudiedsupports.
+pared to those after the reaction (Fig. 5). As mentioned
+before,theXRDresultsshowedthepresenceofloadedAg 3.1.4 TPD Results
+mostly in metallic form on all studied supports. The SEM
+images also confirm the existence of the cubic perovskite- Temperature programmed desorption can be used to
+type of the synthesized MgTiO , CaTiO , SrTiO , and investigatetheinteractionbetweenoxygenorethyleneand
+3 3 3
+BaTiO .TheSEMimageswiththeEDSalsoshowedgood acatalystsurfacewithrespect totemperatureascalculated
+3
+distribution of nanosized Ag particles on all the supports. in terms of the uptakes of oxygen and ethylene which are
+After the reaction, a change in surface topology of the involved in the ethylene epoxidation in the present study.
+catalysts was clearly observed, especially for the Ag/Ba- Table 3 shows the ethylene and oxygen uptakes for all
+TiO catalyst (see Figs. 4e, 5e). The Ag particles on all studiedcatalystsinthetemperaturerangeof400–700 Kin
+3
+supports tended to agglomerate and became larger due to which the EO formation was found to occur in this tem-
+catalyst sintering during the reaction. It increased from 44 perature range (more EO was formed than the complete
+to 48 nm for Ag/TiO ; from 57 to 59 nm for Ag/MgTiO ; oxidation to produce CO ). The ethylene uptakes were
+2 3 2
+from 53 to 57 nm for Ag/CaTiO ; from 59 to 64 nm for comparably high for all titanate supports, except the TiO
+3 2
+Ag/SrTiO ; and from 53 to 61 nm for Ag/BaTiO . support and the highest ethylene uptake was found on the
+3 3
+Table 1 shows the effect of the calcination temperature 17.2 wt% Ag/SrTiO catalyst. Hence, the epoxidation of
+3
+oftheSrTiO supportontheAgcrystallitesizeandparticle ethyleneisanO -controlledreaction.Itcanbeclearlyseen
+3 2
+123
+
+996 A.Chongterdtoonskuletal.
+Table2 CharacteristicsofAgcatalystsondifferenttitanatesupports that the oxygen uptake for the pristine SrTiO 3 support
+at their own optimum Ag loadings (corresponding to the highest substantially increased after Ag loading, whereas the eth-
+ethyleneepoxidationactivity)
+ylene uptake slightly increased. Moreover, the largest
+Support ActualAg Specific Agparticle Ag oxygen and ethylene uptakes were obtained on the
+loading surfacearea sizea(nm) crystallite 17.2 wt% Ag/SrTiO catalyst corresponding to the highest
+(wt%) (m2/g) sizeb(nm) 3
+catalyticactivitytowardsEOformation,implyingthatboth
+TiO 14.7 28.6(36.7)c 44.4±0.5 43.2 oxygenandethylenestorageonthecatalystsurfaceplaysa
+2
+MgTiO 17.3 16.7(29.4)c 56.5±0.6 55.9 majorrolefortheethyleneepoxidationreactionwhichwill
+3
+CaTiO 17.0 3.5(12.8)c 52.6±0.6 54.3 be discussed later.
+3
+SrTiO 17.2 1.5(2.8)c 59.4±0.5 57.3
+3
+BaTiO 17.1 1.1(2.4)c 53.2±0.5 54.6
+3
+3.1.5 XPS Results
+a FromTEManalysis
+b FromXRDanalysis
+Theexistence ofboth metallic silver (Ag) andsilver oxide
+c SpecificsurfaceareaofsupportwithoutAgloading
+(Ag O)oftheloadedAgontheSrTiO supportbeforeand
+2 3
+Fig.3 SEMimagesof
+17.5wt%Ag/SrTiO catalysts
+3
+atvarioussupportcalcination
+temperaturesofsupports,
+a673K,b773K,c873K,
+d923K,e973K,and
+f1,073K(970,000),followed
+byAgimpregnationandfinal
+calcinationat773K
+123
+
+NanocrystallinePerovskiteTitanateSupports 997
+Fig.4 SEMimagesofAgcatalystspreparedbysol–gelmethodondifferentsupportsbeforethereaction,a14.7wt%Ag/TiO ,b17.3wt%Ag/
+2
+MgTiO ,c17.0wt%Ag/CaTiO ,d17.2wt%Ag/SrTiO ,ande17.1wt%Ag/BaTiO catalysts(950,000)
+3 3 3 3
+after the reaction were verified by the deconvoluted XPS reaction condition used in this study, the further oxidation
+spectra(Fig. 7).Thetwodominantpeakswiththeircenters of EO to CO was hampered.
+2
+at 367.5 and 373.5 eV, corresponding to the Ag 3d and
+5/2
+Ag 3d levels, respectively indicate the formation of 3.1.6 TG–DTA Results
+3/2
+metallic Ag. The small doublet peaks appeared at 366.5
+and 371.5 eV of Ag O 3d and Ag O 3d , respectively Table 4 summarizes the amount of coke formation on the
+2 5/2 2 3/2
+confirm the formation of Ag O [38]. The XPS results spent Ag-loaded catalysts after the ethylene epoxidation
+2
+suggest that the synthesized Ag catalyst on the SrTiO reactionfor6and48 h.Thehighestcokeformation(9.2 %
+3
+support mostly contained metallic Ag. For the 17.2 wt% at 6 h and 15.7 % at 48 h) was found on the 17.3 wt%
+Ag/SrTiO catalyst,theratioofAgtoAg Oincreasedfrom Ag/MgTiO catalyst while the 17.1 wt% Ag/BaTiO cat-
+3 2 3 3
+9.5beforethereactionto13.3afterthereaction,indicating alyst had the lowest amount of coke at 6 h of operation
+that a significant portion of the Ag O was reduced to (2.5 %) and the 17.2 wt% Ag/SrTiO catalyst had
+2 3
+metallic Ag during the reaction. According to the lean O the lowest amount of coke at 48 h of operation (4.5 %).
+2
+123
+
+998 A.Chongterdtoonskuletal.
+Fig.5 SEMimageswiththe (a)
+EDSofspentAgcatalystson
+differentsupportsafterthe
+reaction,a14.7wt%Ag/TiO ,
+2 Ag
+b17.3wt%Ag/MgTiO ,
+3
+c17.0wt%Ag/CaTiO ,
+3
+d17.2wt%Ag/SrTiO ,and
+3
+e17.1wt%Ag/BaTiO
+3
+catalysts(920,000)
+2000 nm
+(b) (c)
+Ag
+Ag
+2000 nm 2000 nm
+(d) (e)
+Ag
+Ag
+2000 nm 2000 nm
+The relation of coke formation and the catalytic activity catalytic performance with the highest EO yield of 4.7 %
+towards EO formation will be further discussed later. andEOselectivityof99.1 %.Itcanbeclearlyseenthatthe
+activity dropped sharply after the calcination temperature
+3.2 Ethylene Epoxidation Activity Results further increased from 923 to 973 K. The improved per-
+formance of the 17.2 wt% Ag/SrTiO catalyst at this sup-
+3
+3.2.1 Effect of Support Calcination Temperature portcalcinationtemperatureof923 Kmaybeattributedto
+the appropriate specific surface area that is suitable for the
+According to our previous work [27], the SrTiO support reaction and/or the Ag particle size. A decrease in the
+3
+was, for the first time, used as a Ag catalyst and the specific surface area simply reduces the reaction sites,
+17.2 wt% Ag loading was found to provide the best cata- resulting in lowering undesired reactions especially deep
+lyticactivityintermsofEOselectivityandEOyield.This oxidation. However, a very high support calcination tem-
+catalyst provided both the highest EO yield at 4.5 % and perature may make the specific surface area too small to
+maximum EO selectivity up to 99 %. As a result, the Ag- provide the necessary reaction sites. The results also con-
+based SrTiO catalyst was further studied in the present firm that the ethylene epoxidation reaction seems to favor
+3
+work in order to improve yield and selectivity for EO over low-surface-area catalysts. The optimum support
+production. First, the support calcination temperature was calcination temperature was 923 K for all supports
+varied from 673 to 1,073 K with the fixed calcination (MgTiO , CaTiO , SrTiO , and BaTiO ), except for TiO
+3 3 3 3 2
+temperature ofAg loading at 773 Kandthe Ag loading of which the optimum calcination temperature was found to
+about 17.2 wt%. The effect of the support calcination be 873 K. However, the catalytic activity for other cata-
+temperatureonEOselectivityandyieldisshowninFig. 8. lysts was substantially lower than the Ag/SrTiO catalyst
+3
+The SrTiO support calcined at 923 K gave the best (bestcatalyst).Thus,thesametemperatureof923 Kwhich
+3
+123
+
+NanocrystallinePerovskiteTitanateSupports 999
+(a)
+50 nm
+Ag
+(b) (c)
+50 nm
+Ag Ag
+(d) (e)
+50 nm 50 nm
+Ag Ag
+Fig.6 TEM-EDSimagesofa14.7wt%Ag/TiO ,b17.3wt%Ag/MgTiO ,c17.0wt%Ag/CaTiO ,d17.2wt%Ag/SrTiO ,ande17.1wt%
+2 3 3 3
+Ag/BaTiO catalysts(beforethereaction)
+3
+Table3 TPD results of O 2 of studied Ag-loaded catalysts on dif- was the optimum support calcination temperature for the
+ferentsupportsattheiroptimumAgloadings
+SrTiO support (and other supports, except TiO ) was
+3 2
+Support OptimumAg O uptake C H uptake applied for all supports at various Ag loadings to compare
+2 2 4
+loading(wt%) (lmolg-1) (lmolg-1) the catalytic activity.
+TiO 14.7 367 944
+2 3.2.2 Effect of Nanocrystalline Perovskite Titanate Type
+MgTiO 17.3 812 4,564
+3
+CaTiO 17.0 405 4,721
+3 TocompareSrTiO withalltheotherperovskitetitanateand
+SrTiO 0 3,636 5,914 3
+3 TiO supports forthe ethylene epoxidation reaction perfor-
+2
+SrTiO 17.2 5,155 6,308
+3 mance,allthesupportswerecalcinedat923 Kwithdifferent
+BaTiO 17.1 3,092 5,398
+3 Ag loadings. Figure 9 shows the ethylene epoxidation
+123
+
+Fig.7 DeconvolutedAg3d
+XPSpeaksof17.2wt% (a) (b)
+Metallic Ag : Ag O = 9.5:1 Metallic Ag : Ag O = 13.3:1
+Ag/SrTiO abeforethereaction 2 2
+3
+andbafterthereaction Ag 3d5/2 Ag 3d5/2
+Ag 3d3/2
+Ag 3d3/2
+Ag2O 3d3/2 Ag2O 3d5/2
+Ag2O 3d3/2
+Ag2O 3d5/2
+temperaturewasraisedfrom548to563 K,theEOyieldwas
+significantlylowered. Foranygiven support ofthe Ag cat-
+alyst,theEOselectivitytendedtodecreaseconsiderablywith
+increasingreactiontemperature,exceptforthe17.2 wt%Ag/
+SrTiO catalyst which remained relatively high in the tem-
+3
+peraturerangeof498to548 K.Thereasonforthedeclineof
+catalyticactivityathightemperaturesisthelargeincrement
+ofthecompleteoxidationtoCO atahighertemperature[41,
+2
+44]. The catalytic activity of the Ag catalysts on all nano-
+crystalline cubic perovskite titanate supports (Ag/CaTiO ,
+3
+Ag/SrTiO , and Ag/BaTiO catalysts), except Ag/MgTiO
+3 3 3
+catalystwerehigherthanthatontheAg/TiO catalyst,sug-
+2
+gestingthattheincorporationofproperalkalineearthmetals
+(Ca, Sr, and Ba) in the perovskite titanate supports can
+enhance the catalytic performance towards the ethylene
+7
+100 epoxidation reaction. The best catalyst for ethylene epoxi-
+6
+dation is the 17.2 wt% Ag/SrTiO catalyst, providing a
+80 3
+5 maximumEOyieldof4.7 %andthehighestEOselectivity
+of 99.12 % at the reaction temperature of 548 K. These
+60 4
+results canbe well correlated totheTPD results ofoxygen
+3
+40 and ethylene of this catalyst, showing the highest oxygen
+2 adsorptioncapacitywitharelativelyhighethyleneuptakeas
+20 compared with other catalysts. However, when the Ag 1
+loadingincreasedfrom17.2to19.8 wt%,theEOselectivity
+0 -1
+and yield decreased even though the oxygen adsorption
+600 700 800 900 1000 1100
+capacity increased. The results suggest that the ability of
+oxygen to adsorb onto the catalyst is not the sole factor
+affectingtheethyleneepoxidationactivity.AstheAgload-
+ingincreases,theAgparticlesizebecomeslarger.Toosmall
+ortoolargeAgparticlesizesexhibitanegativeeffecttowards
+the reaction [45, 46]. The large fraction of metallic Ag
+performanceasafunctionofreactiontemperatureoverdif- (Fig. 7)inthiscatalystalsoprovidesapositiveeffectforthe
+ferentsupportswiththeirownoptimumAgloadings.Forany epoxidationreaction[46].The17.1 wt%Ag/BaTiO catalyst
+3
+givensupport oftheAgcatalyst,theEO yieldincreased as hadsecondlyhighEOyieldwithlowerEOselectivityamong
+the reaction temperature increased from 498 to 548 K thetitanates.Thiscatalystalsopossessesthesecondhighest
+and reached a maximum at 548 K. When the reaction capabilityofadsorbinganddesorbingO (thereactantofthe
+2
+)%(
+ytivitceles
+OE
+EO selectivity
+EO yield
+Calcination Temperature (K)
+EO
+yield
+(%)
+1000 A.Chongterdtoonskuletal.
+Table4 Coke formation on spent Ag-loaded catalysts after 6h on
+stream of the ethylene epoxidation reaction (6% O and 6% C H
+2 2 4
+balanced with He, a space velocity of 6,000h-1, a pressure of 24.7
+psia,andareactiontemperatureof548K)
+Support OptimumAg Cokeformation Cokeformationat
+loading(wt%) at6h(wt%) 48h(wt%)
+a-Al O 14.9 4.3 9.8
+2 3
+TiO 14.7 6.7 13.2
+2
+MgTiO 17.3 9.2 15.7
+3
+CaTiO 17.0 7.0 14.1
+3
+SrTiO 17.2 3.3 4.5
+3
+BaTiO 17.1 2.5 6.9
+3
+Fig.8 EOyieldandEOselectivityasafunctionofSrTiO support
+3
+calcinationtemperatures(6%O2and6%C2H4balancedwithHe,a
+space velocity of 6,000h-1, a pressure of 24.7 psia, Ag loading of
+17.2wt%,areactiontemperatureof548Kandreactiontimeof6h)
+123
+
+5
+4
+3
+2
+1
+0
+475 500 525 550 575
+epoxidation reaction). As a consequence, the selective oxi-
+dationreactioncouldbeeasilyfacilitated,leadingtohigher with a support calcination temperature of 923 K, large Ag
+ethyleneoxideproductionperformance.Thelowestcatalytic particlesizesofabout59 nm,alowspecificsurfaceareaof
+performancewasfoundonthe17.3 wt%Ag/MgTiO cata- 1.5 m2/g, and the highest oxygen adsorption capacity of
+3
+lyst. The low oxygen adsorption capacity with the highest 5,155 lmol/g. Moreover, it can be concluded that the
+amountofAg O(thelowlyactiveoxidespecie)isthereason incorporation of an Sr atom in the TiO support with the
+2 2
+for the inferior performance of the Ag/MgTiO catalyst. nanocrystalline structure plays an important role in
+3
+Furthermore, the Ag O, the lowly active oxide specie thesuperiorcatalyticperformanceasacatalystsupportfor
+2
+thateasilyformsonsmallAgparticles,decreasestheepox- the Ag catalyst towards the ethylene epoxidation reaction.
+idation rate [47]. The presence of this lowly active oxide The long-term stability in terms of EO yield and EO
+species might be associated with the low EO selectivity in selectivity as a function of time on stream of the optimum
+Ag/MgTiO and Ag/BaTiO catalysts in the way that the 17.2 wt% Ag/SrTiO catalyst (prepared at a support cal-
+3 3 3
+undesiredreactionpathwaysmighthavefasterreactionrates cination temperature of 923 K) was compared with the
+than the epoxidation rate, leading to more undesired prod- same catalyst (prepared at support calcination temperature
+ucts.TheTEMresults showed that the average Ag particle of 773 K), the 17.1 wt% Ag/BaTiO catalyst (which pro-
+3
+sizesslightlyincreasedfrom59.4to64 nmaftertheethylene vided the second place of activity in the group of titanate
+epoxidationreaction,pointingoutasmallextentofsintering catalysts) and the 14.9 wt% Ag/commercial a-Al O cat-
+2 3
+ofthecatalystduringthereaction. alyst. As shown in Fig. 10, the optimum 17.2 wt%
+All results indicate that the epoxidation of ethylene Ag/SrTiO catalyst exhibits the longest catalytic stability,
+3
+depends on the support type, specific surface area, Ag providing a steady EO yield of 3.53 % after 36 h of
+loading, reaction temperature, oxygen adsorption capacity, operationas compared to4.68 % at 6 h ofoperationand a
+Agparticlesize,andtheratioofmetallicAgtoAg Oofthe steady EO selectivity of about 88 % as compared to
+2
+catalysts. The best catalyst for the selective oxidation of 99.12 %at6 hofoperation.Thesimilartrendsofthedrop
+ethylene was 17.2 wt% Ag-loaded on a SrTiO support in the catalytic activities were found for all catalysts.
+3
+)%(
+dleiy
+OE
+14.7 wt.% Ag/TiO
+17.2 wt.% Ag/SrTi2O
+3
+17.3 wt.% Ag/MgTiO 17.0 wt.% Ag/CaTiO3
+3 17.1 wt.% Ag/BaTiO 14.9 wt.% Ag/α-Al
+2
+O3
+3
+Reaction Temperature (K)
+100
+80
+60
+40
+20
+0
+475 500 525 550 575
+)%(
+ytivitceles
+OE
+(a) 5
+4
+3
+2
+1
+0
+0 4 8 12 16 20 24 28 32 36 40 44 48
+(b)
+14.7 wt.% Ag/TiO 2
+17.2 wt.% Ag/SrTiO
+3
+17.3 wt.% Ag/MgTiO 17.0 wt.% Ag/CaTiO3 3
+17.1 wt.% Ag/BaTiO
+14.9 wt.% Ag/α-Al 2 O3 3
+Reaction Temperature (K)
+Fig.9 a EO yield and b EO selectivity as a function of reaction
+temperatures on various Ag-based perovskite titanate catalysts
+compared with a commercial Ag/a-Al O catalyst and Ag/TiO
+2 3 2
+catalyst(6%O and6%C H balancedwithHe,aspacevelocityof
+2 2 4
+6,000 h-1, a pressure of 24.7 psia, and a support calcination
+temperatureof923K)
+)%(
+dleiy
+OE
+17.2 wt.% Ag/SrTiO3 (773 K)
+17.2 wt.% Ag/SrTiO3 (923 K)
+1 1 7 4 . . 1 9 w w t t . . % % A A g g / / B α- a A T l i 2 O O3 3 ( 923 K)
+Time on Stream (h)
+100
+80
+60
+40
+20
+0
+0 4 8 12 16 20 24 28 32 36 40 44 48
+)%(
+ytivitceles
+OE
+NanocrystallinePerovskiteTitanateSupports 1001
+(a)
+(b)
+17.2 wt.% Ag/SrTiO3 (773 K)
+17.2 wt.% Ag/SrTiO3 (923 K)
+1 1 4 7 . . 9 1 w w t. t % .% A A g g /α /B -A aT l2 i O O 3 3 (923 K)
+Time on Stream (h)
+Fig.10 EOyield(a)andEOselectivity(b)asafunctionoftimeon
+stream for 17.2wt% Ag/SrTiO catalyst at the support calcination
+3
+temperaturesof773and923Kcomparedwith17.1wt%Ag/BaTiO
+3
+catalyst and a commercial 14.9wt% Ag/a-Al O catalyst (6% O
+2 3 2
+and 6% C H balanced with He, a space velocity of 6,000h-1, a
+2 4
+pressureof24.7psia,andareactiontemperatureof548K)
+123
+
+1002 A.Chongterdtoonskuletal.
+Interestingly, the 14.9 wt% Ag/commercial a-Al O cata- 14. PodgornovEA,ProsvirinIP,BukhtiyarovVI(2000)JMolCatal
+2 3
+lystshowedtheworstlong-termstability,givingthelowest 158:337–343
+15. YeungKL,GavriilidisA,VarmaA,BhasinyMM(1998)JCatal
+in both EO yield of 1.91 and 58 % of EO selectivity after
+174:1–12
+32 h of operation with a significant drop in the catalytic 16. LafargaD,VarmaA(2000)ChemEngSci55:749–758
+activity after 48 h of operation. The decreases in catalytic 17. AyameA,UchidaY,OnoH,MiyamotoM,SatoT,HayasakaH
+activitiesofallcatalystsresultedfromcokeformation.The (2003)ApplCatalA244:59–70
+18. Fotopoulos AP, Triantafyllidis KS (2007) Catal Today 127:
+lower the coke formation, the lower the decrease in long-
+148–156
+termstabilityofthecatalyst(Table 4).Itcanbeconcluded 19. Korchagin AI, Kuksanov NK, Lavrukhin AV, Fadeev SN, Sali-
+that the 17.2 wt% Ag/SrTiO catalyst with the support mov RA, Bardakhanov SP, Goncharov VB, Suknev AP, Pau-
+3
+calcination temperature of 923 K is the most effective kshtis EA, Larina TV, Zaikovskii VI, Bogdanov SV,
+BalzhinimaevBS(2005)Vacuum77:485–491
+catalyst for the ethylene epoxidation reaction, giving not
+20. WolfA,SchuthF(2002)ApplCatalA226:1–13
+only the highest EO yield and EO selectivity but also 21. EldridgeJM,AhnKY,ForbesL(2009)USPatent2:1-35
+providing the highest long-term stability. 22. Kim YC, Park NC, Shin JS, Lee SR, Lee YJ, Moon DJ (2003)
+CatalToday87:153–162
+23. EpifaniM,GianniniC,TapferL,VasanelliL(2000)JAmCeram
+Soc83:2385–2393
+4 Conclusions 24. Sreethawong T, Suzuki Y, Yoshikawa S (2005) J Solid State
+Chem178:329–338
+Thesupportcalcinationtemperaturehasasignificanteffect 25. PuangpetchT,SreethawongT,YoshikawaS,ChavadejS(2008)
+JMolCatalA:Chem287:70–79
+onthephysicalandtexturalpropertiesofthecatalysts.The
+26. Puangpetch T, Sommakettarin P, Chavadej S, Sreethawong T
+optimum calcination temperature of the support was (2010)IntJHydrogenEnergy35:12428–12442
+923 K. Among the various Ag-loaded nanocrystalline 27. Chongterdtoonskul A, Schwank JW, Chavadej S (2012) J Mol
+titanate catalysts, the 17.2 wt% Ag/SrTiO catalyst exhib- CatalA:Chem358:58–66
+3
+28. Sreethawong T, Suzuki Y, Yoshikawa S (2005) Int J Hydrogen
+ited the best catalytic activity to produce ethylene oxide,
+Energy30:1053–1062
+providingthehighestEOyieldof4.7 %withenhancedEO 29. SreethawongT,YoshikawaS(2005)CatalCommun6:661–668
+selectivityto99.12 %atthereactiontemperatureof548 K. 30. Sreethawong T, Yoshikawa S (2006) Int J Hydrogen Energy
+The superior catalytic activity of the 17.2 wt% Ag/SrTiO 31:786–796
+3
+31. SreethawongT,PuangpetchT,ChavadejS,YoshikawaS(2007)
+catalyst may correspond to the moderate Ag particle sizes
+JPowerSources165:861–869
+[48] and higher oxygen adsorption ability. 32. SreethawongT,LaehsaleeS,ChavadejS(2008)IntJHydrogen
+Energy33:5947–5957
+Acknowledgments ThisworkwassupportedbyTheRoyalGolden 33. Sreethawong T, Junbua C, Chavadej S (2009) J Power Sources
+Jubilee Ph.D. Program (RGJ-Industry) awarded by The Thailand 190:513–524
+Research Fundwith thein-kindsupport fromPTT GlobalChemical 34. PuangpetchT,SreethawongT,YoshikawaS,ChavadejS(2009)
+Public Co. Ltd.; the Sustainable Petroleum and Petrochemicals JMolCatalA:Chem312:97–106
+ResearchUnit,CenterofExcellenceonPetrochemicalandMaterials 35. Puangpetch T, Chavadej S, Sreethawong T (2011)Energy Con-
+Technology, Chulalongkorn University (Thailand); and the Trans- versManage52:2256–2261
+portation Energy Center, Department of Chemical Engineering, 36. Cullity BD (1978) Elements of X-ray diffraction. Addison–
+UniversityofMichigan(USA). Wesley,Reading
+37. JacksonAG(1991)Handbookofcrystallography.Springer,New
+York
+References
+38. Moulder JF, Stickle WF, Sobol PE, Bomben KD (1995) Hand-
+book of X ray photoelectron spectroscopy: a reference book of
+1. LefortTE(1935)USPatent1:998 standardspectraforidentificationandinterpretationofXPSdata.
+2. Marta CN, Amorim DC, Fabio BP, Schmal M (2007) J Catal PhysicalElectronics,EdenPrairie
+248:124–129 39. ChenS,ManosG(2004)JCatal226:343–350
+3. JankowiakJT,BarteauMA(2005)JCatal236:366–378 40. BrillisAA,ManosG(2003)CatalLett91:185–191
+4. SantenRAV,KuipersHPCE(1987)AdvCatal35:1–57 41. RojluechaiS(2006)Ph.D.Dissertation.ThePetroleumandPet-
+5. Bharthwaj A (2002) Ph.D. Dissertation. Massachusetts Institute rochemicalCollege,ChalongkornUniversity,Bangkok,Thailand
+ofTechnology,USA 42. Smith JV (1960) X-ray powder data file. American Society for
+6. MinahanDM,HoflundGB,EplingWS,SchoenfeldzDW(1997) TestingMaterials,Philadelphia
+JCatal168:393–399 43. LinL,LinW,XieJL,ZhuYX,ZhaoBY,XieYC(2007)Appl
+7. PengY,ZhangS(1992)CatalLett12:307–318 CatalBEnviron75:52–58
+8. DanielT,FrancescI,LambertRM(2008)JCatal260:380–383 44. OzbekMO,OnalI,SantenRA(2011)ChemCatChem3:150–153
+9. FrankER,HamersRJ(1997)JCatal172:406–413 45. Mastikhin VM, Goncharova SN, Tapilin VM, Terskikh VV,
+10. Karavasilis Ch, Bebelis S, Vayenas CG (1996) J Catal 160: BalzhinimaevBS(1995)JMolCatalA:Chem96:175–179
+205–213 46. Goncharova SN, Paukshtis EA, Balzhinimaev BS (1995) Appl
+11. GrantRB,LambertRM(1985)Langmuir1:29–33 CatalA126:67–84
+12. ZhouXG,YuanWK(2005)ChemEngProcess44:1098–1107 47. LeeJK,VerykiosXE,PitchaiR(1989)ApplCatal50:171
+13. Dellamorte JC, Lauterbach J, Barteau MA (2007) Catal Today 48. HassaniSS,GhasemiMR,RashidzadehM,SobatZ(2009)Cryst
+120:182–185 ResCrystTechnol44:948–952
+123
+

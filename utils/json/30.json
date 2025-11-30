@@ -1,0 +1,252 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag纳米颗粒",
+        "relationship": "粒径",
+        "end_node": "<6 nm"
+    },
+    {
+        "start_node": "Ag纳米颗粒",
+        "relationship": "粒径",
+        "end_node": "2.3 nm"
+    },
+    {
+        "start_node": "Ag参考样品",
+        "relationship": "粒径",
+        "end_node": "~100 nm"
+    },
+    {
+        "start_node": "Ag纳米颗粒",
+        "relationship": "具有",
+        "end_node": "强Ag-O相互作用"
+    },
+    {
+        "start_node": "强Ag-O相互作用",
+        "relationship": "导致",
+        "end_node": "高氧浓度"
+    },
+    {
+        "start_node": "高氧浓度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低氧浓度",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag纳米颗粒",
+        "relationship": "具有",
+        "end_node": "低TOF"
+    },
+    {
+        "start_node": "强Ag-O相互作用",
+        "relationship": "导致",
+        "end_node": "低TOF"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "150-230°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "17.5 bar"
+    },
+    {
+        "start_node": "空速GHSV",
+        "relationship": "范围",
+        "end_node": "4850 h-1"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "比例",
+        "end_node": "O2/C2H4=7:35"
+    },
+    {
+        "start_node": "预处理气氛",
+        "relationship": "影响",
+        "end_node": "活化行为"
+    },
+    {
+        "start_node": "N2预处理",
+        "relationship": "促进",
+        "end_node": "活化"
+    },
+    {
+        "start_node": "O2预处理",
+        "relationship": "抑制",
+        "end_node": "活化"
+    },
+    {
+        "start_node": "活化过程",
+        "relationship": "消耗",
+        "end_node": "非选择性氧"
+    },
+    {
+        "start_node": "非选择性氧",
+        "relationship": "导致",
+        "end_node": "CO2形成"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低氧浓度",
+        "relationship": "促进",
+        "end_node": "环氧乙烷形成"
+    },
+    {
+        "start_node": "高氧浓度",
+        "relationship": "促进",
+        "end_node": "乙醛形成"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag纳米颗粒",
+        "relationship": "具有",
+        "end_node": "高氧亲和性"
+    },
+    {
+        "start_node": "高氧亲和性",
+        "relationship": "导致",
+        "end_node": "低TOF"
+    },
+    {
+        "start_node": "粒径效应",
+        "relationship": "影响",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "导致",
+        "end_node": "强Ag-O相互作用"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "导致",
+        "end_node": "弱Ag-O相互作用"
+    },
+    {
+        "start_node": "弱Ag-O相互作用",
+        "relationship": "提高",
+        "end_node": "TOF"
+    },
+    {
+        "start_node": "氧覆盖率",
+        "relationship": "影响",
+        "end_node": "产物选择性"
+    },
+    {
+        "start_node": "低氧覆盖率",
+        "relationship": "促进",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "高氧覆盖率",
+        "relationship": "促进",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "是",
+        "end_node": "反应中间体"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "分解为",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "分解为",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "活化能",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "环氧乙烷活化能",
+        "relationship": "约为",
+        "end_node": "96-98 kJ/mol"
+    },
+    {
+        "start_node": "CO2活化能",
+        "relationship": "约为",
+        "end_node": "103-114 kJ/mol"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "影响",
+        "end_node": "Ag分散度"
+    },
+    {
+        "start_node": "SiO2载体",
+        "relationship": "具有",
+        "end_node": "高比表面积"
+    },
+    {
+        "start_node": "高比表面积",
+        "relationship": "促进",
+        "end_node": "小粒径"
+    },
+    {
+        "start_node": "Al2O3载体",
+        "relationship": "具有",
+        "end_node": "低比表面积"
+    },
+    {
+        "start_node": "低比表面积",
+        "relationship": "导致",
+        "end_node": "大粒径"
+    }
+]

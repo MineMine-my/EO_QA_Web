@@ -1,0 +1,137 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "ClZnOCl",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "环氧乙烷生成",
+        "relationship": "机理",
+        "end_node": "两步机制"
+    },
+    {
+        "start_node": "第一步",
+        "relationship": "是",
+        "end_node": "氧金属化"
+    },
+    {
+        "start_node": "第二步",
+        "relationship": "是",
+        "end_node": "环闭合"
+    },
+    {
+        "start_node": "环闭合",
+        "relationship": "是",
+        "end_node": "速率决定步骤"
+    },
+    {
+        "start_node": "BP86/CEP-31G(d)",
+        "relationship": "预测",
+        "end_node": "相似几何"
+    },
+    {
+        "start_node": "BP86/CEP-31G(d)",
+        "relationship": "预测",
+        "end_node": "相似能垒"
+    },
+    {
+        "start_node": "反应机理",
+        "relationship": "依赖",
+        "end_node": "E基团"
+    },
+    {
+        "start_node": "反应机理",
+        "relationship": "依赖",
+        "end_node": "X基团"
+    },
+    {
+        "start_node": "IZnCH2I",
+        "relationship": "催化",
+        "end_node": "环丙烷"
+    },
+    {
+        "start_node": "IZnCH2I",
+        "relationship": "机理",
+        "end_node": "单步机制"
+    },
+    {
+        "start_node": "IZnNHI",
+        "relationship": "催化",
+        "end_node": "氮丙啶"
+    },
+    {
+        "start_node": "IZnNHI",
+        "relationship": "机理",
+        "end_node": "单步机制"
+    },
+    {
+        "start_node": "IZnNHI",
+        "relationship": "能垒",
+        "end_node": "5.4 kcal/mol更低"
+    },
+    {
+        "start_node": "ClZnNHCl",
+        "relationship": "机理",
+        "end_node": "两步机制"
+    },
+    {
+        "start_node": "IZnOI",
+        "relationship": "机理",
+        "end_node": "两步机制"
+    },
+    {
+        "start_node": "ClZnOCl",
+        "relationship": "机理",
+        "end_node": "两步机制"
+    },
+    {
+        "start_node": "环氧乙烷化",
+        "relationship": "能垒",
+        "end_node": "15 kcal/mol"
+    },
+    {
+        "start_node": "环氧乙烷化",
+        "relationship": "能垒",
+        "end_node": "6 kcal/mol更低"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "工业应用",
+        "end_node": "聚合物中间体"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "工业应用",
+        "end_node": "生物活性分子"
+    }
+]

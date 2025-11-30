@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "Au纳米团簇",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "O2活化",
+        "relationship": "关键步骤",
+        "end_node": "乙烯氧化"
+    },
+    {
+        "start_node": "CO促进",
+        "relationship": "促进",
+        "end_node": "O2活化"
+    },
+    {
+        "start_node": "CO促进",
+        "relationship": "导致",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "CO促进",
+        "relationship": "导致",
+        "end_node": "CO2生成"
+    },
+    {
+        "start_node": "CO促进",
+        "relationship": "降低",
+        "end_node": "能垒"
+    },
+    {
+        "start_node": "乙烯自促进",
+        "relationship": "促进",
+        "end_node": "O2活化"
+    },
+    {
+        "start_node": "电荷转移",
+        "relationship": "促进",
+        "end_node": "O-O键断裂"
+    },
+    {
+        "start_node": "OMME中间体",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMME中间体",
+        "relationship": "形成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "Au29纳米粒子",
+        "relationship": "高活性",
+        "end_node": "乙烯氧化"
+    },
+    {
+        "start_node": "Au(111)表面",
+        "relationship": "低活性",
+        "end_node": "乙烯氧化"
+    },
+    {
+        "start_node": "LH三分子机理",
+        "relationship": "涉及",
+        "end_node": "CO促进"
+    },
+    {
+        "start_node": "LH三分子机理",
+        "relationship": "涉及",
+        "end_node": "乙烯自促进"
+    },
+    {
+        "start_node": "LH双分子机理",
+        "relationship": "涉及",
+        "end_node": "OMME中间体"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "H2添加剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "研究",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "ab initio MD",
+        "relationship": "验证",
+        "end_node": "反应路径"
+    }
+]

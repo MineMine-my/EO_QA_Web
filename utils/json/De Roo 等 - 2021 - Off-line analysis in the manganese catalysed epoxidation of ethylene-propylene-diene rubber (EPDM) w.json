@@ -1,0 +1,82 @@
+[
+    {
+        "start_node": "Mn催化剂",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "环己酮",
+        "relationship": "作为",
+        "end_node": "共溶剂"
+    },
+    {
+        "start_node": "环己烷",
+        "relationship": "作为",
+        "end_node": "溶剂"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "50°C"
+    },
+    {
+        "start_node": "催化剂负载量",
+        "relationship": "范围",
+        "end_node": "0.3 mM"
+    },
+    {
+        "start_node": "DOI",
+        "relationship": "标识",
+        "end_node": "10.1039/d1ra06222k"
+    },
+    {
+        "start_node": "发表年份",
+        "relationship": "为",
+        "end_node": "2021"
+    },
+    {
+        "start_node": "Mn催化剂",
+        "relationship": "关联",
+        "end_node": "10.1039/d1ra06222k"
+    },
+    {
+        "start_node": "Mn催化剂",
+        "relationship": "发表",
+        "end_node": "2021"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

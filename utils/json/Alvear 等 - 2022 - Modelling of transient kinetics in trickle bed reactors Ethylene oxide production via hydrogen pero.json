@@ -1,0 +1,242 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "TS-1催化剂",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "TS-1催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "TS-1催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "氧化剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "15-75°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "2.5-8.5 bar"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "15-75°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "2.5-8.5 bar"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "H2O2分解"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高压",
+        "relationship": "提高",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "高压",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高H2O2浓度",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高H2O2浓度",
+        "relationship": "提高",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "溶剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "促进",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "水",
+        "relationship": "抑制",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "水",
+        "relationship": "强吸附",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "水",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "水",
+        "relationship": "降低",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "高流速",
+        "relationship": "降低",
+        "end_node": "停留时间"
+    },
+    {
+        "start_node": "高流速",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高流速",
+        "relationship": "降低",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "高流速",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "副反应",
+        "end_node": "2-甲氧基乙醇"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "副反应",
+        "end_node": "乙二醇"
+    },
+    {
+        "start_node": "甲醇解",
+        "relationship": "生成",
+        "end_node": "2-甲氧基乙醇"
+    },
+    {
+        "start_node": "水解",
+        "relationship": "生成",
+        "end_node": "乙二醇"
+    },
+    {
+        "start_node": "Ti-OOH",
+        "relationship": "中间体",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "H2O2吸附",
+        "relationship": "形成",
+        "end_node": "Ti-OOH"
+    },
+    {
+        "start_node": "Ti-OOH",
+        "relationship": "反应",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "Ti-OOH",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "125 μm"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "消除",
+        "end_node": "内扩散限制"
+    },
+    {
+        "start_node": "动态方法",
+        "relationship": "揭示",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "动态方法",
+        "relationship": "研究",
+        "end_node": "本征动力学"
+    },
+    {
+        "start_node": "滴流床反应器",
+        "relationship": "用于",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "Alvear等人",
+        "relationship": "发表",
+        "end_node": "10.1016/j.ces.2021.117156"
+    },
+    {
+        "start_node": "Alvear等人",
+        "relationship": "年份",
+        "end_node": "2022"
+    }
+]

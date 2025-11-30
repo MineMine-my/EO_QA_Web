@@ -1,0 +1,97 @@
+[
+    {
+        "start_node": "MoO3催化剂",
+        "relationship": "催化",
+        "end_node": "EPDM环氧化"
+    },
+    {
+        "start_node": "TBHP",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "80-110°C"
+    },
+    {
+        "start_node": "最佳温度",
+        "relationship": "是",
+        "end_node": "90°C"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "导致",
+        "end_node": "TBHP分解"
+    },
+    {
+        "start_node": "TBHP分解",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "TBHP浓度",
+        "relationship": "影响",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "高TBHP浓度",
+        "relationship": "消除",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "催化剂浓度",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "高催化剂浓度",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "EPDM环氧化",
+        "relationship": "遵循",
+        "end_node": "伪二级动力学"
+    },
+    {
+        "start_node": "表观活化能",
+        "relationship": "是",
+        "end_node": "42.6 kJ/mol"
+    },
+    {
+        "start_node": "MoO3-TBHP体系",
+        "relationship": "避免",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "无副反应",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "MoO3",
+        "relationship": "形成",
+        "end_node": "活性中间体"
+    },
+    {
+        "start_node": "活性中间体",
+        "relationship": "催化",
+        "end_node": "环氧化反应"
+    },
+    {
+        "start_node": "反应时间",
+        "relationship": "范围",
+        "end_node": "5小时"
+    },
+    {
+        "start_node": "TBHP浓度",
+        "relationship": "范围",
+        "end_node": "6.5-19.5 mmol/l"
+    },
+    {
+        "start_node": "MoO3浓度",
+        "relationship": "范围",
+        "end_node": "0.065 mmol/l"
+    }
+]

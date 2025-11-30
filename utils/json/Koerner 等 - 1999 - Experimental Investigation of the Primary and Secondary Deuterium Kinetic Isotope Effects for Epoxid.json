@@ -1,0 +1,117 @@
+[
+    {
+        "start_node": "MCPBA",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "MCPBA",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "MCPBA",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "25°C"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "spiro TS",
+        "relationship": "优于",
+        "end_node": "planar TS"
+    },
+    {
+        "start_node": "spiro TS",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "planar TS",
+        "relationship": "降低",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "MCPBA-O-D",
+        "relationship": "影响",
+        "end_node": "动力学同位素效应"
+    },
+    {
+        "start_node": "动力学同位素效应",
+        "relationship": "范围",
+        "end_node": "1.05±0.05"
+    },
+    {
+        "start_node": "乙烯-d4",
+        "relationship": "显示",
+        "end_node": "次级动力学同位素效应"
+    },
+    {
+        "start_node": "次级动力学同位素效应",
+        "relationship": "值",
+        "end_node": "0.83"
+    },
+    {
+        "start_node": "反式过渡态",
+        "relationship": "导致",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "酸催化",
+        "relationship": "导致",
+        "end_node": "环氧化物开环"
+    },
+    {
+        "start_node": "环氧化物开环",
+        "relationship": "生成",
+        "end_node": "羟基酯"
+    }
+]

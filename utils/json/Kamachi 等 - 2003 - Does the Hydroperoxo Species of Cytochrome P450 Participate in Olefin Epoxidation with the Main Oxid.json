@@ -1,0 +1,222 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "不能催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "化合物I",
+        "relationship": "主要催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "近端氧转移",
+        "relationship": "机制",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "远端氧转移",
+        "relationship": "机制",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "近端氧转移",
+        "relationship": "涉及",
+        "end_node": "自由基中间体"
+    },
+    {
+        "start_node": "远端氧转移",
+        "relationship": "涉及",
+        "end_node": "自由基中间体"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "活化能",
+        "end_node": "22.4 kcal/mol"
+    },
+    {
+        "start_node": "化合物I",
+        "relationship": "活化能",
+        "end_node": "9.3 kcal/mol"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "活化能",
+        "end_node": "高于化合物I"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "类似",
+        "end_node": "过氧化氢"
+    },
+    {
+        "start_node": "过氧化氢",
+        "relationship": "不能催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "O-O键断裂",
+        "end_node": "远端氧转移"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "Fe-O键断裂",
+        "end_node": "近端氧转移"
+    },
+    {
+        "start_node": "远端氧转移",
+        "relationship": "形成",
+        "end_node": "铁(IV)-氧"
+    },
+    {
+        "start_node": "铁(IV)-氧",
+        "relationship": "保留相互作用",
+        "end_node": "羟基基团"
+    },
+    {
+        "start_node": "自由基中间体",
+        "relationship": "包含",
+        "end_node": "*CH2CH2(OH)"
+    },
+    {
+        "start_node": "近端氧转移",
+        "relationship": "形成",
+        "end_node": "*CH2CH2(OOH)"
+    },
+    {
+        "start_node": "*CH2CH2(OOH)",
+        "relationship": "能量不稳定",
+        "end_node": "自由基中间体"
+    },
+    {
+        "start_node": "B3LYP DFT",
+        "relationship": "计算方法",
+        "end_node": "密度泛函理论"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "模型",
+        "end_node": "Fe(OOH)(C20N4H12)(SCH3)"
+    },
+    {
+        "start_node": "化合物I",
+        "relationship": "模型",
+        "end_node": "铁(IV)-氧"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "自旋态",
+        "end_node": "双态四态六态"
+    },
+    {
+        "start_node": "六态",
+        "relationship": "能量最高",
+        "end_node": "铁(III)-氢过氧"
+    },
+    {
+        "start_node": "双态",
+        "relationship": "能量最低",
+        "end_node": "铁(III)-氢过氧"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "O-O键长",
+        "end_node": "1.525-1.540 Å"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "自旋密度",
+        "end_node": "铁原子"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "电荷",
+        "end_node": "+3"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "几何结构",
+        "end_node": "OOH面向卟啉"
+    },
+    {
+        "start_node": "近端氧转移",
+        "relationship": "过渡态",
+        "end_node": "TS1-p"
+    },
+    {
+        "start_node": "远端氧转移",
+        "relationship": "过渡态",
+        "end_node": "TS1-d"
+    },
+    {
+        "start_node": "TS1-d",
+        "relationship": "虚频",
+        "end_node": "722i cm-1"
+    },
+    {
+        "start_node": "TS1-p",
+        "relationship": "虚频",
+        "end_node": "179i-384i cm-1"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "不能参与",
+        "end_node": "烯烃环氧化"
+    },
+    {
+        "start_node": "化合物I",
+        "relationship": "可行氧化剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "高活化能",
+        "end_node": "22.4 kcal/mol"
+    },
+    {
+        "start_node": "化合物I",
+        "relationship": "低活化能",
+        "end_node": "9.3 kcal/mol"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "电子特征",
+        "end_node": "类似过氧化氢"
+    },
+    {
+        "start_node": "铁(III)-氢过氧",
+        "relationship": "反应性",
+        "end_node": "低于化合物I"
+    }
+]

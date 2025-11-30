@@ -1,0 +1,137 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-280°C"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.06-0.12"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "Re催化剂",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "双过氧配合物",
+        "relationship": "具有",
+        "end_node": "高稳定性"
+    },
+    {
+        "start_node": "双过氧配合物",
+        "relationship": "具有",
+        "end_node": "低活化能"
+    },
+    {
+        "start_node": "甲基取代",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "电子密度",
+        "relationship": "增加",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "HOMO-LUMO",
+        "relationship": "决定",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "前线轨道",
+        "relationship": "控制",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "亲电特性",
+        "relationship": "影响",
+        "end_node": "氧转移"
+    },
+    {
+        "start_node": "直接攻击",
+        "relationship": "优于",
+        "end_node": "插入机理"
+    },
+    {
+        "start_node": "spiro结构",
+        "relationship": "具有",
+        "end_node": "低活化能"
+    },
+    {
+        "start_node": "氢过氧配合物",
+        "relationship": "竞争",
+        "end_node": "过氧机理"
+    },
+    {
+        "start_node": "水配体",
+        "relationship": "稳定",
+        "end_node": "配合物"
+    },
+    {
+        "start_node": "Lewis碱",
+        "relationship": "影响",
+        "end_node": "活化能"
+    }
+]

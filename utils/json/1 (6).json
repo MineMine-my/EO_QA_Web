@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "作为",
+        "end_node": "载体"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "改进",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "二氧化硅",
+        "relationship": "增加",
+        "end_node": "酸性"
+    },
+    {
+        "start_node": "酸性",
+        "relationship": "促进",
+        "end_node": "银分布"
+    },
+    {
+        "start_node": "银分布",
+        "relationship": "影响",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "作为",
+        "end_node": "助催化剂"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "载体孔径",
+        "relationship": "范围",
+        "end_node": "50-100μm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "1-4m2·g-1"
+    },
+    {
+        "start_node": "高比表面积",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "230-270℃"
+    },
+    {
+        "start_node": "压力",
+        "relationship": "范围",
+        "end_node": "2.1MPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "6200h-1"
+    },
+    {
+        "start_node": "燕山石化",
+        "relationship": "开发",
+        "end_node": "YS-8500"
+    },
+    {
+        "start_node": "YS-8500",
+        "relationship": "选择性",
+        "end_node": "86.9%"
+    },
+    {
+        "start_node": "硫酸锆",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "载体吸水率",
+        "relationship": "范围",
+        "end_node": "大于70%"
+    },
+    {
+        "start_node": "转蓝式热处理",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "热处理",
+        "relationship": "影响",
+        "end_node": "活性分布"
+    },
+    {
+        "start_node": "活性分布",
+        "relationship": "决定",
+        "end_node": "反应性能"
+    },
+    {
+        "start_node": "分级活化",
+        "relationship": "提高",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "铼",
+        "relationship": "作为",
+        "end_node": "助催化剂"
+    },
+    {
+        "start_node": "铼",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "锶",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "催化剂寿命",
+        "relationship": "范围",
+        "end_node": "两年以上"
+    },
+    {
+        "start_node": "高选择性",
+        "relationship": "节省",
+        "end_node": "乙烯原料"
+    },
+    {
+        "start_node": "选择性提高",
+        "relationship": "降低",
+        "end_node": "生产成本"
+    },
+    {
+        "start_node": "反应器大型化",
+        "relationship": "提高",
+        "end_node": "生产效率"
+    },
+    {
+        "start_node": "氧气直接氧化",
+        "relationship": "作为",
+        "end_node": "生产方法"
+    }
+]

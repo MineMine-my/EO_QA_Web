@@ -1,0 +1,532 @@
+RSC Advances
+PAPER
+a
+Preparation of Ag/ -Al O for ethylene epoxidation
+2 3
+through thermal decomposition assisted by extract of
+Citethis:RSCAdv.,2013,3,20732 Cinnamomum camphora†
+Daohua Sun,* Huixuan Wang, Genlei Zhang, Jiale Huang and Qingbiao Li*
+An Ag/a-Al O catalystdesignedforapplicationin theepoxidation ofethylene wasprepared through
+2 3
+thermal decomposition assisted by extract of Cinnamomum camphora. The effects of the reaction
+parametersonthecatalyticperformancewereevaluated,includingtheextractconcentration,calcining
+temperature and calcining time. The results demonstrated that the thermal decomposition should be
+Received12thMay2013 conducted at 600 (cid:1)C in N for 60 min, assisted by 0.25 g mL(cid:3)1 Cinnamomum camphora extract. Accepted13thAugust2013 2
+Comparedwithasimplethermaldecompositionmethod,thesinteringandaggregationofAgparticles
+DOI:10.1039/c3ra42336k
+and Ag loss during the reaction were alleviated by the presence of the catalyst that had been
+www.rsc.org/advances synthesizedwiththeassistanceofbiomass.
+1. Introduction particles,butitwasstilldifficulttobettercontrolthedispersity
+andsizedistributionduetothehightemperaturesinvolved.In
+The epoxidation of ethylene is one of the most important addition, some researchers tried to introduce a reductant to
+industrialprocessesandhasbeenstudiedextensivelyoverthe decrease the decomposition temperature. For example, Akimi
+last80years.Silveristheonlyheterogeneouscatalystthatcan etal.preparedanAgcatalystthroughthereductionofAgNO by
+3
+achievereasonableselectivitiesforethyleneoxide(EO).1Factors H atatemperatureof250(cid:1)C.11ButduetothepresenceofH ,a
+2 2
+including the type of Ag particle,1,2 support materials,3 and highercostandthenecessityforgreaterprotectivemeasuresare
+promoters4 have been shown to affect catalyst performance. requiredforindustrialoperation.BesidesH ,otherreductants
+2
+Currently,themostcommonmethodforthepreparationofAg such as hydrazine, formaldehyde, formic acid and low-carbon
+catalysts is impregnation, where the Ag precursor is impreg- carboxylicacidamidehavebeenstudied.12–15However,theuse
+natedinthesupportandthenreducedtoAg0throughthermal oftheabovereductantsmayleadtosecurityandenvironmental
+decomposition.5–7 Thermal decomposition is a simple and problems. Thus, the development of a safe and efficient
+efficientmethodforcatalystactivation,butduringthisprocess,
+approach to alleviate sintering and maintain the size and
+sintering and aggregation of Ag particles will generally occur morphology of the Ag particles during the thermal decompo-
+when calcined over 200 (cid:1)C,8 which would seriously affect the sitionisofsignicance.
+dispersity of Ag particles on the support and therefore the Since Gardea-Torresdey16 rst reported the plant-mediated
+performanceoftheAgcatalyst.Therefore,thethermaldecom- biosynthesis of gold nanoparticles, it has received increasing
+position step has a pronounced effect on the catalytic perfor- attentionasaneconomicalandeco-friendlyalternativeforthe
+mance of catalyst, and many studies have been dedicated to synthesis of nanomaterials.17 With regard to silver, some
+attempting toemploya moreefficientactivationmethod. One studies18–23 have reported the fabrication of Ag nanoparticles
+approachistovarytheatmosphereduringcalcination,usingfor (AgNPs) by this method. Our group also obtained AgNPs with
+example, superheated steam,8 wet air (5% steam)9 and a two theuseoftheextractofCinnamomumcamphora24andCacumen
+stageatmosphereincludingtheintroductionofaninertatmo- platycladi25 leaves. AgNPs with a narrow size distribution and
+sphere.10ThesemethodspartiallyalleviatedthesinteringofAg desireddiametercanbeobtainedwithoutanyauxiliarysurfac-
+tantorcappingagent,owingtothepresenceofplantbiomass
+thatplaysdualrolesasbothreductantandstabilizer.Withthe
+Department of Chemical and Biochemical Engineering, College of Chemistry and
+Chemical Engineering, Fujian Provincial Key Laboratory of Chemical Biology, developmentofmodernbiologicaltechnology,wehaveadeeper
+Xiamen University, Xiamen, 361005, P. R. China. E-mail: sdaohua@xmu.edu.cn; understanding of the physical and chemical properties of
+Tel:+8605922183088 biomass.Ifparticularpropertiesofbiomasscouldbeexploited
+†Electronic supplementary information (ESI) available: UV-Vis DRSspectra of in the eld of catalysis, this would be an interesting concept.
+Ag/a-Al2O3 calcined at 600 (cid:1)C for different times, XRD patterns of Ag/a-Al2O3
+Our recent study26 reported that the biosynthesized AuNPs
+catalystswithdifferentconcentrationsofC.camphoraleafextract,SEMimage
+and histogram of size distribution of Ag particles in Ag/a-Al2O3 catalysts immobilized onto a titanium silicalite-1 (TS-1) support main-
+preparedbythethermaldecompositionmethod.SeeDOI:10.1039/c3ra42336k tained the same particle size without agglomeration, aer
+20732 | RSCAdv.,2013,3,20732–20737 ThisjournalisªTheRoyalSocietyofChemistry2013
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no
+dehsilbuP
+View Article Online
+View Journal | View Issue
+
+Paper RSCAdvances
+calcination at 375 (cid:1)C. Moreover, excellent activity and high (2mm(cid:5)1.5m),respectively.ThePorapakQcolumnwasused
+selectivitytowardspropyleneepoxidationwereachieved,partly to detect C H and CO , while the b,b0-oxydipropionitrile
+2 4 2
+because the residual biomass aer calcination led to larger columnwasusedtodetectEO.
+sterichindranceonthetransferoftheactiveintermediateH O
+2 2
+from the gold to the Ti sites. In spite of these exact roles of 2.4. Characterizationofcatalysts
+biomass in the catalytic process, their detailed mechanisms
+XRD measurements were recorded on an X'Pert Pro X-ray
+remain unknown due to the complicated composition of the Diffractometer (PANalytical BV, Netherlands) operated at a
+aqueousextractofplantbiomass,theaboveresultstillinspired
+voltageof40kVandacurrentof30mA,withCuKaradiation.
+ustointroducebiomassextracttothepreparationofAg/a-Al O
+2 3 The UV-Vis DRS was performed on a Varian Cary-5000 spec-
+to attempt to solve the sintering problem during the thermal
+trometer equipped with a diffuse-reectance accessory, using
+decomposition.
+dehydrated BaSO as a reference in the range of 200–800 nm.
+Herein, we report the preparation of Ag/a-Al O through 4 2 3 SEM observations were carried out on a LEO-1530 Electron
+thermal decomposition assisted by extract of Cinnamomum
+Microscope (LEO, Germany). The size distribution of the
+camphora(C.camphora).Theinuenceofpreparationparame-
+resultingNPswasestimatedonthebasisofSEMmicrographs
+tersonthecatalyticactivityintheepoxidationofethylenewere
+with the assistance of SigmaScan Pro soware (SPSS Inc.,
+systematically investigated. The obtained Ag/a-Al O catalysts
+2 3 Version 4.01.003). The actual Ag loadings of the samples were
+werecharacterizedusingscanningelectronmicroscopy(SEM),
+determinedbyatomicabsorptionspectroscopy(AAS).
+X-ray diffraction (XRD) and diffuse reectance UV-Vis spec-
+troscopy (UV-Vis DRS). Moreover, comparative studies on the
+3. Results and discussion
+catalytic performance were conducted between the catalyst
+preparedbothwithandwithouttheextractofC.camphora. 3.1. Inuenceofcalciningtemperature
+Theinuenceofthecalciningtemperatureonthecatalyticactivity
+2. Experimental was investigated while the concentration of C. camphora leaf
+2.1. PreparationofC.camphoraextract extractandthecalciningtimeweresetat0.2gmL
+(cid:3)1and60min,
+respectively.TheactivitiesoftheAg/a-Al O catalystscalcinedat
+2 3 ThedriedC.camphoraleaveswerecrushedandthenscreened 300,400,500,600,and700(cid:1)CareshowninFig.1.AverylowEO
+bya20meshsieve.InordertoobtaintheC.camphoraextract, concentrationwasfoundforcatalystscalcinedat300(cid:1)C.TheEO
+4.0 g biomass powder was carefully weighed and added to
+concentration increased as the temperature was increased
+400 mL DI water in a 500 mL conical ask. The mixture was from400to600(cid:1)C,butdeclinedslightlyasthetemperaturewas
+thenshakenatarotationrateof150rpmfor10hat30(cid:1)C.The
+increasedfurtherto700(cid:1)C.Therefore,amaximumEOconcen-
+mixture was then ltered and the ltrate was retained for trationof1.57%wasobtainedforthecatalystannealedat600(cid:1)C.
+furtherexperiments.
+Underthiscondition,theEOselectivityis74.59%,andthespace
+timeyield(STY)reaches197.99gh (cid:3)1L (cid:3)1.
+cat
+2.2. PreparationofAg/a-Al 2 O 3 catalysts Fig. 2 displays the XRD patterns of Ag/a-Al 2 O 3 catalysts
+Ag/a-Al O catalysts were prepared using the classical impreg- calcined at different temperatures. When the calcining
+2 3
+nation method.27 In a typical synthesis of Ag/a-Al O catalyst temperaturewas300(cid:1)C,thediffractionpeaksattributedtothe
+2 3
+(15wt%Agloading),0.1765gofAgNO wascarefullyweighed unreacted silver salt or silver oxide were observed (peaks
+3
+(Sinopharm Chemical Reagent Co. Ltd) and then dissolved in
+labelled*),whichcouldexplaintheverylowEOconcentration
+1.2 mL of the C. camphora extract solution. This mixture was obtained when using this catalyst. These peaks disappeared
+thensupportedon1ga-Al O (20–40mesh,TianjinChemical
+2 3
+Research & Design Institute) at room temperature. Finally,
+having been dried at 50 (cid:1)C in vacuum for 12 h, the obtained
+samplewascalcinedat600(cid:1)Cfor60mininN .
+2
+2.3. Catalyticactivitymeasurements
+Thecatalytictestswerecarriedoutinaxed-bedstainless-steel
+reactorusingafeedconcentrationof15/7/5/73vol%ofC H /O /
+2 4 2
+CO /N and0.5mLcatalystataspacevelocityof7000mLh
+(cid:3)1
+2 2
+mL (cid:3)1 and a reaction pressure of 2.0 (cid:4) 0.1 MPa. The
+cat
+temperaturewasmeasuredbyusingaglasstubecoveredCr–Al
+thermocouple located in the center of the catalyst bed. The
+concentrations of the reactant and the product were analyzed
+onlinebygaschromatographs(GC-950)equippedwiththermal
+conductivitydetectors(TCD)usingaPorapakQpackedcolumn
+(2 mm (cid:5) 3 m), and a ame ionization detector (FID) using d Fi i g ff . e 1 rent E t p e o m x p id e a r t a io tu n re o s f . e , th E y O len c e on a c t e 2 n 4 tr 0 at (cid:1) i C on o ( v % er ); A B g/a EO -A s l2 e O le 3 ct c i a v t it a y ly ( s % ts ); c O alci E n O ed ST a Y t
+a b,b0-oxydipropionitrile/chromosorb 101 packed column (gh(cid:3)1Lcat (cid:3)1).
+ThisjournalisªTheRoyalSocietyofChemistry2013 RSCAdv.,2013,3,20732–20737 | 20733
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no dehsilbuP
+View Article Online
+
+RSCAdvances Paper
+samplecalcinedat300(cid:1)C,however,thispeakgraduallydecreased
+inintensityasthecalciningtemperaturewasincreased,untilit
+nallydisappearedatacalciningtemperatureof600(cid:1)C.Inview
+of the catalytic performances, Ag0 and oxidized silver clusters
+(Ag
+d+)areactivespecieswithrespecttoethyleneepoxidation,as
+n
+opposed to Ag+. Note that when the calcining temperature
+reached 700 (cid:1)C, a new absorption band appeared at 450 nm,
+indicatingthatthenanoparticleshadstartedtoagglomerate.31,32
+SEM images and corresponding histograms of the size
+distribution ofthe catalystscalcinedat different temperatures
+areshowninFig.4.ThesphericalAgNPsweredistributedonthe
+surface of a-Al O with a broader range of particle sizes. The 2 3
+average particle size increased signicantly as the calcining
+temperature was increased. When the calcining temperatures
+were 300, 500, 600 and 700 (cid:1)C, the obtained particle sizes of
+AgNPswere35.7(cid:4)20.2,137.1(cid:4)63.8,239.8(cid:4)73.1and307.0(cid:4)
+140.1 nm, respectively. It should be noted that agglomeration
+hadobviouslyoccurredinthesamplecalcinedat700(cid:1)C.
+Fromtheaboveanalysis,wecanconcludethatthedetermi-
+nationofasuitablecalciningtemperatureinabiomass-assisted
+thermaldecomposition methodisa viable strategyforobtain-
+ing catalysts with higher activities. The optimal catalytic
+performance was obtained for the catalyst calcined at 600 (cid:1)C,
+because at this temperature, the silver species with higher
+Fig.2 XRDpatternsofAg/a-Al2O3catalystscalcinedatdifferenttemperatures. valencestatescompletelydecomposedintoAg0,leadingtothe
+formationofAgparticleswithauniformsizedistributionanda
+high dispersibility. Thus, 600 (cid:1)C was chosen as the optimum
+when the catalyst was calcined at 400 (cid:1)C and ve diffraction calciningtemperature.
+peaks were detected which are ascribed to AgNPs. As the
+calcining temperatures were increased further, the Ag peaks 3.2. Inuenceofcalciningtime
+becamesharper,suggestingtheformationoflargerAgparticles.
+TheactivitiesoftheAg/a-Al O calcinedat600(cid:1)Cfor30,60,90
+ItisgenerallyrecognizedthatUV-VisDRScanbeappliedasan 2 3
+effective technique in the detection of the electronic states of and 120 min areshown in Fig.5. These catalysts allexhibited
+silverinsilver-basedcatalysts.28,29Fig.3displaystheUV-VisDRS
+spectra of Ag/a-Al O calcined at different temperatures. The
+2 3
+absorptionbandataround350nmcorrespondstoAg0andthe
+doublepeaksrepresentoxidizedsilverclusters(Ag
+d+)whichcan
+n
+be observed at 260 nm and 300 nm for this series of samples.
+TheseresultscanbeexplainedbythepresenceofAgNPs.30Strong
+absorptionsat205nmassociatedwithAg+canbefoundinthe
+Fig. 4 SEM images (A–D) of Ag/a-Al2O3 catalysts with different calcining
+temperatures((A) 300 (cid:1)C; (B) 500 (cid:1)C; (C) 600 (cid:1)C; (D) 700 (cid:1)C) and the corre-
+Fig.3 UV-VisDRSspectraofAg/a-Al2O3calcinedatdifferenttemperatures. spondinghistogramsofAgparticlesizedistribution(insetsA–D).
+20734 | RSCAdv.,2013,3,20732–20737 ThisjournalisªTheRoyalSocietyofChemistry2013
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no
+dehsilbuP
+View Article Online
+
+Paper RSCAdvances
+the desired catalytic activity, giving rise to EO concentrations
+higher than 1.3% and EO selectivities of above 70%. The
+maximum conversion of ethylene was achieved by the catalyst
+whichwascalcinedfor60min.Usingthiscatalyst,theobtained
+EOconcentrationwas1.57%andtheEOselectivitywas74.59%.
+The quality of the Ag/a-Al O catalyst samples was further
+2 3
+determined by UV-Vis DRS (Fig. S1†). The strong absorption
+bandsofAg0andAg d+canbeobservedineveryspectrum,and
+n
+the absorption band at around 205 nm assigned to Ag+ was
+absentforallofthecatalysts.However,whenthecalciningtime
+wasextendedto120min,aweakcharacteristicabsorptionband
+at 460 nm appeared, indicating partial agglomeration of the
+silvernanoparticles.
+Fig.6 Epoxidationofethyleneat240(cid:1)CoverAg/a-Al2O3catalyststreatedwith
+3.3. InuenceofC.camphoraleafextractconcentration differentconcentrationsofC.camphoraleafextract.,EOconcentration(%);B
+EOselectivity(%);OEOSTY(gh(cid:3)1Lcat (cid:3)1).
+The above results demonstrate that the optimal thermal
+decomposition temperature and time are 600 (cid:1)C in N and 60
+2
+min, respectively. The effect of the C. camphora leaf extract
+ItisinterestingthatwiththeincreaseofC.camphoraleafextract
+concentration(0.05,0.10,0.15,0.20,0.25and0.30gmL
+(cid:3)1)on
+concentration, the peaks representing Ag0 tended to broaden,
+thecatalyticactivitywithasilverloadingof15%andareaction
+whichdemonstratesthatthesizesoftheresultingAgparticles
+temperatureof240(cid:1)C,areshowninFig.6.Astheconcentration
+weredecreasing.Thisphenomenonwasfurtherveriedbythe
+ofC.camphoraleafextractwasincreased,theEOconcentration
+SEMimagesofthecatalystsshowninFig.7.Astheconcentra-
+also increased from 0.47% to 1.65%, before decreasing to
+tionofextractwasincreased,theparticlediameterofthesilver
+1.50%.AmaximumintheselectivityofEOof77%wasobtained particlesdecreasedgraduallyfrom727.0(cid:4)321.7nm(at0.05g
+when the concentration of C. camphora leaf extract was 0.05 g mL (cid:3)1) to 110.3 (cid:4) 41.2 nm (at 0.30 g mL (cid:3)1). Therefore, in the
+mL
+(cid:3)1,
+however, the obtained EO concentration was not desir- preparation of the Ag/a-Al O catalysts through a biomass-
+2 3
+ableandtheSTYofEOwaslowerinthiscase.Consideringboth
+assisted thermal decomposition process, the utilization of
+the EO concentration and the selectivity of EO, the optimal
+concentration of the C. camphora leaf extract was found to be
+0.25gmL (cid:3)1,andthecatalystpreparedwiththisconcentration
+gave rise to an EO concentration of 1.65%, a selectivity of
+75.31%andaSTYof211.48gh
+(cid:3)1L (cid:3)1at240(cid:1)C.
+cat
+XRDpatternsofAg/a-Al O madeusingdifferentconcentra-
+2 3
+tionsofC.camphoraleafextract(Fig.S2†)possessedveobvious
+diffraction peaks attributable tothe Ag0 species, and noother
+miscellaneouspeakswereobservedforanyofthesamples.This
+provesthattheAgNO hadcompletelydecomposedandthatno
+3
+Ag Owaspresentwhenthecatalystwasactivatedat600(cid:1)CinN .
+x 2
+Fig.5 Epoxidationofethyleneat240(cid:1)CoverAg/a-Al2O3catalystscalcinedat Fig.7 SEMimagesandhistogramsofsizedistribution(insets)oftheAg/a-Al2O3
+600(cid:1)Cfordifferenttimes.,EOconcentration(%);BEOselectivity(%);OEO catalyststreatedwithdifferentconcentrationsofC.camphoraleafextract:(A)
+STY(gh(cid:3)1Lcat (cid:3)1). 0.05,(B)0.10,(C)0.15,(D)0.20,(E)0.25and(F)0.30gmL(cid:3)1.
+ThisjournalisªTheRoyalSocietyofChemistry2013 RSCAdv.,2013,3,20732–20737 | 20735
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no
+dehsilbuP
+View Article Online
+
+RSCAdvances Paper
+C. camphora extract retards the growth of the AgNPs in the peakisabsentinthespectrumofcatalystB.Thiscouldexplain
+thermaldecompositionprocessathightemperature.Theuseof thepoorerperformanceofcatalystA.
+anappropriateamountofC.camphoraextractinthisprocessis Moreover,theactualsilverloadingofthetwocatalysts,both
+benecialtotheperformanceoftheresultingcatalyst. before and aer the reaction, were determined by AAS. For
+catalystA,theactualloadingofsilverdecreasedfrom14.52%to
+3.4. ComparisonoftheperformanceoftheAg/a-Al O
+6.03%,thereforetherewasa58.47%lossofAgaerthecatalyst
+2 3
+test. However,forcatalyst B,the Ag loadingdecreased slightly
+catalystspreparedbytraditionalandbiomass-assisted
+from14.76%to13.79%equatingtoonlya7.95%lossofAgaer
+thermaldecompositionmethods
+thereaction.Thiscouldbeduetothecontroloverthesizeofthe
+Thecomparativestudieswereperformedwithtwocatalysts,one
+Agparticlesthatresultsfromtheintroductionofthebiomass,
+preparedbyathermaldecompositionmethod(catalystA),and
+therefore reducing sintering aggregation and enhancing the
+theotherbyabiomass-assistedthermaldecompositionmethod
+interaction between the Ag particles and the support. During
+(catalystB).Bothcatalystswereotherwisepreparedbythesame
+the catalytic process, the loss of the Ag component led to Ag
+procedure, using calcining conditions of 600 (cid:1)C in N for 60
+2 enrichmentinthetailareaofthecatalyticbed,whichresulted
+min,andasilverloadingof15%.Theonlydifferencewasthat
+inavigorousreactioninthisregion,andacorrespondingsevere
+0.25gmL
+(cid:3)1ofC.camphoraleafextractwasintroducedduring
+dropintheEOselectivity.
+the thermal decomposition of catalyst B. As can be seen from Therefore,itcanbeinferredthattheAgparticlesintheAg/a-
+Table 1, the performance of catalyst B was better than that of
+Al O catalyst prepared by traditional thermal decomposition
+catalystA.Morespecically,atareactiontemperatureof240(cid:1)C, 2 3
+tendedtoagglomerateduringthethermaldecomposition.This
+theuseofcatalystBresultedinanEOconcentrationof1.65%, agglomerationbehaviorhadanegativeimpactonthecatalytic
+an EO selectivity of 75.31% and a STY of 211.48 g h
+(cid:3)1
+L cat
+(cid:3)1,
+abilityinthefollowingways:rst,theactivityofthecatalystwas
+whilecatalystAresultedinanEOconcentrationof0.47%,anEO
+reduced due to the decrease in the surface area of the active
+selectivityof77.28%andaSTY63.32gh
+(cid:3)1L
+cat
+(cid:3)1.Inthereac-
+component.Additionally,thebindingaffinitybetweenthesilver
+tionwithcatalystB,asthereactiontemperaturewasincreased, particles and the carrier was signicantly reduced, therefore
+the concentration of EO increased gradually but there was a
+decline in selectivity. When the reaction temperature was
+increasedto260(cid:1)C,theconcentration,selectivityandSTYofEO
+were2.08%,65.47% and268.92 gh
+(cid:3)1L (cid:3)1,respectively.Itis
+cat
+worth mentioning that in this work, the most common and
+facile Ag precursor (AgNO ) and support (a-Al O ) were
+3 2 3
+employed,andnopromoteroranyadditiveswereinvolved.van
+Santen33 et al. reported that the EO selectivity of un-promoted
+metallicsilverisaround50%,thoughthecatalyticperformance
+can be enhanced by the addition of alkali compounds as
+promoters,orppmquantitiesofchlorine,intheformofchlo-
+rinated hydrocarbons, in to the feed stream. SEM images of
+catalystA(Fig.S3†)showthattheAgparticlesweredistributed
+unevenlyonthecarriersurface,andthattherewerenumerous
+particleswithalargesize,i.e.thatagglomerationhadoccurred
+during the thermal decomposition. The UV-Vis DRS spectra
+showninFig.8veriedthisresult.Anobviousabsorptionband
+at450nmassociatedwiththeagglomerationofsilverparticles Fig. 8 UV-Vis DRS spectra of Ag/a-Al2O3 catalysts prepared by a thermal
+caneasilybeobservedinthespectrumofcatalystA,whilethis decompositionmethodandabiomass-assistedthermaldecompositionmethod.
+Table1 EpoxidationofethyleneoverAg/a-Al2O3catalystspreparedbyathermaldecompositionmethodandabiomass-assistedthermaldecompositionmethoda
+Reaction EOspacetimeyield
+Catalyst Method temperature((cid:1)C) EOconcentration(%) EOselectivity(%) (gh(cid:3)1L (cid:3)1)
+cat
+A Thermaldecomposition 240 0.47(cid:4)0.02 77.28(cid:4)2.29 63.32(cid:4)1.22
+withoutbiomass 250 0.89(cid:4)0.03 70.34(cid:4)1.78 109.20(cid:4)3.40
+260 1.27(cid:4)0.02 61.83(cid:4)1.68 169.15(cid:4)3.35
+280 0.65(cid:4)0.06 21.70(cid:4)1.45 84.49(cid:4)6.81
+B Biomass-assistedthermal 225 1.21(cid:4)0.04 81.95(cid:4)1.14 161.09(cid:4)4.30
+decomposition 240 1.65(cid:4)0.05 75.31(cid:4)0.82 211.48(cid:4)4.97
+250 1.89(cid:4)0.07 70.27(cid:4)1.44 252.04(cid:4)8.40
+260 2.08(cid:4)0.02 65.47(cid:4)0.76 268.92(cid:4)4.26
+aReactionconditions:feedgasV(C H ):V(O ):V(CO ):V(N )¼15:7:5:73,reactionpressure¼2MPa,GHSV¼7000mLh(cid:3)1mL (cid:3)1.
+2 4 2 2 2 cat
+20736 | RSCAdv.,2013,3,20732–20737 ThisjournalisªTheRoyalSocietyofChemistry2013
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no
+dehsilbuP
+View Article Online
+
+Paper RSCAdvances
+hindering the effective transfer of electrons. Ag particles also 6 A. Takahashi, N. Hamakawa, I. Nakamura and T. Fujitani,
+easilyfelloffthesupport,resultinginaseriouslossofprecious Appl.Catal.,A,2005,294,34.
+metal (Ag). As has been demonstrated, a high dispersity of Ag 7 M.C.N.AmorimdeCarvalho,F.B.PassosandM.Schmal,
+particles and therefore a catalyst with a high Ag loading, is J.Catal.,2007,248,124.
+difficult to achieve on the a-Al O support with a low specic 8 N. Nojiri and Y. Sakai, Silver catalyst for production of
+2 3
+surface area using the traditional thermal decomposition ethyleneoxidefromethylene,USPat.4786624,1988.
+process.14 However, when biomass-assisted thermal decompo- 9 A.BortingerandA.D.Sehmitz,Activationofhighselectivity
+sitionmethodswereemployed,thebiomassaffectedthecrystal ethyleneoxidecatalyst,USPat.0225511A1,2007.
+growth process of the Ag particles. The excellent activity and 10 V. S. Bhise, A. Bortinger and S. R. Allen, Two-stage
+high selectivity of the Ag/a-Al O catalysts employed at a rela- calcinationsforcatalystproduction,USPat.0039316AI,2008.
+2 3
+tively high reaction temperature should be attributed to the 11 A. Ayame, Y. Uchida, H. Ono, M. Miyamoto, T. Sato and
+existence of residual biomolecules on the catalyst, supposedly H.Hayasaka,Appl.Catal.,A,2003,244,59.
+preventingtheagglomerationoftheAgNPsandstrengthening 12 J. C. Dellamorte, J. Lauterbach and M. A. Barteau, Catal.
+theirinteractionwiththecarrier.Thustheprobabilityandrate Today,2007,120,182.
+ofAgparticleagglomerationarereduceddramatically. 13 M. V.Badani and M. A. Vannice,Appl. Catal., A, 2000, 204,
+129.
+14 C. Maldonado, J. L. G. Fierro, G. Birke, E. Martinez and
+4. Conclusions
+P.Reyes,J.Chil.Chem.Soc.,2010,55,506.
+15 A.N.Pestryakov,Catal.Today,1996,28,239. Insummary,wehavereportedanovelmethodtoprepareaAg/
+a-Al O catalyst for the epoxidation of ethylene through 16 J. L. Gardea-Torresdey, J. G. Parsons, E. Gomez, J. Peralta-
+2 3
+biomass-assistedthermaldecomposition.Effectsofparameters Videa, H. E. Troiani, P. Santiago and M. Jose Yacaman,
+NanoLett.,2002,2,397.
+including calcining temperature, calcining time and C. cam-
+17 A. K. Mittal, Y. Chisti and U. C. Banerjee, Biotechnol. Adv.,
+phoraextractconcentration,onthecatalyticperformancehave
+2013,31,346.
+beenevaluated.Theoptimalthermaldecompositionconditions
+were found to be 600 (cid:1)C in N for 60 min, assisted by 0.25 g 18 J.Y.SongandB.S.Kim,BioprocessBiosyst.Eng.,2009,32,79.
+2
+mL
+(cid:3)1
+C. campora extract. The catalyst prepared using these
+19 J. L. Gardea-Torresdey, E. Gomez, J. R. Peralta-Videa,
+J. G. Parsons, H. Troiani and M. Jose-Yacaman, Langmuir,
+conditions resulted in an EO concentration of 1.65%, an EO
+selectivity of 75.31% and a space time yield of 211.48 g h
+(cid:3)1 2003,19,1357.
+L (cid:3)1 at 240 (cid:1)C. The performance of the as-prepared catalyst 20 S. S. Shankar, A. Ahmad and M. Sastry, Biotechnol. Prog.,
+cat
+2003,19,1627.
+was better than its analogue, prepared by a simple thermal
+21 C. Krishnaraj, E. G. Jagan, S. Rajasekar, P. Selvakumar,
+decomposition method, because the introduction of biomass
+contributed to the effective control of the Ag particle size, P. T. Kalaichelvan and N. Mohan, Colloids Surf., B, 2010,
+76,50. reducingsinteringaggregationduringthethermaldecomposi-
+22 D.Philip,Spectrochim.Acta,PartA,2011,78,327.
+tion process and enhancing the interaction between the silver
+particles and the carrier. This method could be an effective 23 S. S. Shankar, A. Rai, A. Ahmad and M. Sastry, J. Colloid
+InterfaceSci.,2004,275,496.
+techniquetoalleviatesinteringduringthermaldecomposition,
+24 J. L. Huang, L. Q. Lin, Q. B. Li, D. H. Sun, Y. P. Wang,
+and to improve the potential performance of catalysts with a
+Y.H.Lu,N.He,K.Yang,X.Yang,H.X.Wang,W.T.Wang
+highmetalloading.
+andW.S.Lin,Ind.Eng.Chem.Res.,2008,47,6081.
+25 J. L. Huang, G. W. Zhan, B. Y. Zheng, D. H. Sun, F. F. Lu,
+Acknowledgements Y.Lin,H.M.Chen,Z.D.Zheng, Y.M.ZhengandQ.B.Li,
+Ind.Eng.Chem.Res.,2011,50,9095.
+This work was supported by the NSFC projects (21206140 and
+26 M. M. Du, G. W. Zhan, X. Yang, H. X. Wang, W. S. Lin,
+21036004)andtheNaturalScienceFoundationofFujianProv-
+Y. Zhou, J. Zhu, L. Ling, J. L. Huang, D. H. Sun, L. S. Jia
+inceofChina(no.20103J01059).
+andQ.B.Li,J.Catal.,2011,283,192.
+27 A. Musi, P. Massiani, D. Brouri, J. M. Trichard and P. Da
+References Costa,Catal.Lett.,2009,128,25.
+28 X.SheandM.Flytzani-Stephanopoulos,J.Catal.,2006,237,
+1 P. Christopher and S. Linic, J. Am. Chem. Soc., 2008, 130, 79.
+11264. 29 S.G.Aspromonte,R.M.Serra,E.E.Mir´oandA.V.Boix,Appl.
+2 P.ChristopherandS.Linic,ChemCatChem,2010,2,78. Catal.,A,2011,407,134.
+3 A.Chongterdtoonsku,J.W.SchwankandS.Chavade,J.Mol. 30 L.Zhang,C.B.ZhangandH.He,J.Catal.,2009,261,101.
+Catal.A:Chem.,2012,358,58. 31 A. Keshavaraja, X. She and M. Flytzani-Stephanopoulos,
+4 M. O. Ozbek, I. Onal and R. A. van Santen, ChemCatChem, Appl.Catal.,B,2000,27,L1–L9.
+2013,5,443. 32 A. N. Pestryakov and A. A. Davydov, J. Electron Spectrosc.
+5 M.A.Pena,D.M.Carr,K.L.YeungandA.Varma,Chem.Eng. Relat.Phenom.,1995,74,195.
+Sci.,1998,53,3821. 33 M.O.OzbekandR.A.vanSanten,Catal.Lett.,2013,143,131.
+ThisjournalisªTheRoyalSocietyofChemistry2013 RSCAdv.,2013,3,20732–20737 | 20737
+.MA
+65:70:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3102
+tsuguA
+41
+no
+dehsilbuP
+View Article Online
+

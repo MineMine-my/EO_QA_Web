@@ -1,0 +1,157 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧气气氛",
+        "relationship": "增强",
+        "end_node": "银颗粒生长"
+    },
+    {
+        "start_node": "氢气气氛",
+        "relationship": "抑制",
+        "end_node": "银颗粒生长"
+    },
+    {
+        "start_node": "颗粒间距",
+        "relationship": "影响",
+        "end_node": "银稳定性"
+    },
+    {
+        "start_node": "高比表面积载体",
+        "relationship": "提高",
+        "end_node": "银稳定性"
+    },
+    {
+        "start_node": "Ostwald熟化",
+        "relationship": "是",
+        "end_node": "主要生长机制"
+    },
+    {
+        "start_node": "氧化银物种扩散",
+        "relationship": "是",
+        "end_node": "速率限制步骤"
+    },
+    {
+        "start_node": "载体羟基基团",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高比表面积载体",
+        "relationship": "增加",
+        "end_node": "羟基密度"
+    },
+    {
+        "start_node": "羟基密度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "180-270°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200-400°C"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "0.6-15 wt%"
+    },
+    {
+        "start_node": "载体比表面积",
+        "relationship": "范围",
+        "end_node": "1-30 m²/g"
+    },
+    {
+        "start_node": "银颗粒间距",
+        "relationship": "范围",
+        "end_node": "20-390 nm"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "最优银粒径",
+        "relationship": "约为",
+        "end_node": "60 nm"
+    },
+    {
+        "start_node": "工业银粒径",
+        "relationship": "范围",
+        "end_node": "100-1000 nm"
+    },
+    {
+        "start_node": "α-氧化铝",
+        "relationship": "是",
+        "end_node": "优选载体"
+    },
+    {
+        "start_node": "低羟基密度",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "银沉积"
+    },
+    {
+        "start_node": "草酸银",
+        "relationship": "是",
+        "end_node": "银前驱体"
+    },
+    {
+        "start_node": "热处理气氛",
+        "relationship": "影响",
+        "end_node": "银粒径"
+    }
+]

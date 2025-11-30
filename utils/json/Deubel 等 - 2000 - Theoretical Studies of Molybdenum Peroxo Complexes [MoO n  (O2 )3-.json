@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "催化",
+        "end_node": "烯烃环氧化"
+    },
+    {
+        "start_node": "MoO(O2)2",
+        "relationship": "是",
+        "end_node": "活性催化剂"
+    },
+    {
+        "start_node": "MoO(O2)2",
+        "relationship": "稳定性",
+        "end_node": "高"
+    },
+    {
+        "start_node": "OPH3配体",
+        "relationship": "增强",
+        "end_node": "催化剂稳定性"
+    },
+    {
+        "start_node": "乙烯配位",
+        "relationship": "弱于",
+        "end_node": "OPH3配位"
+    },
+    {
+        "start_node": "MoO(O2)2(OPH3)",
+        "relationship": "可结合",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "过水解反应",
+        "relationship": "生成",
+        "end_node": "单过氧物"
+    },
+    {
+        "start_node": "过水解反应",
+        "relationship": "生成",
+        "end_node": "双过氧物"
+    },
+    {
+        "start_node": "三过氧物",
+        "relationship": "稳定性",
+        "end_node": "低"
+    },
+    {
+        "start_node": "双过氧物",
+        "relationship": "热力学",
+        "end_node": "有利"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "放热",
+        "end_node": "过程"
+    },
+    {
+        "start_node": "金属-乙烯键",
+        "relationship": "主要由",
+        "end_node": "配体给电子"
+    },
+    {
+        "start_node": "CDA分析",
+        "relationship": "证实",
+        "end_node": "无反馈键"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

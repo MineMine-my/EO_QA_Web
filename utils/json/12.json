@@ -1,0 +1,202 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "表面碳沉积",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "表面重构",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "表面碳沉积"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "100-1130 kPa"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "240°C"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "8.1/9.1"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "5500 cm3/hgcat"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "降低",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "降低",
+        "end_node": "环氧乙烷产率"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "CO2选择性"
+    },
+    {
+        "start_node": "表面碳",
+        "relationship": "促进",
+        "end_node": "甲烷生成"
+    },
+    {
+        "start_node": "表面碳",
+        "relationship": "诱导",
+        "end_node": "表面重构"
+    },
+    {
+        "start_node": "氢提取",
+        "relationship": "机制",
+        "end_node": "表面碳形成"
+    },
+    {
+        "start_node": "吸附氧",
+        "relationship": "参与",
+        "end_node": "氢提取"
+    },
+    {
+        "start_node": "C2Hx物种",
+        "relationship": "前体",
+        "end_node": "表面碳"
+    },
+    {
+        "start_node": "表面碳",
+        "relationship": "破坏",
+        "end_node": "Ag-Ag键"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "覆盖",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "Cs覆盖度",
+        "relationship": "影响",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "范围",
+        "end_node": "32-87 nm"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "载体",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "Ag-Cs/α-Al2O3"
+    },
+    {
+        "start_node": "N2O化学吸附",
+        "relationship": "测量",
+        "end_node": "银表面积"
+    },
+    {
+        "start_node": "TPO分析",
+        "relationship": "量化",
+        "end_node": "碳沉积"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "超过",
+        "end_node": "单层覆盖"
+    },
+    {
+        "start_node": "压力升高",
+        "relationship": "导致",
+        "end_node": "甲烷瞬变"
+    },
+    {
+        "start_node": "甲烷生成",
+        "relationship": "伴随",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "热力学计算",
+        "relationship": "表明",
+        "end_node": "碳形成潜力"
+    },
+    {
+        "start_node": "BOC-MP计算",
+        "relationship": "支持",
+        "end_node": "氢提取机制"
+    },
+    {
+        "start_node": "表面碳",
+        "relationship": "可能",
+        "end_node": "亚表面扩散"
+    },
+    {
+        "start_node": "碳吸附能",
+        "relationship": "大于",
+        "end_node": "Ag-Ag键能"
+    },
+    {
+        "start_node": "吸附物种",
+        "relationship": "诱导",
+        "end_node": "表面重构"
+    }
+]

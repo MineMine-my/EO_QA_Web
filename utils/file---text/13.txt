@@ -1,0 +1,728 @@
+JournalofCatalysis405(2022)534–544
+ContentslistsavailableatScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+Influence of atmosphere, interparticle distance and support on the
+a
+stability of silver on -alumina for ethylene epoxidation
+Petra H. Keijzer1, Jeroen E. van den Reijen1, Claudia J. Keijzer, Krijn P. de Jong, Petra E. de Jongh ⇑
+MaterialsChemistryandCatalysis,DebyeInstituteforNanomaterialsScience,UtrechtUniversity,Utrecht,theNetherlands
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Thestabilityofsupportedmetalparticlesisanimportantparameterinheterogenouscatalysis.Forsilver
+Received9June2021 catalystssupportedona-alumina,industriallyusedinethyleneepoxidation,thelossofsilversurfacearea
+Revised11November2021 as result of particle growth is one of the most important deactivation mechanisms. In this work, the
+Accepted13November2021
+growthofsilverparticleswasinvestigatedbyexposingcatalyststothermaltreatments.Thepresence
+Availableonline19November2021
+ofoxygenduringheatingstronglyenhancedparticlegrowth,andtheinterparticledistancewasacrucial
+parameter.However,restrictingmovementofcompletesilverparticlesusingcage-likea-aluminadidnot
+Keywords:
+limitparticlegrowth.ThesefindingsindicatethatOstwaldripeningwasthedominantmechanismbehind
+Stability
+particlegrowth,withthediffusionofoxidizedsilverspeciesbeingaratelimitingfactor.Finally,higher
+S
+M
+il
+a
+v
+c
+e
+r
+r
+oporousa-alumina
+surfaceareaa-aluminaprovidedbettersilverstabilityduringethyleneepoxidation,withonlylimited
+Highsurfacearea
+decreaseinselectivity.Thismakessilversupportedonhighsurfaceareaa-aluminapromisingcandidates
+Ethyleneepoxidation forethyleneepoxidationcatalysis.
+Ostwaldripening (cid:1)2021TheAuthors.PublishedbyElsevierInc.ThisisanopenaccessarticleundertheCCBYlicense(http://
+creativecommons.org/licenses/by/4.0/).
+1.Introduction turnoverfrequencyisconstant,whichmakes60nmtheoptimum
+sizeforthesilverparticles.
+a
+Theactivityofcatalystsgraduallydecreasesovertime.Bygain- Thesilverparticlesaregenerallysupportedon -aluminawitha
+ing information on how deactivation occurs, the stability of the lowspecificsurfacearea(circa1m2g(cid:1)1)[10,21–24].Thelowden-
+a
+catalyst,andthusthelifetimecanbeimproved[1,2].Mostdeacti- sityofhydroxylgroupspresentonthesurfaceof -aluminaisben-
+vationofsupportedcatalystsresultsfromthelossofactivesurface eficialintermsofselectivity,astheundesirablefurtherconversion
+area,whichcanbechemically,mechanicallyorthermallyinduced ofethyleneoxidetoCO andwaterisrelativelyeasy,andisfacili-
+2
+[2–5].Oneexampleofthethermallyinducedlossofactivesurface tatedbythesehydroxylgroups[16,25–27].Thecombinationofthe
+a
+areaisthegrowthoftheactivemetalparticles.For -aluminasup- lowdensityofhydroxylgroupsonthesurfaceandthelowspecific
+a
+portedsilvercatalysts,usedfortheepoxidationofethylene,thisis surfaceareaof -aluminaminimizestheamountofthesehydroxyl
+oneofthemostimportantdeactivationmechanisms[6–8]. groups [28]. However, the low surface area of the support, espe-
+Silver is the sole metal commercially used as catalyst for the ciallyincombinationwiththeharshethyleneepoxidationreaction
+epoxidation of ethylene [9–11]. The product, ethylene oxide, is conditions and the relatively low Tamman temperature of silver
+the main building block for ethylene glycol, an intermediate for (circa 340 (cid:3)C), makes the silver particles vulnerable to growth
+theproductionofantifreeze,solventsandplastics,andisproduced [19].Therefore,insteadofhavingsilverparticleswiththeoptimal
+onglobalscalewithayearlyproductionof35milliontons[11,12]. sizeofcirca60nm,particlesizesintherangeof100–1000nmare
+Themildoxidationpropertiesofsilverallowselectiveoxidationof morecommoninindustrialcatalysts[21,22].
+the ethylene into ethylene oxide, instead of fully oxidizing ethy- Particlegrowthresultsfromtheinherentthermodynamicinsta-
+lenetocarbondioxideandwater[13–16].Theactivityofthesilver bilityofsmallmetalparticlesdistributedoverthesupportatele-
+isparticlesizedependent,astheturnoverfrequencyincreaseswith vated temperatures and/or pressures [4]. In order to minimize
+the particle size up to circa 60 nm [17–20]. Above this size, the the particle growth, it is crucial to understand the underlying
+mechanism.Formostchemicalreactions,thegrowthofmetalpar-
+ticlescanbeascribedtoeitherOstwaldripeningorparticlediffu-
+sion and coalescence. In Ostwald ripening, particle growth is
+⇑ Correspondingauthor. driven by the interparticle transport of mobile metal-containing
+E-mailaddress:P.E.deJongh@uu.nl(P.E.deJongh). species[29,30].Thetransportofthesespeciescanbothtakeplace
+1 Theseauthorscontributedequally.
+https://doi.org/10.1016/j.jcat.2021.11.016
+0021-9517/(cid:1)2021TheAuthors.PublishedbyElsevierInc.
+ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+viathegas/liquidphaseorviathesupportsurface.Asresultofthe template, according to the procedure described before [50]. The
+differenceinsurfaceenergybetweensmallerandlargerparticles, polymertemplatewaspreparedviasurfactantfreeemulsionpoly-
+duetothelargerspecificsurfaceareaofthesmallerparticles,there merization of methyl methacrylate (MMA, 99%, (cid:3)30 ppm 4-
+isanettransferofthesemobilespeciesfromsmallerparticlesto methoxyphenolinhibitor,Sigma-Aldrich)inwater.Inatypicalsyn-
+larger ones, leading to the disappearance of the smaller particles thesis,400mLdemineralizedwaterandMMA(2.3,1.4and0.9mol
+andthegrowthofthelargerparticles[29–31].Usingcatalystswith L(cid:1)1forsphereswithanumber-averageddiameterof400,315and
+anarrowparticlesizedistributiondecreasesthedrivingforcefor 280nm,respectively)werestirredina1Lroundbottomflaskby
+Ostwald ripening, and hence improves the stability of the metal an overhead stirrer at 500 rpm. The emulsion was heated to
+particles[32–36]. 80(cid:3)Candnitrogenwasbubbledthroughtheemulsionforatleast
+Forparticlediffusionandcoalescence,theparticlegrowthisa 30 min. Thereafter, potassium persulfate (initiator, KPS, 8.4 mmol
+resultofthemobilityofcompletemetalparticles.Theparticlesdif- L(cid:1)1,99+%,Emsure)wasadded.Theemulsionwaslefttoreactfor
+fuseoverthesurfaceofthesupportmaterialandwhentwoparti- 3hat80(cid:3)Cafterwhichawhitedispersionhadformed.Thedisper-
+clesareincloseproximity,theymergetoformonelargerparticle sionwasallowedtocooldowntoroomtemperatureandwasfil-
+[29].Thedrivingforcebehindcoalescenceisthedecreaseinsur- tered to remove larger chunks of polymer. The filtrate was
+face energy, as the overall surface-to-volume ratio is decreased centrifuged for 1 h at 400 rcf (relative centrifugal force) during
+when two particles merge [35,37]. An efficient strategy against whicha white solid precipitated. The clear supernatant was dec-
+particlegrowthviathismechanismisdecreasingthechancethat anted,andtheobtainedwhitepowderwas lefttodryforseveral
+twoparticlescomecloseenoughtomerge.Therefore,onemethod days at room temperature in air after which it was crushed into
+tolimitthecoalescenceistrappingthemetalparticlesinthepore a powder. 1.5 g of polymeric template consisting out of stacked
+network of the support material [2,38]. Another method is by poly(methylmethacrylate)(PMMA)spheresisplacedinaBüchner
+increasing the interparticle distance, for instance by decreasing funnel.Thetemplatewasalternatinglyimpregnatedwith3mLofa
+themetalweightloadingorbyincreasingthespecificsurfacearea 1 M aluminum hydroxide nonahydrate (99+%, Acros) solution in
+ofthesupport[32,39]. demineralized water/methanol (1:1 vol ratio) and 3 mL of an
+To gain insight into to which particle growth mechanism is ammonia (28–30 wt%, Emsure)/methanol (99.9%, VWR) mixture
+dominant,modelsystemsareessential.Nexttohavingahighlevel (1:1volratio).Aftereachimpregnationstepthetemplatepowder
+ofcontrolovertheparticlesizeandsizedistribution,havingcon- was left for 2 min to soak in the solution, then the powder was
+trol over the specific surface area and pore structure of the used driedundervacuumfor20min.Theimpregnationwasperformed
+support materials is important. Support materials with ordered, threetimeswitheachmixtureandafterwardthepowderwasleft
+well-definedandmonodisperseporestructuresallowforadvanced todryovernightatroomtemperatureinair.Thedriedpowderwas
+characterization methods and the possibility to deconvolute the heatedunderanitrogenflowofatleast0.5Lmin(cid:1)1(GHWV=20L
+metal induced effects from the support morphology effects [39– g(cid:1)1 hr(cid:1)1) to 1150 (cid:3)C for 6 h (heating ramp 5 (cid:3)C), before the
+template
+42].Thankstotheuseofmodelcatalysts,themechanismbehind materialwascooleddownandheattreatedagainunderair,using
+particle growth is now fairly well understood for many systems thesameflowandtemperaturesettings.Theporesizeofthemate-
+containing supported metal particles [34,39,43,44]. One example rialwasadjustedbychangingthespheresizeinthepolymertem-
+isthegrowthofcopperparticlessupportedonsilica,whereafter plate,templatescontainingPMMAsphereswithadiameterof400,
+carefully tuning both the ordered pores of the support material, 315and280nmwereused.
+and the particle size distribution of the copper, the dominant
+growth mechanism under specific conditions was identified [34]. 2.2.Silverdeposition
+However, the dominant mechanism behind the particle growth
+a
+ofsupportedsilverparticlesintheepoxidationofethyleneisstill Silver was deposited on the -alumina materials via incipient
+under debate [45–48]. Recently, in an advanced electron micro- wetness impregnation, following a literature procedure [17,51].
+scopystudyonthesilverdispersionduringethyleneepoxidation, Thesilverprecursor,silveroxalate,wasfreshlypreparedeachtime.
+particlegrowthviaOstwaldripeningwasputforward[49]. Silver oxalate was synthesized by mixing an aqueous solution of
+In this work, we systematically investigate which parameters oxalic acid dihydrate (99.5%, Merck) with an aqueous solution of
+a
+influencethe mobilityof silver on -aluminafor theepoxidation silvernitrate(99+%,Sigma–Aldrich)(1:2molratio).Next,thesilver
+ofethylene,byanalysisofparticlegrowthaftersubjectingthecat- oxalate was obtained via centrifugation and washed three times
+alysts to thermal treatments under various conditions. Besides withmilliQwater(1:20volratio)toremoveanyunreactedsilver
+a
+commercially available -alumina support materials, we also nitrate. Finally, the silver oxide was dried overnight in static air
+made use of porous, ordered a -alumina materials with a high at60(cid:3)C.Thesupportpowders(38–400mm)weredriedundervac-
+specificsurfaceareathatwasrecentlydescribed[50].Thismaterial uumat120(cid:3)Cfor2hbeforetheywereimpregnatedwithasolu-
+isanexcellentmodelsupportforinvestigatingthestabilityofsup- tion (90% of the pore volume) of silver oxalate in demineralized
+portedsilverparticles,especiallysincethecageandwindowsizes water/ethylene diamine (99%, Sigma–Aldrich) (1:0.73 vol ratio)
+a
+oftheporespresentinthe -aluminaareadjustable.Finally,next toobtainmaterialswithatheoreticalloadingof0.6,4.5or15wt
+tothethermaltreatments,alsothecatalyticperformanceofthese %silver.Thematerialsweredriedovernightinairat60(cid:3)Candafter
+materialsintheepoxidationofethyleneisinvestigated. 5,10and30minofdrying,thematerialswerethoroughlymixed.
+Theprecursorwasdecomposedviaaheattreatmentat215(cid:3)C(2h,
+5 (cid:3)C min(cid:1)1 heating ramp) in oxygen, hydrogen or nitrogen flow
+2.Materialsandmethods (seeSection3.2,Table2).
+a
+2.1.Macroporous -alumina 2.3.Characterization
+a a
+Threedifferenttypesof -aluminamaterialswereusedassup- The pore volume and surface area of the -alumina materials
+a
+port.Nexttothecommerciallyavailable -aluminamaterialsfrom wereanalyzedusingN -physisorption. Isotherms weremeasured
+2
+Sigma–Aldrich (1 m2 g(cid:1)1, 100 mesh) and BASF (8 m2 g(cid:1)1, Al- at(cid:1)196(cid:3)ConaMicromeriticsTriStar3000apparatus.Thespecific
+a
+4196E), ordered macroporous -alumina was synthesized. This surfaceareaofthesupportwascalculatedusingtheBETequation
+a a
+-alumina was prepared by making use of a sacrificial polymer (0.05 < p/p0 < 0.25). The surface density of acid sites on the -
+535
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+alumina materials was determined by temperature programmed Κa source (k = 0.1789 nm). The composite structures were ana-
+desorption (TPD) of ammonia, using an Autochem II 2920 V4.03 lyzedbycomparingtheXRDdiffractogramswithcrystalstructures
+apparatusfromMicromeritics.PriortotheTPDmeasurement,circa fromthePDF-4+2016database.
+100 mg a -alumina was treated at 400 (cid:3)C in air for 15 min
+(50 mL min(cid:1)1), then treated to 10% ammonia in helium for 2.4.Thermalstability
+20 min at 100 (cid:3)C (25 mL min(cid:1)1 STP). For the TPD measurement,
+the sample was heated from 100 to 550 (cid:3)C (10 (cid:3)C min(cid:1)1 heating Thermal stability measurements were performed in a tubular
+ramp) in a helium flow (25 mL min(cid:1)1). The amount of desorbed oven by heating 10 to 100 mg of silver containing material (38–
+ammonia was monitored using a thermal conductivity detector 150 mm) in a hydrogen or oxygen flow with a GHSV of 16,000–
+(TCD)andusedtocalculatethetotalamountofacidsites.Forthis, 60,000hr(cid:1)1.Thesampleswereheatedfromroomtemperatureto
+the complex peak shape was deconvoluted and fitted with three 100,200,300and/or400(cid:3)Cwitha5(cid:3)Cmin(cid:1)1heatingramp.
+gaussianpeaks,ofwhichthetotalareawasusedtocalculatethe
+surfacedensityofacidsites.Thesupportmaterialsandsilvercon- 2.5.Catalytictesting
+tainingmaterialswereanalyzedbyscanningelectronmicroscopy
+(SEM) using a FEI XL30 FEG and Helios microscope operated at Thecatalyticperformanceofthesilversupportedon a -alumina
+5–10 kV. SEM samples were prepared by attaching the sample materials was investigated for the epoxidation of ethylene. In a
+powder to the sample holder by sticky carbon tape. Prior to the typical catalysis experiment, 25 mg catalyst grains (38–150 mm)
+measurements, a 7.5 nm platinum layer was deposited over the diluted with 125 mg SiC (Alfa Aesar, >98%, 212–245 mm) was
+sampleviasputtercoating.UsingtheSEMimages,thesilverparti- loadedin a plug flow reactor withan internaldiameterof 4 mm
+cleswereidentifiedandtheirdiameterwasdeterminedmanually. between two layers of quartz wool. The SiC diluent was washed
+Forthiswecountedforeachsampleatleast200differentparticles with HNO (aq) (65%, AnalaR NORMAPUR(cid:4) analytical reagent;
+3
+in at least three different places. The surface-averaged particle 10mLg(cid:1)1)andcalcinedat800(cid:3)C,toremoveanymetalororganic
+SiC
+sizes(d p,s )andthestandarddeviationsinthewidthoftheparticle contaminants.Thecatalystswereconditionedbyheatingthemto
+sizedistribution( r
+p,s
+)werecalculatedusingthefollowingEq.(1). 270(cid:3)Cfor90mininaflowof20mLmin(cid:1)1containing7.5%ethy-
+P rffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi lene and 2.13% oxygen in helium at atmospheric pressure. After-
+d p;s (cid:4)r p;s ¼P n i n ¼1 d d 3 i 2 (cid:4) 1 n (cid:5) X n i¼1 ðd p;s (cid:1)d i Þ2 ð1Þ t w h a e rd g , as th fl e ow rea r c a t t i e on pe t r em gr p a e m ra o tu f r s e ilv w e a r s w lo a w s e v r a e r d ied to b 1 et 8 w 0– ee 2 n 00 35 (cid:3)C 0a a n n d d
+i¼1 i 1600 L g(cid:1)1 h(cid:1)1. The reaction products were analyzed every
+Ag
+Inthisequation,nisthenumberofsilverparticlescounted,and 15minusingonlinegaschromatography(Interscience)equipped
+d thesizeofparticlei.Theinterparticledistance(i ),thedistance withtwoseparatechannelscontainingaPorabondQcolumnand
+i pd
+betweentheedgesoftwosilverparticles,wasestimatedusingthe aMolsieve5Åcolumnandthermalconductivitydetectors.Conver-
+average density of silver distributed over the surface area of the sionandselectivitydatawerecalculatedfromdataretrievedat180
+supportmaterialsandcalculatedusingEq.(2). and200(cid:3)Cwhensteadystatewasreachedafter50honstream.For
+rffiffiffiffi calculationsontransportlimitations,seeSupplementaryInforma-
+A tion, Section A. See Supplementary Information, Section E for an
+i pdðedgetoedgeÞ ¼ N (cid:1)d p;s ð2Þ overviewofthecatalyticdataincludingthereactiontime,reaction
+temperature, gas flow rate, conversion, selectivity and apparent
+A is the specific surface area of the support material obtained via TOF.Theconversionofethyleneandselectivitytowardsethylene
+N -physisorptionandNistheestimatedamountofsilverparticles oxide during the ethylene epoxidation reaction were calculated
+2
+present, calculated using the silver loading and the surface- usingEqs.(4)and(5).
+averagedsilverparticlesize.Aflatsupportsurfaceandahexagonal 0:5(cid:5)p þp þp
+arrangement of spherical silver particles over the support surface X Ethylene ¼ p þ C 0 O : 2 5(cid:5)p Ethy þ len p eoxide Acet þ alde p hyde (cid:5)100%
+wereassumed.Duetothemorphologyofthemacroporousmateri- Ethylene;out CO2 Ethyleneoxide Acetaldehyde
+als,theuseofelectronmicroscopyischallenging.Therefore,toval-
+ð4Þ
+idate the SEM measurements, Diffuse-Reflectance Ultraviolet/
+p
+Visible (DR UV/Vis) spectroscopy was used to determine the S ¼ Ethyleneoxide (cid:5)100% ð5Þ
+Ethyleneoxide 0:5(cid:5)p þp þp
+surface-averagedsilverparticlesize.DRUV/Visspectraofthemate- CO2 Ethyleneoxide Acetaldehyde
+rialswereobtainedbymeasuringcirca20–100mgmaterialinthe
+XandSstandfortheconversion(in%)andselectivity(in%)respec-
+rangeof800–200nmwitha4nmintervalanda4nmslitsizeusing
+tively,whilep isthepartialpressureofcomponentA(inPa).The
+aVarianCARY500scanUV/Vis-NIRoraPerkinElmerLambda950S A
+carbonbalance(Eq.(6))wasabove99%foralldatapointsused.
+UV/Vis-NIRspectrophotometerwithanintegratingspheredetector.
+Someofthemacroporousmaterialswerediluted,bymixing30mg Carbonbalance¼ p Ethylene;out þ0:5(cid:5)p CO2 þp Ethyleneoxide þp Acetaldehyde
+of analyte with 600 mg pristine a -Al 2 O 3 (1 m2 g(cid:1)1, 100 mesh, p Ethylene;in
+Sigma-Aldrich).Thepeakpositionofthesurfaceplasmonresonance (cid:5)100%
+absorption(k ) wasusedas ameasureforthesurface-averaged
+max ð6Þ
+particlesizeusingEq.(3).
+The apparent turnover frequency (TOF), in mole of ethylene
+k max ¼0:0073(cid:5)d p;s 2þ0:2965(cid:5)d p;s þ385:34 ð3Þ converted per mole surface silver per second, was determined
+usingEq.(7).
+Forthiscalibrationcurve,simulationsweremadeusingLumer-
+icalsoftware,forsilverparticlesinanenvironmentof60%airand TOF¼ P(cid:5)u Ethylene (cid:5)X Ethylene(cid:5) 1 ð7Þ
+40% a -alumina [17]. Macroporous a -alumina materials exhibit a R(cid:5)T m (cid:5) 6(cid:5)VAgatom
+relatively weak scattering peak [50], this contribution was
+Ag AAgatom (cid:5)dp;s
+neglected in the estimation of the silver particle size via UV/Vis. Pisthepressure(101325Pa),uistheflowvelocityofethylene(in
+Crystal phase analysis was performed using X-Ray Diffraction m3 s(cid:1)1), X is the ethylene conversion (in %), R is the gas constant
+(XRD) on a Bruker D2 Phaser diffractometer, equipped with a Co (8.314 J mol(cid:1)1 K(cid:1)1), T is the ambient temperature (298 K), m is
+536
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+themassofsilverused(inmol),V thevolumeofasilveratom mina materials, as the main error is in the determination of the
+Agatom
+(inm3),A thesurfaceareaofasilveratom(inm2)andd is specificsurfacearea.
+Agatom p,s
+thesurface-averageddiameterofthesilverparticles(inm),usedto
+calculatethedispersity.Bothforthevolumeandsurfaceareaofthe
+3.2.Silverdeposition
+silveratoms,thesilveratomradiusof1.44(cid:5)10(cid:1)10mwasused,the
+silverparticleswereassumedtobesphericalandthesilversurface a
+The size of the silver particles deposited on the -alumina
+atomswereassumedtobetheactivesites[17,28,52].Notethatthe
+materials was tuned by varying the gas atmosphere in the heat
+term‘‘apparentTOF”isusedaseachsilversurfaceatomisassumed
+treatmentstep[17].Inthisway,despitetheuseofdifferentsup-
+tobeequivalenttooneactivesite.Itisunlikelythatthiscorrelation
+portmaterialsandmetalweightloadings,setsofsupportedsilver
+isone-to-one,giventhecomplexmechanisminwhichtheavailable
+particleswiththesameinitialsilverparticlesizeswereprepared,
+ofoxygenatthesurfaceorsubsurfaceplaysanimportantrole,butit
+andallmaterialswereexposedtothesamemaximumtemperature
+isaconvenientmeasureasingeneraltheactivityisfoundtoscale
+during preparation. XRD showed that irrespective of the atmo-
+withthenumberofsilversurfaceatoms.ThefirstpartofEq.(7)was
+sphereusedduringtheheattreatments,allmaterialsshowedthe
+used for determining the amount of ethylene converted (in mol
+diffractionlinesofmetallicsilver(seeSupplementaryInformation,
+s(cid:1)1),andthebottomofthelastpartwasusedtoestimatethesilver
+Fig.B3).Thiscanbeexplainedbythelowdecompositiontemper-
+surface(inmol). aturesofcirca200(cid:3)Cforsilver(I)oxideandbelow200(cid:3)Cforsilver
+(I,III) oxide [55]. It is known that under these conditions some
+smallparticlesofsilveroxideorsurfaceoxidesmaystillbeformed
+3.Resultsanddiscussion
+andbestableuptohighertemperatures,however,thebulkofthe
+particlesismetallic[20,56–58].
+a
+3.1. -aluminamaterials
+SilverparticlesizeanalysiswasperformedbothbyusingSEM
+andDiffuse-Reflectance(DR)UV/Vis.IntheSEMimagesinFig.2,
+a
+Different -aluminamaterials,varyinginporosityandspecific
+thesilverisvisibleasbright white,roundparticles,depositedon
+surfacearea,wereusedassupportmaterial.Fig.1showstheN 2 - 30 m2 g(cid:1)1 a -alumina with cage and window size of respectively
+physisorption isotherms (Frame A) and scanning electron micro- 205 and 115 nm (Frame A) and on non-porous 1 m2 g(cid:1)1 a -
+a
+scopy(SEM)images(FrameB–F)oftheselected -aluminamateri-
+alumina (Frame B). The insets of these images show the particle
+a
+als. Frame B and C are images of two commercially available -
+size distributions, UV/Vis spectra of these materials are given in
+alumina materials without intraparticle porosity, distinguished
+FrameC.Asthesupportedsilverparticlesarelargeenoughtoexhi-
+bytheirspecificsurfaceareaof1m2g(cid:1)1and8m2g(cid:1)1,respectively.
+bitsurfaceplasmonresonance,thepositionandintensityoftheAg
+Large,nonporousparticlesarevisibleintheimageof1m2g(cid:1)1a
+-
+surface plasmon resonance peaks in UV/Vis spectroscopy can be
+alumina(FrameB).Somesmallercrystallitesdecoratethesurface,
+used to derive a surface-averaged silver particle size [17,59–61].
+butmostofthematerialconsistsoflargeparticlesexceedingsev-
+Thesurface-averagedsilverparticlesizesobtainedfromthemaxi-
+eral micrometers. The large particles have flat surfaces and rela- mumpeakpositions,45nmforthesilveron30m2g(cid:1)1a
+-alumina
+tivelysharpedges,indicativeofahighcrystallinity.The8m2g(cid:1)1 and52nmforthesilveron1m2g(cid:1)1a
+-alumina,areinagreement
+a
+-alumina(FrameC)isaspecialtychemical.Thecrystallitesinthis
+withthesurface-averagedsilversizesobtainedfromtheSEMmea-
+a
+-alumina consist of interconnected grains of approximately 100
+surements,45nm±22nm,and44nm±22nm,respectively.An
+to500nminsize,whichexhibitmoreroundedfeatures.
+overviewofallmaterialsdiscussedinthispaperisgiveninTable2.
+Inadditiontothecommerciallyavailablematerials,wesynthe-
+sizedaseriesofmacroporousmaterialswithmuchlargerspecific
+3.3.Silverthermalstability
+surfaceareas(Fig.1,FramesD–F).X-raydiffraction(XRD)showed
+a
+thatallmaterialshadthe -aluminacrystalstructure(seeSupple-
+Catalyst deactivation is typically slow, significant deactivation
+mentaryInformation,Fig.B1).AccordingtoN -physisorptionmea-
+2
+surements,all materialshad specificsurface areas ofcirca 30 m2 maytakemonthstoyears[8,62,63].Investigatingthedeactivation
+g(cid:1)1,whichissignificantlyhigherthanthecommercial a -alumina process under industrially relevant conditions is therefore time
+consuming. To accelerate the deactivation, materials can be
+materials.Thesehighsurfaceareasareascribedtotheintraparticle
+exposed to harsh conditions. In this study, the particle growth
+porosity. For all macroporous materials, regular features that are
+wasacceleratedbyheatingthesilvercontainingmaterialstorela-
+arranged in a hexagonal lattice are observed. The morphology is
+tivelyhightemperatures.Thestabilityofthesilveristheninvesti-
+ahighlyorderedporestructure,consistingofcageswithintercon-
+gated by measuring the particle size of the supported silver
+necting windows to the nearby cages. Using SEM, the cage and
+particles before and after subjecting the materials to these heat
+windowsizesweremeasured.Thecageandthewindowsizesvary
+treatments.
+permaterial,thecagesizerangesfrom160nmto205andthewin-
+dowsizerangesfrom55to115nm.
+Hydroxylgroupsonthesurfaceofthealumina(acidsites)facil- 3.3.1.Reductiveversusoxidativeatmosphere
+itatetheunwantedcombustionofethyleneoxidetoCO andwater Firstofall,theinfluenceofthegasatmosphereduringtheheat
+2
+andthereforeinfluencetheselectivityofthecatalysts[16,25–27]. treatment on the growth of the silver particles was investigated.
+a
+Theacidityofthe -aluminamaterialswasdeterminedusingtem- The supported silver particles were subjected to heat treatments
+peratureprogrammeddesorption(TPD)ofammonia.Thedesorp- inoxidativeorreductiveatmosphere,astheserepresentconditions
+tion curves and the data fitting used to calculate the surface presentduringoxidationorreductionreactions.Heattreatmentsin
+density of acid sites are given in Supplementary Information, inertatmospherewerenotperformed,asduringcatalystprepara-
+Fig.B2,andanoverviewofthespecificsurfaceareasandthesur- tion, the size of the silver particles obtained in inert atmosphere
+face density of acid sites of the materials are given in Table 1. was in-between those of reductive and oxidative atmosphere.
+Theamountofacidsitespersurfaceareawasverysimilarforall Fig.3showsthesilverparticlesizedistributionsof15Ag40/8Al O
+2 3
+aluminasupportsdiscussedandinlinewithvaluesreportedinlit- beforeandafteranadditionalheattreatmentat200(cid:3)Cor400(cid:3)C,
+erature [53,54], except for the 1 m2 g(cid:1)1 a -alumina. However, it under reductive atmosphere (Frame A) or oxidative atmosphere
+should be noted that in this case the error in the determination (FrameB).FrameCgivesanoverviewofthesurface-averagedsil-
+of the acid density might be much larger than for the other alu- verparticlesizesaftereachheattreatment.
+537
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+Fig.1. IsothermsmeasuredusingN2-physisorption(A)andthecorrespondingscanningelectronmicroscopyimages(B-F)ofthevariousa-aluminamaterials.B:1m2g(cid:1)1a-
+alumina;C:8m2g(cid:1)1a-alumina;D-F:orderedmacroporousa-aluminawithspecificsurfaceareasofcirca30m2g(cid:1)1andnumber-averagedcageandwindowsizesof
+respectively205and115nm(D),165and75nm(E)and160and55nm(F).
+Uponheatingthesupportedsilverparticlesinhydrogen,almost
+Table1
+Overviewofthesurfacedensityofacidsitesona-aluminamaterials,labeledinthe nogrowthwasobservedfortemperaturesupto400(cid:3)C(FramesA
+form SSAAl2O3-WS, with SSA the specific surface area of the a-alumina used as and C, red line). Contrarily, when heated in oxygen atmosphere
+supportmaterial,andWSthenumber-averagedwindowsizeofthea-alumina,if
+(FramesBandC,blueline),thesizeoftheparticlesincreasedsig-
+applicable.
+nificantly.Thisshowsthatoxidizedmetalspeciesarenecessaryfor
+Material Specificsurface Acidsites Acidsitesa mobility of the metal, as was reported in literature before
+area(m2g(cid:1)1) (mmolg(cid:1)1) (nm(cid:1)2)
+[8,29,32,64–66]. In a study on the stability of gold nanoparticles,
+1Al2O3 1 25.6 15 itwasfoundthatanoxidizinggasatmospherewasrequiredtocre-
+8Al2O3 8 55.7 4.2 ate mobile species [66]. Also for silver, the formation of mobile
+30Al2O3-115 33 194 3.6 AgO clustersoccurredinthepresenceofoxygen,andcationicspe-
+30Al2O3-55 31 165 3.2
+cies
+x
+werestabilizedbysurfaceand/orgas-phasespeciesunderoxi-
+a Densityofacidsitescalculatedusingthespecificsurfaceareaofthematerials. dizing conditions [67,68]. This is a strong indication that particle
+growthtakesplaceviatheOstwaldripeningmechanism,andthat
+Fig.2. SEMimagesof15wt%silverparticlessupportedonorderedmacroporousa-alumina(15Ag45/30Al2O3-115,FrameA)andnon-porousa-aluminawithasurfaceareaof
+1m2g(cid:1)1(0.6Ag45/1Al2O3,FrameB)andthecorrespondingUV/Visspectrainblackandgray,respectively(FrameC).
+538
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+Table2
+Overviewofsilverona-aluminamaterials,labeledintheformwt%AgDd/SSAAl2O3-WS,withwt%beingthetheoreticalsilverweightloading,Dtheinitialsurface-averagedsilver
+particlediameter,SSAthespecificsurfaceareaofthea-aluminausedassupportmaterial,andWSthenumber-averagedwindowsizeofthea-alumina,ifapplicable.Forall
+preparedmaterials,thedecompositionofthesilverprecursorduringpreparationwasperformedat215(cid:3)C,atthegascompositionlistedinthesecondcolumn.
+aSurface-averagedparticlesizesandthewidthofthesizedistributions,obtainedviaSEManalysis.Smallvariationsintheexperimentalpreparationparameters,suchasbatch
+size,batchofreactantsandtheuseofdifferentovensledtosomevariationinthesilverparticlesizes.
+Fig.3. Silverparticlesizedistributionsof15Ag40/8Al2O3beforeandafteradditionalheattreatmentsatelevatedtemperaturesinhydrogen(A)oroxygen(B)andthesurface-
+averagedsilverparticlesizeasfunctionoftemperature(C).Thesurface-averagedparticlesizesweredeterminedusingSEM(closedsymbols)andDRUV/Vis(opensymbols).
+themobilespeciesconsistofcomplexedsilvercations[4].Thenat- perature of the thermal treatment. Up to 200 (cid:3)C, the surface-
+ureofthesecationicspeciesisunknown.Densityfunctionaltheory averagedsilverparticlesizewassimilartotheinitialsilverparticle
+(DFT)calculationsshowedthatoncopperparticlesforthemetha- sizeof60nm.Thiswasexpected,astheyhavealreadybeenheated
+nolsynthesisandwatergasshiftreaction,CuCOandCu HCOOare to215(cid:3)Cduringmaterialpreparation.Largedifferencesinparticle
+2
+the main transport species, but literature on the nature of silver growthareobservedathighertemperatures.Whenthesilverpar-
+a
+cations is scarce [69]. Since no significant particle growth was ticlesweresupportedon -aluminawithaspecificsurfaceareaof
+observed in the absence of oxygen, and as for the epoxidation of 1m2g(cid:1)1,theparticlesizeincreasedfrom60tolargerthan200nm,
+ethylene the presence of oxygen is relevant, further heat treat- whileparticlegrowthwasmodestforthesilverparticlessupported
+ments for exploring the thermal stability of the silver particles onthe8m2g(cid:1)1andalmostabsentupto400(cid:3)Cfortheparticleson
+wereperformedunderoxygenatmosphere.
+30m2g(cid:1)1a
+-aluminamaterial.
+Itisknownthatinterparticledistancescanhavealargeinflu-
+3.3.2.Interparticledistanceofsilverparticles enceonparticlestability[41,70].Basedonthepreviousresults,it
+Next,theinfluenceofsupportpropertiesonthethermalstabil- isnotclearwhetherthedifferencesinsilverparticlestabilitywere
+ity of the silver was investigated. An important parameter is the duetosupportpropertiessuchasspecificsurfacearea,morphology
+surface area of the support, which affects also the distance and/orthechemicalnatureofthesurface,orduetotheinterparti-
+between the supported silver particles for a given silver weight cle distance. Hence, the thermal stability of silver on these three
+loadingandparticlesize.Supportedsilverparticleswiththesame support materials was again evaluated, but now with a constant
+a
+initialsilverparticlesizeandweightloadingwerepreparedon - initial average interparticle distance. For the catalysts shown in
+aluminawithspecificsurfaceareasof1,8or30m2g(cid:1)1.Asaresult, Fig. 4, FrameB,thesilver weightloadingwas adjustedaccording
+a
+theestimatedaverageinterparticledistance(edgetoedge)varied to the specific surface area of the -alumina. As the materials
+from 20 to 170 to 390 nm for the 1, 8 and 30 m2 g(cid:1)1 a -alumina hadthesameinitialsurface-averagedparticlesize(45nm)andsil-
+materials,respectively.InFig.4,FrameA,thesurface-averagedsil- versurfacedensity(30at nm(cid:1)2),theyalsohadasimilaraverage
+Ag
+verparticlesizesofthesecatalystsaregivenasfunctionofthetem- interparticledistanceof120nm.Inthiscase,thethermalstability
+539
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+Fig.4. Surface-averagedparticlesizes(obtainedusingDRUV/Visspectroscopy)ofsilversupportedona-aluminawithspecificsurfaceareasof1m2g(cid:1)1,8m2g(cid:1)1or30m2
+g(cid:1)1,afterheattreatmentinoxygenatmosphere.InFrameA,thesilverweightloadingwasconstant(15wt%)whiletheestimatedaverageinitialinterparticledistancevaried
+from20nm(15Ag60/1Al2O3, ),via170nm(15Ag60/8Al2O3, )to390nm(15Ag60/30Al2O3-80,d).InFrameB,theweightloadingofthesilverwasadjustedfrom0.6wt%
+(0.6Ag45/1Al2O3, ),via4.5wt%(4.5Ag45/8Al2O3, )to15wt%(15Ag45/30Al2O3-115,d),toobtainthesameestimatedaverageinitialinterparticledistanceof120nmforall
+threecatalysts.
+ofthesilveronthecatalystswiththesameinterparticledistance hadincreasedtocirca115nmforallthreematerialsaftertheheat
+wasverysimilar.Thisshowsthattheinterparticledistanceisacru- treatment at 400 (cid:3)C. Therefore, the growth of the silver particles
+cialparameterforthestabilityofsupportedsilverparticles. was not restricted by window sizes smaller than the surface-
+Interparticle distance always plays an important role in the averagedparticlesize,aswouldhavebeenexpectedifparticledif-
+growth via particle diffusion and coalescence. However, for the fusionandcoalescencewasthemajormechanismbehindparticle
+Ostwald ripening mechanism, interparticle distance only has an growth.AlthoughOstwaldripeningcanbedescribedandmodelled
+important influence when the diffusion of the mobile metal- quiteaccurately,thisisunfortunatelynotthecaseforparticledif-
+containingspeciesisaratelimitingstepforparticlegrowth,while fusionandcoalescence,asessentialparametersformodellingpar-
+it becomes irrelevantif theformation ofthese mobilespecies, or ticlediffusionareunknown[72].Theunrestrictedparticlegrowth
+theirannihilationbyattachmenttoanothermetalparticle,israte while having different window sizes, combined with the results
+limiting [70,71]. If growth occurs mainly via particle diffusion from the heat treatments where the atmosphere was varied,
+and coalescence, it can beslowed downby restrictingthe move- strongly indicate that Ostwald ripening is the major mechanism
+ment of complete particles [2,41]. In Fig. 4, Frame B, the size of behind the particle growth of silver particles, with diffusion of
+thesilverparticles(45nm)wasrelativelysmallcomparedtothe metal-containing species being the rate determining step for
+size of the windows (105 nm) interconnecting the cages in the growth.
+30m2g(cid:1)1a
+-aluminasupport.Itisexpectedthatthesesmallparti-
+clescouldfreelymovethroughthecagesofthesupportmaterial.
+a 3.5.Ethyleneepoxidation
+Hence, -aluminawithasmallerwindowsizeandsilverparticles
+with a larger initial size were used to restrict the movement of a
+The supported silver catalysts (15 wt% Ag/ -alumina) were
+completeparticles,andthustoinvestigatewhichparticlegrowth
+used in the epoxidation of ethylene. The activities of these cata-
+mechanismwasdominant.
+lysts, with apparent turnover frequencies (TOFs) in the range of
+0.03–0.25mol mol(cid:1)1 s(cid:1)1at180–200(cid:3)C,wereinlinewith
+ethylene Ag,surf
+3.4.Supportporestructureandwindowsize activitiesofsimilarethyleneepoxidationcatalystsdescribedinlit-
+erature[28,52,56,73–75].InFig.6theselectivitytowardsethylene
+a
+InFig.5,silverparticlesizesonthreedifferentmacroporous - oxide versus the conversion of ethylene for silver particles sup-
+a
+aluminasupportmaterialswithvaryingcageandwindowsize(see ported on -alumina with varying surface area is given. The
+Fig. 1, Frames D–F) are shown. The specific surface area of these surface-averaged size of the silver particles ranged from 60 to
+macroporous a -alumina materials was the same (30 m2 g(cid:1)1), as 75 nm. Particle size effects were not expected in this size range
+werethesilverweightloading(15wt%)andinitialsilverparticle [17]. The interparticle distances between the silver nanoparticles
+size (60 nm). Therefore, also the interparticle distance for these hadnoinfluenceontheactivityofthecatalysts(seeSupplemen-
+three materials was similar. The only difference was the size of taryInformation,Fig.C1).Allcatalystsshowedadecreaseinselec-
+a
+thecagesandwindowsofthe -aluminasupport,withthewindow tivity for higher conversion levels, as is also described and
+sizerangingfrom115nmto55nm.FramesAandBshowthepar- explained in previous studies [25,76–78]. The overall selectivity
+a
+ticle size distributions after preparation (Frame A) and after an is highest for silver supported on the lowest surface area -
+additional heat treatment at 400 (cid:3)C (Frame B). Frame C shows alumina(1m2g(cid:1)1),withaselectivitybetween30and60%,upto
+the surface-averaged silver particle sizes versus the window size aconversionof4%.Theseobtainedselectivitiesareinaccordance
+ofthesupport,beforeandaftertheadditionalheattreatment. withliteratureonunpromotedsilvercatalysts,whereselectivities
+a
+For the silver particles supported on the macroporous - between30and40%arereported[19,24,79–81].Uponincreasing
+alumina with window sizes of 75 or 115 nm, the surface- thesurfaceareaofthe a -aluminato8or30m2g(cid:1)1,theselectivities
+averaged sizes of the initial silver particles are smaller than the ofthecatalystsslightlydecreased,asresultofthelargergravimet-
+a
+windowsizesofthesupport,whereasforthe -aluminawithwin- ric density of acid sites present on the support materials with
+dowsizeof55nm,theinitialsurface-averagedparticlesizeislar- higher specific surface areas (see Table 1). This is in agreement
+gerthanthewindowsize.Thesurface-averagedsilverparticlesize withtheory,asthecompletecombustionoftheproduct,ethylene
+540
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+Fig.5. Silverparticlesizedistributionsof15Ag70/30Al2O3-55(darkblue),15Ag60/30Al2O3-75(lightblue),15Ag60/30Al2O3-115(pink)before(A)andaftertheadditional
+heattreatmentsat400(cid:3)Cinoxygenatmosphere(B)andthesurface-averagedparticlesizesbefore(.)andafterheattreatment(▲)asfunctionofthewindowsizeofthe
+support(C).Thesurface-averagedparticlesizesweredeterminedusingSEM(closedsymbols)andDRUV/Visspectroscopy(opensymbols).(Forinterpretationofthe
+referencestocolourinthisfigurelegend,thereaderisreferredtothewebversionofthisarticle.)
+Fig.7. Conversionofethyleneintheepoxidationofethyleneversusthetimeon
+Fig.6. Selectivitytoethyleneoxideversustheethyleneconversionforaselectionof
+streamforaselectionofcatalysts(25mgcatalystused,15wt%Ag)usingagasflow
+c h o 1 a b 5 e t l t A a i a u g l i y m n 7 s e 0 t ) d / s 3 a ( o t 0 2 v A 1 5 e l 8 2 r m 0 O a g 3 o - r r c 5 a a 2 5 n t 0 a g 0 ( l e y (cid:3) s o C t f ) . , u 3 S s 1 5 e e 5 0 e d A – , S 1 g 1 u 6 6 5 p 0 0 p w / 0 l 3 e t 0 L % m A g A e l A (cid:1) 2 n g g O 1 t ) a : 3 h - r 1 (cid:1) 1 y 5 1 1 A I 5 ( n g 7 f 7 o . ( 5 5 r % m /1 ) e a . A t t l h i D 2 o y O i n f l 3 f e , e n F ( r i e e g n ) . a , t C n 1 2 d c 5 o A f 2 n o g .1 r v 7 3 e m 5 r % / s o 8 i o r o A e x n l y 2 s d O g e e 3 w t n a ( e il r i s n e ) . r ( s a a t m ) e a e o n f g d a 3 s 1 5 5 0 fl A o L g w 7 gA (cid:1) 0 r g a 1 /3 t h e 0 (cid:1) A w 1 l2 a ( O 7 s . 3 u 5 - s % 1 e 1 d e 5 th t ( w yl i e ) c . n e A , e t w a e i n v t d h er 2 a y . n 1 t 3 e in m % te p o r e x v r y a a g l t e u o n r f e i 1 n ( 0 1 h 8 h e 0 . l , iu 1 m 90 ): a 1 n 5 d A 2 g 0 7 0 5/ (cid:3) 1 C A ), l2 t O he 3
+Table3
+oxide,isfacilitatedbyhydroxylgroupsonthesurfaceofthesup-
+Overviewofthesurface-averagedparticlesizeobtainedusingSEMofsupportedsilver
+portmaterial,whichdecreasestheoverallselectivity[16,25–28]. ofcatalystsusedintheepoxidationofethyleneafter120honstreamat180–200(cid:3)C
+Particlegrowthduringacceleratedagingisnotthesameaspar- (90minat270(cid:3)C)inaflowof350and1600LgA –1 gh(cid:1)1containing7.5%ethyleneand
+ticlegrowthduringtheactualreactionasaresultof,amongothers, 2.13%oxygeninheliumatatmosphericpressure.
+differentconcentrationsofoxidizingandreducingandpotentially Material Silverparticlesizebefore Silverparticlesizeafter
+complexingspecies,andeffectivechargesatthemetalcatalystsur- catalysis(Ø,nm) catalysis(Ø,nm)
+face[42,82–84].Inourcase,onelargedifferencebetweentheheat 15Ag75/1Al2O3 74 160
+treatmentsandthecatalyticreactionswastheatmosphere.Anoxi- 15Ag75/8Al2O3 75 80
+dizingatmospherewasusedduringtheheattreatments,whereas 15Ag60/30Al2O3-115 61 62
+theatmosphereduringcatalysiscontainedbothoxygenandreduc-
+15Ag70/30Al2O3-55 70 72
+ingspecies,suchasethylene.Eventhoughthestabilityofthesilver
+particlesundertheseconditionswasnotevaluatedindepth,some
+conclusions can be drawn from the differences in the surface- of the used catalyst was twice as large as the initial surface-
+averaged silver particle size of the catalysts before and after averaged size. For the catalyst on 8 m2 g(cid:1)1 a -alumina there is a
+120honstream,showninTable3.Fortheparticlesizedistribu- slight indication of some silver particle growth, while the silver
+tionsofthesecatalystsbeforeandaftercatalysis,seeSupplemen- catalysts supported on higher surface area alumina seemed fully
+taryInformation,Fig.D1. stable. Looking in detail at the silver catalyst supported on 1 m2
+Whenconsideringthedifferencesbetweenparticlesizesbefore
+g(cid:1)1a
+-alumina,theparticlegrowthoccursduringthe90mincon-
+andaftercatalysis,thereisonlyonecatalystthatreallystandsout, ditioningstepat270(cid:3)C,asafterthatstepnofurtherdeactivationis
+whichisthecatalystcontainingsilverparticlessupportedon1m2 observeduponcomparingtheactivityofthecatalystafterthecon-
+g(cid:1)1a -alumina,forwhichthesurface-averagedsilverparticlesize ditioning step and after 100 h on stream (see Fig. 7). To further
+541
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+investigatethekineticsofparticlegrowthon1m2g(cid:1)1a
+-alumina physisorption),YuangPiao(NH -TPD),JohandeBoed(UV/Vis,cat-
+3
+duringcatalysis,anditsinfluenceontheactivity,isothermalruns alyticsetup)andJanWillemdeRijk(catalyticsetup)fortechnical
+at 230 (cid:3)C or 250 (cid:3)C without a conditioning step were performed support.
+(see Supplementary Information, Fig. D2). Also at these tempera-
+tures, the particle growth was severe (from 74 nm to circa AppendixA.Supplementarymaterial
+160 nm in both cases, see Supplementary Information, Fig. D3)
+and fast, taking place within the first 10 h of the run and hence Supplementary data to this article can be found online at
+overlappingwiththeactivationperiodofthecatalyst.Thisisinline https://doi.org/10.1016/j.jcat.2021.11.016.
+with the fast observed growth during the heat treatments, when
+silver particles supported on 1 m2 g(cid:1)1 a -alumina with an initial References
+size of 63 nm heated to 300 (cid:3)C grew to about the same size
+(177 nm,15Ag60/1Al O , Fig. 4, FrameA, heatingfrom 200(cid:3)C to [1] C.T.Campbell,Theenergeticsofsupportedmetalnanoparticles:Relationships
+2 3
+300(cid:3)Ctook20min). tosinteringratesandcatalyticactivity,Acc.Chem.Res.46(8)(2013)1712–
+1719,https://doi.org/10.1021/ar3003514.
+Fortheothercatalysts,(almost)nogrowthofthesilverparticles
+[2] E.D.Goodman,J.A.Schwalbe,M.Cargnello,Mechanisticunderstandingandthe
+wasobserved.Firstofall,thelimitedparticlegrowthforobserved rationaldesignofsinter-resistantheterogeneouscatalysts,ACSCatal.7(10)
+in15Ag75/8Al O andthelackofgrowthin15Ag60/30Al O -115 (2017)7156–7173,https://doi.org/10.1021/acscatal.7b01975.
+2 3 2 3 [3] C.H. Bartholomew, R.J. Farrauto, Fundamentals of Industrial Catalytic
+and 15Ag70/30Al O -55 confirms that the deactivation is indeed
+2 3 Processes,seconded.,JohnWiley&Sons,Inc,2005.https://doi.org/10.1002/
+aslowprocess.Additionally,theparticlegrowththatwasobserved 9780471730071.
+aftercatalysisupholdsthetrendsinparticlegrowthobservedupon [4] C.H.Bartholomew,Mechanismsofcatalystdeactivation,Appl.Catal.AGen.
+212(1-2)(2001)17–60,https://doi.org/10.1016/S0926-860X(00)00843-7.
+theacceleratedagingtestsusingheattreatments.Thecatalyststa-
+[5] M.D. Argyle, C.H. Bartholomew, Heterogeneous catalyst deactivation and
+bilityisenhancedsignificantlybymakinguseofhighsurfacearea regeneration: a review, Catalysts. 5 (2015) 145–269, https://doi.org/
+supportmaterialatlimiteddecreaseinselectivity.Thisshowsthe 10.3390/catal5010145.
+a [6] X.E. Verykios, F.P. Stein, R.W. Coughlin, Oxidation of ethylene over silver:
+promise of using -alumina with a high specific surface area as
+adsorption,kinetics,catalyst,Catal.Rev.22(2)(1980)197–234,https://doi.
+supportmaterialintheepoxidationofethylene. org/10.1080/03602458008066534.
+[7] A.J.F. Van Hoof, I.A.W. Filot, H. Friedrich, E.J.M. Hensen, Reversible
+restructuring of silver particles during ethylene Epoxidation, ACS Catal. 8
+4.Conclusions (2018)11794–11800,https://doi.org/10.1021/acscatal.8b03331.
+[8] G.Boskovic,D.Wolf,A.Brückner,M.Baerns,Deactivationofacommercial
+a catalystintheepoxidationofethylenetoethyleneoxide-Basisforaccelerated
+Thethermalstabilityofsilverparticlessupportedon -alumina
+testing, J. Catal. 224 (1) (2004) 187–196, https://doi.org/10.1016/j.
+dependsonthegasatmosphere.Inhydrogen,almostnoincreasein jcat.2004.02.030.
+thesurface-averagedsilverparticlesizewasobservedattempera- [9] T.E.Lefort,ProcessfortheProductionofEthyleneOxide,US1998878A,1931.
+turesupto400(cid:3)C,withparticlegrowthbeingpronouncedinthe [10] M.Mitsuhata,F.Watanabe,T.Kumazawa,F.Watanab,T.Kumazawa,Silver
+CatalystforProductionofEhtyleneOxide,4,368,144,1983.
+presence of oxygen. The interparticle distance was an important [11] L.G.Pinaeva,A.S.Noskov,Prospectsforthedevelopmentofethyleneoxide
+parameterforgrowth,withahighersilverstabilityon a -alumina productioncatalystsandprocesses(Review),Pet.Chem.60(11)(2020)1191–
+1206,https://doi.org/10.1134/S096554412011016X.
+materials with higher specific surface areas, for a given silver
+[12] TechNavio,GlobalEthyleneOxideandEthyleneGlycolMarket2016(cid:1)2020,
+weight loading and initial particle size. Restricting movement of TechNavio:London,UnitedKingdom,2016.
+whole silver particles, by adjusting the support morphology, did [13] C.T.Campbell,M.T.Paffett,Modelstudiesofethyleneepoxidationcatalyzedby
+notslowdownparticlegrowth.Basedontheseobservations,Ost- the Ag(110) surface, Surf. Sci. 139 (2-3) (1984) 396–416, https://doi.org/
+10.1016/0039-6028(84)90059-1.
+wald ripening is presumed to be the dominant particle growth [14] M.Mavrikakis,D.J.Doren,M.A.Barteau,Densityfunctionaltheorycalculations
+mechanism,inwhichcationicsilvercomplexesarethemobilespe- forsimpleoxametallacycles:trendsacrosstheperiodictable,J.Phys.Chem.B
+cies.Giventhattheinterparticledistanceisakeyfactor,thediffu- 102(1998)394–399.
+[15] M.O.Ozbek,I. Onal, R.A. vanSanten, Whysilver is theuniquecatalyst for
+sionofthesecationsilverspeciesisconsideredaratedetermining
+ethylene epoxidation, J. Catal. 284 (2) (2011) 230–235, https://doi.org/
+stepforparticlegrowth.Thesilverparticlessupportedonthedif- 10.1016/j.jcat.2011.08.004.
+ferent a -aluminamaterialswereinvestigatedfor theepoxidation [16] M.O.Özbek,R.A.vanSanten,Themechanismofethyleneepoxidationcatalysis,
+Catal. Lett. 143 (2) (2013) 131–141, https://doi.org/10.1007/s10562-012-
+ofethylene.Ontheonehand,ahighersurfaceareaofthemacrop-
+0957-3.
+a
+orous -aluminamaterialsledtoalimiteddecreaseinselectivity [17] J.E.vandenReijen,S.Kanungo,T.A.J.Welling,M.Versluijs-Helder,T.A.Nijhuis,
+towards ethylene oxide. On the other hand, using a high surface
+K.P.deJong,P.E.deJongh,PreparationandparticlesizeeffectsofAg/a-Al2O3
+catalystsforethyleneepoxidation,J.Catal.356(2017)65–74,https://doi.org/
+area supportprovidedlargerinterparticle distances,and henceis
+10.1016/j.jcat.2017.10.001.
+anexcellentstrategytopreventparticlegrowth.Supportmaterials [18] J.K.Lee,X.E.Verykios,R.Pitchai,Supportandcrystallitesizeeffectsinethylene
+withhighspecificsurfaceareaarethereforeinterestingcandidates oxidation catalysis, Appl. Catal. 50 (1) (1989) 171–188, https://doi.org/
+10.1016/S0166-9834(00)80834-9.
+formorestablecatalystsintheepoxidationofethylene.
+[19] S.N.Goncharova,E.A.Paukshtis,B.S.Bal’zhinimaev,Sizeeffectsinethylene
+oxidationonsilvercatalysts.InfluenceofsupportandCspromoter,Appl.Catal.
+AGen.126(1995)67–84.
+DeclarationofCompetingInterest
+[20] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,S.N.Goncharova,B.S.Bal’zhinimaev,
+XPSstudyofthesizeeffectinetheneepoxidationonsupportedsilvercatalysts,
+Theauthorsdeclarethattheyhavenoknowncompetingfinan- J.Chem.Soc.,FaradayTrans.93(1997)2323–2329,https://doi.org/10.1039/
+cial interests or personal relationships that could have appeared a608414a.
+[21] A.M.Lauritzen,Ethyleneoxidecatalystandprocessforpreparingthecatalyst,
+toinfluencetheworkreportedinthispaper. US4761394, 1988. https://linkinghub.elsevier.com/retrieve/pii/
+0375650585900112.
+[22] R.P. Nielsen, J.H. La Rochelle, Catalyst for production of ethylene oxide,
+Acknowledgements US3962136,1976.
+[23] S. Rebsdat, D. Mayer, Arsenic and arsenic compounds, IARC Monogr. Eval.
+This research was funded by the Netherlands Center for Mul- Carcinog. Risk Chem. Hum. 23 (1980) 39–141, https://doi.org/10.1002/
+14356007.a10_117.
+tiscale Catalytic Energy Conversion (MCEC), an NWO Gravitation
+[24] A.Ayame,Y.Uchida,H.Ono,T.Sato,H.Hayasaka,Epoxidationofetheneover
+programme funded by the Ministry of Education, Culture and silver catalysts supported on crystalline a-alumina carriers, Stud. Surf. Sci.
+Science of the government of the Netherlands and by an NWO- Catal.145(2003)509–510,https://doi.org/10.1016/s0167-2991(03)80283-5.
+[25] O.O.Bernardini,E.A.Cherniak,Heterogeneousisomerizationofethyleneoxide
+Vicigrant(16.130.344).TheauthorswouldliketothankEricHelle-
+to acetaldehyde, Can. J. Chem. 51 (9) (1973) 1371–1377, https://doi.org/
+band (SEM), Hans Meeldijk (SEM), Remco Dalebout (N 2 - 10.1139/v73-205.
+542
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+[26] Y. Hui-Xing, C. Hua, H. De-Gang, The rate constant determination for the [52] M.S.C.Chan,E.Marek,S.A.Scott,J.S.Dennis,Chemicalloopingepoxidation,J.
+isomerizationofethyleneoxidetoacetaldehydebychemicalshocktube,Acta Catal.359(2018)1–7,https://doi.org/10.1016/j.jcat.2017.12.030.
+Chim.Sin.(1989)941–946. [53] M.Nguefack,A.F.Popa,S.Rossignol,C.Kappenstein,Preparationofalumina
+[27] J.K.Lee,X.E.Verykios,R.Pitchai,Supportparticipationinchemistryofethylene throughasol-gelprocess.Synthesis,characterization,thermalevolutionand
+oxidationonsilvercatalysts,Appl.Catal.44(1988)223–237,https://doi.org/ modelofintermediateboehmite,PCCP5(19)(2003)4279–4289,https://doi.
+10.1016/S0166-9834(00)80055-X. org/10.1039/B306170A.
+[28] C.-F.Mao,M.AlbertVannice,Highsurfaceareaa-aluminasIII.Oxidationof [54] W.L.Suchanek,J.M.Garcés,P.F.Fulvio,M.Jaroniec,Hydrothermalsynthesis
+ethylene, ethylene oxide, and acetaldehyde over silver dispersed on high andsurfacecharacteristicsofnovelalphaaluminananosheetswithcontrolled
+surfaceareaa-alumina,Appl.Catal.A,Gen.122(1)(1995)61–76,https://doi. chemicalcomposition,Chem.Mater.22(24)(2010)6564–6574,https://doi.
+org/10.1016/0926-860X(94)00214-2. org/10.1021/cm102158w.
+[29] A.K. Datye, Q. Xu, K.C. Kharas, J.M. McCarty, Particle size distributions in [55] D.L.Perry,HandbookofInorganicCompounds,1995.htps://doi.org/10.1128/
+heterogeneouscatalysts:whatdotheytellusaboutthesinteringmechanism?, AAC.03728-14.
+Catal Today 111 (1-2) (2006) 59–67, https://doi.org/10.1016/j.cattod. [56] J.Lu,J.Bravosuarez,A.Takahashi,M.Haruta,S.Oyama,InsituUV-visstudiesof
+2005.10.013. theeffectofparticlesizeontheepoxidationofethyleneandpropyleneon
+[30] T.W. Hansen, A.T. DeLaRiva, S.R. Challa, A.K. Datye, Sintering of catalytic supportedsilvercatalystswithmolecularoxygen,J.Catal.232(1)(2005)85–
+nanoparticles:particlemigrationorostwaldripening?,AccChem.Res.46(8) 95,https://doi.org/10.1016/j.jcat.2005.02.013.
+(2013)1720–1730,https://doi.org/10.1021/ar3002427. [57] S. Linic, M.A. Barteau, Formation of a stable surface oxametallacycle that
+[31] P.Munnik,M.Wolters,A.Gabrielsson,S.D.Pollington,G.Headdock,J.H.Bitter, producesethyleneoxide,J.Am.Chem.Soc.124(2)(2002)310–317,https://
+P.E.deJongh,K.P.deJong,Coppernitrateredispersiontoarriveathighlyactive doi.org/10.1021/ja0118136.
+silica-supportedcoppercatalysts,J.Phys.Chem.C115(30)(2011)14698– [58] M.O.Ozbek,I.Onal,R.A.vanSanten,Effectofsurfaceandoxygencoverageon
+14706,https://doi.org/10.1021/jp111778g. ethyleneepoxidation,Top.Catal.55(11-13)(2012)710–717,https://doi.org/
+[32] P.J.F.Harris,Growthandstructureofsupportedmetalcatalystparticles,Int. 10.1007/s11244-012-9870-7.
+Mater.Rev.40(3)(1995)97–115,https://doi.org/10.1179/imr.1995.40.3.97. [59] V.Amendola,O.M.Bakr,F.Stellacci,Astudyofthesurfaceplasmonresonance
+[33] I.M.Lifshitz,V.V.Slyozov,Thekineticsofprecipitationfromsupersaturated ofsilvernanoparticlesbythediscretedipoleapproximationmethod:effectof
+solidsolutions,J.Phys.Chem.Solids19(1-2)(1961)35–50,https://doi.org/ shape,size,structure,andassembly,Plasmonics5(1)(2010)85–97,https://
+10.1016/0022-3697(61)90054-3. doi.org/10.1007/s11468-009-9120-4.
+[34] C.E.Pompe,D.L.vanUunen,L.I.vanderWal,J.E.S.vanderHoeven,K.P.deJong, [60] A.Liebsch,Surface-plasmondispersionandsizedependenceofMieresonance:
+P.E.deJongh,Stabilityofmesocellularfoamsupportedcoppercatalystsfor silverversussimplemetals,Phys.Rev.B.48(15)(1993)11317–11328,https://
+methanol synthesis, Catal. Today. (2019) 1–11, https://doi.org/10.1016/ doi.org/10.1103/PhysRevB.48.11317.
+j.cattod.2019.01.053. [61] Y.Han,R.Lupitskyy,T.M.Chou,C.M.Stafford,H.Du,S.Sukhishvili,Effectof
+[35] P. Wynblatt, N.A. Gjostein, Particle growth in model supported metal oxidation on surface-enhanced Raman scattering activity of silver
+catalysts-I. Theory, Acta Metall. 24 (12) (1976) 1165–1174, https://doi.org/ nanoparticles:aquantitativecorrelation,Anal.Chem.83(2011)5873–5880,
+10.1016/0001-6160(76)90034-1. https://doi.org/10.1021/ac2005839.
+[36] S.Hu,W.-X.Li,Influenceofparticlesizedistributiononlifetimeandthermal [62] G.Boskovic,N.Dropka,D.Wolf,A.Brückner,M.Baerns,Deactivationkinetics
+stabilityofOstwaldripeningofsupportedparticles,ChemCatChem10(13) ofAg/Al2O3catalystforethyleneepoxidation,J.Catal.226(2004)334–342,
+(2018)2900–2907,https://doi.org/10.1002/cctc.201800331. https://doi.org/10.1016/j.jcat.2004.06.003.
+[37] X.G. Zhou, W.K. Yuan, Modeling silver catalyst sintering and epoxidation [63] B.Delmon,Characterizationofcatalystdeactivation:industrialandlabaratory
+selectivityevolutioninethyleneoxidation,Chem.Eng.Sci.59(8-9)(2004) timescales,Appl.Catal.15(1985)1–16.
+1723–1731,https://doi.org/10.1016/j.ces.2004.01.028. [64] A.E.B.Presland,G.L.Price,D.L.Trimm,Particlesizeeffectsduringthesintering
+[38] S.H.Joo,J.Y.Park,C.-K.Tsung,Y.Yamada,P.Yang,G.A.Somorjai,Thermally ofsilveroxidationcatalysts,J.Catal.26(1972)313–317.
+stable Pt/mesoporous silica core-shell nanocatalysts for high-temperature [65] W.M.Shen,J.A.Dumesic,C.G.Hill,CriteriaforstableNiparticlesizeunder
+reactions, Nat. Mater. 8 (2) (2009) 126–131, https://doi.org/10.1038/ methanationreactionconditions:nickeltransportandparticlesizegrowthvia
+nmat2329. nickel carbonyl, J. Catal. 68 (1981) 152–165, https://doi.org/10.1016/0021-
+[39] G.Prieto,J.Zecˇevic´,H.Friedrich,K.P.deJong,P.E.deJongh,Towardsstable 9517(81)90048-8.
+catalystsbycontrollingcollectivepropertiesofsupportedmetalnanoparticles, [66] N.Masoud,L.Delannoy,H.Schaink,A.vanderEerden,J.W.deRijk,T.A.G.Silva,
+Nat.Mater.12(1)(2013)34–39,https://doi.org/10.1038/nmat3471. D.Banerjee,J.D.Meeldijk,K.P.deJong,C.Louis,P.E.deJongh,Superiorstability
+[40] m D. es H o a /m n, ac X r . op L o i, ro L u . s Zhan c g -a , lu Y m . i W na ang, fo Z r . Ya e n n , h S a . nc L e iu d , Hi h er y a d r r c o h d ic e a su ll l y fu o ri r z d a e t r io e n d b of ut A a u d / i S e i n O e 2 , c A o C m S pa C re a d tal t . o 7 Au ( / 9 Ti ) O2 (2 c 0 a 1 ta 7 l ) ys 5 ts 59 fo 4 r –5 th 6 e 03 s , ele h c t t t i p v s e :/ h /d y o d i r .o o r g g e / n 1 a 0 t . i 1 o 0 n 21 o / f
+performance, Microporous Mesoporous Mater. 158 (2012) 1–6, https://doi. acscatal.7b0142410.1021/acscatal.7b01424.s001.
+org/10.1016/j.micromeso.2012.03.022. [67] D. Guo, Q. Guo, K. Zheng, E.G. Wang, X. Bao, Initial growth and oxygen
+[41] G. Prieto, M. Shakeri, K.P. de Jong, P.E. de Jongh, Quantitative relationship adsorptionofsilveronAl2O3film,J.Phys.Chem.C111(10)(2007)3981–3985,
+between support porosity and the stability of pore-confined metal https://doi.org/10.1021/jp066842n.
+nanoparticles studied on CuZnO/SiO2 methanol synthesis catalysts, ACS [68] C. Petitto, G. Delahay, A new way for silver alumina catalyst preparation,
+Nano8(3)(2014)2522–2531,https://doi.org/10.1021/nn406119j. Catal. Lett. 142 (4) (2012) 433–438, https://doi.org/10.1007/s10562-012-
+[42] N.Masoud,T.Partsch,K.P.deJong,P.E.deJongh,Thermalstabilityofoxide- 0784-6.
+supportedAunanoparticles,GoldBull.52(2019)105–114. [69] D.B. Rasmussen, T.V.W. Janssens, B. Temel, T. Bligaard, B. Hinnemann, S.
+[43] C.E.Pompe,M.Slagter,P.E.deJongh,K.P.deJong,Impactofheterogeneitiesin Helveg,J.Sehested,TheenergiesofformationandmobilitiesofCusurface
+silica-supportedcoppercatalystsontheirstabilityformethanolsynthesis,J. speciesonCuandZnOinmethanolandwatergasshiftatmospheresstudied
+Catal.365(2018)1–9,https://doi.org/10.1016/j.jcat.2018.06.014. by DFT, J. Catal. 293 (2012) 205–214, https://doi.org/10.1016/j.
+[44] S.Zhang,M.Cargnello,W.Cai,C.B.Murray,G.W.Graham,X.Pan,Revealing jcat.2012.07.001.
+particlegrowthmechanismsbycombininghigh-surface-areacatalystsmade [70] P. Munnik, M.E.Z. Velthoen, P.E. deJongh, K.P. deJong, C.J. Gommes,
+with monodisperse particles and electron microscopy conducted at Nanoparticle growth in supported nickel catalysts during methanation
+atmosphericpressure,J.Catal.337(2016)240–247,https://doi.org/10.1016/ reaction - larger is better, Angew. Chemie. 126 (36) (2014) 9647–9651,
+j.jcat.2016.02.020. https://doi.org/10.1002/ange.201404103.
+[45] E.Ruckenstein,S.H.Lee,ThebehaviorofmodelAg/Al2O3catalystsinvarious [71] R. Ouyang, J.-X. Liu, W.-X. Li, Atomistic theory of ostwald ripening and
+chemicalenvironments,J.Catal.109(1988)100–119,https://doi.org/10.1016/ disintegrationofsupportedmetalparticlesunderreactionconditions,J.Am.
+0021-9517(88)90188-1. Chem.Soc.135(5)(2013)1760–1771,https://doi.org/10.1021/ja3087054.
+[46] M.Bowker,Effectsofsinteringontheactivesitedistributiononpromoted [72] G.Prieto,J.D.Meeldijk,K.P.DeJong,P.E.DeJongh,Interplaybetweenporesize
+catalysts,Appl.Catal.45(1)(1988)115–130,https://doi.org/10.1016/S0166- andnanoparticlespatialdistribution:consequencesforthestabilityofCuZn/
+9834(00)82397-0. SiO2methanolsynthesiscatalysts,J.Catal.303(2013)31–40,https://doi.org/
+[47] T.Zambelli,J.V.Barth,J.Wintterlin,FormationmechanismoftheO-induced 10.1016/j.jcat.2013.02.023.
+added-rowreconstructiononAg(110):alow-temperatureSTMstudy,Phys. [73] S.R.Seyedmonir,J.K.Plischke,M.A.Vannice,H.W.Young,Ethyleneoxidation
+Rev.B–Condens.MatterMater.Phys.58(19)(1998)12663–12666,https:// oversmallsilvercrystallites,J.Catal.123(2)(1990)534–549,https://doi.org/
+doi.org/10.1103/PhysRevB.58.12663. 10.1016/0021-9517(90)90149-E.
+[48] S.R. Seyedmonir, D.E. Strohmayer, G.J. Guskey, G.L. Geoffroy, M.A. Vannice, [74] W.E.Evans,P.I.Chipman,Processforoperatingtheepoxidationofethylene,
+Characterization of supported silver catalysts. III. Effects of support, WO2001096324A2,2001.
+pretreatment,andgaseousenvironmentonthedispersionofAg,J.Catal.93 [75] S.T. Oyama, Mechanisms in Homogeneous and Heterogeneous Epoxidation
+(1985)288–302,https://doi.org/10.1016/0021-9517(85)90176-9. Catalysis,firsted.,ElsevierB.V,2008.
+[49] A.J.F.vanHoof,R.C.J.vanderPoll,H.Friedrich,E.J.M.Hensen,Dynamicsof [76] R.E. Kenson, M. Lapkin, Kinetics and mechanism of ethylene oxidation.
+silverparticlesduringethyleneepoxidation,Appl.Catal.BEnviron.272(2020) Reactionsofethyleneandethyleneoxideonasilvercatalyst,J.Phys.Chem.
+118983,https://doi.org/10.1016/j.apcatb.2020.118983. 74(7)(1970)1493–1502.
+[50] J.E. van den Reijen, P.H. Keijzer, P.E. de Jongh, Pore structure stabilization [77] J.E.vandenReijen,W.C.Versluis,S.Kanungo,M.F.d’Angelo,K.P.deJong,P.E.
+during the preparation of single phase ordered macroporous a-alumina, deJongh,Fromqualitativetoquantitativeunderstandingofsupporteffectson
+Materialia.4(2018)423–430,https://doi.org/10.1016/j.mtla.2018.10.016. the selectivity in silver catalyzed ethylene epoxidation, Catal. Today 338
+[51] M.Matusz,ProcessforPreparingEthyleneOxideCatalysts,1998. (2019)31–39,https://doi.org/10.1016/j.cattod.2019.04.049.
+543
+
+P.H.Keijzer,J.E.vandenReijen,C.J.Keijzeretal. JournalofCatalysis405(2022)534–544
+[78] J.H.Miller,A.Joshi,X.Li,A.Bhan,Catalyticdegradationofethyleneoxideover [82] A.R.Fiorucci,L.M.Saran,É.T.G.Cavalheiro,E.A.Neves,Thermalstabilityand
+Ag/a-Al2O3, J. Catal. 389 (2020) 714–720, https://doi.org/10.1016/j. bonding in the silver complexes of ethylenediaminetetraacetic acid,
+jcat.2020.07.008. Thermochim Acta 356 (1-2) (2000) 71–78, https://doi.org/10.1016/S0040-
+[79] J. JANKOWIAK, M. BARTEAU, Ethylene epoxidation over silver and copper- 6031(00)00478-0.
+silverbimetalliccatalysts:II.CsandClpromotion,J.Catal.236(2)(2005)379– [83] P.Petit,D.Salem,M.He,M.Paillet,R.Parret,J.-L.Sauvajol,A.Zahab,Studyof
+386,https://doi.org/10.1016/j.jcat.2005.10.017. thethermalstabilityofsupportedcatalyticnanoparticlesforthegrowthof
+[80] J.C.Dellamorte,J.Lauterbach,M.A.Barteau,RheniumpromotionofAgandCu- single-walled carbon nanotubes with narrow diameter distribution by
+Agbimetalliccatalystsforethyleneepoxidation,Catal.Today120(2)(2007) chemical vapor deposition of methane, J. Phys. Chem. C 116 (45) (2012)
+182–185,https://doi.org/10.1016/j.cattod.2006.07.051. 24123–24129,https://doi.org/10.1021/jp307618h.
+[81] J.Jankowiak,M.Barteau,Ethyleneepoxidationoversilverandcopper-silver [84] D.L.Trimm,Thermalstabilityofcatalystsupports,Stud.Surf.Sci.Catal.68
+bimetalliccatalysts:I.Kineticsandselectivity,J.Catal.236(2)(2005)366–378, (1991)29–51,https://doi.org/10.1016/S0167-2991(08)62619-1.
+https://doi.org/10.1016/j.jcat.2005.10.018.
+544
+

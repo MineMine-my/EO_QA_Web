@@ -1,0 +1,152 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "483-570K"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "483-570K"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.5-5"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "500 mg"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "800 cm2/g"
+    },
+    {
+        "start_node": "单点模型",
+        "relationship": "适用于",
+        "end_node": "筛选"
+    },
+    {
+        "start_node": "双点模型",
+        "relationship": "捕获",
+        "end_node": "精确活性"
+    },
+    {
+        "start_node": "表面氧覆盖度",
+        "relationship": "影响",
+        "end_node": "EO生成"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "延长",
+        "end_node": "氧物种寿命"
+    },
+    {
+        "start_node": "横向相互作用",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "横向相互作用",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "中间体",
+        "end_node": "EO生成"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "中间体",
+        "end_node": "CO2生成"
+    },
+    {
+        "start_node": "核氧物种",
+        "relationship": "活性位点",
+        "end_node": "选择性氧化"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "活性位点",
+        "end_node": "EO生成"
+    },
+    {
+        "start_node": "氧分解",
+        "relationship": "限制",
+        "end_node": "模型精度"
+    },
+    {
+        "start_node": "TAP实验",
+        "relationship": "提供",
+        "end_node": "动力学信息"
+    },
+    {
+        "start_node": "稳态数据",
+        "relationship": "限制",
+        "end_node": "动力学洞察"
+    },
+    {
+        "start_node": "非稳态技术",
+        "relationship": "绕过",
+        "end_node": "稳态限制"
+    }
+]

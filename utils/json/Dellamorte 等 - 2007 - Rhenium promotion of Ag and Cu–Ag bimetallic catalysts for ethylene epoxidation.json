@@ -1,0 +1,187 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "范围",
+        "end_node": "25-100 ppm"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "25 ppm Re",
+        "relationship": "最大",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu-Re-Ag",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re-(Cs-Ag)",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "优于",
+        "end_node": "共浸渍"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "顺序浸渍",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re2O7",
+        "relationship": "阻塞",
+        "end_node": "缺陷位点"
+    },
+    {
+        "start_node": "缺陷位点",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re2O7",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re2O7",
+        "relationship": "均匀化",
+        "end_node": "氧吸附位点"
+    },
+    {
+        "start_node": "氧吸附位点",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "490-571 K"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "固定",
+        "end_node": "1.8%"
+    },
+    {
+        "start_node": "氧反应级数",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re催化剂",
+        "relationship": "稳定",
+        "end_node": "氧反应级数"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "10-11 wt.%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "银前体",
+        "relationship": "是",
+        "end_node": "AgNO3"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "673 K"
+    },
+    {
+        "start_node": "还原温度",
+        "relationship": "范围",
+        "end_node": "573 K"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "是",
+        "end_node": "10%乙烯 10%氧"
+    },
+    {
+        "start_node": "稳态时间",
+        "relationship": "范围",
+        "end_node": "36-48 h"
+    },
+    {
+        "start_node": "DOI",
+        "relationship": "关联",
+        "end_node": "10.1016/j.cattod.2006.07.045"
+    },
+    {
+        "start_node": "发表年份",
+        "relationship": "是",
+        "end_node": "2007"
+    }
+]

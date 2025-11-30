@@ -1,0 +1,97 @@
+[
+    {
+        "start_node": "DMD/MoO3",
+        "relationship": "催化",
+        "end_node": "EPDM环氧化"
+    },
+    {
+        "start_node": "MoO3",
+        "relationship": "提高",
+        "end_node": "环氧化产率"
+    },
+    {
+        "start_node": "MoO3浓度",
+        "relationship": "范围",
+        "end_node": "0.04 g"
+    },
+    {
+        "start_node": "Oxone浓度",
+        "relationship": "范围",
+        "end_node": "0.64 g"
+    },
+    {
+        "start_node": "反应时间",
+        "relationship": "范围",
+        "end_node": "24 h"
+    },
+    {
+        "start_node": "溶剂组成",
+        "relationship": "影响",
+        "end_node": "环氧化产率"
+    },
+    {
+        "start_node": "甲苯/丙酮",
+        "relationship": "提高",
+        "end_node": "环氧化产率"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "导致",
+        "end_node": "交联副反应"
+    },
+    {
+        "start_node": "交联副反应",
+        "relationship": "降低",
+        "end_node": "质量回收率"
+    },
+    {
+        "start_node": "室温反应",
+        "relationship": "抑制",
+        "end_node": "环氧开环"
+    },
+    {
+        "start_node": "DMD",
+        "relationship": "生成",
+        "end_node": "活性氧化剂"
+    },
+    {
+        "start_node": "DMD/MoO3",
+        "relationship": "提高",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "环氧基团",
+        "relationship": "增强",
+        "end_node": "聚合物极性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

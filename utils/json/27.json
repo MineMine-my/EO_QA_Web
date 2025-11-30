@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "抑制",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "抑制",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "Re+Cl",
+        "relationship": "增加",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "Re+Cl",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "AgReO4",
+        "relationship": "形成",
+        "end_node": "新相"
+    },
+    {
+        "start_node": "ReOx",
+        "relationship": "储存",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "AgReO4",
+        "relationship": "储存",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "电负性表面",
+        "relationship": "增加",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "增加",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "减少",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "抑制",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "215°C"
+    },
+    {
+        "start_node": "Re负载量",
+        "relationship": "范围",
+        "end_node": "0-4 at%"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "70-80 nm"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "范围",
+        "end_node": "0-3 ppm"
+    },
+    {
+        "start_node": "工业Re负载",
+        "relationship": "范围",
+        "end_node": "35-900 ppm"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "500°C"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "制备方法",
+        "relationship": "是",
+        "end_node": "顺序浸渍"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "Re7+",
+        "relationship": "催化",
+        "end_node": "脱氧反应"
+    }
+]

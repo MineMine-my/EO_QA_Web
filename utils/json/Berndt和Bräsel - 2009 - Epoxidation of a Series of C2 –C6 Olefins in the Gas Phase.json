@@ -1,0 +1,157 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "250-375°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "0.25-1.0 bar"
+    },
+    {
+        "start_node": "停留时间",
+        "relationship": "范围",
+        "end_node": "8.3-38 ms"
+    },
+    {
+        "start_node": "臭氧",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "选择性",
+        "end_node": "约90%"
+    },
+    {
+        "start_node": "高选择性",
+        "relationship": "保持",
+        "end_node": "完全转化"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "无",
+        "end_node": "连串反应"
+    },
+    {
+        "start_node": "O3效率",
+        "relationship": "依赖",
+        "end_node": "烯烃活性"
+    },
+    {
+        "start_node": "C4-C6烯烃",
+        "relationship": "O3效率",
+        "end_node": ">75%"
+    },
+    {
+        "start_node": "烷基取代",
+        "relationship": "提高",
+        "end_node": "烯烃活性"
+    },
+    {
+        "start_node": "烯烃活性",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高预加热温度",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高预加热温度",
+        "relationship": "抑制",
+        "end_node": "有机硝酸盐"
+    },
+    {
+        "start_node": "有机硝酸盐",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "压力增加",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "压力增加",
+        "relationship": "降低",
+        "end_node": "O3效率"
+    },
+    {
+        "start_node": "氮氧化物",
+        "relationship": "作为",
+        "end_node": "氧化物种"
+    },
+    {
+        "start_node": "NO2",
+        "relationship": "与O3反应",
+        "end_node": "氮氧化物"
+    },
+    {
+        "start_node": "氮氧化物",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "竞争反应",
+        "relationship": "降低",
+        "end_node": "O3效率"
+    },
+    {
+        "start_node": "烯烃含量",
+        "relationship": "提高",
+        "end_node": "O3效率"
+    },
+    {
+        "start_node": "CO2",
+        "relationship": "作为",
+        "end_node": "副产物"
+    },
+    {
+        "start_node": "低活性烯烃",
+        "relationship": "增加",
+        "end_node": "CO2生成"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "工业生产",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "年产量",
+        "end_node": "7-12百万吨"
+    }
+]

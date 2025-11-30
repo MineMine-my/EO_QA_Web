@@ -1,0 +1,132 @@
+[
+    {
+        "start_node": "C-BNNS",
+        "relationship": "优于",
+        "end_node": "Si-BNNS"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "金属自由",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "DOI",
+        "end_node": "10.1016/j.ssc.2018.09.007"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "发表年份",
+        "end_node": "2018"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "活性",
+        "end_node": "高"
+    },
+    {
+        "start_node": "Si-BNNS",
+        "relationship": "活性",
+        "end_node": "低"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "活化能",
+        "end_node": "0.22 eV"
+    },
+    {
+        "start_node": "Si-BNNS",
+        "relationship": "活化能",
+        "end_node": "0.87 eV"
+    },
+    {
+        "start_node": "低活化能",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "N2O",
+        "relationship": "分解",
+        "end_node": "N2+O"
+    },
+    {
+        "start_node": "Oads",
+        "relationship": "形成",
+        "end_node": "乙烯氧中间体"
+    },
+    {
+        "start_node": "乙烯氧中间体",
+        "relationship": "转化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "C掺杂",
+        "relationship": "增强",
+        "end_node": "电荷转移"
+    },
+    {
+        "start_node": "电荷转移",
+        "relationship": "提高",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "适用",
+        "end_node": "低温反应"
+    },
+    {
+        "start_node": "低温反应",
+        "relationship": "范围",
+        "end_node": "室温"
+    },
+    {
+        "start_node": "N2O吸附能",
+        "relationship": "大于",
+        "end_node": "C2H4吸附能"
+    },
+    {
+        "start_node": "Si-BNNS",
+        "relationship": "吸附能",
+        "end_node": "高"
+    },
+    {
+        "start_node": "C-BNNS",
+        "relationship": "选择性",
+        "end_node": "高"
+    }
+]

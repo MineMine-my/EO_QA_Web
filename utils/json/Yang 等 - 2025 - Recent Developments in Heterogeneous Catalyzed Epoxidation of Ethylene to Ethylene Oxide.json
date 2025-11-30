@@ -1,0 +1,187 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "100-1000 nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "10-30 bar"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "作为",
+        "end_node": "载体"
+    },
+    {
+        "start_node": "OMC",
+        "relationship": "是",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "OMC",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "中和",
+        "end_node": "酸位点"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增强",
+        "end_node": "Ag分散"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "抑制",
+        "end_node": "CO2生成"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "促进",
+        "end_node": "氧扩散"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs+Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu+Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs+Cu",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "AgCu合金",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Ag1/α-Al2O3",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Zn1/POM",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Au纳米颗粒",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Cu2O",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CuO",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高比表面积",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "酸位点",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "羟基",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "电催化",
+        "relationship": "生产",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "光催化",
+        "relationship": "生产",
+        "end_node": "环氧乙烷"
+    }
+]

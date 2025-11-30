@@ -1,0 +1,604 @@
+JournalofCatalysis309(2014)453–459
+ContentslistsavailableatScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+Epoxidation of ethylene by anion radicals of a-oxygen on the surface
+of FeZSM-5 zeolite
+⇑ ⇑
+Eugeny V. Starokon , Mikhail V. Parfenov, Larisa V. Pirutko, Igor E. Soshnikov, Gennady I. Panov
+BoreskovInstituteofCatalysis,Novosibirsk630090,Russia
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Thestoichiometricoxidationofethylenebyanionradicalsofa-oxygen,(FeIII(cid:2)O(cid:2)–)a,createdonthesur-
+Received26September2013 faceofnon-modifiedandNa-modifiedFeZSM-5zeolitewasstudiedinthetemperaturerangefrom25
+Revised31October2013 downto(cid:2)60(cid:2)C.Uponextraction,theproductswereidentifiedusingthegaschromatography,gaschro-
+Accepted1November2013
+matography–massspectrometry,andnuclearmagneticresonance.Unliketheoxidationofmethane,the
+reactionC
+2
+H
+4
++Oawasshowntoproceedwithouthydrogenabstractionfromtheethylene(infraredspec-
+troscopydata).ItleadstoOaadditionoverthedoubleC@Cbondyieldingtheethyleneoxide(EO)primary
+Keywords:
+product.SodiummodificationofthezeolitestronglyincreasestheselectivityforEO,whichattains80–
+N2Ooxidant
+84%atthereactiontemperatureof(cid:2)60(cid:2)C.Amuchlowerselectivityatroomtemperaturerelatesmainly
+Ethyleneepoxidation
+toasecondaryreactionofEOwithethyleneleadingtobutyraldehyde.
+Oxygenanionradicals
+a-Oxygen Highepoxidizingselectivityofa-oxygenisdiscussedinrelationtothemechanismofethyleneepoxi-
+Infraredspectroscopy dationonsilvercatalyst.
+Productextraction (cid:3)2013ElsevierInc.Allrightsreserved.
+1.Introduction effortsaimedtoidentifytheepoxidizingoxygenamongtheatomic
+species.
+Theepoxidationofethylenetoethyleneoxide(EO)isoneofthe Asaresultofextensivestudies,twotypesofatomicoxygenspe-
+largest processes in industrial organic chemistry. The world pro- cies denoted as electrophilic, O , and nucleophilic, O , were
+elect nucl
+duction of EO exceeds 15 million tons per year [1]. Therefore, it identifiedonthesurfaceofsilvercatalysts.Theirelectronicstates
+isnowonderthatnumerousworksaredevotedtothemechanism are different [4,8–12]. The nucleophilic species is characterized
+of this important reaction, including a significant number of re- by an O1s binding energy of 528.3eV, whereas the electrophilic
+views[1–6].Theprocessiscarriedoutonsupportedsilvercatalysts one has the binding energy of 530.4eV. The species are reported
+thatarepromotedwithalkalimetaladditives,providingtheselec- toplaydifferentcatalyticroles.Theoxide-likenucleophilicoxygen
+tivity of 90%. All attempts to devise alternative catalytic systems is active in attacking the ethylene CAH bond, thus initiating its
+with the selectivity approaching that of silver were totally completeoxidation.Unlikethat,electrophilicoxygenshowsadis-
+unsuccessful. positiontointeractwithdoubleC@Cbondsleadingtotheforma-
+Theuniqueperformanceofsilverisakindofcatalyticmystery. tion of EO. This disposition is enhanced by the presence of
+Mostauthorsrelateittosomespecificformofsurfaceoxygen.Sev- subsurface (dissolved) oxygen, which draws off electrons from
+eral hypotheses were suggested on the nature of this oxygen, the surface oxygen, thus increasing both its electrophilicity and
+including that of molecular species, which was widely accepted itsselectivity.
+for many years [2,7]. According to this idea, one atom of the ad- At present, a key role of electrophilic oxygen in the ethylene
+sorbedO moleculeaddstotheC@CbondyieldingEO,whilethe epoxidationisacceptedbymanyauthors.However,thelackofdi-
+2
+other one is consumed for the process of complete oxidation of rectexperimentalevidencegivesalsoaroomforalternativeideas.
+ethylene.Suchmechanismshouldprovidetheupperlimitofselec- Some researchers think that both the epoxidation and complete
+tivityequalto6/7or85.7%.However,laterthislimitwasexceeded. oxidationofethyleneinvolvethesametypeofoxygen.Thismech-
+Thisdisprovedthemolecularoxygenideaandgaveuptheplaceto anismassumesthatethyleneadsorptionleadstotheformationofa
+commonoxametallacycleintermediate,inwhichoneCatomofthe
+adsorbedmoleculebindstosurfaceoxygenatom,whiletheother
+⇑ bindstosilveratom[13–15].Dependingonthewayofdecomposi-
+Corresponding authors. Address: Boreskov Institute of Catalysis, Prospect
+AkademikaLavrentieva,5,Novosibirsk630090,Russia.Fax:+73833269600/330 tion, the intermediate may provide both the selective and
+8056. unselective routes of the reaction. The state of oxygen in the
+E-mailaddresses:starokon@catalysis.ru(E.V.Starokon),panov@catalysis.ru(G.I. oxametallacycleisusuallynotconsidered.
+Panov).
+0021-9517/$-seefrontmatter(cid:3)2013ElsevierInc.Allrightsreserved.
+http://dx.doi.org/10.1016/j.jcat.2013.11.001
+
+454 E.V.Starokonetal./JournalofCatalysis309(2014)453–459
+Besides O and O , possible involvement of other oxygen Highpuritynitrousoxide(medicalquality)andethylene(poly-
+elect nucl
+species like anion radicals O(cid:2)– and AgAOAO(cid:2)– is discussed [16– merizationquality)wereusedinthework.Insomeexperiments,
+19]. Thus, the nature of epoxidizing oxygen remains a subject of EO,acetaldehyde(AA),andbutyraldehyde(BA)purchasedfromAl-
+debatesandneedsfurtherstudies. drichwereemployed.
+Inthisconnection,theso-calleda-oxygen,Oa,whichrepresents
+anionradicalsO(cid:2)–boundtoiron,(FeIIIAO(cid:2)–)a,isofsignificantinter-
+est. a-Oxygen is generated by special iron complexes (FeII)a 2.2.Experimentsinavacuumsetup
+strongly stabilized in the micropore space of FeZSM-5 zeolite
+(a-sites).Thebivalentironconstitutinga-sitesisnotoxidizedby Thedepositionofa-oxygen,itsreactionwithethylene,andthe
+O
+2
+, but is readily oxidized by endothermic molecules of N
+2
+O temperature-programmeddesorption(TPD)ofOawerecarriedout
+(DH0
+f;298
+=19.5kcal/mol) to produce Oa [20–24]. Due to a paired inastaticvacuumsetup(10(cid:2)7Torr)describedindetailelsewhere
+arrangement, a-sites may be considered as binuclear complexes, [42]. The setup was equipped with absolute pressure gauges
+everyironsiteofwhichfunctionsindependently[20,22]: (0.002–100Torr)andamassspectrometerPPTResidualGasAna-
+(cid:2) (cid:3) (cid:2) (cid:3) lyzer(MKSInstruments).Azeolitesample(0.1g)wasloadedinto
+FeII þN 2 O! FeIII(cid:2)O(cid:2)(cid:2) þN 2 ð1Þ aquartzmicroreactor(6.5cm3),whichcaneasilybeisolatedfrom
+a a
+therestreactionvolumeof720cm3capacity.Thesamplewassub-
+a-Oxygenisthermallystableupto300(cid:2)C,athighertemperatureit
+jectedtoastandardpretreatmentthatincludedalternateheating
+recombinesanddesorbsintothegasphaseasO 2 .Thepropertiesof at 550(cid:2)C in vacuum and in oxygen at 2Torr pressure. Such pre-
+a-oxygenwerestudiedinmanyexperimentalandtheoreticalworks
+treatmentprovidescarefulremovalofwaterandorganic impuri-
+[25–32]anddiscussedinsomereviews[22,33].SimilartoO(cid:2)–radi-
+tiesfromthesurfaceaswellasensurescompleteO oxidationof
+2
+cals on metal oxides [34,35], a-oxygen has a very high reactivity, the iron not constituting a-sites. The latter point is essential for
+whichallowsittoreactwithmethaneatahighrateat(cid:2)50(cid:2)C[36]. reliable measurement of the a-site concentration, which was
+Largenumberofa-sitesand,accordingly,highconcentrationof determined from the maximum amount of a-oxygen deposited
+a-oxygen,C (Oa) ,arearemarkablefeatureofFeZSM-5zeolites.The onthesamplebyreaction(1).
+v o a rd lu e e rs o o f f C m (Oa a ) g m ni a tu y d r e ea h c i h gh u e p r t a o s 1 c 0 o 0 m l p m ar o e l d /g to [3 O 7] (cid:2)– ,w co h n ic c h en i t s ra b t y io t n hr o e n e 230 T (cid:2) h C e ( O 1 a 5m de in p ) os w it i i t o h n in w it a i s al p p e r r e fo ss r u m r e e d 0. b 6 y To N r 2 r O . P d ro e c c e o d m u p re o s sit fo io r n th a e t
+theknownsystemslikeMoO 3 /SiO 2 ,V 2 O 5 /SiO 2 ,andMgO[34].This measurementofC (Oa) aredescribedin[27,42].Inthepresentwork,
+makesitpossibletostudyindetailthechemistryofa-oxygenin
+we used mainly two methods based on (i) the amount of N
+2
+relation to various substrates, using in particular extraction of evolved (Eq. (1)) and (ii) the equilibrium isotopic composition of
+thesurfaceproductsfortheirfurtheranalysis[37–39].Thus,room dioxygen at the exchange 18O
+2
+/16Oa. Both methods give close
+temperature oxidation of methane, ethane, benzene and other results and are not destructive, so that a-oxygen can be used in
+hydrocarbonsbya-oxygenwasshowntoyieldrespectivehydrox-
+furtherexperimentswithethylene.
+ylatedproducts.OtherformsofoxygenontheFeZSM-5surfaceare The concentration of a-sites on the FeZSM-5 sample was
+inertatthislowtemperatureandexertnoeffectontheresults. 6.0(cid:3)1019sites/g (100lmol/g) and that on the Na-FeZSM-5
+The present work is the first attempt to use a-oxygen for the sample was 3.5(cid:3)1019sites/g (58lmol/g). In TPD experiments,
+oxidationofethylene.SinceanionradicalsO(cid:2)–haveapronounced
+Oa evolves into the gas phase as a single O
+2
+peak (see Fig. S1).
+electron affinity [32,40], a-oxygen can be considered as a conve- For both samples, the amount of dioxygen evolved corresponds
+nientmodelofelectrophilicoxygen.Abilityorinabilityof a-oxy- tothenumberofa-sites.
+gen to form EO may give new arguments for a long-term ThereactionC
+2
+H
+4
++Oawasstudiedoverthetemperaturerange
+discussiononthenatureofoxygenthatepoxidizesethyleneonsil- of(cid:2)60to+25(cid:2)Catdifferentpressuresofethylene(P ).Experi-
+C2H4
+vercatalyst. mentswereconductedinthefollowingway.Aspecifiedamountof
+ethylenewasadmittedintoreactionvolumeattheclosedreactor.
+2.Experimental The time of reactor opening served as the onset of reaction. The
+reactiontimeof3minwaschosenasastandardconditionbecause
+2.1.Materials extensionofthetimedecreasestheamountofextractedproducts
+duetotheirsecondarytransformations.After3min,theethylene
+A part ofexperimentswas carried out withaFeZSM-5 zeolite wasevacuatedfor2minat25(cid:2)Corfor5minat(cid:2)20(cid:2)C.
+containing 2.0wt.% Fe, which is similar to the zeolite employed
+in recent studies of the reaction CH
+4
++Oa [37,41]. A sample was
+synthesized by introducing iron into initial HZSM-5 zeolite (Si/ 2.3.Infraredspectra
+Al=11.5,C <0.04wt.%)byincipientwetnessimpregnationwith
+Na
+aFeCl solution.Toprovideanincreasedconcentrationofa-sites, Forrecordingtheinfrared(IR)spectra,thezeolitesamplewas
+3
+afterheatingat550(cid:2)Cinair,thesamplewasactivatedbycalcina- placed in a specially designed IR reactor cell. The cell was made
+tioninvacuumat900(cid:2)C. ofquartz,whichprovidesaconvenientpossibilityforperforming
+Themajorpartofexperimentswasperformedwiththemodi- high-temperaturetreatmentsofthesample.Thecellhasaflange
+fied Na-FeZSM-5 sample. To introduce sodium (0.2wt.% Na), the for connecting it withthe vacuum setup to reproduce conditions
+activatedFeZSM-5zeolitewassubjectedtotheionexchangeusing ofexperimentsconductedinthemicroreactor.Afterexperiments,
+a NaNO solution followed by drying and heating in vacuum at thereactorcellwasclosedandtransferredtotheIRspectrometer.
+3
+550(cid:2)C. IRspectrawererecordedatroomtemperatureonaShimadzu
+TextureparametersoftheactivatedFeZSM-5sampletestedby 8300 Fourier spectrometer in the region of 2200–6000cm(cid:2)1 at a
+thelow-temperatureN adsorptionaretypicaloftheZSM-5struc- resolution of 4cm(cid:2)1. The region of lower frequencies was not
+2
+ture: The micropore and total pore volumes are 0.150 and informative because of a strong proper IR absorption of quartz.
+0.210cm3/g, respectively, and the total surface area is 350m2/g. The spectra accumulated from 100 scans were converted from
+TheintroductionofNacausedonlyminorchangesintheparame- reflection scale to the Kubelka–Munk-F(R) scale, F(R)=(1(cid:2)R)2/
+ters. High crystallinity of the samples and the absence of foreign 2R, and normalized to the intensity of absorption band
+phasesareevidencedbytheX-raydiffraction. 2260cm(cid:2)1(vibrationsofthezeoliteSiAOASifragment).
+
+E.V.Starokonetal./JournalofCatalysis309(2014)453–459 455
+2.4.Productextractionandanalysis secondarytransformationstakingplaceonacidsitesavailableon
+the FeZSM-5 surface [38]. Besides the well known isomerization
+In this work, we used an extraction procedure similar to that of EO to AA [43], the transformation may include also the
+describedforthecaseofmethaneoxidationbya-oxygen[41].To formation of polymeric compounds that are not extracted from
+minimize secondary reactions, a brief version of the procedure thesurface.Tosuppressthesecondarytransformations,wemodi-
+wasused.Afterterminationofthereactionandevacuationofeth- fiedtheFeZSM-5zeolitebysodium.Indeed,theresultingNa-FeZ-
+yleneasdescribedabove,thesamplewasrapidlypouredfromthe SM-5 sample shows a much better performance (exp. no. 3):
+reactortoavialwiththeextractant.Thevialwasclosedandsha- selectivity for EO increased to 19%, while selectivity for AA de-
+kenfor1.5minandthenplacedinacentrifugefor30stoseparate creased to 4.5%. The formation of a new compound, i.e. BA, with
+the catalyst. In the absence of catalyst, the composition of ex- the selectivity of 71% was observed. Strong increase in the total
+tractedproductsdidnotchange. yieldofproducts(from3.5%to72%)alsotookplace.
+Forextraction, we used acetonitrile containing10vol.% water, Taking into account these favorable alterations, all further
+whichwasshowntobeanoptimalextractant.Toidentifytheex- experimentswerecarriedoutwiththeNa-FeZSM-5sample.
+tractedproducts,severaltechniqueswereused.Thegaschromato-
+graphic (GC) analysis was performed with a Kristall 2000M 3.2.TheformationofBA
+instrumentequippedwithanautomaticliquidsamplerandacap-
+illarycolumnHPPlotUdesignedforlow-boilingoxygen-contain- So,thedatalistedinTable1allowassumingthatEOistheonly
+ing organic substances. The gas chromatography–mass primary product that resulted from the interaction of ethylene
+spectrometric(GC–MS)analysiswasperformedwithAgilentTech- witha-oxygen:
+nologies 7000 GC/MS Triple Quad, GC System 7890A equipped
+with Column HP-5MS. The 1H spectra of nuclear magnetic reso- C 2 H 4 þðOÞ a !ðC 2 H 4 OÞ a ð2Þ
+nance (NMR) were recorded at 400.13MHz on a Bruker Avance-
+UnliketheisomerizationtoAA,asecondarytransformationofEOto
+400 NMR spectrometer. For the calculation of 1H chemical shift,
+BAisaratherunusualreaction,whichneedsspecialconsideration.
+the resonance of CHD group provided by a CHD CN impurity in
+2 2 Supposedly,thisreactionmayproceedaccordingtooneofthefol-
+acetonitrile-d wastakenequalto1.94ppm.
+3 lowingequations:
+Resultsoftheanalysiswereusedtocalculatethecomposition
+(selectivity)ofextractedproductsandtheirtotalyieldwithrespect C H O þC H !C H CHO ð3Þ
+2 4 ads: 2 4 3 7 ads:
+toa-oxygen:
+CH CHO þC H !C H CHO ð4Þ
+Amountof productsextractedðlmol=gÞ 3 ads: 2 4 3 7 ads:
+Yield¼
+Amountof a-oxygendepositedðlmol=gÞ Ifthisassumptionistrue,ariseintheethylenepressureshouldin-
+creasetheselectivityforBAanddecreasethatforEOorAA.
+Toverifythispoint,wecarriedoutaseriesofexperimentswith
+3.Resultsanddiscussion broad variation in the initial pressure of ethylene (0.25–10Torr).
+The results are presented in Table 2 and Fig. 1. One can see that
+3.1.Preliminaryexperiments a rise in P is actually accompanied by a significant increase
+C2H4
+in the selectivity for BA, from 38% to 90%. However, the results
+We started the work with the FeZSM-5 sample that was used donotallowonetoconcludewhichsubstrate,i.e.EOorAA,reacts
+earlierintheoxidationofmethanebya-oxygen[37,41].Thereac- with the ethylene. Indeed, as the ethylene pressure increases,
+tionC
+2
+H
+4
++Oawascarriedoutatroomtemperatureandinitialeth- selectivity for both EO and AA decreases: in the first case from
+ylene pressure of 1.0Torr. After opening the microreactor, the 42%to1.5%andinthesecondcasefrom17%to3.0%.
+adsorptionandreactionofethylenewitha-oxygentookplacevir- To resolve this alternative, we conducted additional experi-
+tuallyinstantaneouslywithnofurtherchangeinthepressure.As ments using commercial EO and AA. The following procedure
+showninTable1,someEOisamongtheextractedproducts.How- was employed. After the standard pretreatment, the EO or AA
+ever,itsfractionisquitelow,comprisingonly8.0%.Themainprod- (0.6Torr) was fed to the Na-FeZSM-5 to be promptly and com-
+uctisAAcomprising85%ofthetotalproductamount.Theextract pletely adsorbed by the sample. Then, 1.0Torr of ethylene was
+containsalsosomeotherunidentifiedcompounds,theirsumbeing added. After 3min, the ethylene was evacuated. The results are
+equaltoca.7%.Theformationofthesecompoundsalsoinvolvesa- listed in Table 3. One can see that BA forms only in the case of
+oxygen.Asshownbyablankrun(no.2,Table1),thesecompounds EO+C H (exp.no.1).InthecaseofeitherAA+C H (exp.no.2)
+2 4 2 4
+donotformintheabsenceofOa.Notethattheyieldofoxidation orEOwithoutC
+2
+H
+4
+(exp.no.3),BAisabsent.So,wemayconclude
+productsontheFeZSM-5samplecomprisesonly3.5%ofthedepos- thatBAformsonlybyreaction(3),which,toourknowledge,was
+itedamountofa-oxygen. notreportedpreviouslyintheliterature.
+TheavailabilityofevensmallamountofEOisquiteameaning- It is noteworthy that in all experiments of Table 3, the total
+ful result. It indicates that a-oxygen is capable of adding to the yield of extracted products based on the amount of substrate
+double C@C bond of ethylene. The minor amount of EO and low preadsorbedislessthan100%.Thisindicatestheoccurrenceofside
+total yield of products in experiment no. 1 may be explained by transformationsprovidingcompoundsthatarestronglyboundto
+Table1
+ReactionC2H4+OaonthesurfaceofFeZSM-5andNa-FeZSM-5(0.1g;25(cid:2)C).
+Exp.no. Sample C(Oa),lmol/g PC2H4,Torr Distributionofproductsextracted,mol.% TotalyieldofproductsbasedonOa,%
+EO AA BA Others
+1 FeZSM-5 100 1.0 8.0 85 0.0 7.0 3.5
+2 FeZSM-5 None(blankrun) 1.0 0.0 0.0 0.0 Traces None
+3 Na-FeZSM-5 58 1.0 19 4.5 71 5.5 72
+4 Na-FeZSM-5 None(blankrun) 1.0 0.0 0.0 0.0 Traces None
+
+Table2
+EffectofethylenepressureontheselectivityofC2H4+OareactiononNa-FeZSM-5(0.1g;58lmolOa/g;25(cid:2)C).
+Exp.no. PC2H4,Torr Distributionofproductsextracted,mol.% TotalyieldofproductsbasedonOa,%
+EO AA BA Others
+1 0.25 42 17 38 3.0 24
+2 0.5 24 6.5 66 3.5 45
+3 0.5 22 6.0 68 4.0 48
+4 1.0 19 4.5 71 5.5 74
+5 3.0 4.0 3.5 85 7.5 73
+6 10 1.5 3.0 90 5.5 73
+100
+minimize secondary transformations of EO. It is assumed that in
+BA
+thecaseofsilver,theactivationenergyofepoxidationreactionis
+80
+lowerthanthatofconsecutivesidereactions.Takingintoaccount
+averyhighreactivityofa-oxygen,onemaythinkthatthisassump-
+60
+tionholdstrueforthecaseofethyleneepoxidationonthezeolite
+surface. Having this idea in mind, we conducted a number of
+40
+experimentsinwhichthetemperatureatallsteps(i.e.thatofthe
+20
+reaction C
+2
+H
+4
++Oa; of C
+2
+H
+4
+evacuation; of the sample before its
+pouringintoextractant;andoftheextractantitself)wasdecreased
+AA
+0 EO consecutively.
+TheresultsarelistedinTable4.Inexperimentno.1,allsteps
+0 2 4 6 8 10 12
+were conducted at room temperature, providing only 4.0% of EO
+P , Torr
+C 2 H 4 intheextractionproducts.Inexperimentno.2,thereactiontem-
+perature,evacuationtemperature,andtemperatureofthesample
+beforeextractionweredecreasedto(cid:2)20(cid:2)C.Thisledtoasharpin-
+crease in the EO selectivity, to 35%. In experiment no. 3, the
+extractanttemperaturewasdecreasedfrom25to0(cid:2)C,causingfur-
+the surface. EO enters such transformations most readily. In this thergrowthoftheselectivityto42%.Inexperimentno.4,thereac-
+case(exp.no.3),only11%ofthepreadsorbedEOisrecovered.In tiontemperaturewassetat(cid:2)60(cid:2)Cprovidingtheselectivityof75%.
+the case of AA, the yield is much higher, comprising 78% (exp. Finally, before pouring into the extractant, the sample was also
+no.2). cooled to (cid:2)60(cid:2)C, resulting in some additional positive effect on
+Theseresultsshedlightonthereasonforsubstantialincreasein theselectivity,whichbecame80–84%(exp.nos.5and6).
+thetotalyieldofproducts(from24%to73%)observedinexperi- NotethattheincreaseinselectivityforEOinexperimentsnos.
+mentsnos.1–6ofTable2.Itrelatestothegrowingtransformation 1–6 occurs mainly due to suppression of its secondary reaction
+ofEOintoamorestableBA. withethylene(Eq.(3)).Thisisevidencedbyadecreaseintheselec-
+tivityforBAfrom85%to12–15%.Inallcases,theAAfractionre-
+3.3.Low-temperatureexperiments mainsinsignificant,lessthan5%.
+Loweringthetemperaturedecreasesalsotheamountofuniden-
+InordertoincreasethereactionselectivityonthesurfaceofNa- tifiedproductsfrom7.5%to1.5%,whichpointsoutthattheyalso
+FeZSM-5,wetriedtofindtheexperimentalconditionsthatwould originatefromsecondaryreactionsofEO.
+%
+,noitubirtsid
+tcudorP
+456 E.V.Starokonetal./JournalofCatalysis309(2014)453–459
+Fig.1. Effectofethylenepressureonthedistributionofproductsextractedfromthe
+surfaceofNa-FeZSM-5.
+Table3
+ReactionsofpreadsorbedEOandAAwithethyleneonNa-FeZSM-5(0.1g;25(cid:2)C).
+Exp.no. Reactioncondition Amountofproducts Totalyieldofproductsbasedonthesubstratepreadsorbed,%
+extracted,lmol/g
+Amountofsubstratepreadsorbed Amountofethyleneadded EO AA BA Dioxane
+1 0.6TorrEO(230lmol/g) 1.0Torr(400lmol/g) 10 10 13 5 17
+2 0.6TorrAA(230lmol/g) 1.0Torr(400lmol/g) 0.0 180 0.0 0.0 78
+3 0.6TorrEO(230lmol/g) none 11 10 0.0 5 11
+Table4
+EffectoftemperatureontheselectivityofC2H4+OareactiononNa-FeZSM-5(0.1g;58lmolOa/g;25(cid:2)C;3Torrethylene).
+Exp. Reaction SampletemperatureatC2H4 Sampletemperaturebefore Temperatureof Distributionofproducts Totalyieldofproducts
+no. temperature,(cid:2)C evacuation,(cid:2)C extraction,(cid:2)C extractant,(cid:2)C extracted,mol.% basedonOa,%
+EO AA BA Others
+1 25 25 25 25 4.0 3.5 85 7.5 73
+2 (cid:2)20 (cid:2)20 (cid:2)20 25 35 4.5 53 7.0 39
+3 (cid:2)20 (cid:2)20 (cid:2)20 0.0 42 4.0 48 6.0 42
+4 (cid:2)60 (cid:2)20 (cid:2)20 0.0 75 3.0 19 3.0 35
+5 (cid:2)60 (cid:2)20 (cid:2)60 0.0 80 3.0 15 2.0 38
+6 (cid:2)60 (cid:2)20 (cid:2)60 0.0 84 2.5 12 1.5 41
+
+3.4.IdentificationofproductsbyGC–MSand1HNMR temperature results in decomposition ofthese complexes via the
+hydrogenabstractionsteptoproduceOHgroupsandadsorbedvi-
+Aspecialattentionintheworkwaspaidtoidentificationofthe nylradicals:
+reactionproducts,inparticularEOandBA.Tothisend,inaddition ðC H OÞ (cid:2)(cid:2)!(cid:2)CH¼CH þOH(cid:2) ð6Þ
+toGCanalysis,wealsousedtheGC–MSand1HNMR. 2 4 2
+InordertoidentifyEObytheGC–MS,wereproducedtwicethe Close results were obtained with magnesium oxide [48]. In this
+experimentno.6ofTable4.ThehighconcentrationofEOprovided case,thecontactwithO(cid:2)–immediatelycausesthehydrogenabstrac-
+undertheseconditionsisquitesufficientforitsreliableidentifica- tion from ethylene, without intermediate formation of (C H O)(cid:2)–
+2 4
+tion.Thefirstexperimentwascarriedoutwithanaturalisotopic complexes:
+form of a-oxygen. The resulted product was found to be EO, be-
+causeitsMSsignalsweresimilartothecorrespondingsignalsfrom
+H
+2
+C¼CH
+2
+O(cid:2)(cid:2)!(cid:2)CH¼CH
+2
+þOH(cid:2) ð7Þ
+the database (Fig. S2a). The second experiment was conducted
+Valuable data on the mechanism of surface reactions can be ob-
+with the isotopically labeled a-oxygen. In this case, prior to the
+tainedbyIRspectroscopy.Theapplicationofthisveryinformative
+reaction with C
+2
+H
+4
+, a-oxygen 16Oa was replaced by 18Oa (98%)
+method is frequently limited by its not very high sensitivity. In
+viatheisotopicexchangeat100(cid:2)C[27]: our case, the high concentration of a-oxygen and hence that of
+(cid:4)16O (cid:5) þ18O ! (cid:4)18O (cid:5) þ16O18O ð5Þ the oxidized surface compounds make the application quite
+a 2 a
+convenient.
+The replacement shifted the corresponding MS signals of the TheIRspectrumofNa-FeZSM-5aftertheC
+2
+H
+4
++Oareactionis
+productbytwom/eunits.SuchshiftevidencesthattheEOmole- displayed in Fig. 2 (spectrum 1). The reaction was conducted at
+culescompriseexactlythea-oxygen. (cid:2)60(cid:2)Cwithsubsequentevacuationofethyleneat(cid:2)20(cid:2)C(likein
+TheGC–MSidentificationofBAwasconductedwiththeextract exp.no.4ofTable4).OnecanseethatintheregionofCHvibra-
+obtained by experiment no. 6 of Table 2, which provided a 90% tions (2700–3200cm(cid:2)1), the reaction produces a complicated
+selectivity of the product. The signals of the BA obtained were spectrum,whichtestifiestothepresenceofvarioussurfacegroups.
+identicaltothecorrespondingsignalsfromthedatabase(Fig.S2b). For interpreting the spectrum, we conducted additional experi-
+To prepare reaction products for the NMR analysis, we repro- mentsontheadsorptionofEO,BA,andethylene.(Theadsorption
+ducedtheexperimentsno. 6ofTable4andno.6ofTable2.The conditionsaregiveninFig.S4).Thecollectedspectraarealsode-
+firstexperimentprovideshighselectivityforEO(84%),andthesec- picted in Fig. 2 (spectra 2–4). Avoiding a detailed assignment, it
+ond one– highselectivityfor BA (90%).Inboth experiments, the can be noted that spectrum 1 after the reaction C
+2
+H
+4
++Oa is de-
+extractantwasrepresentedbyamixtureofdeuteratedacetonitrile scribed satisfactorily by a combination of bands recorded upon
+andwater(CD 3 CN+D 2 O).The1HNMRspectra(Figs.S3a-S3c)tes- adsorptionoftheindicatedsubstrates.
+tifysafelythattheresultingproductsareidenticalwithEOandBA. Fig.2showsalsothespectraofNa-FeZSM-5intheregionofOH
+vibrations (3200–4000cm(cid:2)1), which are of special interest in
+3.5.Thereactionmechanism termsof the reaction mechanism. The spectrumof initial sample
+(no. 5) has an intense band 3740cm(cid:2)1 typical of SiAOH silanol
+ThereactionofethylenewithanionradicalsO(cid:2)–hasbeenstud- groups of the zeolite. In this region, there are usually two addi-
+iedinseveralworks.Theseradicalscanresidebothwithinclusters tional bands that are assigned to the bridge zeolite groups of
+of the gas-phase metal oxides that are investigated by the ion SiAOHAAl(3610cm(cid:2)1)andtothegroupsresidingonextra-lattice
+beammassspectrometry[44,45]andonthesurfaceofbulkmetal aluminum atoms, AlAOH (3675cm(cid:2)1) [41,43]. However, in our
+oxidesinvestigatedbytheelectronparamagneticresonance(EPR) case,duetohigh-temperaturecalcinationoftheFeZSM-5sample
+[34,46].Inallcases,O(cid:2)–radicalswereshowntobehighlyreactive and its modification with sodium, these groups are not distinct.
+towardethylene.Quiteadetaileddescriptionofthereactionmech- The main result seen from Fig. 2 is that the initial spectrum in
+anismwasmadeinRef.[47]reportingresultsoftheEPRstudywith the OH region remains virtually unchanged upon various treat-
+MoO
+3
+/SiO
+2
+sample.TheadsorptionofethyleneonMoO
+3
+/SiO
+2
+atthe ments,includingthereactionC
+2
+H
+4
++Oa.Thelatterfactisparticu-
+liquid nitrogen temperature does not lead to its interaction with larly significant. It means that this reaction does not produce
+O(cid:2)–.Thereactionstartsatrisingtemperatureto(cid:2)163(cid:2)C,whichis hydroxy groups and therefore proceeds without abstraction of
+indicated by disappearance of the EPR signal from O(cid:2)–. Instead, hydrogenfrom theethylene. Thisresult distinguishes fundamen-
+there appear some signals attributed to new p- or r-complexes tallythereactionofethylenewitha-oxygenfromthatofmethane.
+(C
+2
+H
+4
+O)(cid:2)–, havingalsotheradicalnature.Furtherelevationofthe The stoichiometric methane reaction CH
+4
++Oa on FeZSM-5 runs
+1
+0.3
+0.2 2
+3
+0.1
+4
+5
+initial
+0.0
+2700 2800 2900 3000 3100 3200
+0492
+BA
+0782 0882
+1792
+6203
+CH + O
+2 4 α
+EO
+CH
+2 4
+6892
+6803
+ν, cm-1 (C-H vibration region)
+)r(
+F
+1.2
+0.9
+0.6
+0.3
+0.0
+3400 3600 3800 4000
+0473
+ν, cm-1 (O-H vibration region)
+)r(
+F
+E.V.Starokonetal./JournalofCatalysis309(2014)453–459 457
+Fig.2. IRspectraofNa-FeZSM-5afterreactionC2H4+Oa(no.1)andafteradsorptionofBA,EO,andethylene(nos.2–4).no.5isaspectrumoftheinitialsample.
+
+IndistinctiontoO(cid:2)–radicalsonoxidesystems,a-oxygenhasa
+1.2 smaller ability toward hydrogen abstraction. It abstracts the
+hydrogenfrom methane(E =104.9kcal/mol) but doesnot ab- C(cid:2)H
+0.9 stract from ethylene (E =111.3kcal/mol). This feature seems
+C(cid:2)H
+tobethekeyprerequisitefortheadditionofa-oxygentothedou-
+0.6 bleC@Cbondofethylene.
+Theresultsobtainedwitha-oxygenmaybeusefulforgettinga
+0.3 betterinsightintosomemechanisticaspectsdiscussedinrelation
+to the ethylene epoxidation on silver catalyst. In particular, the
+0.0 highselectivityofa-oxygencanbeinterpretedasevidenceofelec-
+3400 3600 3800 4000 trophilicnatureoftheepoxidizingoxygenonsilver.
+Acknowledgments
+WethankV.F.UtkinforGC–MSanalysis,S.E.Malykhin,E.P.Tal-
+si,G.M.Zhidomirov,andI.L.Zilberbergforusefuldiscussions.The
+exactlybythehydrogenabstractionmechanismtoproducehydro-
+workwas supportedinpart by RFBR:Project no. 12-03-00063_a,
+xygroupsthatareregisteredbyIRspectroscopy[37,41].Tomake
+andProjectno.12-03-31701young_a.
+surethatthismechanismholdstruealsoforthecaseofmodified
+zeolite,wecarriedoutasimilarexperimentwithmethaneonthe
+Na-FeZSM-5 sample. From Fig. 3, one can see that in the region AppendixA.Supplementarymaterial
+of stretching OH vibrations the reaction CH
+4
++Oa leads to an in-
+tense band at 3675cm(cid:2)1 and a less intense one at 3630cm(cid:2)1. Supplementarydataassociatedwiththisarticlecanbefound,in
+Thetwotypesof(FeIII–OH)agroupsmayrelatewiththetwotypes
+theonlineversion,athttp://dx.doi.org/10.1016/j.jcat.2013.11.001.
+of a-sites differing in iron coordination, as shown by Mössbauer
+data[20].Theassignmentofthesebandstothe(FeIII–OH)agroups
+References
+wassupportedbytheisotopeshiftresultingfromthereplacement
+of16Oaby18Oa[33].Thus,thespectruminFig.3indicatesthatthe
+[1] S.T. Oyama, in: S.T. Oyama, F.W. Bull, V. Tech (Eds.), Mechanisms in
+presenceofNa doesnotchangethemechanism ofCH 4 oxidation Homogeneous and Heterogeneous Epoxidation Catalysis, Elsevier B.V,
+anddoesnotpreventtheobservationof(OH)agroups.Therefore, Amsterdam,2008,pp.3–99.Chapter1.
+[2] R.A.vanSanten,H.P.C.E.Kuipers,Adv.Catal.35(1987)265.
+theabsenceofsuchgroupsinFig.2issafeevidencethattheethyl-
+[3] X.Bao,M.Muhler,T.Schedel-Niedrig,R.Schlögl,Phys.Rev.B54(1996)2249.
+enereactionproceedswithouthydrogenabstraction. [4] V.I.Bukhtiyarov,M.Havecker,V.V.Kaichev,A.Knop-Gericke,R.W.Mayer,R.
+The latter result revealed a distinctive feature of a-oxygen in Schlogl,Phys.Rev.B67(2003)235422.
+comparisonwithO(cid:2)–radicalsontheoxidesystems,i.e.itsweaker [5] K.C.Waugh,M.Hague,in:S.T.Oyama,F.W.Bull,V.Tech(Eds.),Mechanismsin
+Homogeneous and Heterogeneous Epoxidation Catalysis, Elsevier B.V,
+abilitytohydrogenabstraction.Indeed,O(cid:2)–onmetaloxidescanab-
+Amsterdam,2008,p.234.Chapter7.
+stracthydrogenfrombothmethaneand ethylene[34,46,47]. Un- [6] M.O.Özbek,R.A.vanSanten,Catal.Lett.143(2013)131.
+like that, a-oxygen can abstract hydrogen from methane but not [7] P.A.Kilty,W.M.H.Sachtler,Catal.Rev.Sci.Eng.10(1974)1.
+[8] R.B.Grant,R.M.Lambert,J.Catal.92(1985)364.
+from ethylene, adding instead to the ethylene C@C bond. It is
+[9] M.O.Özbek,I.Onal,R.A.vanSanten,J.Catal.284(2011)230.
+worth noticing that a C(cid:2)H binding energy of ethylene is higher [10] V.I.Bukhtiyarov,M.Havecker,V.V.Kaichev,A.Knop-Gericke,R.W.Mayer,R.
+thanthatofmethane(111.3against104.9kcal/mol)[49].Thereac- Schlogl,Catal.Lett.74(2001)121.
+[11] V.I.Bukhtiyarov,A.I.Nizovskii,H.Bluhm,M.Havecker,E.Kleimenov,A.Knop-
+tionofa-oxygenwithbenzene,whichhasevenagreaterbinding
+Gericke,R.Schlogl,J.Catal.238(2006)260.
+energy(113.2kcal/mol),alsoproceedswithouthydrogenabstrac- [12] P.J.VandenHock,E.J.Baerends,R.A.vanSanten,J.Catal.72(1981)364.
+tion[29,32,38]. [13] S.Linic,M.A.Berteau,J.Am.Chem.Soc.124(2002)310.
+Interestingly,thegas-phaseanionradicalsO(cid:2)–exhibitaninter- [14] K.C.Waugh,M.Hague,Catal.Today157(2010)44.
+[15] C.Stegelmann,N.C.Schiødt,C.T.Campbell,P.Stoltze,J.Catal.221(2004)630.
+mediatetypeofchemistrytowardethylene[50].Thelatterradicals [16] E.L.Force,A.T.Bell,J.Catal.38(1975)440.
+canbothaddtotheethylenedoublebondsandabstractthehydro- [17] S.Kagawa,M.Iwamoto,H.Mori,T.Seiyama,J.Phys.Chem.85(1981)434.
+gen leading accordingly to EO (58%) and vinyl radicals H C@C(cid:2)– [18] E.A.Carter,W.A.Goddart,J.Catal.112(1988)80.
+2 [19] E.V.Trushin,I.L.Zilberberg,Chem.Phys.Lett.560(2013)37.
+(29%). [20] K.A.Dubkov,N.S.Ovanesyan,A.A.Shteinman,E.V.Starokon,G.I.Panov,J.Catal.
+207(2002)341.
+[21] L.Kiwi-Minsker,D.A.Bulushev,A.Renken,J.Catal.219(2003)273.
+4.Conclusion [22] G.I.Panov,K.A.Dubkov,E.V.Starokon,Catal.Today117(2006)148.
+[23] G.D.Pirngruber,J.D.Grunwaldt,P.K.Roy,J.A.vanBokhoven,O.V.Safonova,P.
+The stoichiometric reaction of ethylene with a-oxygen repre- Glatzel,Catal.Today126(2007)127.
+[24] E. Berrier, O. Ovsitser, E.V. Kondratenko, M. Schwidder, W. Grünert, A.
+sentedbyelectrophilicspeciesofanionradicalsO(cid:2)–onthesurface
+Brückner,J.Catal.249(2007)67.
+ofFeZSM-5wasstudiedinthework.Thehighconcentrationofa- [25] J.Novakova,Z.Sobalic,Catal.Lett.89(2003)243.
+[26] H.Guesmi,D.Berthomieu,L.Kiwi-Minsker,Catal.Commun.11(2010)1026.
+oxygen makes it possible to register the surface products by IR
+[27] M.V.Parfenov,E.V.Starokon,S.V.Semikolenov,G.I.Panov,J.Catal.263(2009)
+spectroscopyandtoextractthemfromthecatalystforsubsequent 173.
+identificationbytheGC,GC–MSand1HNMRtechniques.Thereac- [28] W.-Z.Liang,A.T.Bell,M.Head-Gordon,A.K.Chakraborty,J.Phys.Chem.B108
+tion C
+2
+H
+4
++Oa was shown to proceed readily both at room and
+[29]
+(
+M
+2
+.
+0
+F
+0
+.
+4
+F
+)
+el
+4
+la
+3
+h
+6
+,
+2
+R
+.
+.A.vanSanten,I.Onal,J.Phys.Chem.C113(2009)15307.
+lowertemperaturesyieldingEOasaprimaryproduct.Experiments [30] S.Malykhin,I.Zilberberg,G.M.Zhidomirov,Chem.Phys.Lett.414(2005)434.
+at(cid:2)60(cid:2)CwiththemodifiedNa-FeZSM-5sampleprovidedtheEO [31] A.Rosa,G.Ricciardi,E.Baerends,J.Inorg.Chem.49(2010)3866.
+selectivityupto80–84%. [32] G.M.Zhidomirov,A.A.Shubin,A.V.Larin,S.E.Malykhin,A.A.Rybakov,in:J.
+Leszczynski, M.K. Shukla (Eds.), Practical Aspects of Computentianal
+AmongsecondarytransformationsofEO(inadditiontoisomer-
+Chemistry I: An Overview of the Last Two Decades and Current Trends,
+ization in AA and formation of polymeric non-extractable prod- Springer Dordrecht, Heidelberg, London, New-York, 2012, pp. 579–643.
+ucts), its earlier unknown reaction with ethylene leading to BA Chapter20.
+[33] G.I.Panov,CATTECH4(2000)18.
+was observed. This reaction dominates at room temperature and
+[34] M.Che,A.Tench,J.Adv.Catal.31(1982)77.
+becomeslessimportantatlowertemperatures. [35] A.M.Volodin,S.E.Malykhin,G.M.Zhidomirov,Kinet.Catal.52(2011)605.
+0363
+5763
+0473
+CH + O
+4 α
+Initial
+)r(
+F
+458 E.V.Starokonetal./JournalofCatalysis309(2014)453–459
+ν, cm-1
+Fig.3. IRspectraofNa-FeZSM-5sampleinOAHvibrationregionbeforeandafter
+CH4+Oareaction.
+
+E.V.Starokonetal./JournalofCatalysis309(2014)453–459 459
+[36] K.A.Dubkov,V.I.Sobolev,E.P.Talsi,M.A.Rodkin,N.H.Watkins,A.A.Shteinman, [43] D.A.Bulushev,E.A.Paukshtis,Y.N.Nogin,B.S.Balzhinimaev,Appl.Catal.A123
+G.I.Panov,J.Mol.Catal.A123(1997)155. (1995)301.
+[37] E.V.Starokon,M.V.Parfenov,S.S.Arzumanov,L.V.Pirutko,A.G.Stepanov,G.I. [44] J.N.Harvey,M.Diefenbach,D.Schröder,H.Schwarz,Int.J.MassSpectrom.182
+Panov,J.Catal.300(2013)47. (183)(1999)85.
+[38] A.S.Kharitonov,G.A.Sheveleva,G.I.Panov,V.I.Sobolev,YeA.Paukshtis,V.N. [45] D.R.Justes,R.Mitric,N.A.Moore,V.Bonacéc-Koutecky,A.W.CastlemenJr.,J.
+Romannikov,Appl.Catal.A98(1993)33. Am.Chem.Soc.125(2003)6289.
+[39] M.A.Rodkin,V.I.Sobolev,N.H.Watkins,G.I.Panov,Stud.Surf.Sci.Catal.130 [46] J.H.Lunsford,Catal.Rev.8(1973)135.
+(2000)875. [47] V.B.Sapozhnikov,V.A.Shvets,N.D.Chuvilkin,V.B.Kazansky,Chem.Phys.Lett.
+[40] T.Berger,O.Diwald,E.Knözinger,F.Napoli,M.Chiesa,E.Giamello,Chem. 37(1976)582.
+Phys.339(2007)138. [48] K.-I.Aika,J.H.Lunsford,J.Phys.Chem.82(1978)1794.
+[41] E.V. Starokon, M.V. Parfenov, L.V. Pirutko, S.I. Abornev, G.I. Panov, J. Phys. [49] D.R.Lide(Ed.),HandbookofChemistryandPhysics,85thEdition,London,New
+Chem.C115(2011)2155. York,2004,p.2656.
+[42] G.I.Panov,E.V.Starokon,L.V.Pirutko,E.A.Paukshtis,V.N.Parmon,J.Catal.254 [50] J.Lee,J.J.Grabowski,Chem.Rev.92(1992)1611.
+(2008)110.
+

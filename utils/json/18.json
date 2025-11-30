@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrTiO3",
+        "relationship": "作为",
+        "end_node": "载体"
+    },
+    {
+        "start_node": "Ag/SrTiO3",
+        "relationship": "具有",
+        "end_node": "最高活性"
+    },
+    {
+        "start_node": "Ag/SrTiO3",
+        "relationship": "具有",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "溶胶凝胶法",
+        "relationship": "用于",
+        "end_node": "载体制备"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    },
+    {
+        "start_node": "载体煅烧温度",
+        "relationship": "范围",
+        "end_node": "673-1073K"
+    },
+    {
+        "start_node": "最佳煅烧温度",
+        "relationship": "为",
+        "end_node": "923K"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "12.5-20 wt%"
+    },
+    {
+        "start_node": "最佳Ag负载量",
+        "relationship": "为",
+        "end_node": "17.2 wt%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "498-563K"
+    },
+    {
+        "start_node": "最佳反应温度",
+        "relationship": "为",
+        "end_node": "548K"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "50-70 nm"
+    },
+    {
+        "start_node": "SrTiO3比表面积",
+        "relationship": "为",
+        "end_node": "1.5 m2/g"
+    },
+    {
+        "start_node": "高煅烧温度",
+        "relationship": "降低",
+        "end_node": "比表面积"
+    },
+    {
+        "start_node": "高煅烧温度",
+        "relationship": "增大",
+        "end_node": "Ag粒径"
+    },
+    {
+        "start_node": "Ag/SrTiO3",
+        "relationship": "具有",
+        "end_node": "高氧吸附"
+    },
+    {
+        "start_node": "高氧吸附",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "金属Ag",
+        "relationship": "促进",
+        "end_node": "环氧化反应"
+    },
+    {
+        "start_node": "Ag2O",
+        "relationship": "降低",
+        "end_node": "环氧化速率"
+    },
+    {
+        "start_node": "高温反应",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "积炭形成",
+        "relationship": "降低",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "Ag/SrTiO3",
+        "relationship": "具有",
+        "end_node": "低积炭"
+    },
+    {
+        "start_node": "Sr原子",
+        "relationship": "增强",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "碱性金属",
+        "relationship": "改善",
+        "end_node": "载体性能"
+    },
+    {
+        "start_node": "Ag/SrTiO3",
+        "relationship": "提供",
+        "end_node": "长期稳定性"
+    },
+    {
+        "start_node": "环氧乙烷产率",
+        "relationship": "为",
+        "end_node": "4.7%"
+    },
+    {
+        "start_node": "环氧乙烷选择性",
+        "relationship": "为",
+        "end_node": "99.12%"
+    }
+]

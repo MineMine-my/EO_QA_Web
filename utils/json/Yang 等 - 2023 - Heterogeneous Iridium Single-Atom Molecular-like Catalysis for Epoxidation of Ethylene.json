@@ -1,0 +1,157 @@
+[
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "选择性",
+        "end_node": "99%"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "活性倍数",
+        "end_node": "7.6倍"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "DOI",
+        "end_node": "10.1021/jacs.2c11380"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "发表年份",
+        "end_node": "2023"
+    },
+    {
+        "start_node": "Ir单原子",
+        "relationship": "形成",
+        "end_node": "π配位结构"
+    },
+    {
+        "start_node": "π配位结构",
+        "relationship": "促进",
+        "end_node": "五元氧金属环"
+    },
+    {
+        "start_node": "五元氧金属环",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "分子氧",
+        "relationship": "吸附",
+        "end_node": "Ir单原子"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "增强",
+        "end_node": "乙烯吸附"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "改变",
+        "end_node": "电子结构"
+    },
+    {
+        "start_node": "Ir单原子",
+        "relationship": "电子转移",
+        "end_node": "乙烯π轨道"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "250°C"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "转化率",
+        "end_node": "76%"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "比表面积",
+        "end_node": "72 m²/g"
+    },
+    {
+        "start_node": "Ir负载量",
+        "relationship": "范围",
+        "end_node": "0.5 wt%"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "粒径",
+        "end_node": "10 nm"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "活化能",
+        "end_node": "29.9 kJ/mol"
+    },
+    {
+        "start_node": "吸附氧",
+        "relationship": "参与",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "分子氧",
+        "relationship": "直接参与",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "促进",
+        "end_node": "氧解离"
+    },
+    {
+        "start_node": "π配位结构",
+        "relationship": "不同于",
+        "end_node": "E-R机理"
+    },
+    {
+        "start_node": "Ir1/α-MnO2",
+        "relationship": "稳定性",
+        "end_node": "24小时"
+    }
+]

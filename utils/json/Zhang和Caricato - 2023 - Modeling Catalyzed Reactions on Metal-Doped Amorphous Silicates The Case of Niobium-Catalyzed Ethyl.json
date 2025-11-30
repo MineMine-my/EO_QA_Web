@@ -1,0 +1,102 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Nb掺杂硅酸盐",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "H2O2吸附",
+        "relationship": "步骤",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "C2H4吸附",
+        "relationship": "步骤",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "过渡态",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "DFT模拟",
+        "relationship": "研究",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "机器学习",
+        "relationship": "识别",
+        "end_node": "描述符"
+    },
+    {
+        "start_node": "活性位点",
+        "relationship": "决定",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "无定形硅酸盐",
+        "relationship": "作为",
+        "end_node": "催化剂载体"
+    },
+    {
+        "start_node": "反应能垒",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "吸附能",
+        "relationship": "影响",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "位点结构",
+        "relationship": "影响",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "口袋体积",
+        "relationship": "影响",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "低能垒",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "BSSE校正",
+        "relationship": "提高",
+        "end_node": "计算精度"
+    }
+]

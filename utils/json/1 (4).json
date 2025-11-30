@@ -1,0 +1,257 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CsRe掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CsCu掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CoCu掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CoCs掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "ReCu掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CuCs掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CuCs掺杂",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cu掺杂",
+        "relationship": "促进",
+        "end_node": "银颗粒生长"
+    },
+    {
+        "start_node": "Cs掺杂",
+        "relationship": "促进",
+        "end_node": "银颗粒分散"
+    },
+    {
+        "start_node": "CuCs掺杂",
+        "relationship": "促进",
+        "end_node": "富晶界银颗粒"
+    },
+    {
+        "start_node": "CuCs掺杂",
+        "relationship": "促进",
+        "end_node": "亲电氧形成"
+    },
+    {
+        "start_node": "CuCs掺杂",
+        "relationship": "促进",
+        "end_node": "环氧乙烷脱附"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "富晶界银颗粒",
+        "relationship": "有益",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230–270°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1–3 MPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "4500 hr⁻¹"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.06–0.12"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50–500 nm"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯浓度增加",
+        "relationship": "提高",
+        "end_node": "生产负荷"
+    },
+    {
+        "start_node": "氧气浓度增加",
+        "relationship": "提高",
+        "end_node": "生产负荷"
+    },
+    {
+        "start_node": "移热介质温度",
+        "relationship": "提高",
+        "end_node": "床层温度"
+    },
+    {
+        "start_node": "空速增大",
+        "relationship": "降低",
+        "end_node": "床层温度"
+    },
+    {
+        "start_node": "原料气入口温度",
+        "relationship": "影响小",
+        "end_node": "反应器性能"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "是",
+        "end_node": "活性氧物种"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "攻击",
+        "end_node": "C=C键"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "攻击",
+        "end_node": "C-H键"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "燃烧",
+        "end_node": "二氧化碳"
+    },
+    {
+        "start_node": "氯掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯掺杂",
+        "relationship": "抑制",
+        "end_node": "非选择性反应"
+    },
+    {
+        "start_node": "氯掺杂",
+        "relationship": "促进",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "载体α-Al2O3",
+        "relationship": "支撑",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "低比表面积载体",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs掺杂",
+        "relationship": "钝化",
+        "end_node": "载体酸性"
+    },
+    {
+        "start_node": "Cs掺杂",
+        "relationship": "降低",
+        "end_node": "氧吸附强度"
+    },
+    {
+        "start_node": "Re掺杂",
+        "relationship": "促进",
+        "end_node": "弱吸附氧"
+    },
+    {
+        "start_node": "CsRe掺杂",
+        "relationship": "协同",
+        "end_node": "提高选择性"
+    },
+    {
+        "start_node": "CuCs掺杂银催化剂",
+        "relationship": "关联",
+        "end_node": "2022年"
+    },
+    {
+        "start_node": "CuCs掺杂银催化剂",
+        "relationship": "关联",
+        "end_node": "北京化工大学"
+    }
+]

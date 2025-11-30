@@ -1,0 +1,690 @@
+Journal of Catalysis 450 (2025) 116206
+Contents lists available at ScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+Research article
+Influence of alkali and chloride promoters on silver catalysts in
+ethylene epoxidation
+Claudia J. Keijzera, Naud M.T. van de Vena, Remco Dalebouta , Tracy L. Lohrb,
+John R. Lockemeyerc, Peter van den Brinkd, Petra E. de Jongha,*
+aMaterials Chemistry and Catalysis, Debye Institute for Nanomaterials Science, Utrecht University, the Netherlands
+bShell Catalysts & Technologies US LP, Houston, TX, USA
+cShell Global Solutions US Inc. Houston, TX, USA
+dShell Global Solutions International, Amsterdam, the Netherlands
+A R T I C L E I N F O A B S T R A C T
+Keywords: Commercial ethylene epoxidation catalysts consist of Ag particles supported with α-alumina and contain a
+Ethylene epoxidation mixture of promoters. High activity catalysts typically contain Cs in combination with other alkali promoters and
+Silver catalysts a gaseous organochloride. We studied a series of Ag catalysts that were individually promoted with different
+A
+Ch
+lk
+lo
+al
+r
+i
+ide
+alkali species (Li, Na, K, Rb and Cs) at equimolar loadings of 2.5 mol% (molalkali/(molalkali +molAg)). O2-TPD
+experiments revealed that the absorption strength of oxygen onto the silver surface was influenced by the
+Ethylene oxide degradation
+presence of the alkali species. Ethylene epoxidation experiments were performed both in the absence and
+presence of the industrially vital ethyl chloride promoter. Without the chloride, the alkali-promoted catalysts
+were less active than the silver reference catalyst and showed a decreased primary ethylene oxide (EO) selec-
+tivity. Introducing ethyl chloride to the feed increased the primary EO selectivity of all catalysts to ca. 80%
+without sacrificing the activity for the alkali-promoted catalysts. Systematic EO isomerization experiments
+revealed that the secondary reactions of EO are inhibited by alkali promoters on the silver surface rather than on
+the support. Larger/less electronegative alkali species such as Rb and Cs inhibited EO degradation to a greater
+extent than Li and Na. However, when ethyl chloride was introduced to the feed the EO conversion of all cat-
+alysts was blocked. This study hence demonstrates how the combination of chloride and alkali promoters affects
+the Ag sites, specifically suppressing both undesired combustion and promoting desired ethylene epoxidation
+when increasing the conversion.
+1. Introduction hydroxyl groups, which is the isomerization of ethylene oxide to acet-
+aldehyde. Acetaldehyde quickly reacts to CO2 and water which is re-
+Ethylene epoxidation is one of the largest petrochemical reactions ported to take place on the Ag surface. To inhibit this isomerization
+worldwide, which is catalyzed by Ag catalysts supported with α-alumina reaction, α-alumina is used since it displays a low amount of hydroxyl
+[1,2]. The desired product, ethylene oxide, is used as chemical building groups (<1–6 nm (cid:0) 2) [7]. EO isomerization was also found to occur on
+block for e.g. ethylene glycol, which is used for the production of the silver surface [8].
+polymers [3]. Silver is the only metal that is active and selective in this Since CO2 is the major side product of ethylene epoxidation (0.2–0.3
+reaction, as it has the optimal binding strength for oxygen and is able to Mt per Mt EO), [3] it is crucial to control the EO selectivity. In industry,
+let ethylene oxide desorb [4]. It is believed that two types of adsorbed several strategies are employed. One strategy is the beforementioned use
+oxygen reside on the silver surface: weakly bound (electrophilic) and of an α-alumina carrier, which limits the secondary isomerization re-
+strongly bound (nucleophilic) oxygen [5,6]. The selective oxidation to action. Another approach is to run the reaction at low conversions,
+ethylene oxide is thought to occur via the electrophilic oxygen, whereas typically below 7–15%, as the EO selectivity inversely depends on
+full oxidation of ethylene to CO2 and water is catalyzed via nucleophilic ethylene conversion [9]. A third strategy involves the use of solid and
+oxygen. A subsequent degradation reaction takes place over the support gaseous promoters. Gaseous organochlorides (e.g. ethyl chloride) are co-
+* Corresponding author.
+E-mail address: P.E.deJongh@uu.nl(P.E. de Jongh).
+https://doi.org/10.1016/j.jcat.2025.116206
+Received 31 January 2025; Received in revised form 14 April 2025; Accepted 5 May 2025
+Available online 8 May 2025
+0021-9517/© 2025 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+fed with the reactants and decompose on the silver surface into chloride transferred to a U-shaped borosilicate reactor and calcined for 2 h at
+species, which have been reported to block oxygen vacant sites, increase 215 ◦C (with a 5 ◦C min (cid:0) 1 ramp) in 50 vol% H2 in N2 (GHSV of 7000
+the ratio of electrophilic oxygen on the silver surface and decrease the h (cid:0) 1).
+amount of nucleophilic oxygen [10]. For silver-only or alkali promoted Alkali deposition was performed with solutions of LiNO3 (>99.99%,
+silver catalysts, this results in an increase in selectivity, while simulta- Sigma-Aldrich), NaNO3 (>99%, Alfa Aesar ACS), KNO3 (≥99.0%, Sigma-
+neously the total activity is decreased [9]. Aldrich), RbNO3 (99.8%, ABCR GmbH), and CsNO3 (99.99%, Sigma-
+Besides gaseous promoters, a combination of solid promoters is used Aldrich) dissolved in MilliQ® water. The Ag/α-Al2O3 catalyst was dried
+to increase the performance of silver catalysts [11]. Industrial catalysts in vacuum for 2 h at room temperature. The impregnation was performed
+coined as ‘High Activity’ typically contain alkali promoters, which from with 0.09 M alkali nitrate solutions, aiming for alkali loadings of 2.5 mol
+a historical perspective were discovered when sub-micrometer Ag par- % compared to Ag which is below the theoretical maximum occupancy of
+ticles had been successfully deposited using a potassium salt during their support surface groups (Supplementary Information Section A). The
+synthesis [9,12]. Despite this discovery, the most commonly studied impregnated catalysts were dried in vacuum for 20 h at room tempera-
+alkali promoter for ethylene epoxidation is Cs [13–19]. The promotional ture, under constant stirring. To decompose the alkali nitrate, the samples
+effect of Cs has had multiple explanations over time. It has been reported were heated in a U-shaped borosilicate reactor for 10 min at 550 ◦C (with
+that Cs limits the secondary reaction of EO, either by blocking α-alumina a 5 ◦C min (cid:0) 1 ramp) in N2 (GHSV of 7 000 h (cid:0) 1). In addition to alkali-
+surface groups [16,20] or isomerization and combustion sites on the Ag promoted Ag catalysts, crushed α-alumina powder was impregnated
+surface [21,22]. Another study reported that Cs was bound to stepped with 0.09 M LiNO3 and CsNO3 (0.45 mL ga -1 lumina) after which similar
+Ag sites and blocked the adsorption of oxygen [19]. DFT studies found drying and decomposition steps were performed.
+that alkali ions induced electric fields on a Ag(111) surface, which sta-
+bilized the transition state for EO due to its favorable dipole orientation
+2.2. Catalyst characterization
+compared to the transition state for acetaldehyde [17,23]. DFT studies
+including the industrially relevant chloride promoter found that CsClxOy
+Scanning electron microscopy (SEM) was performed to determine
+complexes coexisted on a Ag2O(111) surface, limiting the formation of
+the average Ag particle size of the catalysts. A FEI Helios G3 UC mi-
+oxygen vacancies [24], but to our knowledge experimental studies dis-
+croscope was operated at 5 kV and 0.40nA in immersion mode. Samples
+entangling Cs and Cl promotional effects are limited. In addition, studies
+were attached to the SEM holder using double-sided carbon stickers
+combining Re, Cs, and Cl promoters complicate the understanding of the
+(Electron Microscopy Sciences). A 7.5 nm PdPt layer was sputtered onto
+alkali promotional mechanism even further [25–27].
+the powder to create a conductive layer. For each sample, at least 250 Ag
+In this study, we systematically investigated the individual effect of
+particles were measured using ImageJ software. The surface averaged
+all available alkali (Li, Na, K, Rb, and Cs) on the performance of Ag
+particle diameters (dp,s) were calculated using Equation (1), with n the
+catalysts in the ethylene epoxidation reaction in the absence and pres- number of Ag particles and di the diameter of the ith particle.
+ence of the industrially relevant ethyl chloride. O2-TPD revealed that the ∑ √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+s a t l r k e a n li g t p h r o o m f w ot e e a r k s ly w i a t n h d in st c r r o e n a g s l i y n g a d e s l o ec rb tr e o d p o o s x i y ti g v e it n y . w I a n s a a f b f s e e c n te c d e b o y f t t h h e e dp,s ±σ p,s =∑ n i n i = = 1 1 d d 3 i 2 i ± 1 n • ∑ n i=1 (dp,s (cid:0) di )2 (1)
+chloride, Rb and Cs are the least active compared to Li and Na.
+The BET surface area of pure α-alumina and of a Ag catalyst was
+Intriguingly, the activity for Rb and Cs did not change in the presence of
+the chloride, whereas it drastically decreased for Li and Na. Further-
+determined with N2-physisorption on a Micromeritics TriStar 3000 in-
+more, we studied the EO isomerization and combustion reaction without
+strument, by fitting the experimental data between 0.02 and 0.25p/p0.
+Prior to the measurement, the materials were dried overnight in vacuum
+and with the chloride and show the remarkable interplay between the
+chloride and alkali promoters, which is important to consider when
+at 200 ◦C. N2-isotherms are shown in Section B of the Supplementary
+Information.
+investigating the effect of multiple promoters.
+The strength of adsorbed oxygen was determined with temperature
+2. Materials and methods
+programmed desorption of oxygen (O2-TPD) based on a procedure
+described elsewhere [29], using a Micromeritics AutoChem II instru-
+ment. For each measurement, 150 mg sample was loaded between two
+2.1. Synthesis of (alkali-promoted) Ag catalysts
+layers of quartz wool in a U-shaped quartz reactor. First, the sample was
+Alkali-promoted silver catalysts supported on α-alumina were syn- dried in He for 1 h at 120 ◦C with a heating ramp of 10 ◦C min (cid:0) 1. The
+thesized via sequential impregnation. First, silver deposition was per-
+temperature was decreased to room temperature, after which O2
+adsorption was performed while heating the sample to 215 ◦C (with a
+f p o r r o m m e o d t e fo rs ll o w w e i r n e g i a n n tr e o a d r u li c e e r d re . p P o r r i t o e r d t p o r o th ce e d fi ur r e st [ 2 im 8] p , r a e f g te n r a w tio h n ic , h 8 t h m e a 2 lk g a (cid:0) l 1 i heating ramp of 20 ◦C min (cid:0) 1), and an equilibration time of 3 h. The
+α-alumina extrudates (BASF, Al-4196, pore volume of 0.45 mL g (cid:0) 1) were temperature was decreased to 50 ◦C and after a stable baseline was
+crushed and sieved to a fraction <212 μm. o sa b m ta p in le e d to f 5 o 5 r 0 2 ◦ h C , ( t w h i e t h O a 2 h d e e a s t o i r n p g t i r o a n m w p a o s f 1 m 0 o ◦ n C it o m r i e n d (cid:0) 1 w ) h in il e 2 5 h e m at L i n m g i n th (cid:0) e 1
+Silver oxalate was used as Ag precursor, which was synthesized by
+adding an aqueous silver nitrate (≥99.0%, Sigma-Aldrich) solution to an He.
+aqueous solution of oxalic acid (≥99.0%, Sigma-Aldrich) in a 2:1 mol Inductively coupled plasma (ICP) spectroscopy was performed at
+Mikrolab Kolbe (typically ca. 10 mg of sample was sent) to determine
+ratio. Silver oxalate precipitated immediately and was washed three
+times in MilliQ® water and once in ethanol, after which it was dried in the Ag and alkali loadings within the catalysts.
+air at room temperature. Please note that silver oxalate is shock-
+sensitive, and should therefore be handled with great care. For the 2.3. Ethylene epoxidation and ethylene oxide isomerization
+deposition of Ag, the crushed and sieved α-alumina powder was dried in
+vacuum at 200 ◦C for 2 h. Silver oxalate was dissolved in a MilliQ® Prior to testing, the catalysts were sieved to a 90–150 μm sieve
+water/ethylene diamine (99%, Sigma-Aldrich) solution (4:1 mol ratio). fraction. For each experiment, 100 mg of catalyst was diluted with 500
+The dried α-alumina powder was impregnated up to 90% of its pore mg of SiC (212–425 μm), which had been washed in HNO3 (65 %,
+volume with the Ag2C2O4/MilliQ® water/ethylene diamine solution, AnalaR Normapur©, 10 mL g (cid:0) 1) and calcined at 800 ◦C to remove (in)
+aiming for a Ag loading of 15 wt%. The impregnated material was then organic impurities. The SiC-diluted catalyst was loaded in a quartz
+dried in vacuum at room temperature for 20 h, under constant stirring to reactor, with a 4 mm internal diameter, between two layers of quartz
+promote a homogeneous distribution. The dried samples were wool. The experiments were performed at 1 bar, with 7.5 vol% ethylene,
+2
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+7.5 vol% oxygen, and Ethyl Chloride (EC) concentrations ranging from Ethylene oxide isomerization experiments were conducted prior to
+0-1 ppm in balance helium, with a total gas flow of 66 mL min (cid:0) 1. Tests catalysis in absence of EC, and after catalysis when 1 ppm EC was co-fed.
+without EC were performed at 215 ◦C for 25 h, after which the tem- Isomerization experiments were performed at 215 ◦C with 0.15 vol%
+perature was decreased to 175 ◦C with steps of 10 ◦C, and monitoring the ethylene oxide, 0.075 vol% acetaldehyde (Linde HiQ), and 7.5 vol%
+reaction for 10 h per set temperature. Tests with 0.5 to 1 ppm EC were oxygen in balance helium, with a total gas flow of 33 mL min (cid:0) 1.
+performed at 215 ◦C, allowing the catalysts to stabilize at each EC Ethylene oxide conversion was calculated using Equation (5).
+D
+c p o e
+e
+n r
+p
+a c
+e
+t e
+n
+u n
+d
+r t e
+i
+r
+n
+a w
+g
+ti a o
+o
+s n
+n
+v f a o
+t
+r
+h
+r i
+e
+e 2 d 5
+c
+w
+o
+h
+n
+i . t
+v
+h
+e
+W
+r
+s
+s
+i t t
+i
+e
+o
+h p
+n
+s 1 o
+a
+p f
+t
+p 1
+2
+m 0
+1 5
+◦ E C C
+◦ C
+w i n i
+t
+t
+h
+h th
+e
+1 e 0
+te
+f e h
+m
+e p d
+p
+e
+e
+, r
+r
+t
+a
+h s
+t
+e e
+u
+t
+r
+r
+e
+t e e a m
+w
+ct p
+a
+io
+s
+e r n
+e
+a
+i
+t t
+t
+u e
+h
+m r
+e
+e
+r
+- . Conversionethyleneoxide = pethyleneo
+p
+xi
+e
+d
+t
+e
+h
+0
+yl
+(cid:0)
+ene
+p
+o
+e
+x
+t
+i
+h
+d
+y
+e
+l
+0
+eneoxideout×100% (5)
+decreased to 175 ◦C or increased to 255 ◦C to compare the catalysts at The apparent activation energy (Ea) and pre-exponential factor (C)
+similar conversions. Reaction products were monitored with an online were calculated according to the Arrhenius equation (Eq. (6)), assuming
+Interscience Compact GC, equipped with a Porabond Q column and a first order kinetics, with X being either the amount of converted
+Molsieve 5Å column. At room temperature, the reactant concentrations ethylene, formed ethylene oxide or CO2. Arrhenius plots were based on
+in the feed were evaluated to guarantee the feed composition. the average of at least 5 GC datapoints at the same temperature, at
+Ethylene conversion and ethylene oxide selectivity were calculated temperatures ranging from 175-255 ◦C, including only data for which
+using Eqs. (2) and (3), respectively. Average conversions and selectiv- the ethylene conversion was below 25%. ln k was plotted as a function of
+ities were calculated after the catalysts were stabilized at each EC con- 1000/T, and the corresponding slopes were multiplied with R (8.314 J
+centration for ca. 20 h. The carbon mass balance was calculated using K (cid:0) 1 mol (cid:0) 1) to obtain the apparent Ea. C was calculated from the inter-
+Eq. (4), and was 100 ±3% for each datapoint. cept at 0 K.
+Conversionethylene = pethylen
+p
+e0
+eth
+(cid:0)
+yle
+p
+n
+e
+e
+t
+0
+hyleneout×100% (2) ln ( k [ molX ×g
+c
+(cid:0)
+a
+1
+talyst
+×s (cid:0)1 ]) = (cid:0)
+R
+E
+T
+a +ln(C) (6)
+Calculations on possible heat and mass transfer limitations are
+Selectivity ethyleneoxide = pethyleneoxide + p 0 et . h 5 yle × ne p ox C i O d 2 e +pacetaldehyde ×100% s n h o o te w d n t h in a t S e n c o t i t o r n an C s f o e f r t l h im e i S ta u t p i p on le s m s e h n o t u a l r d y b I e n f e o x r p m e a c t t i e o d n , i n a n o d u r i t s y sh st o e u m ld s . be
+(3)
+Carbonmassbalance=
+pethyleneout +pethyleneoxide +0.5×pCO2 +pacetaldehyde×100%
+(4)
+pethylene0
+Fig. 1. SEM images of the Ag-550 catalyst (A), Li-Ag (B), Na-Ag (C), K-Ag (D), Rb-Ag (E) and Cs-Ag (F), together with corresponding histograms and the surface
+averaged particle diameters. For each sample more than 250 Ag particles were measured.
+3
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+3. Results and discussion In industry, a gaseous organochloride promoter is co-fed to increase the
+selectivity towards ethylene oxide by decreasing the fraction of nucle-
+3.1. Catalyst structure ophilic (strongly bound) oxygen [10]. The effects of Cs and Cl have been
+reported to some extent in literature [14,21,26,27]. However, it is not
+The alkali promoters were introduced to a 15 wt% silver on clearly understood how the other alkali species behave in absence and
+α-alumina catalyst via sequential impregnation, which was followed by presence of a chloride promoter in comparison to the commonly used Cs
+calcination at 550 ◦C. As a reference, a bare silver on α-alumina catalyst promoter. A recent treatise on promoted silver catalysts revealed that
+was also heated at 550 ◦C (Ag-550). Fig. 1shows SEM images of the Ag- the optimal chloride and cesium concentrations vary depending on the
+550 catalyst and the alkali-promoted catalysts, in which the Ag particles promoter composition [9]. Therefore, the effect of ethyl chloride (EC)
+are visible as bright grey spheres. The corresponding particle diameter concentration on catalytic performance in the presence of different al-
+distributions illustrate that the Ag particles of all catalysts are in a kali promoters was investigated (Fig. 3).
+similar size range (50–70 nm). Since the Ag loadings are also similar for Without EC the oxygen conversions vary greatly (Fig. 3A), with the
+all catalysts (Table 1), differences in catalytic activity can be ascribed to Ag and Li-Ag catalyst showing the highest conversions of 95%, while Rb-
+the presence of promoters and not to particle size effects or differences in Ag and Cs-Ag have a 20% conversion. Interestingly, this can be corre-
+Ag: Al2O3 surface ratios [30]. The promoter loadings determined with lated to the O2-TPD results, where the strongly adsorbed oxygen shifted
+ICP are in line with the theoretical loading, except for the Na-Ag cata- to higher temperatures for Rb-Ag and Cs-Ag (Fig. 2). Having too strongly
+lyst. One possible reason for this is the omnipresence of Na, due to the bound oxygen can result in a lower conversion, as it becomes more
+production process of alumina [31]. Trace amounts of Na and K were difficult to desorb. Increasing the EC concentration to 1 ppm drastically
+found in the α-alumina with ICP (0.06 and 0.05 wt%, respectively). It decreases the O2 conversion for the Li-Ag and Ag catalysts, with almost
+was assumed that the local alkali surface coverages were similar for all two orders of magnitude. Catalysts promoted with heavier alkali species
+catalysts. show a much milder response to ethyl chloride.
+The trend in ethylene conversion (Fig. 3B) is similar to the oxygen
+3.2. Effect of alkali species on oxygen binding strength conversion trend. It is fascinating that the effect of ethyl chloride on the
+catalyst activity is tempered by Rb and Cs, which might be an indication
+One of the reported effects of Cs (and alkali) promotion is that the of the neutralization of the chloride by the alkali species. All alkali
+dissociation of oxygen is facilitated [15,23]. Another study reported that chlorides are thermodynamically stable under reaction conditions
+Cs blocks binding sites for strongly adsorbed oxygen, which limits the (Fig. S4). The surface averaged particle diameters after catalysis without
+full oxidation reaction [19]. In any case, the strength of the Ag-O bond and with EC in the feed have generally increased to 70–100 nm for all
+plays an important role, and hence the effect of alkali promoters on the catalysts (Fig. S9), which implies that the activity differences observed
+Ag-O bond strength was probed with O2-TPD (Fig. 2). After a heat were due to the presence of different promoters and not due to differ-
+treatment at 550 ◦C, the reference silver catalyst (Ag-550) shows two O2 ences in active silver surface area. Chloride is known to competitively
+desorption peaks at ca. 230 ◦C and 320 ◦C, which is in line with litera- adsorb on sites that are active for ethylene epoxidation [33,34], which
+ture and can be associated with weakly and strongly adsorbed oxygen explains the decrease in the total activity upon increasing the chloride
+species desorbing from the silver surface, respectively [19,32]. Addi- concentration.
+tional TPD profiles of Ag-215 and α-Al2O3 are shown in Figs. S2and S3 To understand the effect of alkali promoters on the apparent acti-
+shows profiles of used catalysts. When alkali promoters are present, the vation energy, ethylene epoxidation was studied as a function of tem-
+weakly adsorbed oxygen peaks shift to slightly lower temperatures and perature in either the absence or the presence of Ethyl Chloride (EC)
+thus the oxygen becomes even more weakly bound. In contrast, the (Fig. S5). In absence of EC, the Rb-Ag and Cs-Ag catalysts are signifi-
+strongly adsorbed oxygen peaks shift to higher temperatures, as illus- cantly less active than the Ag and Ag-Li catalysts over the full temper-
+trated in Fig. 2B. Potentially, some errors might have been induced, for ature range of 150–220 ◦C (Fig. S5A). The apparent activation energy
+example during the sample preparation or slight differences in temper- (Ea) for ethylene conversion slightly decreases from 65 to 58 kJ mol (cid:0) 1
+ature of the pre-treatments. Nevertheless, it is clear that the adsorption when adding Cs to the Ag (Fig. S7, Table S6). Simultaneously, the pre-
+strength of oxygen onto the silver surface is influenced by the presence exponential factor decreases from 1.6 x 105 to 6.6 x 103 mol gc -1 a t s (cid:0) 1
+of alkali species, with Rb and Cs showing the most pronounced effect. when adding Cs (Table S6), and hence the decrease in activity could be
+explained by a decrease in active sites. It should be noted that the
+calculation of the apparent activation energies were simplified, while for
+3.3. Effect of alkali and chloride promoters on activity
+example orders in oxygen have been reported to be (cid:0) 0.5 to 1.5 for se-
+lective oxidation and (cid:0) 1 to 1 for full combustion [7], and have been
+The silver catalysts were tested in the ethylene epoxidation reaction.
+reported to change as a function of temperature [35].
+The activity trend of the alkali-promoted catalysts with 1 ppm EC is
+Table 1
+inverted compared to the tests without EC (Fig. S5B). For an ethylene
+Overview of the (alkali-promoted) Ag catalysts. Ag surface averaged particle
+conversion of ca. 2.5%, the required reaction temperature decreased
+d T i h a e m s e i t l e v r e s r ( o dp n , s) α - w al e u r m e i d n e a t e c rm at i a n ly ed st s w a it r h e S l E is M te . d A a g s a A n g d - [ a t l e k m a p li e r lo a a tu d r i e n g o s f a fi r n e a l l i s h te e d at . from 245 ◦C for Ag to 175 ◦C for Rb-Ag and Cs-Ag, which highlights the
+treatment (◦C)] and promoted catalysts are labelled as [alkali]-Ag. massive impact of EC on the activity of these promoted catalysts. As
+Catalyst Ag particle diameter dp,s Ag loadinga(wt Promoter loadingb d
+sp
+e
+e
+m
+c
+o
+ie
+n
+s
+s t
+a
+r
+r
+a
+e
+t e
+a
+d
+m
+w
+p
+i
+l
+t
+i
+h
+fi e
+O
+d
+2 -T
+by
+P D
+t
+,
+h
+b
+e
+o
+a
+th
+lk
+s
+a
+t
+l
+r
+i
+o
+p
+n
+r
+g
+o
+ly
+m
+a
+o
+n
+te
+d
+r s
+w
+.
+e
+C
+a
+h
+k
+l
+l
+o
+y
+r
+a
+id
+d
+e
+so
+i
+r
+s
+b e
+k
+d
+n o
+o
+w
+xy
+n
+g e
+t
+n
+o
+(nm) %) (mol%)
+decrease or inhibit the fraction of nucleophilic (strongly bound) oxygen
+ICP Theoretical ICP
+[10]. When ethyl chloride inhibits the more strongly bound oxygen, the
+Ag-215 51 ±21 13.6 (cid:0) (cid:0) effect of the more weakly bound oxygen is more pronounced. This might
+Ag-550 67 ±31 13.5 (cid:0) (cid:0) be the reason why the larger and less electronegative alkali species show
+Li-Ag 54 ±23 12.5 2.68 2.66
+Na-Ag 71 ±32 13.4 2.44 6.84 an increased conversion.
+K-Ag 77 ±36 13.2 2.28 2.24
+Rb-Ag 65 ±29 13.6 2.44 1.73 3.4. Effect of alkali and chloride promoters on product formation
+Cs-Ag 63 ±27 13.6 2.51 2.00
+a Of total catalyst weight. Since the Ethylene Oxide (EO) selectivity inversely depends on
+b Compared to the Ag loading (molalkali/(molAg +molalkali)). ethylene conversion [7], it is important to evaluate catalyst selectivity at
+4
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+Fig. 2. O2-TPD profiles of unpromoted and alkali-promoted Ag catalysts (A), and the desorption temperatures of the weakly and strongly adsorbed oxygen of the
+catalysts (B). The profiles in A have been background corrected with the signal from the α-alumina carrier.
+Fig. 3. Effect of Ethyl Chloride (EC) on oxygen conversion (A) and ethylene conversion (B) for the promoted and unpromoted catalysts at 215 ◦C in 7.5 vol% C2H4,
+7.5 vol% O2 and 0–1 ppm EC in He, with a total gas flow of 66 mL min (cid:0)1. The Ag-550 catalyst was used as Ag reference.
+similar conversions or as a function of conversion, as shown in Fig. 4. It selectivity of ca. 50%, while the Ag catalyst surpasses this. In absence of
+is evident that the combination of alkali and ethyl chloride promoters a chloride, alkali-promoted silver catalysts have been reported to be less
+offers excellent selectivity enhancing effects. The (extrapolated) selec- selective than pure silver catalysts [9], which could be explained by the
+tivity at 0% conversion is the primary EO selectivity on the active Ag adsorbed oxygen becoming too nucleophilic due to the electron-
+sites. Notably, the Ag catalyst displays a similar primary selectivity both donating behavior of alkali species [36]. With 1 ppm EC in the feed,
+in the presence and absence of EC, highlighting that the activity- the primary selectivity of all alkali-promoted catalysts increased to an
+decreasing effect of the chloride causes this increase in selectivity. astonishing 80%, which more likely seems to be caused by the chloride
+In addition, the slope of the Ag catalyst is steeper than those of the rather than by the alkali promoters. Interestingly, the slopes of the
+alkali-promoted catalysts, which relates to the undesired isomerization chloride- and alkali-promoted catalysts still show a similar trend as the
+and subsequent combustion of EO: a steeper slope indicates a higher experiments without chloride (Table S5). As a consequence, when Cs
+degree of isomerization and subsequent combustion [7]. The corre- and Rb are added to the Ag it is possible to achieve a high selectivity (~
+sponding values of the slopes are listed in Table S5. When adding 80%) without sacrificing the conversion (~ 15%). The EO selectivity
+larger/more electropositive alkali species to the silver, the slopes decreases with increasing ethylene conversion due to secondary re-
+become less negative which suggests that there is a direct relation be- actions of EO [7], hence a lower slope of this dependence is favorable.
+tween the slope and the sites responsible for EO isomerization and/or The selectivity vs. conversion dependence can also be studied by varying
+(direct) combustion which are inhibited by the alkali promoters (vide the space velocity rather than temperature, to decouple the primary
+infra). The pre-exponential factors of EO formation in absence of EC selectivity from the secondary reactions of EO [7]. Besides stabilizing
+scale with both the electronegativity of the alkali species as well as the the reaction intermediate, the other suggested mechanism of alkali
+alkali cation radii (Fig. S6C–D), which makes it difficult to disentangle promotion is the passivation of active support surface groups which
+electronic from geometric (blocking) effects. limits the rate of EO isomerization [16,20,37] and consequently enables
+Without EC, the alkali promoted catalysts show a primary EO higher selectivities at higher conversions. However, whether alkali
+5
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+To study whether the secondary reactions of EO are inhibited by
+alkali promoters on the silver surface rather than on the support, pro-
+moted Ag catalysts were investigated. Flowing EO resulted in a similar
+EO conversion as the α-Al2O3 (Fig. 5B), suggesting that EO isomerization
+is not affected by the introduction of active silver surface. However,
+when oxygen is added to the gas feed there are vast differences in EO
+conversion. The Ag catalyst shows an EO conversion of 70%, suggesting
+that EO degradation is more dominant of the Ag surface than on the
+α-alumina support. When larger/less electronegative alkali species are
+present the EO conversion gradually decreases to 15%. This is inter-
+esting, since the molar ratio between Ag and the alkali is similar for all
+catalysts (except for Na-Ag). These EO conversions scale with both the
+alkali electronegativity and cation radius (Fig. S6E–F), hence it is
+difficult to differentiate between geometric and electronic effects.
+Interesting in this respect would be to study alkali and alkaline earth
+promoters with a similar electronegativity but with different cation radii
+(for instance, Ca and Li both have a Pauling electronegativity of 1.0
+[39]). In earlier studies, EO degradation was reported to predominantly
+occur via support surface groups, and that the promoting effect of alkali
+Fig. 4. EO selectivity versus ethylene conversion while varying the tempera-
+species is the result of the passivation of these surface groups [16,20,37].
+ture without EC (closed symbols) and with EC (open symbols). The 15 wt% Ag
+In contrast, we show that the alkali species strongly inhibit EO com-
+on α-Al2O3 (Ag-550) catalyst was used as Ag reference.
+bustion on the silver surface rather than EO isomerization on the
+α-alumina surface groups.
+species influence the slope by passivating support surface groups or also
+After catalysis with the industrially relevant Ethyl Chloride (EC) in
+by passivating direct combustion sites on the silver surface cannot be
+the feed, the EO conversion of the Ag, Li-Ag, Na-Ag and K-Ag catalysts
+concluded from these ethylene epoxidation experiments only.
+decreased to ca. 10–20%. Considering the Ag reference catalyst, this
+suggests that the Ag sites responsible EO combustion are passivated by
+3.5. EO isomerization and combustion the chloride. When Li, Na, and K are present, it seems that the remaining
+combustion sites were passivated by the chloride. For the Rb-Ag and Cs-
+To systematically study whether alkali promoters inhibit EO isom- Ag catalysts the chloride did not further inhibit the EO isomerization
+erization and combustion on the support surface groups or on the silver behavior, but remained 15%. During ethylene epoxidation at 215 ◦C
+surface, dedicated EO conversion experiments were conducted with the with EC, the EO selectivities for all catalysts are roughly similar
+(promoted) support and catalysts (Fig. 5). The α-Al2O3 support was (75–80%) despite varying ethylene conversions. It can be concluded
+tested as a reference (Fig. 5A) to disentangle the promotional effect of from these experiments that both alkali and chloride promoters inhibit
+the alkali by either blocking support surface groups, or inhibiting EO the secondary reaction of EO on the silver surface and do not counteract
+combustion on the Ag surface. The EO conversion on α-Al2O3 is ca. 10% each other, in contrast to rhenium-chloride promoted silver catalysts
+and increases to ca. 15% when oxygen is added to the feed. Adding Li or [40].
+Cs to the support slightly decreases the EO conversion when oxygen is
+present, which is in line with previous literature [38]. It is possible that 4. Conclusions
+for supports containing impurities such as γ-Al2O3 or SiO2, which have a
+higher density of surface groups, [7] the blocking effect of alkali pro- Silver catalysts were promoted with a range of alkali species, besides
+moters is more pronounced compared to a pure α-Al2O3 support. the commonly studied Cs. All alkali species influenced the silver–oxygen
+Nonetheless, in case of our α-Al2O3 support, alkali promoters only have a binding strength. The catalysts were tested without and with the
+limited effect of blocking the support surface groups.
+Fig. 5. EO isomerization of the bare and promoted α-alumina support (A), and of the (promoted) silver catalysts (B) at 215 ◦C with 0.15 vol% EO, 0.075 vol%
+acetaldehyde, and when indicated with 7.5 vol% O2 and 1 ppm EC in He.
+6
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+industrially relevant ethyl chloride promoter in the feed. Without the the selectivity in silver catalyzed ethylene epoxidation, Catal. Today. 338 (2019)
+chloride, the activity and primary selectivity of alkali-promoted cata- 31–39, https://doi.org/10.1016/j.cattod.2019.04.049.
+[8] J.H. Miller, A. Joshi, X. Li, A. Bhan, Catalytic degradation of ethylene oxide over
+lysts decreased compared to the silver reference catalyst. In contrast, Ag/α-Al2O3, J. Catal. 389 (2020) 714–720, https://doi.org/10.1016/j.
+chloride increased the primary selectivity of all catalysts, while the jcat.2020.07.008.
+selectivity of the alkali-promoted catalysts remained higher than the [9] J.R. Lockemeyer, T.L. Lohr, Ethylene oxide catalysis under commercial conditions
+– A guide for researchers, ChemCatChem (2023) 1–6, https://doi.org/10.1002/
+reference silver catalyst at much higher activities, highlighting the
+cctc.202201511.
+impact of both promoters. We also show for the first time that both alkali [10] T.C.R. Rocha, M. Ha¨vecker, A. Knop-Gericke, R. Schlo¨gl, Promoters in
+and chloride species predominantly inhibit EO combustion on the silver heterogeneous catalysis: the role of Cl on ethylene epoxidation over Ag, J. Catal.
+surface rather than on the α-alumina surface groups. 312 (2014) 12–16, https://doi.org/10.1016/j.jcat.2014.01.002.
+[11] R.P. Nielsen, J.H. La Rochelle, Catalyst for production of EO, 3962136, 1976.
+[12] R.P. Nielsen, Chemical production of metallic silver deposits, US 3702259, 1972.
+CRediT authorship contribution statement [13] T. Pu, H. Tian, M.E. Ford, S. Rangarajan, I.E. Wachs, Overview of selective
+oxidation of ethylene to ethylene oxide by Ag catalysts, ACS Catal. (2019)
+10727–10750, https://doi.org/10.1021/acscatal.9b03443.
+Claudia J. Keijzer: Writing – review & editing, Writing – original [14] J.T. Jankowiak, M.A. Barteau, Ethylene epoxidation over silver and copper-silver
+draft, Visualization, Validation, Methodology, Investigation, Formal bimetallic catalysts: II. Cs and Cl promotion, J. Catal. 236 (2005) 379–386, https://
+analysis, Conceptualization. Naud M.T. van de Ven: Writing – review & doi.org/10.1016/j.jcat.2005.10.017.
+[15] D. Ren, H. Xu, J. Li, J. Li, D. Cheng, Origin of enhanced ethylene oxide selectivity
+editing, Validation, Investigation. Remco Dalebout: Writing – review & by Cs-promoted silver catalyst, Mol. Catal. 441 (2017) 92–99, https://doi.org/
+editing, Supervision. Tracy L. Lohr: Writing – review & editing, Su- 10.1016/j.mcat.2017.08.007.
+[16] N. Macleod, J.M. Keel, R.M. Lambert, The effects of catalyst aging under industrial
+pervision. John R. Lockemeyer: Supervision. Peter van den Brink: conditions: ethylene oxide conversion over Ag-Cs/α-Al2O3 catalysts, Catal. Letters.
+Supervision. Petra E. de Jongh: Writing – review & editing, Supervi- 86 (2003) 51–56, https://doi.org/10.1023/A:1022602807322.
+sion, Resources, Project administration, Funding acquisition. [17] S. Linic, M.A. Barteau, On the mechanism of Cs promotion in ethylene epoxidation
+on Ag, J. Am. Chem. Soc. 126 (2004) 8086–8087, https://doi.org/10.1021/
+ja048462q.
+Declaration of competing interest [18] W.S. Epling, G.B. Hoflund, D.M. Minahan, Study of Cs-promoted, α-alumina-
+supported silver, ethylene-epoxidation catalysts: II. Effects of aging, J. Catal. 171
+(1997) 490–497, https://doi.org/10.1006/jcat.1996.0258.
+The authors declare that they have no known competing financial [19] M. Atkins, J. Couves, M. Hague, B.H. Sakakini, K.C. Waugh, On the role of Cs, Cl
+interests or personal relationships that could have appeared to influence and subsurface O in promoting selectivity in Ag/α-Al2O3 catalysed oxidation of
+ethene to ethene epoxide, J. Catal. 235 (2005) 103–113, https://doi.org/10.1016/
+the work reported in this paper.
+j.jcat.2005.07.019.
+[20] C.F. Mao, M. Albert Vannice, High surface area α-aluminas III. Oxidation of
+Acknowledgments ethylene, ethylene oxide, and acetaldehyde over silver dispersed on high surface
+area α-alumina, Appl. Catal. A Gen. 122 (1995) 61–76, https://doi.org/10.1016/
+0926-860X(94)00214-2.
+CJK was funded at the Advanced Research Center for Chemical [21] S.A. Tan, R.B. Grant, R.M. Lambert, Secondary chemistry in the selective oxidation
+Building Blocks consortium (project number 2021.032.A.UU), which is of ethylene: effect of Cl and Cs promoters on the adsorption, isomerisation, and
+combustion of ethylene oxide on Ag(111), J. Catal. 106 (1987) 54–64.
+co-founded and co-financed by the Dutch Research Council (NWO) and
+[22] R.B. Grant, R.M. Lambert, Ethylene oxide isomerisation on single-crystal Ag(111)
+the Netherlands Ministry of Economic Affairs and Climate Policy. SEM in atomically clean and Cs-moderated conditions, J. Catal. 93 (1985) 92–99,
+measurements were performed at the Electron Microscopy Centre at https://doi.org/10.1016/0021-9517(85)90154-X.
+[23] M. Huˇs, A. Hellman, Dipole effect on ethylene epoxidation: Influence of alkali
+Utrecht University. The authors would like to thank Eric Hellebrand, metals and chlorine, J. Catal. 363 (2018) 18–25, https://doi.org/10.1016/j.
+Chris Schneijdenberg (SEM), Jan Willem de Rijk (catalytic set-up) for jcat.2018.04.008.
+¨ ¨
+technical support and Sergei Cherniak for conducting the N2- [24] M.O. Ozbek, I. Onal, R.A. Van Santen, Chlorine and caesium promotion of silver
+ethylene epoxidation catalysts, ChemCatChem 5 (2013) 443–451, https://doi.org/
+physisoption measurements.
+10.1002/cctc.201200690.
+[25] M.A. Salaev, Computational insights into promoting effects of alkali metals, Re,
+Appendix A. Supplementary data and Cl for silver catalysts of ethylene epoxidation, Mol. Catal. 507 (2021) 111574,
+https://doi.org/10.1016/j.mcat.2021.111574.
+[26] W. Diao, C.D. Digiulio, M.T. Schaal, S. Ma, J.R. Monnier, An investigation on the
+Supplementary data to this article can be found online at https://doi. role of Re as a promoter in Ag-Cs-Re/α-Al2O3 high-selectivity, ethylene
+org/10.1016/j.jcat.2025.116206. epoxidation catalysts, J. Catal. 322 (2015) 14–23, https://doi.org/10.1016/j.
+jcat.2014.11.007.
+[27] A. Hwang, J. Klaucke, C. Lizandara-Pueyo, A. Karpov, E. Iglesia, Roles of Re and Cs
+Data availability promoters and organochlorine moderators in the synthesis of ethylene oxide on Ag-
+based catalysts, ChemCatChem (2023) 202301369, https://doi.org/10.1002/
+Data will be made available on request. cctc.202301369.
+[28] J.E. Van den Reijen, S. Kanungo, T.A.J. Welling, M. Versluijs-Helder, T.A. Nijhuis,
+K.P. de Jong, P.E. de Jongh, Preparation and particle size effects of Ag/a-Al2O3
+References catalysts for ethylene epoxidation, J. Catal. 356 (2017) 65–74, https://doi.org/
+10.1016/j.jcat.2017.10.001.
+[1] S. Rebsdat, D. Mayer, Ullmann’s Encyclopedia of Industrial Chemistry vol. 13, [29] A.J.F. Van Hoof, E.A.R. Hermans, A.P. Van Bavel, H. Friedrich, E.J.M. Hensen,
+Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, 2012. 10.1002/14356007.a10_ S 9 t 8 r 2 u 9 c – tu 9 r 8 e 3 s 9 e , n h s t i t t p iv s i : t / y / d o o f i s .o il r v g e / r 1 -c 0 a . t 1 a 0 ly 2 z 1 e / d a c e s t c h a y t l a e l n .9 e b e 0 p 2 o 7 x 2 i 0 d . ation, ACS Catal. 9 (2019)
+117.
+[30] C.J. Keijzer, L.C.J. Smulders, D. Wezendonk, J.W. de Rijk, P.E. de Jongh, Influence
+[2] G.H. Law, H.C. Chitwood, Process of making olefin oxides, US 2279469, 1942.
+of Ag particle size and Ag: Al2O3 surface ratio in catalysts for the chloride-
+[3] W.H. Faveere, S. Van Praet, B. Vermeeren, K.N.R. Dumoleijn, K. Moonen,
+promoted ethylene epoxidation, Catal. Today. 428 (2024) 114447, https://doi.
+E. Taarning, B.F. Sels, Toward replacing ethylene oxide in a sustainable world:
+org/10.1016/j.cattod.2023.114447.
+glycolaldehyde as a bio-based C2 platform molecule, Angew. Chemie - Int. Ed. 60
+(2021 ¨ ) 12204–12223, https://doi.org/10.1002/anie.202009811. [31] M pr . o A du u c th in ie g r s -M m a e r lt t e in r- , g G ra . d F e o r a t l e u , m S i . n O a, s t M ap in , e J r . a S lo ee g , y T 5 h 3 e ( m 20 in 0 e 1 r ) a l 3 o 6 g – y 4 0 o , f h b t a t u p x s i :/ te / d fo o r i. org/
+[4] M.O. Ozbek, I. Onal, R.A. Van Santen, Why silver is the unique catalyst for ethylene
+epoxidation, J. Catal. 284 (2011) 230–235, https://doi.org/10.1016/j. 10.1007/s11837-001-0011-1.
+[32] K.C. Waugh, M. Hague, The detailed kinetics and mechanism of ethylene
+[5] j V c . a I t . .2 B 0 u 1 k 1 h . t 0 iy 8 a .0 ro 0 v 4 , . M. H¨avecker, V.V. Kaichev, A. Knop-Gericke, R.W. Mayer, epoxidation on an oxidised Ag/α-Al2O3 catalyst, Catal. Today. 157 (2010) 44–48,
+R. Schlo¨gl, Atomic oxygen species on silver: photoelectron spectroscopy and x-ray https://doi.org/10.1016/j.cattod.2010.07.003.
+[33] V.P. Santos, A. Plauck, J. Gold, P. Majumdar, M.H. McAdon, T. Calverley, The
+absorption studies, Phys. Rev. B - Condens. Matter Mater. Phys. 67 (2003)
+2354221–23542212, https://doi.org/10.1103/PhysRevB.67.235422. complex chlorination effects on high selectivity industrial EO catalysts: dynamic
+interplay between catalyst composition and process conditions, ACS Catal. (2024)
+[6] V.I. Bukhtiyarov, I.P. Prosvirin, R.I. Kvon, Study of reactivity of oxygen states 10839–10852, https://doi.org/10.1021/acscatal.4c01764.
+adsorbed at a silver surface towards C2H4 by XPS, TPD and TPR, Surf. Sci. 320
+(1994) 2–5, https://doi.org/10.1016/0039-6028(94)00562-1. [34] V. Berg, M. Geske, O. Korup, M. Schmidt, F. Rosowski, A. Karpov, M. Kraemer,
+[7] J.E. Van den Reijen, W.C. Versluis, S. Kanungo, M.F. D’Angelo, K.P. de Jong, P. R. Horn, Selective oxidation of ethylene to ethylene oxide on silver catalysts at
+E. de Jongh, From qualitative to quantitative understanding of support effects on
+7
+
+C.J. Keijzer et al. J o u r n a l o f C a t a l y s i s 450 (2025) 116206
+industrial conditions: reactor profiles, kinetics, and chlorine inhibition, Ind. Eng. [38] B.T. Egelske, W. Xiong, H. Zhou, J.R. Monnier, Effects of the method of active site
+Chem. Res. 63 (2024) 3891–3909, https://doi.org/10.1021/acs.iecr.3c04345. characterization for determining structure-sensitivity in Ag-catalyzed ethylene
+[35] C. Stegelmann, N.C. Schiødt, C.T. Campbell, P. Stoltze, Microkinetic modeling of epoxidation, J. Catal. 410 (2022) 221–235, https://doi.org/10.1016/j.
+ethylene oxidation over silver, J. Catal. 221 (2004) 630–649, https://doi.org/ jcat.2022.03.021.
+10.1016/j.jcat.2003.10.004. [39] P.W. Atkins, T.L. Overton, J.P. Rourke, M.T. Weller, F.A. Armstrong, Inorganic
+[36] B.W.J. Chen, B. Wang, M.B. Sullivan, A. Borgna, J. Zhang, Unraveling the chemistry, 6th ed., Oxford University Press, 2014.
+synergistic effect of Re and Cs promoters on ethylene epoxidation over silver [40] C.J. Keijzer, P.T. Weide, K.H. Helfferich, J. Zieciak, M. De Ridder, R. Dalebout, T.
+catalysts with machine learning-accelerated first-principles simulations, ACS Catal. L. Lohr, J.R. Lockemeyer, P. van den Brink, P.E. de Jongh, Insight into the
+12 (2022) 2540–2551, https://doi.org/10.1021/acscatal.1c05419. influence of Re and Cl on Ag catalysts in ethylene epoxidation, Catal. Sci. Technol.
+[37] J.K. Lee, X.E. Verykios, R. Pitchai, Support participation in chemistry of ethylene (2024), https://doi.org/10.1039/d4cy00858h.
+oxidation on silver catalysts, Appl. Catal. 44 (1988) 223–237, https://doi.org/
+10.1016/S0166-9834(00)80055-X.
+8
+

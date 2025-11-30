@@ -1,0 +1,1045 @@
+1549
+Research Article
+Received:1November2017 Revised:22January2018 Acceptedarticlepublished:31January2018 PublishedonlineinWileyOnlineLibrary:2March2018
+(wileyonlinelibrary.com)DOI10.1002/jctb.5592
+Ethylene epoxidation over supported silver
+catalysts – influence of catalyst pretreatment
+on conversion and selectivity
+Atte Aho,a Kari Eränen,a Lived J Lemus-Yegres,b Bodil Voss,b
+Anders Gabrielsson,b Tapio Salmia and Dmitry Yu Murzina*
+Abstract
+BACKGROUND:Ethyleneoxideisakeyintermediateinthechemicalindustry.Itisproducedthroughcatalyticepoxidationof
+ethylene.Significanteconomicbenefitscanbeachievedbysmallimprovementsincatalystactivityandselectivity.Theaimof
+thisworkwastostudyhowdifferentpreparationmethodsandpretreatmentsaffectthecatalystperformanceunderindustrially
+relevantreactionconditions.Theinfluenceofpretreatmentstrategyontheselectivityandreactiontemperaturewasforthefirst
+timeinvestigatedataconstantethyleneconversionof7%.
+RESULTS:Epoxidationofethylenetoethyleneoxidewasstudiedoverarangeofsilvercatalystswhichwerepreparedwith
+differentthermaltreatments.Theinfluenceofcatalystpreparationmethodandcatalystpretreatmentstrategyonthecatalytic
+performancewasinvestigated.Itwasfoundthatcalcinationresultedinlowerethyleneconversioncomparedwithpre-drying.
+Inthelattercaseaninductionperiodwasobserved,absentforthecalcinedcatalyst.Thisinductionperiodcanbeeliminatedby
+oxidativeorreductivepretreatmentofthecatalyst.
+CONCLUSIONS:Themostpromisingpretreatmentstrategywascarriedoutbyfirsttreatingthecatalystwith1ppmofDCEfor
+∘ ∘
+5hat230 Cfollowedbyovernightpre-treatmentin20%ethyleneat250 C.Withthispretreatmentitwaspossibletoachievea
+∘
+targetethyleneconversionof7%at232.6 Cwithaselectivitytoethyleneoxideof82.1%.
+©2018SocietyofChemicalIndustry
+Keywords:ethylene;ethyleneoxide;silvercatalyst;catalystpreparation;catalystpretreatment
+INTRODUCTION Selectivity to ethylene oxide over neat silver is typically
+Ethylene oxide is one of the key intermediates in the chemical mediocre.9–12 It can be, however, enhanced by doping the
+industry.Itisusedinseveralimportantprocessestoobtainvalu- catalysts with different promoters.10 The most commonly used
+ableproducts,suchasethyleneglycol.1,2UnionCarbideCorpora- promotors are cesium and rhenium.10,13,14 In fact, optimal pro-
+motor loadings can boost selectivity by almost 10% compared
+tionstartedthefirstindustrialprocessforethyleneepoxidationto
+with unpromoted silver catalysts.10 It should be noted that
+ethyleneoxideusingdirectoxidationin1937.Sincethattime,the
+mostactiveandselectivecatalystcomponenthasbeensilver.1The the selectivity declines with conversion, which is typical for
+consecutive reactions. Ethylene oxide selectivity can also be
+desiredepoxidationofethylenetoethyleneoxideisaccompanied
+increasedbypreventingtotaloxidationtoCO throughco-feeding
+bysidereactionsofethyleneandethyleneoxideoxidationtocar- 2
+1,2-dichloroethane(DCE).15Additionofchlorine-containingcom-
+bondioxideandwaterthroughparallelandconsecutivepathways
+asdiscussedelsewhere.3,4 poundssuppressesdissociativeadsorptionofoxygenwhichplays
+akeyroleinoxidationofethylenetocarbondioxide.1,15–17Optimal
+Epoxidationofethylenetoethyleneoxidemostprobablyoccurs
+on an oxygen covered silver surface.2,5 X-ray photoelectron DCElevelsforstablecatalystperformancearereportedtobeinthe
+range1–2ppm.18,19Ithasalsobeenreportedthattheselectivity
+spectroscopyhasbeenappliedintheinvestigationofadsorbed
+oxygenspecies.6 Ithasbeenreportedthatanactivecatalystfor canbeimprovedbyblockingsitesresponsiblefortotaloxidation
+ethyleneepoxidationhasbothnucleophilic(O𝛿-)andelectrophilic viaadditionofCO
+2
+tothereactor.20,21Theselectivityisimproved
+(O𝛿+)oxygenspeciesadsorbedonthesilverparticles.6Thenucle-
+ophilicformofoxygenisreportedtobestableandactingasthe
+adsorption site for ethylene.5 The nucleophilic form of oxygen, ∗ Correspondenceto:DYMurzin,JohanGadolinProcessChemistryCentre,Labo-
+however, also takes part in the total oxidation of ethylene to ratoryofIndustrialChemistryandReactionEngineering,ÅboAkademiUniver-
+carbon dioxide.6 Formation of the electrophilic oxygen occurs sity,FI-20500Turku/Åbo,Finland.E-mail:dmurzin@abo.fi
+at a lower rate than formation of the nucleophilic and requires
+a JohanGadolinProcessChemistryCentre,ÅboAkademiUniversity,Turku/Åbo,
+elevatedoxygenpressuresorreactivegasmixtures.7Itisbelieved
+Finland
+that molecularly adsorbed oxygen reacts with the adsorbed
+ethyleneandformsethyleneoxide.1,8 b HaldorTopsøeA/S,HaldorTopsøeallé1,Lyngby,Denmark
+JChemTechnolBiotechnol2018;93:1549–1557 www.soci.org ©2018SocietyofChemicalIndustry
+
+1550
+www.soci.org AAhoetal.
+through reactions of the dissociatively adsorbed oxygen and Catalystcharacterization
+carbondioxideformingcarbonatespecies.22 Thecatalystswerecharacterizedbyscanningelectronmicroscopy.
+Ithas been reportedthat,duringthestart-upof theethylene APhillipsXL30FEGESEM,withanaccelerationvoltageof10kVto
+epoxidationinlaboratoryscale,adynamicbehaviorofthecatalyst acquirethebackscatteredelectronimages.BeforeSEMthecata-
+has been observed before reaching the steady state.10,23 The lystswerecrushedandsievedtoafractionsmallerthan180𝜇m
+selectivitytoethyleneoxideincreaseswithtime-on-streamwhile andattachedtodouble-sidedcarbontapeandcoatedwithcar-
+theethyleneconversiongoesthroughamaximum.10,24 boninordertopreventchargingintheSEM.Approximately100
+Ithasbeenreportedthattheethyleneepoxidationratecanbe imagesweretakenfromeachsampleatahorizontalfullwidthof
+enhanced by illumination of the silver nanocube catalysts with 6.9𝜇mand17.3𝜇m.Theimagesacquiredwerepost-processedin
+visiblelight.12Christopheretal.12reportedthatitwaspossibleto ImageJwithanin-housealgorithmtosegmentthesilverparticles.
+increasetheratefour-foldwiththeaidof250mWcm-2 ofvisible Theareasofthesilverparticleswerecapturedandconvertedinto
+light.Theyalsoreportedthattheeffectwasreversibleandthat sphericaldiameter.Overlappingormergedwell-definedparticles
+theethyleneepoxidationratereturnedtothevaluewithoutthe werepossibletoseparate.Thenon-definedparticle-bordersofthe
+illumination. patchy/agglomeratedparticlesasseeninthefreshsamplesarenot
+Besidesintroductionofpromotorsandreactioninhibitors,the possibletoseparateintoindividualparticles.Thisisespeciallyseen
+selectivitytoethyleneoxidecanbeimprovedbypretreatingthe inthefreshCat-driedsampleofparticles>250nm.
+catalyst.25 Pretreatmentunderoxygenflow(20%inmethane)at Thesilver,rheniumandcesiumcontentsofthecatalystswere
+260 ∘ C has been reported to improve the selectivity by 2%.10 analyzed by inductively coupled plasma optical emission spec-
+Hernándezetal.4 pretreatedsilver-platedmicroreactorelements trometry(ICP-OES).Priortoanalysis0.1–0.15gfinelygroundsam-
+∘
+in20%oxygeninheliumat300 Cfollowedbyapretreatmentin plewasextractedwith20mLhalf-concentratedHNO (p.a.quality)
+3
+20%ethyleneinheliumatthesametemperature.Theyobtained andboiledfor20minonaheatingplate.Thesamplesolutionwas
+an enhancement of the initial activity and selectivity. The sur- transferredtoa100mLvolumetricflaskandfilledtothemarkwith
+face area of silver can be increased and cleaned with oxygen purewater(18.2MΩcm).
+adsorption,outgassing,andreductionmethods(OAOR).26Kesten- The contents of Ag, Re and Cs in the sample solution were
+baumetal.23afterapplyingOAORformicroreactorsilverfoilsprior quantifiedbyanAgilent720ESICP-OESinstrument.Duetothe
+to ethylene epoxidation found that the treatment only slightly lowsensitivitytoCsbytheICP-OEStechnique,thecontentofCsin
+increasedthecatalyticactivity,however,duringthefirst100hof thesamplesolutionwasquantifiedbyinductivelycoupledplasma
+operation, additional active sites were formed or the activity of mass spectrometry (ICP-MS) with an Agilent 7500ce ICP-MS
+existingsitesincreased. instrument.
+In the present work two different catalysts were prepared.
+The novelty of the work was to experimentally investigate the
+Equipment
+influence of several different catalyst pretreatment strategies
+Theset-upusedintheexperimentsconsistedofa6mminternal on ethylene conversion and ethylene oxide selectivity under
+diameterstainlesssteeltubereactorheatedbyanelectricoven.
+industrially relevant reaction conditions. The impact of catalyst
+TheinletgasflowswerecontrolledbyBrooks5850massflowcon- pretreatment on the ethylene oxide selectivity and reaction
+trollers(MFC)andthepressureinthereactorwascontrolledby
+temperature was evaluated at a constant ethylene conversion
+aBrooks5866pressurecontroller(PIC).Thereactiontemperature of7%.
+wasmonitoredbyaK-typethermocouple(TI)placedinsidethe
+catalystbed.Theprocessdata(MFC,temperatureandpressure)
+EXPERIMENTAL wereloggedbyacomputerduringtheexperiments.Waterwas
+periodicallyreleasedfromtheset-upthroughavalve.Thetemper-
+Materials
+atureoftheovenwasmeasuredandcontrolledwithaCarbolite
+Ethylene(3.5,AGA),50ppm1,2-dichloroethaneinhelium(BOC),
+controlunit.
+helium(4.6,AGA),11.2%oxygenand10.0%CO inhelium(AGA)
+2 TheinletandproductgascompositionswereanalyzedbyaGC
+andhydrogen(5.0,AGA)wereusedintheexperiments.TheGC
+(HP6890)havingbothFIandTCdetectors.Thecolumnusedfor
+calibrationforethyleneoxidewasmadewitha3%ethyleneoxide
+separatingthegaseswasaGS-Q.Thetemperatureprogramused
+inheliumgasmixture(AGA). ∘ ∘ intheGCanalysiswas40 Cisothermalfor6min,20 Cpermin
+𝛼-Aluminasupportedsilvercatalystswerepreparedusingtwo ∘
+heatingto150 Candfollowedby7minisothermal.Thegasflow
+similar methods reported in the literature27–30 having different throughthecolumnwas12mLmin-1.TemperatureforFIandTC
+thermaltreatments.Thesupport(20g)wasvacuum-impregnated ∘ ∘ detectorswas300 Cand210 C,respectively.Aschematicofthe
+with100mLsilvercontainingsolutionfor15min.Thesilveroxalate
+reactorset-upisillustratedinFig.1.
+solutionwaspreparedaccordingtoproceduresdescribedinthe
+patent literature27–30 using ethanolamine (Sigma-Aldrich) and
+ethylenediamine(Sigma-Aldrich)assolvents.Theremainingsolu- Catalystpretreatment
+tion was decanted and the solid material was dried at 80 ∘ C The catalysts were pretreated in different ways prior to testing.
+overnight. The dried silver catalyst was exposed to a solution Theso-calledstandard(STD)pretreatmentwascarriedoutin20%
+∘ containing 4% cesium (CsOH, Sigma-Aldrich) and 4% rhenium ethyleneinheliumovernightat250 C.Analternativeoxidative
+(NH ReO ,Sigma-Aldrich)dissolvedinwaterbyapplyingincipient pretreatmentwasperformedwiththeoxygengasmix(11.2%O
+4 4 2
+∘
+wetnessimpregnation.Oneofthecatalystswasdriedovernightat and10.0%CO inhelium)overnightat300 C,whilethereductive
+2
+∘ 150 CanddenotedasCat-dried,whiletheotheronewascalcined pretreatmentwasdonewith40%hydrogeninheliumovernight
+∘ ∘
+at300 Cfor1handwillbefurtherreferredtoasCat-calcined.Dur- at the same temperature of 300 C. A pretreatment in inert gas
+∘
+ingtheheattreatment,thesilveroxalatedecomposestometallic (helium)wasconductedovernightat300 C.Finally,thestandard
+silverandcarbondioxide.31 pretreatmentwasmodifiedbyfirstexposingthecatalystto1ppm
+wileyonlinelibrary.com/jctb ©2018SocietyofChemicalIndustry JChemTechnolBiotechnol2018;93:1549–1557
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1551
+Ethyleneepoxidationoversupportedsilvercatalysts www.soci.org
+Figure1.Reactorset-upforethyleneoxidecatalysts,thesymbolsingreen(MFCs1-4,TI,PICandGC)areloggedtothecomputer.
+Table1. Silver,cesiumandrheniumloadingsintheappliedcatalysts
+determinedbyICP-OESandICP-MS
+Catalyst Ag(wt-%) Cs(ppm) Re(ppm)
+Cat-dried 15.9 540 480
+Cat-calcined 16.9 610 670
+Figure3.SEMimageofthefreshCat-calcinedcatalyst.
+Figure2.SEMimageofthefreshCat-driedcatalyst.
+∘
+ofDCEfor5hat230 Cfollowedbyovernightpretreatmentin20%
+∘
+ethyleneat250 C(DCE+STD).Thereactorwasoperatedunder
+atmosphericpressureduringthecatalystpretreatment.
+Experimentalprocedure
+Thereactortubewasfilledwiththecatalyst(0.58g)dilutedwith Figure 4. SEM image of Cat-dried catalyst after reaction and standard
+glassbeads(2.5g).Theset-upwaspressurizedwithheliumand pretreatment.
+JChemTechnolBiotechnol2018;93:1549–1557 ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/jctb
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1552
+www.soci.org AAhoetal.
+86
+Table2. Silverparticlesizesforthefreshandspentcatalysts
+analyzedbySEM
+84
+Cat-dried
+Cat-dried Fresh STD Helium Oxidative Reductive DCE+STD Cat-calcined
+82 230 °C 230 °C
+Mean(nm) 162 133 126 156 145 136
+StandardDeviation 109 91 83 109 98 94 240 °C
+(nm) 80
+Numberofparticles 12002 10671 25944 6622 9571 16461 240 °C
+Cat-calcined Fresh STD Helium Oxidative Reductive DCE+STD 78
+Mean(nm) 141 150 147 157 116 151
+StandardDeviation 100 100 107 114 80 106 76 250 °C
+(nm)
+Numberofparticles 10787 15069 7260 7944 20762 16193
+74
+2 4 6 8 10 12 14
+checked for leakage. The catalyst pretreatment was performed
+overnightwithoneoftheabovedescribedmethods.Thefeedgas
+consisted of 23% ethylene, 7.5% oxygen, 6.6% CO , and 1ppm 2
+of DCE diluted in helium. The total gas flow was 100mLmin-1
+(STP). The temperature programming used in the catalyst test-
+∘
+ing was 20h at 250 C followed by isothermal holding at sub-
+∘
+sequently 240, 230 and 250 C for 7–8h. The overpressure was
+21.6bar. The outlet gas was continuously analyzed by GC. After
+∘
+the final isotherm at 250 C, the reactor was cooled down to
+ambient temperature and the composition of the reactant gas
+mixture was analyzed by GC. The response factor for ethylene
+oxide was checked after every experiment with the calibration
+gas containing ethylene oxide. After an experiment the reac-
+tor tube was emptied from the catalyst and glass beads and
+cleanedwithacetoneanddriedwithcompressedairbeforethe
+nextrun.
+RESULTSANDDISCUSSION
+Catalystcharacterizationresults
+ThemetalcontentsinthecatalystsaregiveninTable1.
+Themetalloadingsofthetwocatalystsweresimilar,however,the
+calcinedcatalysthadslightlyhigherconcentrationsofthemetals.
+Apossiblereasoncouldbethatthetwosampleswereprepared
+separately,i.e.twobatchesofaluminawereimpregnatedwitha
+silver solution followed with incipient wetness impregnation of
+thepromotors.Theonlydifferenceincatalystpreparationwasthe
+)%(
+ytivitceleS
+Standard pretreatment
+250 °C
+CH conversion (%)
+2 4
+Figure 6. Selectivity towards ethylene oxide plotted against ethylene
+conversion for the dried (black squares) and calcined (red circles)
+catalysts.
+final thermal treatment. The calcined catalyst was heat-treated
+∘ ∘ at 300 C for 1h, while the dried catalyst was dried at 150 C
+overnight.
+The SEM images (Figs2 and 3) displaying silver parti-
+cles deposited on the alumina support clearly show that
+calcination resulted in sintering. Figure4 shows a SEM
+image of the dried catalyst after reaction and standard
+pretreatment.
+The size of the silver particles was measured with ImageJ
+usinganin-housealgorithmtosegmentthesilverparticles.The
+meansilverparticlesize,standarddeviationandnumberofpar-
+ticles measured for the fresh and spent catalysts are listed in
+Table2.
+Contrary to the visual inspection of Figs2 and 3, Table2
+states that the mean silver particle size for the fresh dried
+catalyst is slightly larger than for the fresh calcined cata-
+lyst. A possible reason for the larger particles on the dried
+catalyst could be agglomeration of several small parti-
+cles in the post-processing of the SEM images making it
+difficult to separate individual particles before measuring
+thesize.
+1.0 250 °C 240 °C 230 °C 250 °C 1.0 240 °C 230 °C 250 °C
+0.8 0.8
+O2 O2
+0.6 CO2 0.6 CO2
+C2H4 C2H4 C2H4O
+0.4 C2H4O 0.4
+0.2 0.2
+0.0 0.0
+0 500 1000 1500 2000 2500 0 500 1000 1500 2000 2500
+Time-on-stream (min)
+)nim/lomm(
+wolf
+raloM
+)nim/lomm(
+wolf
+raloM
+250 °C
+Time-on-stream (min)
+Figure5.Productgasmolarflow(mmolmin-1)fordried(left)andcalcined(right)catalystspretreatedunderstandardconditions,i.e.20%ethyleneat
+250∘C.
+wileyonlinelibrary.com/jctb ©2018SocietyofChemicalIndustry JChemTechnolBiotechnol2018;93:1549–1557
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1553
+Ethyleneepoxidationoversupportedsilvercatalysts www.soci.org
+250 °C 240 °C 230 °C 250 °C 250 °C 240 °C 230 °C 250 °C
+1.0 1.0
+0.8 0.8
+O2 O2
+CO2 CO2
+0.6 C2H4 0.6 C2H4
+C2H4O C2H4O
+0.4 0.4
+0.2 0.2
+0.0 0.0
+0 500 1000 1500 2000 2500 0 500 1000 1500 2000 2500
+Time-on-stream (min) Time-on-stream (min)
+)nim/lomm(
+wolf
+raloM
+)nim/lomm(
+wolf
+raloM
+Figure7.Productgasmolarflow(mmolmin-1)fordried(left)andcalcined(right)catalystspretreatedunderoxidativeconditions.
+86
+84
+Cat-dried
+Cat-calcined
+82
+80
+78
+76
+74
+2 4 6 8 10 12 14
+)%(
+ytivitceleS
+silvertimeyield,definedasthemolesofethyleneconvertedper
+Oxidative pretreatment
+gramofsilverpers,hadamaximumvalueoversilverparticlesof
+approximately60nmsize.32Theselectivitytoethyleneoxidewas
+reportedtobeindependentofsilverparticlesize. However,the
+selectivityata2.8%ethyleneconversionwasabout50%,whichis
+significantlylowerthantheselectivityweobtained.Thecatalyst
+appliedbyvandenReijenetal.containedonlysilveron𝛼-Al O
+2 3
+without any promotors, this could be the reason for the lower
+selectivity.
+The selectivity towards ethylene oxide is plotted against the
+ethyleneconversioninFig.6.Theselectivityandconversionare
+calculated as the average of the last seven data points before
+changing the reaction temperature. Standard deviation for the
+ethyleneconversionsaresmallerthan0.09%andfortheethylene
+oxide selectivity the average standard deviation is 0.25% in the
+resultspresentedbelow.
+Figure5 reveals that the dried and calcined catalysts have
+CH conversion (%)
+2 4 different activity at the same reaction temperature, with the
+dried one being more active. However, from Fig.6 no major
+Figure8. Selectivity–conversion plot for the dried (black squares) and
+differencesbetweenthetwocatalystsatsimilarethyleneconver-
+calcined(redcircles)catalystspretreatedunderoxidativeconditions.
+sionscanbeobserved.Diaoetal.10 usedacesiumandrhenium
+promoted silver catalyst similar to the ones applied here and
+Influenceofthecatalystpreparationmethodonconversion reported ethylene oxide selectivity of 81.7% at 10.1% ethylene
+andselectivity conversion.
+The catalysts prepared with different thermal treatments were
+investigatedundersimilarreactionconditions.Themolarflowsof Influenceofcatalystpretreatmentmethod
+theproductgasesareillustratedinFig.5.Beforetheexperiments Oxidativepretreatment
+the catalysts were pretreated using the standard procedure, i.e. Thedriedandcalcinedcatalystswerepretreatedwithanoxidative
+∘
+20%ethyleneat250 Covernight. pretreatment.Themolarflowsoftheproductgasesareplottedin
+From Fig.5 it can be observed that the initial behavior of the Fig.7.Theinductionperiodobservedwiththestandardpretreat-
+twocatalystsdifferssignificantly.Thedriedcatalysthasaninduc- mentmethodforthedriedsamplewasnotpresentforthesame
+tion period up to ca. 500min, after which a steady state was catalystwhentheoxidativepretreatmentwasapplied.Thisresult
+reached.Incontrast,noinductionperiodwasnoticeableforthe isinagreementwiththehypothesisthatthesilverparticlessinter
+calcinedcatalyst.Apossiblereasonforthedifferenceintheinitial duringthepretreatment.Theoxidativepretreatmentresemblesin
+behavior of the two catalysts could be that the organic com- factcalcinationwiththeexceptionthattheoxygenmixturecon-
+pounds used in the catalyst preparation are removed from the tains10%carbondioxideandthatthedurationofthepretreat-
+catalystsurfaceeitherduringcalcinationorduringtheinduction ment is approximately 16h, while calcination was performed in
+periodofthedriedcatalyst.Analternativeexplanationwouldbe 1h.Apossiblereasonfortheabsenceoftheinductionperiodis
+that silver particles sinter to larger ones, which could be more that the stabilization of silver particles occurs during the oxida-
+active.Recently,vandenReijenetal.32reportedthattheturnover tivepretreatmentofthedriedcatalystandduringcalcinationin
+frequency increases until the silver particle size is larger than thepreparationofthecalcinedcatalystorcombustionoforganic
+70nm and thereafter the turnover frequency is constant. The residues.
+JChemTechnolBiotechnol2018;93:1549–1557 ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/jctb
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1554
+www.soci.org AAhoetal.
+240 °C 230 °C 250 °C
+1.0
+0.8
+O2
+CO2
+0.6 C2H4
+C2H4O
+0.4
+0.2
+0.0
+0 500 1000 1500 2000 2500
+)nim/lomm(
+wolf
+raloM
+250 °C
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 1000 2000 3000 4000
+Time-on-stream (min)
+C°
+042
+C°
+032
+C°
+052
+C°
+042
+C°
+032
+C°
+052
+O2
+CO2
+C2H4
+C2H4O
+)nim/lomm(
+wolf
+raloM
+Time-on-stream (min)
+C°
+052
+Figure9.Productgasmolarflow(mmolmin-1)fordried(left)andcalcined(right)catalystspretreatedunderreductiveconditions.
+86
+84
+Cat-dried
+Cat-calcined
+82
+80
+78
+76
+74
+2 4 6 8 10 12 14
+)%(
+ytivitceleS
+catalysts.Alongertestingprogramwasusedforthecalcinedcat-
+Reductive pretreatment
+alystinordertoinvestigatepossibledeactivation.Nodeactivation
+wasobserved,insteadtheethyleneconversionincreasedslightly
+withtime.
+Thereductivepretreatmentresemblestheoxygenadsorption,
+outgassing, and reduction method (OAOR) for the calcined cat-
+alyst. Czanderna26 reported that the silver surface area can be
+cleanedandstabilizedwiththismethod.Itwasalsoreportedthat
+∘ silverstartstosinteratabout200 C,whichisinagreementwith
+theSEMimagesdisplayedinFigs2and3.Metallicsilverisproba-
+blynottheactivephaseintheepoxidationofethylenetoethylene
+oxidebutisquicklycoveredwithoxygenduringachangeofthe
+gascomposition.Comparisonbetweenareductivepretreatment
+andastandardpretreatmentrevealsthatinordertoreachacer-
+tainethyleneconversionahigherreactiontemperatureisneeded
+andthatselectivitytoethyleneoxideislowerwiththereductive
+pretreatment.
+CH conversion (%)
+2 4
+Heliumpretreatment
+Figure10.Selectivity–conversionplotforthedried(blacksquares)and
+calcined(redcircles)catalystspretreatedunderreductiveconditions. The results of the helium pretreatment are illustrated in Figs11
+and 12. Although the induction period previously observed for
+the dried catalyst was present for the helium pretreated cata-
+The selectivity–conversion plot displayed in Fig.8 confirms lyst, the catalyst behavior was, however, different. While ethy-
+that the selectivity at a given conversion is almost the same lene oxide was formed directly from the beginning of the run
+for both catalysts. A comparison of the results in Fig.6 (stan- after ca. 4h time-on-stream, the catalyst productivity increased
+dardpretreatment)andFig.8(oxidativepretreatment)indicates andremainedfairlyconstantuntilthereactiontemperaturewas
+that the in situ oxidative pretreatment of the catalysts is more changed. The dried catalyst was more active than the calcined
+beneficial than calcination as selectivity at a given conversion one. It is well known that silver oxide and oxalate decompose
+∘
+is slightly higher (about 1% at 8% conversion) for the catalyst at around 200 C forming metallic silver and oxygen or carbon
+pretreated under oxidative conditions. The results presented dioxide.
+here (Figs6 and 8) are in agreement with the results of Diao Theaimwiththeheliumpretreatmentwastostabilizethesil-
+etal.10 who reported that in situ pretreatment with oxygen verparticlespriortothetesting.Thetreatmentshowednodiffer-
+improvestheselectivityby1–2percentagepointscomparedwith ence in the performance of the helium treated catalyst (Fig.12)
+calcination. comparedwiththestandardpretreatmentwithethylene(Fig.6)in
+termsofactivityandselectivity.
+Reductivepretreatment DCEpretreatment
+TheresultsfromthereductivepretreatmentaredisplayedinFigs9 The DCE pretreatment results are shown in Figs13 and 14. The
+and10. inductionperiodforthedriedcatalystwasalmostthesamefor
+Pretreatment in hydrogen preserved the high activity of the the DCE pretreatment and the standard pretreatment. The DCE
+driedcatalyst,similarlytothestandardpretreatmentinethylene. pretreatmentofthedriedcatalystgaveaslightlybetterselectivity
+Theselectivityatagivenconversionwascomparableforthetwo comparedwiththecalcinedone.
+wileyonlinelibrary.com/jctb ©2018SocietyofChemicalIndustry JChemTechnolBiotechnol2018;93:1549–1557
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1555
+Ethyleneepoxidationoversupportedsilvercatalysts www.soci.org
+250 °C 240 °C 230 °C 250 °C
+1.0 1.0
+0.8 0.8
+O2
+CO2
+0.6 C2H4 0.6
+C2H4O
+0.4 0.4
+0.2 0.2
+0.0 0.0
+0 500 1000 1500 2000 2500 0 1000 2000 3000 4000
+Time-on-stream (min)
+C°
+042
+C°
+032
+C°
+052
+C°
+042
+C°
+032
+C°
+052
+O2
+CO2
+C2H4
+C2H4O
+Time-on-stream (min)
+)nim/lomm(
+wolf
+raloM
+)nim/lomm(
+wolf
+raloM
+C°
+052
+Figure11.Productgasmolarflow(mmolmin-1)fordried(left)andcalcined(right)catalystspretreatedinheliumatmosphere.
+86
+Helium pretreatment
+84
+Cat-dried
+Cat-calcined
+82
+80
+78
+76
+74
+2 4 6 8 10 12 14
+CH conversion (%)
+2 4
+)%(
+ytivitceleS
+the values for the Cat-calcined with the oxidative pretreatment
+which did not reach 7% conversion at the tested temperature
+interval.
+Table2showsthatthetemperatureneededtoreach7%ethy-
+∘ leneconversionislessthan240 Cforthedriedcatalystpretreated
+withdifferentstrategiesexcepttheoxidativepretreatmentrequir-
+∘
+ing244.7 Ctoachieve7%conversion.Thecalcinedcatalystisless
+activethanthedriedoneandthereforetherequiredreactiontem-
+peratureissignificantlyhigherforthecalcinedcatalystindepen-
+dentofthepretreatmentmethod.
+CONCLUSIONS
+Two catalysts bearing silver supported on 𝛼-alumina were pre-
+pared with similar procedures, but different in their thermal
+∘
+treatments.Whileonecatalystwasdriedovernightat150 C,the
+∘
+otheronewascalcinedat300 Cfor1h.Thecatalystsweretested
+Figure12.Selectivity–conversionplotforthedried(blacksquares)and undersimilarreaction conditionsafterpretreatingthemin20%
+calcined(redcircles)catalystspretreatedunderheliumatmosphere. ethylene at 250 ∘ C. It was found that the dried catalyst had an
+inductionperiodcontrarytothecalcinedone.Apossiblereason
+fortheinductionperiodcouldberemovaloforganiccompounds
+Ithasbeenreportedthatsilvercatalyststhathavebeenmodified
+withtheadditionofDCEaremoreactiveandselective,33 there- usedincatalystpreparation,coveringtheactivesilverparticlesor
+foretheaimofDCEpretreatmentwastomodifythesilversurface sintering of the silver particles into larger more active particles.
+inordertoachievehigherconversionandbetterselectivitycom- The two catalysts showed similar ethylene oxide selectivities at
+paredwithotherpretreatmentmethods.Aslightlyhigherethy- similarsteady-stateethyleneconversions.Differentpretreatment
+leneoxideselectivitywasachievedwiththeDCEpretreatmentata strategies were investigated including oxidative pretreatment
+givenethyleneconversioncomparedwiththeotherpretreatment with oxygen, reductive pretreatment with hydrogen, thermal
+strategies. treatmentininertgas(helium)andexposingthecatalysttoDCE
+Selectivity–conversion dependencies for all tested pretreat- (1ppm)beforethestandardpretreatmentmentionedabove.The
+ment strategies are displayed in Fig.15. The conversion of oxidative and DCE pretreatment improved the performance of
+ethylene is higher with the dried catalyst (circles) except for thedriedcatalyst.However,itwaspossibletoreach7%ethylene
+the oxidative pretreatment. The highest ethylene conver- conversionatsignificantlylowertemperatureswiththeDCEpre-
+sion was obtained with catalyst pretreated in 20% ethylene. treatmentmethodthanwiththeoxidativemethod.Theinduction
+Oxidative pretreatment gives slightly better selectivity to ethy- period became shorter with the helium pretreatment and was
+lene oxide at a similar conversion compared with the other completelyeliminatedwithoxidativeandreductivepretreatment
+pretreatment methods. The DCE pretreatment of the dried methods.Highestethyleneoxideselectivity(82.1%)atanindus-
+catalyst resulted in the highest selectivity at a given ethylene triallyrelevantethyleneconversion(7.0%)wasreachedwiththe
+conversion. dried catalyst pretreated with DCE. Furthermore, the reaction
+Table3 lists the reaction temperature needed to reach 7% temperature required to reach 7% ethylene conversions was
+∘
+ethylene conversion and the selectivity to ethylene oxide. The one of the lowest (232.6 C) among all pretreatment strategies
+values listed are interpolated from the figures above except investigated.
+JChemTechnolBiotechnol2018;93:1549–1557 ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/jctb
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1556
+www.soci.org AAhoetal.
+250 °C 240 °C 230 °C 250 °C
+1.0 1.0
+0.8 0.8
+O2
+CO2
+0.6 C2H4 0.6
+C2H4O
+0.4 0.4
+0.2 0.2
+0.0 0.0
+0 500 1000 1500 2000 2500 0 1000 2000 3000 4000
+Time-on-stream (min)
+C°
+042
+C°
+032
+C°
+052
+C°
+042
+C°
+032
+C°
+052
+O2
+CO2
+C2H4
+C2H4O
+Time-on-stream (min)
+)nim/lomm(
+wolf
+raloM
+)nim/lomm(
+wolf
+raloM
+C°
+052
+Figure13.Productgasmolarflow(mmolmin-1)fordried(left)andcalcined(right)catalystspretreatedfirstinthepresenceofDCE(1ppm)andthenunder
+standardconditions.
+86
+DCE + STD pretreatment
+84
+Cat-dried
+Cat-calcined
+82
+80
+78
+76
+74
+2 4 6 8 10 12 14
+CH conversion (%)
+2 4
+)%(
+ytivitceleS
+Figure14.Selectivity–conversionplotforthedried(blacksquares)and
+calcined (red circles) catalysts pretreated first in DCE and then under
+standardconditions.
+86
+84
+82
+Calcined-STD
+80 Dried-STD
+Calcined-Reductive
+Dried-Reductive
+78 Calcined-Oxidative
+Dried-Oxidative
+Calcined-He
+76
+Dried-He
+Calcined-DCE+STD
+74 Dried-DCE+STD
+2 4 6 8 10 12 14
+CH conversion (%)
+2 4
+)%(
+ytivitceleS
+Table3. Temperatureandselectivityat7%ethyleneconversion
+Catalyst Pretreatnent Temperature(∘C) Selectivity
+Dried STD 230.1 81.3%
+Calcined STD 242.9 80.4%
+Dried Oxidative 244.7 81.5%
+Calcined Oxidative 252.9 81.4%
+Dried Reductive 234.7 80.2%
+Calcined Reductive 249.9 80.7%
+Dried Helium 232.2 80.8%
+Calcined Helium 249.2 79.7%
+Dried DCE+STD 232.6 82.1%
+Calcined DCE+STD 248.2 80.4%
+ACKNOWLEDGEMENTS
+This work is part of the activities of the Johan Gadolin Process
+ChemistryCentreatÅboAkademiUniversity.
+REFERENCES
+1 Weissermel K and Arpe HJ (eds), Industrial Organic Chemistry.
+Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim,Germany(2003).
+2 ÖzbekMOandvanSantenRA,Themechanismofethyleneepoxidation
+catalysis.CatalLett143:131–141(2013).
+3 MetcalfPLandHarriottP,Kineticsofsilver-catalyzedethyleneoxida-
+tion.IndEngChemProcessDD11:478–484(1972).
+4 HernándezCarucciJR,HalonenV,EränenK,WärnåJ,OjalaS,Huuhta-
+nen M, etal., Ethylene oxide formation in a microreactor: from
+qualitative kinetics to detailed modeling. Ind Eng Chem Res
+49:10897–10907(2010).
+5 Schlögl R, Heterogeneous catalysis. Angew Chem 54:3465–3520
+(2015).
+6 DemidovDV,ProsvirinIP,SorokinAM,RochaT,Knop-GerickeAand
+BuktiyarovVI,PreparationofAg/HOPGmodelcatalystswithavari-
+ableparticlesizeandaninsituXPSstudyoftheircatalyticproperties
+inethyleneoxidation.KinetCatal52:855–861(2011).
+7 JonesTE,RochaTCR,Knop-GerickeA,StamoflC,SchlöglRandPiccinin
+S,Thermodynamicandspectroscopicpropertiesofoxygenonsilver
+underanoxygenatmosphere.PhysChemChemPhys17:9288–9312
+(2015).
+Figure15.Selectivity–conversionplotforthedried(circle)andcalcined 8 vanSantenRAandKuipersHPCE,Themechanismofethyleneepoxi-
+(triangles)catalystspretreatedwithdifferentstrategies. dation.AdvCatal35:265–321(1987).
+wileyonlinelibrary.com/jctb ©2018SocietyofChemicalIndustry JChemTechnolBiotechnol2018;93:1549–1557
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+1557
+Ethyleneepoxidationoversupportedsilvercatalysts www.soci.org
+9 MonnierJR,Theselectiveepoxidationofnon-allylicolefinsoversupported 21 SchoutenEPS,BormanPCandWesterterpKR,Influenceofreaction
+silvercatalysts,3rdWorldCongressonOxidationCatalysis,135–149 products on the selective oxidation of ethane. ChemEngProcess
+(1997) 35:107–120(1996).
+10 DiaoW,DiGiulioCD,SchaalMT,MaSandMonnierJR,Aninvestigation 22 TanSA,GrantRBandLambertRM,Secondarychemistryintheselective
+oftheroleofReasapromoterinAg-Cs-Re/𝛼-Al O high-selectivity, oxidationofethylene:effectofClandCspromotersontheadsorp-
+2 3
+ethyleneepoxidationcatalysts.JCatal322:14–23(2015). tion,isomerization,andcombustionofethyleneoxideonAg(111).J
+11 Salmi T, Hernández Carucci J, Roche M, Eränen K, Wärnå J and Catal106:54–64(1987).
+Murzin D, Microreactors as tools in kinetic investigations: ehty- 23 Kestenbaum H, Lange de Oliveira A, Schmidt W and Schüth F,
+leneoxideformationonsilvercatalyst.ChemEngSci87:306–314 Silver-catalyzed oxidation of ethylene to ethylene oxide in a
+(2013). microreactionsystem.IndEngChemRes41:710–719(2002).
+12 Christropher P, Xin H and Linic S, Visible-light-enhanced catalytic 24 Hoflund GB and Minaham DM, Study of Cs-promoted,
+oxidationreactionsonplasmonicsilvernanostructures.NatChem 𝛼-alumina-supported silver, ethylene-epoxidation catalysts, II.
+3:467–472(2011). Effectsofaging.JCatal162:48–53(1996).
+13 AyameA,UchidaY,OnoH,MiyamotoM,SatoTandHayasakaH,Epoxi- 25 Nault LG, Bolme DW and Johansson LN, Reaction rate studies of
+dationofethyleneoversilvercatalystssupportedon𝛼-aluminacrys- catalyticoxidationofethane.IndEngChemProcessDD1:285–292
+talcarriers.ApplCatalAGen244:59–70(2003). (1962).
+14 LafargaD,Al-JuaiedMA,BondyCMandVarmaA,Ethyleneepoxidation 26 CzandernaAW,Theeffectofcyclicoxygenadsorptionandreduction
+on Ag-Cs/𝛼-Al O3 catalyst: experimental results and strategy for onasilversurface.JPhysChem70:2120–2125(1966).
+2
+kineticparameterdetermination.IndEngChemRes39:2148–2156 27 CavittSB,Ethyleneoxideproduction.USPatent4374260,February15
+(2000). (1983).
+15 ForceELandBellAT,Theeffectofdichloroethanemoderationonthe 28 Iwakura T, Imamoto T and Nakashiro K, Catalyst for production of
+adsorbed species present during the oxidation of ethylene over ethylene oxide. European Patent Application EP 1 529 565 A1,
+silver.JCatal44:175–182(1976). September25(1996).
+16 Voge HH and Adams CR, Catalytic oxidation of olefins. Adv Catal 29 NielsenRPandLaRochelleJH,Ethyleneoxideprocess.USPatent4012
+17:151–221(1967). 425,March15(1977).
+17 RochaTCR,HäveckerM,Knop-GerickeAandSchlöglR,Promotersin 30 Lauritzen AM, Ethylene oxide catalyst and process for the catalytic
+heterogeneouscatalysis:theroleofClonethyleneepoxidationover productionofethyleneoxide.EuropeanPatentSpecification0266
+Ag.JCatal312:12–16(2014). 015B1,December4(1991).
+18 Yeung KL, Gavriilidis A, Varma A and Bhasin MM, Effects of 1,2 31 Boldyrev VV, Thermal decomposition of silver oxalate. Thermochim
+dichloroethaneadditionontheoptimalsilvercatalystdistribution Acta388:63–90(2002).
+inpelletsforepoxidationofethylene.JCatal174:1–12(1998). 32 vandenReijenJE,KanungoS,WellingTAJ,Verluijs-HelderM,Nijhuis
+19 LaFargaDandVarmaA,Ehtyleneepoxidationinacatalyticpacked- TA,deJongKPanddeJonghPE,Preparationandparticlesizeeffects
+bed membrane reactor: effects of reactor configuration and ofAg/𝛼-Al O catalystsforethyleneepoxidation.JCatal356:65–74
+2 3
+1,2-dichloroethaneaddition.ChemEngSci55:749–758(2000). (2017).
+20 Griffe B, Blues E and Bryce-Smith D, Study of the effect of carbon 33 Monnier JR, Stavinoha JL and Hartley GW, Effects of chlorine and
+dioxideonthecatalyticpropertiesofasilvercatalystintheoxidation chlorinedynamicsduringsilver-catalyzedepoxidationofbutadiene.
+ofethylenetoethyleneoxide.ApplCatal10:303–312(1984). JCatal226:321–333(2004).
+JChemTechnolBiotechnol2018;93:1549–1557 ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/jctb
+10974660,
+2018,
+6,
+Downloaded
+from
+https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jctb.5592
+by
+Beijing
+University
+of Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+

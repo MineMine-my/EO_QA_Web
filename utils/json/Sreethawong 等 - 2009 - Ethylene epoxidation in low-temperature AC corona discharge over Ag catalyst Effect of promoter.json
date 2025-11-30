@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "降低",
+        "end_node": "功率消耗"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "降低",
+        "end_node": "功率消耗"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "中和",
+        "end_node": "酸性位点"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "Au",
+        "relationship": "减弱",
+        "end_node": "Ag-O键"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "12.5wt.%"
+    },
+    {
+        "start_node": "Cs负载量",
+        "relationship": "范围",
+        "end_node": "0.2-1wt.%"
+    },
+    {
+        "start_node": "Au负载量",
+        "relationship": "范围",
+        "end_node": "0.2-1wt.%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "室温"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1/1"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "5-12nm"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "关联",
+        "end_node": "DOI 10.1016/j.cej.2009.07.031"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "关联",
+        "end_node": "DOI 10.1016/j.cej.2009.07.031"
+    },
+    {
+        "start_node": "Cs-Ag催化剂",
+        "relationship": "发表年份",
+        "end_node": "2009"
+    },
+    {
+        "start_node": "Au-Ag催化剂",
+        "relationship": "发表年份",
+        "end_node": "2009"
+    },
+    {
+        "start_node": "低Au负载",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "高Au负载",
+        "relationship": "形成",
+        "end_node": "Au-Ag合金"
+    },
+    {
+        "start_node": "Au-Ag合金",
+        "relationship": "降低",
+        "end_node": "环氧化性能"
+    },
+    {
+        "start_node": "电晕放电",
+        "relationship": "产生",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "活性物种",
+        "relationship": "促进",
+        "end_node": "反应转化"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "提供",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "活性位点",
+        "relationship": "吸附",
+        "end_node": "分子氧"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "促进",
+        "end_node": "乙烯环氧化"
+    }
+]

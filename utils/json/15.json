@@ -1,0 +1,147 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径分布",
+        "relationship": "影响",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "平均粒径",
+        "relationship": "不足描述",
+        "end_node": "粒径分布"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "降低",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "130-150nm",
+        "relationship": "提高",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "130-150nm",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "5-400nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "513K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "5.3bar"
+    },
+    {
+        "start_node": "C2H4浓度",
+        "relationship": "范围",
+        "end_node": "30mol%"
+    },
+    {
+        "start_node": "O2浓度",
+        "relationship": "范围",
+        "end_node": "7.7mol%"
+    },
+    {
+        "start_node": "C2H5Cl",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "C2H5Cl浓度",
+        "relationship": "范围",
+        "end_node": "3.5ppm"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "Ag/Al2O3"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "6.9-35wt%"
+    },
+    {
+        "start_node": "H2处理",
+        "relationship": "形成",
+        "end_node": "小粒径"
+    },
+    {
+        "start_node": "O2处理",
+        "relationship": "形成",
+        "end_node": "大粒径"
+    },
+    {
+        "start_node": "氧吸附",
+        "relationship": "影响",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "增强",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "强氧吸附",
+        "relationship": "降低",
+        "end_node": "EO速率"
+    },
+    {
+        "start_node": "粒径分布",
+        "relationship": "决定",
+        "end_node": "电子性质"
+    },
+    {
+        "start_node": "粒径分布",
+        "relationship": "决定",
+        "end_node": "几何性质"
+    }
+]

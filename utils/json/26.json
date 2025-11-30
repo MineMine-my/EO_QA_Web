@@ -1,0 +1,222 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "诱导温度",
+        "relationship": "范围",
+        "end_node": "230-270°C"
+    },
+    {
+        "start_node": "最优诱导温度",
+        "relationship": "是",
+        "end_node": "260°C"
+    },
+    {
+        "start_node": "高温诱导",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "高温诱导",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应气体",
+        "relationship": "促进",
+        "end_node": "诱导效应"
+    },
+    {
+        "start_node": "O2诱导",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "C2H4诱导",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "N2诱导",
+        "relationship": "无影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "诱导过程",
+        "relationship": "生成",
+        "end_node": "碳酸盐"
+    },
+    {
+        "start_node": "碳酸盐",
+        "relationship": "稳定",
+        "end_node": "次表面氧"
+    },
+    {
+        "start_node": "次表面氧",
+        "relationship": "促进",
+        "end_node": "O2吸附"
+    },
+    {
+        "start_node": "次表面氧",
+        "relationship": "促进",
+        "end_node": "C2H4吸附"
+    },
+    {
+        "start_node": "次表面氧",
+        "relationship": "促进",
+        "end_node": "O2解离"
+    },
+    {
+        "start_node": "次表面氧",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "碳酸盐",
+        "relationship": "增强",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "诱导后催化剂",
+        "relationship": "维持",
+        "end_node": "高稳定性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1.5 MPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "4200 mL/h/g"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "氧迁移"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "20%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "制备方法",
+        "relationship": "是",
+        "end_node": "浸渍法"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "100-280 nm"
+    },
+    {
+        "start_node": "平均粒径",
+        "relationship": "是",
+        "end_node": "195 nm"
+    },
+    {
+        "start_node": "诱导后粒径",
+        "relationship": "增加",
+        "end_node": "210 nm"
+    },
+    {
+        "start_node": "N2诱导粒径",
+        "relationship": "增加",
+        "end_node": "310 nm"
+    },
+    {
+        "start_node": "粒径增长",
+        "relationship": "导致",
+        "end_node": "失活"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "深度氧化"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "亲核性氧",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    }
+]

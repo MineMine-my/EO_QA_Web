@@ -1,0 +1,82 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "225-340°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "10-100 mbar"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "范围",
+        "end_node": "5.6-7.7%"
+    },
+    {
+        "start_node": "环氧乙烷选择性",
+        "relationship": "范围",
+        "end_node": "90%以上"
+    },
+    {
+        "start_node": "环氧乙烷产率",
+        "relationship": "范围",
+        "end_node": "2870 g/h·L"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高压",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氮氧化物",
+        "relationship": "催化",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "O3",
+        "relationship": "氧化",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "优于",
+        "end_node": "商业工艺"
+    }
+]

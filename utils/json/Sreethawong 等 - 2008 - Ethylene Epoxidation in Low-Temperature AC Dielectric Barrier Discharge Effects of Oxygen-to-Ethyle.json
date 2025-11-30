@@ -1,0 +1,212 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "影响",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "高O2/C2H4比",
+        "relationship": "降低",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "高O2/C2H4比",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "范围",
+        "end_node": "1:1-4:1"
+    },
+    {
+        "start_node": "最佳O2/C2H4比",
+        "relationship": "是",
+        "end_node": "1:1"
+    },
+    {
+        "start_node": "进料流速",
+        "relationship": "影响",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "高进料流速",
+        "relationship": "降低",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "高进料流速",
+        "relationship": "降低",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "进料流速",
+        "relationship": "范围",
+        "end_node": "50-125 cm3/min"
+    },
+    {
+        "start_node": "最佳进料流速",
+        "relationship": "是",
+        "end_node": "50 cm3/min"
+    },
+    {
+        "start_node": "输入频率",
+        "relationship": "影响",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "高输入频率",
+        "relationship": "降低",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "输入频率",
+        "relationship": "范围",
+        "end_node": "500-800 Hz"
+    },
+    {
+        "start_node": "最佳输入频率",
+        "relationship": "是",
+        "end_node": "500 Hz"
+    },
+    {
+        "start_node": "施加电压",
+        "relationship": "影响",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "高施加电压",
+        "relationship": "提高",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "施加电压",
+        "relationship": "范围",
+        "end_node": "13-21 kV"
+    },
+    {
+        "start_node": "最佳施加电压",
+        "relationship": "是",
+        "end_node": "19 kV"
+    },
+    {
+        "start_node": "电极间隙",
+        "relationship": "影响",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "大电极间隙",
+        "relationship": "降低",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "电极间隙",
+        "relationship": "范围",
+        "end_node": "10-14 mm"
+    },
+    {
+        "start_node": "最佳电极间隙",
+        "relationship": "是",
+        "end_node": "10 mm"
+    },
+    {
+        "start_node": "DBD系统",
+        "relationship": "产生",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "DBD系统",
+        "relationship": "操作温度",
+        "end_node": "25-27°C"
+    },
+    {
+        "start_node": "最佳条件",
+        "relationship": "获得",
+        "end_node": "5.6% EO产率"
+    },
+    {
+        "start_node": "最佳条件",
+        "relationship": "获得",
+        "end_node": "6.2% EO选择性"
+    },
+    {
+        "start_node": "低温DBD",
+        "relationship": "优势",
+        "end_node": "低能耗"
+    },
+    {
+        "start_node": "传统催化",
+        "relationship": "需要",
+        "end_node": "高温操作"
+    },
+    {
+        "start_node": "高温操作",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "O2贫条件",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "O2富条件",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "高电压",
+        "relationship": "增加",
+        "end_node": "电子密度"
+    },
+    {
+        "start_node": "电子密度",
+        "relationship": "影响",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "短停留时间",
+        "relationship": "促进",
+        "end_node": "脱氢反应"
+    },
+    {
+        "start_node": "长停留时间",
+        "relationship": "促进",
+        "end_node": "偶联反应"
+    }
+]

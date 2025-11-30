@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>乙烯环氧化催化剂智能问答系统</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+      color: white;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      /* 使用本地背景图 */
+      /* background: url('static/images/1.jpg') no-repeat center center fixed; */
+      /* background: url('static/images/3.jpg') no-repeat center center fixed; */
+      background: url('static/images/4.v1') no-repeat center center fixed;
+      /* background: url('static/images/5.v1') no-repeat center center fixed; */
+      /* background: url('static/images/6.png!w1024_new_small_1') no-repeat center center fixed; */
+      /* background: url('static/images/7.png') no-repeat center center fixed; */
+
+      background-size: cover;
+    }
+
+    .container {
+      display: flex;
+      width: 90%;
+      max-width: 1400px;
+      height: 85vh;
+      border-radius: 20px;
+      overflow: hidden;
+      backdrop-filter: blur(25px); /* 增强模糊效果 */
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .intro-section {
+      flex: 0 0 70%;
+      padding: 140px 40px 60px; /* 上边距大一些，让内容整体下移，但标题仍靠上 */
+      display: flex;
+      flex-direction: column;
+      background: rgba(0, 0, 0, 0.25); /* 稍微加深透明度，提升对比度 */
+    }
+
+    .intro-section h1 {
+      font-size: 2.8rem; /* 加大字体 */
+      font-weight: 700;
+      text-align: center;
+      text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5); /* 增强阴影效果 */
+      margin-bottom: 30px; /* 增加标题与介绍之间的间距 */
+    }
+
+    .carousel-content {
+      font-size: 1.3rem; /* 稍微增大字体 */
+      line-height: 1.8;
+      max-width: 740px;
+      margin: 0 auto; /* 水平居中 */
+      opacity: 1;
+      transition: opacity 0.6s ease-in-out; /* 更平滑的过渡 */
+    }
+
+    /* 右侧按钮区 */
+    .action-section {
+      flex: 0 0 30%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 30px;
+      gap: 24px;
+    }
+
+    .action-btn {
+      width: 85%;
+      padding: 18px 26px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #2c3e50;
+      background: rgba(255, 255, 255, 0.95); /* 提高背景透明度 */
+      border: none;
+      border-radius: 16px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18); /* 增强阴影 */
+      text-align: center;
+    }
+
+    .action-btn:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.22); /* 更深的阴影 */
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    @media (max-width: 900px) {
+      .container {
+        flex-direction: column;
+        height: auto;
+      }
+      .intro-section {
+        padding: 120px 20px 40px; /* 移动端适当调整上下内边距 */
+      }
+      .intro-section h1 {
+        font-size: 2.4rem;
+      }
+      .action-section {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+  <!-- 左侧：标题 + 轮播介绍 -->
+  <div class="intro-section">
+    <h1>乙烯环氧化催化剂智能问答系统</h1>
+    <div id="carousel" class="carousel-content"></div>
+  </div>
+
+  <!-- 右侧：功能按钮 -->
+  <div class="action-section">
+    <button class="action-btn" onclick="window.location.href='search.html'">
+      🔍 知识图谱
+    </button>
+    <button class="action-btn" onclick="window.location.href='question.html'">
+      💬 智能问答
+    </button>
+  </div>
+</div>
+
+<script>
+  const slides = [
+    `<strong>【团队介绍】</strong> <br>团队致力于开发面向乙烯环氧化生产环氧乙烷场景下，辅助银基催化剂制备配方研发的智能问答系统，融合大语言模型与知识图谱，通过对文献数据与工艺知识的整理与挖掘，为催化剂优化与工艺决策提供智能支持。团队成员来自化学工程与工艺+大数据管理与应用双学士学位、计算机科学与技术专业，专业背景互补，合作氛围活跃而高效。大家在讨论中敢想敢试，在实践中不断调优系统性能，始终保持对前沿技术的敏锐与对工程问题的关注。团队注重严谨、创新与协作，致力于为催化剂制备配方研发与优化提供智能化支持，为绿色化工与产业升级贡献年轻力量。`,
+    `<strong>【项目背景】</strong> <br>环氧乙烷（EO）是重要的基础化工原料，银基催化剂性能直接决定其生产效率与选择性。本项目以大语言模型和RAG技术为核心，通过文献挖掘与知识图谱构建，系统提取银基催化剂的组分、工艺及性能关系，建立结构化数据库并打造专业智能问答平台。项目旨在提升催化剂设计与工况优化的智能化水平，为环氧乙烯氧化过程实现更高选择性、更低能耗和更绿色的生产路径提供技术支撑。`,
+    `<strong>【团队指导老师】</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;许昊翔，北京化工大学化学工程学院教授<br>
+&nbsp;&nbsp;&nbsp;&nbsp;李蓝宇，北京化工大学化学工程学院副教授<br>
+<strong>【团队成员】</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;黄米阳、费芸熙、何晶晶、王曦、来一帆，北京化工大学在读本科生`
+  ];
+
+  const carouselEl = document.getElementById('carousel');
+  let currentIndex = 0;
+  let intervalId = null;
+
+  function showSlide(index) {
+    carouselEl.style.opacity = 0;
+    setTimeout(() => {
+      carouselEl.innerHTML = slides[index];
+      carouselEl.style.opacity = 1;
+    }, 200);
+  }
+
+  function nextSlide() {
+    currentIndex = (currentIndex + 1) % slides.length;
+    showSlide(currentIndex);
+  }
+
+  function startAutoPlay() {
+    intervalId = setInterval(nextSlide, 3500);
+  }
+
+  function stopAutoPlay() {
+    if (intervalId) clearInterval(intervalId);
+  }
+
+  showSlide(currentIndex);
+  startAutoPlay();
+
+  carouselEl.addEventListener('mouseenter', stopAutoPlay);
+  carouselEl.addEventListener('mouseleave', startAutoPlay);
+</script>
+
+</body>
+</html>

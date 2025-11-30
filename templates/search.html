@@ -1,0 +1,249 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>乙烯环氧化催化剂知识图谱</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: Arial, sans-serif;
+            background: #f9f9f9;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        
+        /* 主内容区 */
+        #main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        #search-box {
+            margin-bottom: 15px;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        #graph {
+            flex: 1;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            background: white;
+        }
+        .hint {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 8px;
+        }
+        input, button {
+            padding: 8px 12px;
+            margin: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        button:hover {
+            background: #f0f0f0;
+            cursor: pointer;
+        }
+        h2 {
+            margin-bottom: 10px;
+        }
+    </style>
+    <link rel="stylesheet" href="/static/css/shared-sidebar.css">
+</head>
+<body>
+    <!-- 左侧历史记录 -->
+    <div id="history-panel">
+        <button id="back-home" onclick="window.location.href='/'">
+            🏠 返回主页
+        </button>
+        <h3>🔍 搜索历史</h3>
+        <div id="history-list"></div>
+        <button id="clear-history" onclick="clearHistory()">清空历史</button>
+    </div>
+
+    <!-- 主内容区 -->
+    <div id="main-content">
+        <div id="search-box">
+            <h2>🔬 乙烯环氧化催化剂知识图谱</h2>
+            <input type="text" id="query" placeholder="输入实体名称，例如：Ag、选择性、Cs..." />
+            <button onclick="search()">搜索</button>
+            <button onclick="loadFullGraph()">显示全图</button>
+            <!-- ✅ 修改：将 class="hint" 改为 id="hint" 以便 JS 控制 -->
+            <p id="hint" class="hint"></p>
+        </div>
+        <div id="graph"></div>
+    </div>
+
+    <script>
+        const chart = echarts.init(document.getElementById('graph'));
+        const HISTORY_KEY = 'kg_search_history';
+        let historySet = new Set(); // 用 Set 避免重复
+
+        // === ✅ 修改：轮播提示文本 ===
+        const hints = [
+            '提示：可尝试 Ag, 环氧乙烷, 选择性, Cs, 温度, Al₂O₃ 等',
+            '提示：双击图谱中的节点可以搜索该节点'
+        ];
+        let hintIndex = 0;
+        const hintEl = document.getElementById('hint');
+
+        function startHintRotation() {
+            hintEl.textContent = hints[hintIndex];
+            setInterval(() => {
+                hintIndex = (hintIndex + 1) % hints.length;
+                hintEl.textContent = hints[hintIndex];
+            }, 4000);
+        }
+
+        // 初始化历史记录
+        function initHistory() {
+            const saved = localStorage.getItem(HISTORY_KEY);
+            if (saved) {
+                try {
+                    const list = JSON.parse(saved);
+                    list.forEach(item => historySet.add(item));
+                } catch (e) {
+                    console.warn('历史记录解析失败', e);
+                }
+            }
+            renderHistory();
+        }
+
+        // 渲染历史列表到 DOM
+        function renderHistory() {
+            const container = document.getElementById('history-list');
+            container.innerHTML = '';
+            const historyArray = [...historySet].reverse();
+            historyArray.forEach(term => {
+                const div = document.createElement('div');
+                div.className = 'history-item';
+                div.textContent = term;
+                div.title = `点击重新搜索 "${term}"`;
+                div.onclick = () => {
+                    document.getElementById('query').value = term;
+                    search();
+                };
+                container.appendChild(div);
+            });
+        }
+
+        // 添加搜索词到历史
+        function addToHistory(term) {
+            if (!term.trim()) return;
+            historySet.delete(term); // 先删除（保证新项在最后）
+            historySet.add(term);
+            // 限制最多保留 20 条
+            if (historySet.size > 20) {
+                const first = historySet.values().next().value;
+                historySet.delete(first);
+            }
+            localStorage.setItem(HISTORY_KEY, JSON.stringify([...historySet]));
+            renderHistory();
+        }
+
+        // 清空历史
+        function clearHistory() {
+            if (confirm('确定要清空所有搜索历史吗？')) {
+                historySet.clear();
+                localStorage.removeItem(HISTORY_KEY);
+                renderHistory();
+            }
+        }
+
+        // 绘图函数（不变）
+        function drawGraph(data) {
+            const option = {
+                tooltip: { formatter: '{b}' },
+                animationDurationUpdate: 1000,
+                series: [{
+                    type: 'graph',
+                    layout: 'force',
+                    force: { repulsion: 1000, edgeLength: 200, gravity: 0.1 },
+                    draggable: true,
+                    roam: true,
+                    label: { show: true, position: 'right', fontSize: 12 },
+                    lineStyle: { color: '#888' },
+                    emphasis: { focus: 'adjacency', lineStyle: { width: 3, color: '#1f77b4' } },
+                    data: data.nodes,
+                    links: data.links.map(link => ({
+                        source: link.source,
+                        target: link.target,
+                        value: link.relation
+                    })),
+                    edgeLabel: { 
+                        show: true, 
+                        fontSize: 10,
+                        formatter: '{c}'
+                    }
+                }]
+            };
+            chart.setOption(option, { replaceMerge: ['series'] });
+
+            // ✅ 新增：监听双击事件
+            chart.off('dblclick'); // 避免重复绑定
+            chart.on('dblclick', function(params) {
+                if (params.dataType === 'node' && params.data && params.data.name) {
+                    const nodeName = params.data.name;
+                    document.getElementById('query').value = nodeName;
+                    search();
+                }
+            });
+        }
+
+        // 加载全图
+        function loadFullGraph() {
+            chart.showLoading();
+            fetch('/api/graph')
+                .then(res => res.json())
+                .then(drawGraph)
+                .catch(err => {
+                    console.error('加载失败:', err);
+                    alert('❌ 图谱加载失败，请检查后端是否运行');
+                })
+                .finally(() => chart.hideLoading());
+        }
+
+        // 搜索函数（新增历史记录）
+        function search() {
+            const q = document.getElementById('query').value.trim();
+            if (!q) {
+                alert('请输入查询词');
+                return;
+            }
+            chart.showLoading();
+            fetch(`/api/search?q=${encodeURIComponent(q)}`)
+                .then(res => res.json())
+                .then(data => {
+                    drawGraph(data);
+                    addToHistory(q); // ✅ 保存到历史
+                    document.getElementById('query').value = ''; // ✅ 清空搜索框
+                })
+                .catch(err => {
+                    console.error('搜索失败:', err);
+                    alert('❌ 搜索失败');
+                })
+                .finally(() => chart.hideLoading());
+        }
+
+        // 页面加载
+        window.onload = () => {
+            initHistory();
+            loadFullGraph();
+            startHintRotation(); // ✅ 启动轮播提示
+            document.getElementById('query').addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    search();
+                }
+            });
+        };
+    </script>
+</body>
+</html>

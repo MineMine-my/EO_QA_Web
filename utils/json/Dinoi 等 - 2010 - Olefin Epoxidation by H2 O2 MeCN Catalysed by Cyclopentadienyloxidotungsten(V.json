@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "W催化剂",
+        "relationship": "优于",
+        "end_node": "Mo催化剂"
+    },
+    {
+        "start_node": "W催化剂",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "25-55°C"
+    },
+    {
+        "start_node": "H2O2浓度",
+        "relationship": "抑制",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "水过量",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "THF溶剂",
+        "relationship": "降低",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "Et2O溶剂",
+        "relationship": "不影响",
+        "end_node": "催化剂效率"
+    },
+    {
+        "start_node": "H2O2-尿素",
+        "relationship": "降低",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "W催化剂",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "Mo催化剂",
+        "relationship": "提高",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "W中心",
+        "relationship": "促进",
+        "end_node": "电子密度转移"
+    },
+    {
+        "start_node": "电子密度转移",
+        "relationship": "降低",
+        "end_node": "O-O键能"
+    },
+    {
+        "start_node": "O-O键能降低",
+        "relationship": "促进",
+        "end_node": "亲核攻击"
+    },
+    {
+        "start_node": "亲核攻击",
+        "relationship": "提高",
+        "end_node": "环氧化速率"
+    },
+    {
+        "start_node": "水分子",
+        "relationship": "促进",
+        "end_node": "质子转移"
+    },
+    {
+        "start_node": "质子转移",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "尿素",
+        "relationship": "稳定",
+        "end_node": "H2O2"
+    },
+    {
+        "start_node": "H2O2稳定",
+        "relationship": "提高",
+        "end_node": "反应能垒"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

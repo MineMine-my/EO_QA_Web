@@ -1,0 +1,162 @@
+[
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "优于",
+        "end_node": "Pt掺杂石墨烯"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "优于",
+        "end_node": "Pd掺杂石墨烯"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "DOI",
+        "end_node": "10.1039/c7nj01089c"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "发表年份",
+        "end_node": "2017"
+    },
+    {
+        "start_node": "N2O",
+        "relationship": "分解",
+        "end_node": "Oads"
+    },
+    {
+        "start_node": "N2O",
+        "relationship": "分解",
+        "end_node": "N2"
+    },
+    {
+        "start_node": "Oads",
+        "relationship": "加成",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "乙烯加成",
+        "relationship": "生成",
+        "end_node": "乙烯氧中间体"
+    },
+    {
+        "start_node": "乙烯氧中间体",
+        "relationship": "环化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "提高",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "温和条件",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "N2O",
+        "relationship": "氧化剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "N2",
+        "relationship": "副产物",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "N2O"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "Pt掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "N2O"
+    },
+    {
+        "start_node": "Pt掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "Pd掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "N2O"
+    },
+    {
+        "start_node": "Pd掺杂石墨烯",
+        "relationship": "吸附",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "乙烯吸附",
+        "relationship": "强于",
+        "end_node": "N2O吸附"
+    },
+    {
+        "start_node": "Pt掺杂石墨烯",
+        "relationship": "吸附能力",
+        "end_node": "最强"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "吸附能力",
+        "end_node": "最弱"
+    },
+    {
+        "start_node": "乙烯氧中间体环化",
+        "relationship": "速率决定步骤",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "Ni掺杂石墨烯",
+        "relationship": "促进",
+        "end_node": "EO生成"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Na改性",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "-60至25°C"
+    },
+    {
+        "start_node": "Na-FeZSM-5",
+        "relationship": "达到",
+        "end_node": "80-84%选择性"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "添加",
+        "end_node": "C=C双键"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "反应",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "环氧乙烷+乙烯",
+        "relationship": "生成",
+        "end_node": "丁醛"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "丁醛生成"
+    },
+    {
+        "start_node": "α-氧",
+        "relationship": "不抽象",
+        "end_node": "氢"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "FeZSM-5",
+        "relationship": "负载",
+        "end_node": "α-氧"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "FeZSM-5"
+    },
+    {
+        "start_node": "离子交换",
+        "relationship": "引入",
+        "end_node": "钠"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "350 m2/g"
+    },
+    {
+        "start_node": "α-氧浓度",
+        "relationship": "范围",
+        "end_node": "58-100 μmol/g"
+    },
+    {
+        "start_node": "N2O分解",
+        "relationship": "生成",
+        "end_node": "α-氧"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "模型",
+        "end_node": "α-氧"
+    }
+]

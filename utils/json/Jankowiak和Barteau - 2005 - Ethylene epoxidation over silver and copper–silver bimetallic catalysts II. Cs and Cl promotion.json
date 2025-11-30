@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu-Ag双金属",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu-Ag双金属",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs负载量",
+        "relationship": "范围",
+        "end_node": "70 ppm"
+    },
+    {
+        "start_node": "Cs负载量",
+        "relationship": "抑制",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs负载量",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl浓度",
+        "relationship": "范围",
+        "end_node": "1 ppm"
+    },
+    {
+        "start_node": "Cu含量",
+        "relationship": "范围",
+        "end_node": "0.2 mol%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "540 K"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "范围",
+        "end_node": "1.8%"
+    },
+    {
+        "start_node": "Cs-Cu-Ag催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1016/j.jcat.2005.10.015"
+    },
+    {
+        "start_node": "Cs-Cu-Ag催化剂",
+        "relationship": "发表年份",
+        "end_node": "2005"
+    },
+    {
+        "start_node": "Cs-Cu-Ag催化剂",
+        "relationship": "最高选择性",
+        "end_node": "77%"
+    },
+    {
+        "start_node": "Cl-Cu-Ag催化剂",
+        "relationship": "最高选择性",
+        "end_node": "73%"
+    },
+    {
+        "start_node": "Cs-Cl-Cu-Ag催化剂",
+        "relationship": "最高选择性",
+        "end_node": "77%"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "中间体",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "氧金属环",
+        "relationship": "中间体",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "稳定",
+        "end_node": "TS1"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "抑制",
+        "end_node": "TS2"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "扩散",
+        "end_node": "亚表面"
+    },
+    {
+        "start_node": "Cu促进剂",
+        "relationship": "改变",
+        "end_node": "电子性质"
+    },
+    {
+        "start_node": "乙烯进料比",
+        "relationship": "范围",
+        "end_node": "6:1"
+    },
+    {
+        "start_node": "氧进料比",
+        "relationship": "范围",
+        "end_node": "6:1"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "1.34 atm"
+    },
+    {
+        "start_node": "接触时间",
+        "relationship": "范围",
+        "end_node": "0.5 s"
+    }
+]

@@ -1,0 +1,926 @@
+PCCP
+PAPER
+Room temperature epoxidation of ethylene over
+delafossite-based AgNiO nanoparticles†
+2
+Cite this: Phys. Chem. Chem. Phys.,
+2023, 25, 20892
+Dmitry A. Svintsitskiy, * Mikhail K. Lazarev, Elena M. Slavinskaya,
+Elizaveta A. Fedorova, Tatyana Yu. Kardash, Svetlana V. Cherepanova and
+Andrei I. Boronin
+A mixed oxide of silver and nickel AgNiO was obtained via co-precipitation in alkaline medium. This
+2
+oxide demonstrates room temperature activity in the reaction of ethylene epoxidation with a high
+selectivity(upto70%).UsingthePDFmethod,itwasfoundthattheinitialstructureofAgNiO contains
+2
+stacking faults and silver vacancies, which cause the nonstoichiometry of the oxide (Ag/Ni o 1). It has
+been established that on the initial surface of AgNiO oxide, silver state can be considered as an 2
+intermediate between Ag O and Ag0 (i.e. Agd+-like), while nickel is characterized by signs of a deeply
+2
+oxidized state (Ni3+-like). The interaction of AgNiO with C H at room temperature leads to the
+2 2 4
+simultaneous removal of two oxygen species with E (O 1s) = 529.0 eV and 530.5 eV considered as b
+nucleophilic and electrophilic oxygen states, respectively. Nucleophilic oxygen was attributed to the
+lattice oxygen (Ag–O–Ni), while the electrophilic species with epoxidation activity was associated with
+theweaklyboundoxygenstabilizedonthesurface.AccordingtotheTPR-C H data,alargenumberof 2 4
+Received14thApril2023, weaklyboundoxygenspecieswerefoundonthepristineAgNiO 2 surface.Theremovalofsuchspecies
+Accepted15thJuly2023 at room temperature didn’t result in noticeable structural transformation of delafossite. As the
+DOI:10.1039/d3cp01701j temperature of ethylene oxidation over AgNiO 2 increased, the appearance of Ag0 particles was first
+observed below 200 1C followed by the complete destruction of the delafossite structure at higher
+rsc.li/pccp temperatures.
+Introduction Amongthevariety ofmixedoxides, itisworth highlighting
+systems with a delafossite-type structure with the general
+The development of efficient and low-cost catalytic systems is composition ABO , where A is a monovalent metal cation
+2
+an urgent task for new and promising chemical industries. In (usually Ag1+ or Cu1+), and B is a trivalent metal cation (Fe3+,
+exploratorystudies,specialattentionispaidtocatalyststhatdo Co3+, Al3+, etc.5) or various combinations of low- and high-
+not contain expensive precious metals or whose content is valentforms(M2+/M4+,6M 2+/M5+1).Thedelafossiteandrelated
+2
+significantly reduced compared to the commonly used cata- crednerite structure types are described in detail elsewhere.7,8
+lysts. In oxidative catalysis, there is interest in mixed oxides The potential of delafossite-type materials in the field of
+whereoxygeniscoordinated bydifferentmetal ions(e.g.,M1– oxidative catalysis is high due to several reasons: (1) the
+O–M2),whichcausessignificantmodificationoftheelectronic presence in composition of Cu1+ or Ag1+ ions for activation of
+structure and reactive properties.1–3 Among the relevant char- the O molecule;9 (2) point and extended defects providing
+2
+acteristics of mixed oxides providing potential application in additionalactivesites;10,11(3)thepossibilityforoptimizationof
+selectiveoxidationreactionsthenextonesmustbementioned: theRedOxpropertiesbyselectingtheBcationand/ordoping.12
+the multifunctionality of the surface sites, a moderate bond The properties considered agree well with the presence of
+strengthoftheactiveoxygen,andthehighRedOxabilityofthe highly reactive oxygen forms capable of interacting with reac-
+catalyst.4 Therefore, mixed oxides of transition metals should tantsatlowtemperaturesaswasobservedforsilver-containing
+be regarded as efficient and inexpensive alternative catalytic mixed oxides.13,14 It was found that the high oxidative activity
+systemsforvariousoxidativeprocesses. of the AgNiO oxide with the delafossite-type structure is
+2
+ensured not only by the lattice oxygen (Ag–O–Ni), but also by
+an additional weakly charged form,14 which is of interest for
+BoreskovInstituteofCatalysis,Pr.Lavrentieva5,630090,Novosibirsk,Russian
+theselectiveoxidationreactions.
+Federation.E-mail:sad@catalysis.ru
+Traditionally, silver-containing catalysts are used in various
+†Electronicsupplementaryinformation(ESI)available.SeeDOI:https://doi.org/
+10.1039/d3cp01701j
+selectiveoxidationprocesses,includingethyleneepoxidation.15–19
+20892 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+View Journal | View Issue
+
+Paper PCCP
+Experimental part
+Despitealargeamountofexperimentalandtheoreticaldata
+obtained using modern physicochemical methods, the nat-
+Synthesis
+ureofactiveandselectiveoxygenspeciesandtheirelectronic
+AgNiO samples were prepared by co-precipitation in an alka-
+structureonthesurfaceofsilverparticlesisstillthesubject 2
+ofdebate.15,20–24Itiswellestablishedthat the silver surface line medium(NaOH)inthepresence ofNa 2 S 2 O 8 usingAgNO 3
+andNi(NO ) (cid:2)6H Oasinitialreagents.14Droppingasolutionof
+isreconstructed(atleastpartially)duetotheoxidationunder 32 2
+theconditionsoftheepoxidationreaction.21,25Itisbelieved nitrates into an alkaline solution of Na 2 S 2 O 8 resulted in the
+formationofablackprecipitate.Theprecipitatewasagedinthe
+that the epoxidation activity of silver is associated with the
+motherliquorfor1hat901C.Then,itwasfilteredandwashed
+stabilizationofweaklychargedoxygen(E (O1s)4530eV)on
+its surface, which is known as electr b ophilic oxygen.26–30 withdistilled water, followed bydrying for4h at 901C inair.
+PreparationofAg O,Ag0,NiO,andNi(OH) standardsamplesis
+Nucleophilic oxygen with E (O 1s) o 529 eV, necessary for 2 2
+b
+describedintheESI.†
+the adsorption and activation of the ethylene molecule, is
+able to break the C–H bond and, therefore, lead to the
+Physicochemicalstudy
+complete oxidation of ethylene.25,29,31,32 The nucleophilic
+species usually include lattice (Ag O-like) and near-surface The diffraction patterns were obtained using a Bruker D8
+2
+atomic oxygen, which causes the stabilization of oxidized diffractometer (Germany) and CuKa-radiation (l =
+silver.23,29,30 In recent works, using in situ physicochemical 0.154184 nm). Measurements were carried out with a one-
+methods, it has been shown that molecular and hybrid dimensional LynxEye detector and Bragg–Brentano focusing.
+species stabilized on defects of silver particles should be The signal was recorded in the 2y range from 15 to 901 (0.051
+considered as electrophilic oxygen directly involved in the step, counting time 3 s). In situ XRD patterns were obtained
+epoxidation of ethylene.20–23 usinganAntonPaarXRK900reactioncamera(Austria)inaflow
+Although traditionalsilvercatalystsareusually metalparti- of reaction gas, which was supplied at a rate of 70 mL min(cid:3)1.
+cles on the surface of the oxide support (e.g., Al O ),22 silver- TheICDDPDF-2databasewasusedforphaseanalysis.
+2 3
+containing mixed oxides are also used in selective oxidative ThephotoelectronspectrawereacquiredusingtheAlKaline
+reactions, including epoxidation. For example, a composite (hn = 1486.6 eV) on a VG ESCALAB HP spectrometer. The
+catalyst based on AgFeO oxide with a delafossite structure instrument was calibrated using the binding energies of the
+2
+demonstrated promising performance in cycloalkene epoxida- Au 4f 7/2 (84.0 eV) and Cu 2p 3/2 (932.7 eV) peaks for bulk gold
+tionreactions(selectivityintherangeof70–100%ataconver- and copper foils, respectively. The spectra were processed
+sion of at least 23%).33 The catalytic measurements of (smoothing,curve-fitting,andcalculationofpeakareas)using
+Ag Cu O mixed oxide caused the destruction of the initial the ‘‘XPS-Calc’’ program applied earlier for various
+2 2 3
+structure with the formation of an Ag0/CuO composite under systems.37–39Thecurve-fittingwascarriedoutwiththeapproxi-
+theethyleneoxidationreaction.34However,theresultingcom- mation of the peaks by the sum of the Lorentz and Gauss
+positeshowedactivityintheepoxidationofethylene(selectivity functionswiththesubtractionofthebackgroundbytheShirley
+above10%ataconversioncloseto10%).Anothermixedoxide method. The spectra are presented after normalization to the
+(Ag CuMnO ) with the delafossite structure showed catalytic area of the Ni 2p line. To plot the O 1s difference spectra,
+2 4
+characteristics close to those of Ag Cu O in the ethylene normalizationwasperformedtothetotalcontentofAgandNi
+2 2 3
+oxidation reaction without bulk destruction up to 200 1C.35 It on the surface. The ratios of elements on the surface were
+was also shown that a mixed oxide of copper and titanium determined using atomic sensitivity factors (ASF), the calcula-
+TiCuO with an unknown structure, is capable of direct epox- tiondetailsofwhicharepresentedintheESI.†
+x
+idation of propylene.36 Obviously, the epoxidation activity of DiffractiondataforPDF(PairDistributionFunction)analy-
+mixed oxides or metal-oxide composites formed during their sis were obtained using synchrotron radiation at ESRF, ID15b
+destructionisassociatedwiththestabilization,asinthecaseof station (Grenoble, France) equipped with a two-dimensional
+silver catalysts, of specific forms of active oxygen. The nature PilatusXCdTe detector.The wavelength (l)ofmonochromatic
+and state of metals in the mixed oxides, as well as their radiation was 0.142774 Å, which was refined using the CeO 2
+structure, play an important role in the stabilization of such standard sample. The integration was carried out using the
+forms. Mixed oxides with the delafossite structure are charac- pyFAI program.40 The normalized scattering curves S(Q) and
+terizedbyavarietyofpossiblepointandextendeddefects,10,11 the corresponding PDF curves (G(r)) were calculated from the
+which determines the interestin their application in the both intensitycurveusingthePDFgetX3program41(eqn(1)):
+totalandselectiveoxidationreactions.
+In this work, nanoparticles of mixed oxide AgNiO were
+2ðQmax
+2 G ðrÞ¼ Q½SðQÞ(cid:3)1(cid:4)sinðQrÞdQ¼4p½rðrÞ(cid:3)r (cid:4) (1)
+tested in the ethylene oxidation reaction. It has been found exp p Qmin 0
+that the AgNiO surface contains oxygen species capable of
+2
+efficiently converting ethylene to ethylene oxide (EtO) at room whereQ=4psinY/listhescatteringvector.Theupperintegra-
+temperature with selectivity close to 70%. The appearance of tion limit was Q = 29 Å(cid:3)1, r(r) is pair atomic density
+max
+suchformsisassociatedwithsstatesofsilverandnickelonthe (probability of finding atom i at a distance r from atom j),
+AgNiO surface. r –averagedensity.PDFsimulationwasperformedinPDFgui42
+2 0
+This journal is © the Owner Societies 2023 Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 | 20893
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+PCCP Paper
+accordingtoeqn(2): stacking of the layers differ (Fig. 1b). When the 3R polytype
+structure was used to describe experimental PDF data, the
+G ðrÞ¼ 1XX (cid:4) f i f j d (cid:2) r(cid:3)r (cid:3) T ðrÞ (cid:5) (cid:3)4prr (2) peaks corresponding to interatomic distances with r o 5 Å
+calc r hfi2 ij ij 0
+i j were described well, while the peaks at large distances were
+describedunsatisfactorily(Fig.1a).Thisdeviationistypicalfor
+whereristheinteratomicdistance,f istheatomicscatteringof
+i structures with a high concentration of stacking faults, for
+atom i, and T (r) is the temperature factor, which takes into
+ij instance, CdSe nanoparticles.45 The interlayer distances in
+account individual thermal vibrations of atoms, correlated
+the delafossite structure are greater than 5 Å, for which the
+thermalvibrations,anddiffractometerresolution.
+greatest deviation of the calculated and experimental PDF
+The specific surface area was determined from low- curvesisobserved.
+temperature nitrogen adsorption and calculated according to
+Since stacking faults often arise during the formation of
+the BET theory.43 Nitrogen adsorption isotherms were mea-
+nanoparticles with a delafossite-type layered structure,10,46 we
+sured at 77 K on a QUADRASORB evo adsorption analyzer
+have considered such defects for AgNiO . To simulate the
+2 (QuantachromeInstruments,USA)afterpreliminarydegassing
+defect structure, a super-cell consisting of 8 layers was con-
+at1201CusingaFloVacdegasser.
+structed,wheretwotypesoflayerstackingcharacteristicto2H
+and3Rpolytypeswerepresentedinequalproportion(Fig.1b).
+Catalyticandreactionproperties
+The resulting model was refined with respect to the experi-
+The catalytic properties were studied by temperature-
+mental PDF data (Fig. 1c). A much better description of the
+programmed reaction (TPR) using an automated setup
+experimental data was achieved (R-factor of 0.25) than in the
+equippedwithaflowreactorandanRGA-200quadrupolemass
+caseofthe3Rpolytypestructureonly(R=0.32,Fig.1a).Model
+spectrometer(SRS,USA)foranalyzingthereactionmixture.The
+calculationsofthediffractionpatternbyvaryingtheprobability
+sample(weightof0.9g,fraction0.14–0.25mm)wasloadedinto
+of the appearance of 3R polytype layers also showed that the
+the reactor, and the reaction mixture was introduced at 25 1C
+best agreement with the experimental diffraction pattern is
+(space velocity of 100 cm3 min(cid:3)1). The reaction mixture con-
+achievedforamodelwith50%probabilityoftheappearanceof
+tained 2.5 vol% C H , 5vol% O , and 0.5 vol% Ne(in He).To
+2 4 2 a3Rlayer(Fig.S2,ESI†).
+identify ethylene oxidation products, MS signals with m/z
+The description of the experimental PDF curve using a
+values of 15 and 20 (signal from Ne), as well as 25, 41, 42,
+defect structure was additionally improved by taking into
+and 44 were recorded. Other details of MS quantification are
+account the temperature parameter, which describes the aver-
+presented in the ESI.† Ethylene and its oxidation products
+agedisplacementsofsilveratomsalongthecaxis(directionof
+(C H O, CO , CH CHO) were quantified using matrix analysis 2 4 2 3 layer stacking). Also, vacancies in the silver positions were
+based on different contributions for selected m/z values.44 To
+introduced. As a result, the R factor dropped from 0.25 to
+carry out the temperature-programmed reduction by ethylene
+0.22 (Fig. 1b). The structural parameters obtained by refine-
+(TPR-C H ), the sample weight was 0.2 g, the volumetric flow 2 4 mentfortheAgNiO defectmodelaregiveninTableS1(seethe
+rate was 1000 cm3 min(cid:3)1, and the reaction mixture contained 2
+ESI†). Note that, according to the X-ray fluorescence data, the
+1 vol% C H , 0.5 vol% Ne (in He), and a heating rate of
+2 4 Ag/Niratiointheinitialsamplewascloseto0.8.Accordingto
+10 1C min(cid:3)1. A TPO study was performed using a mixture of
+the XPS data for different pristine samples, the Ag/Ni surface
+1 vol% O , and 0.5 vol% Ne (in He) supplied with a space
+2 ratio varied in the range from 0.7 to 0.9, which confirms the
+velocityof100cm3min(cid:3)1.BeforetheTPOexperiment,AgNiO
+2 depletionoftheAgNiO structurewithsilver,whichisprobably
+2
+wastreatedwithamixtureof2.5%C H /0.5%Ne/Heat301Cfor
+2 4 themostpronouncedfortheparticlesurface.
+morethan1h.
+Thus, the AgNiO oxide prepared by co-precipitation in an
+2
+alkaline medium was characterized by the defect delafossite
+Results structure.Theobtaineddispersedparticleshaveahighconcen-
+trationofstackingfaults,whenNiO brucitelayersarestacked
+6
+Structurecharacterization
+accordingto2Hor3Rstructure-typewithsimilarprobability.In
+Mixed oxide AgNiO obtained by co-precipitation has been this case, disordering of the silver positions (large displace-
+2
+partially characterized in our previous work.14 As a result of ments along the c direction) and vacancies in these positions
+the synthesis, highly dispersed AgNiO particles with a dela- (Ag/Nio1)occur.
+2
+fossite structure and a specific surface area of 80–100 m2 g(cid:3)1
+X-rayphotoelectronspectroscopy(XPS)
+wereformed(Fig.S1,ESI†).Fig.1ashowsthePDFcurveforthe
+initial sample of AgNiO . The peaks on the curve qualitatively TheelectronicstateofelementsonthesurfaceofAgNiO oxide
+2 2
+corresponded to the interatomic distances in the delafossite was studied by XPS and compared with data for standard
+structure.Itshouldbenotedthattherearetwopolytypesofthe samples andliterature.14,47,48 The appearance of Ni3+ forms is
+delafossite structure (2H and 3R), which differ in the way of usually confirmed by the presence of low-intensity shake-up
+stackingofbrucitelayersthatarebuiltfromNiO sharingedges satellitesoftheNi2plinesimultaneouslywithahighvalueof
+6
+octahedra. Both polytypes have the same structure of brucite binding energy (E ) for the Ni 2p peak (Z856 eV).49,50 Note
+b 3/2
+layers, while the interatomic distances that correspond to the that this peak is also observed for pure NiO and Ni(OH)
+2
+20894 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+Paper PCCP
+Fig.1 (a)ComparisonoftheexperimentalPDFcurvefortheinitialoxideAgNiO withthecalculatedcurveforthestoichiometricdelafossitestructureof
+2
+3Rpolytype(R=0.32).(b)Polytypesofadelafossitestructure:2H,3Randdefectstructurewithalternating2Hand3Rlayers.(c)Comparisonofthe
+experimentalPDFcurvewiththecalculatedcurveforthesimulatedstructurewithalternating2Hand3Rlayers(R=0.25).
+compounds with a predominantly divalent character of nickel theparticlebulkdoesnotexcludetheirpresenceonthesurface,
+(Fig. S3, ESI†). It emphasizes that the analysis of shake-up whichmayberevealedbyasurface-sensitiveXPStechnique.
+satellite structures may be considered as the most reliable On the basis of both literature data and the obtained XPS
+approach for the detection of Ni3+ species. To analyze the results,weassumedthepresenceofacombinationofNi3+and
+intensity of satellites, we used the F(Ni) parameter calculated Ni2+statesonthepristineAgNiO surface.
+2
+astheI (Ni2p )/I (shake-up)ratio(Fig.2a).Inthecaseofthe Silveronthe AgNiO surfacewas characterizedbytheposi-
+1 3/2 2 2
+initialAgNiO ,thevalueoftheF(Ni)parameter2.6(cid:5)0.1eVwas tion of the Ag 3d peak at 367.8 eV, while modified Auger-
+2 5/2
+noticeably higher than for the NiO (F(Ni) = 1.9) and Ni(OH) parametera0(Ag)calculatedasasumofbindingenergy(E )for
+2 b
+(F(Ni)=2.1)referencesamples,indicatingthepresenceofNi3+ the Ag 3d peak and kinetic energy (E ) for Ag M N N
+5/2 kin 4 45 45
+forms presumably in the low-spin state t6 e1.14 However, the maximumwascloseto725.2(cid:5)0.1eV(Fig.S4,ESI†).Notethat
+2g g
+observed spectral characteristics (the Ni 2p peak with E of Wedigetal.47showedthatthevalueof E (Ag3d )forAgNiO
+3/2 b b 5/2 2
+854.6eV,thestructureofsatellitesintheregionof858–866eV, wascloseto367.7eV,whichisclosetotheresultofthecurrent
+Fig. 2a) did not correspond only to the state of Ni3+. The work. Based on the position of E (Ag 3d ), the authors
+b 5/2
+observed pattern corresponds either to a combination of Ni2+ consideredthestateofsilverinAgNiO astheoxidizedmono-
+2
+andNi3+forms,ortotheoxidizednickelstatewithanaverage valentform(Ag+).
+charge+3(cid:3)d.Previously,theXASdataindicatedthepresence However,theobservedvalueofa0(Ag)equalto725.2(cid:5)0.1eV
+ofNi2+forms(upto60%)inadditiontotheNi3+speciesinthe is not typical for monovalent silver. For example, for Ag O
+2
+bulkofAgNiO particles.48Theauthorsexplainthisbehaviorby oxide, the a0(Ag) value is usually close to 724.5 eV,51,52 while
+2
+the higher stability of Ni2+ compared to low-spin Ni3+ in an for ionic silver compounds, the Auger parameter is usually
+octahedral(O )environment.ThedetectionofNi2+/Ni3+pairin lowerthan724eV.53,54Notethatfordeeplyoxidizedsilverinan
+h
+This journal is © the Owner Societies 2023 Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 | 20895
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+PCCP Paper
+Fig.2 (a)Ni2pand(c)Ag3dphotoelectronspectrafortheinitialAgNiO sampleandcorrespondingdiagramsforthe(b)F(Ni)and(d)a0(Ag)parameters.
+2
+oxygenenvironment(AgO-like),thevalueofa0(Ag)isalsoclose averagechargecomparedtothoseofAg1+andNi3+.TheO/(Ag+
+to 724.7 eV.51,53 The value of a0(Ag) above 725 eV is usually Ni) ratio according to XPS data for the as-synthesized sample
+explained by the contribution of metallic silver, for which the was0.98(TableS2,ESI†).Takingintoaccounttheinitiallylow
+Augerparameteris4726eV.51–53 silverconcentration(Ag/NiB0.7),aswellassurfaceimpurities
+For AgNiO , the position of the Ag 3d peak and corres- ontheoxidesurface(CO 2(cid:3)/HCO 2(cid:3)orOH(cid:3)/H O),theO/(Ag+
+2 5/2 3 3 2
+ponding half-width value (FWHM = 1.4 eV) indicated the Ni) ratio should be noticeably higher than 1, as was observed
+presence of a single state of silver, but not a combination of forothersimilaroxides.34,35,39Basedonsuchconsiderations,it
+Ag+ and Ag0. This state of silver on the surface of AgNiO is can be concluded that the initial AgNiO surface is partially
+2 2
+unusual due to the more covalent (less ionic) nature of the reduced. This may be due to the high reactivity of AgNiO at
+2
+bondwithoxygenthansilverinAg OorAgOoxides.Ourresults room temperature.14 However, prolonged air-storage did not
+2
+areconsistentwiththeconclusionaboutthestronginteraction result in any significant changes of Ni and Ag states on the
+between silver and oxygen in AgNiO , which was made on the AgNiO surface (Fig. S6, ESI†). No evident presence of S- and
+2 2
+basisofspectraldataandDFTcalculations.47 Na-containing species was foundby XPS on the surface of the
+TheO1sspectrumfortheinitialAgNiO wasasuperposition as-preparedAgNiO particles(Fig.S7,ESI†).
+2 2
+of three components with peak binding energies of 529.0,
+Interactionwithethylene:ExsituXPS
+531.0, and 533.3 eV attributed to Ag–O–Ni lattice oxygen, sur-
+face oxygen and adsorbed molecules (CO , H O), respectively The epoxidation ability of silver catalysts is usually associated
+x 2
+(Fig.S5a,ESI†).ThecomponentwithE (O1s)=531.0eVwitha with the presence of electrophilic oxygen species with the
+b
+high half-width value (FWHM = 2.3 eV) is a combination of O- covalent nature of the Ag–O bond.27,57,58 At the same time,
+containingspecieswithsimilarbindingenergies,whicharehard- the surface of silver particles is partially oxidized under the
+to-distinguish: (1) impurity carbonates/hydrocarbonates,53,55 (2) reaction conditions, providing efficient adsorption of
+hydroxylgroups,56(3)activeweaklychargedoxygenwithE (O1s) alkenes.31,59 The states of nickel (Ni3+) and silver (Agd+) on
+b
+B530eV,capableofinteractingwithCOatroomtemperature,14 the AgNiO surface should stabilize highly reactive oxygen
+2
+and (4) other possible forms of chemisorbed oxygen, including species.14 The increased covalent character of the Ag–O bond
+associative species.20–23,27,28 The example of the curve-fitting of for AgNiO in comparison with AgO oxides (x = 0.5 and 1)
+2 x
+theO1sspectrumbymorethan3componentsandinterpretation causes interest in its application for selective oxidation reac-
+arepresentedinFig.S5b(ESI†). tions,forexample,epoxidation.
+ApartiallyreducedAgNiO surfaceorthepresenceofoxygen Fig.3showstheO1sspectrameasuredbeforeandafterthe
+2
+vacanciescanbeareasonforthedecreaseinsilverandnickel interaction of AgNiO oxide withethylene (1011 L exposure) in
+2
+20896 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+Paper PCCP
+Fig.3 NormalizedO1sspectrafortheAgNiO 2 samplebeforeandafter Fig.4 EvolutionoftheF(Ni)anda0(Ag)parametersforAgNiO 2 oxideasa
+interactionwith500PaofC
+2
+H
+4
+at25and1001C. resultoftheinteractionwithethyleneattemperaturesfrom25to3001C.
+thepreparationchamberofaphotoelectronspectrometerwith-
+silver.53Thisisduetothecompletedestructionofthedelafos-
+out being exposed to air. During the experiment, the sample site structure as a result of the reduction of the Ni3+ and Agd+
+wassequentiallyheatedinanethyleneatmosphere(P=500Pa) forms to Ni2+ and Ag0, respectively. Presumably, particles of
+at temperatures in the range from 25 to 300 1C. The most metallicsilver(Ag0)andoxidizednickel(NiO x )wereformed.
+noticeable changes were observed after interaction at room
+Interactionwithethylene:Flowreactor
+temperature: two components with E (O 1s) = 528.9 eV and
+b
+530.5 eV were removed (difference spectrum, Fig. 3). With an Fig.5showstheresultsofAgNiO testinginethyleneepoxidation
+2
+increase in temperature to 60–100 1C, the titration of reactive atroomtemperature(aandb)andatsubsequentheatingupto
+oxygen species was accompanied by the accumulation of a 2001C(candd).Atroomtemperature,ethyleneconversionwas
+noticeable number of carbon-containing species with E (C 1s) = closeto5%.Mostoftheethylenewasoxidizedtoethyleneoxide
+b
+285.1and288.2eVassignedtoC–Cformsandoxidizedcarbon, (EtO)withaselectivityofabout70%,whiletheCO selectivitywas
+2
+respectively (Fig. S8, ESI†). In this case, the O 1s signal from 30%.Theselectivityforacetaldehyde(AcA)waswithinthequanti-
+lattice oxygen in the region of 528–530 eV was not changed. tative error (o5%). Ethylene conversion at 5% was observed for
+Whenheatedupto1501C,nosignificantchangesintheO1s 2500seconds,followedbyadropinsampleactivity.
+spectrum were observed, while at 200 1C a shift of the lattice The observed deactivation might be caused by the removal
+oxygenO1speaktowardshigherbindingenergieswasdetected ofreactiveoxygenspeciesand/ortheaccumulationofstrongly
+(Fig.S9,ESI†).Theshiftincreasedwithrisingtemperatureand bounded surface species. The part of oxygen extracted from
+reached 0.7 eV at 300 1C. This shift is associated with the AgNiO duringtheinteractionwithethyleneat201Cuptothe
+2
+destruction/reorganization of the initial surface structure and dropincatalyticactivitywasestimatedtobecloseto3%.This
+the formation of more covalent bonds between metals and calculation was made when comparing the molar quantity of
+oxygen.ThiswasaccompaniedbyadecreaseintheO/(Ag+Ni) the sample loaded into the reactor with the total amount of
+valuefromB0.97(at1501C)to0.57(at2001C)andthento0.41 oxidized ethylene during the catalytic measurement. Subse-
+(at3001C).Thequantitativeratiosofelementsonthesurfaceof quent heating above 50 1C led to an increase in ethylene
+AgNiO asaresultofinteractionwithethylenearepresentedin conversion of up to 6%, which was accompanied by a notice-
+2
+TableS1(ESI†). able drop in the selectivity for ethylene oxide down to 15%
+To analyze the electronic states of nickel and silver during (Fig.5candd).ThisisconsistentwithexsituXPSdataonthe
+the interaction with ethylene, we followed the change in the appearance of carbonate-like oxygen species with E (O 1s) =
+b
+F(Ni) and a0(Ag) parameters depending on the reaction tem- 531.5eVafterinteractionwithethyleneat1001C(Fig.3).Above
+perature(Fig.4).Theinteractionatroomtemperatureresulted 150 1C, a noticeable increase in ethylene conversion of up to
+inaslightdecreaseintheF(Ni)parameterto2.3(Fig.4)without 15%wasobserved.Inthiscase,theselectivityforethyleneoxide
+a noticeable change in the silver state (a0(Ag) = 725.2 eV). The decreasedto4%,andCO wasthemainproduct.
+2
+dropintheF(Ni)valueisassociatedwiththepartialreduction Observed changes in conversion/selectivity values were asso-
+ofNi3+toNi2+ontheoxidesurface,probablyduetotheremoval ciatedwithstructuraltransformationsinthesample.Inparticu-
+of reactive oxygen species (Fig. 3). Significant changes in the lar,accordingtoXRDdata,afterheatingofAgNiO inaC H +O
+2 2 4 2
+F(Ni) and a0(Ag) parameters occurred at T 4 150 1C: (1) the atmosphere at 200 1C, the appearance of the Ag0 phase was
+valueofF(Ni)droppedto1.6duetoanincreaseintheintensity detected(reflectionsat2y=38.11and44.31,ICDDPDF-200-004-
+of shake-up satellites (Fig. S10, ESI†); (2) the a0(Ag) value 0783, Fig. S1, ESI†). Note that the complete destruction ofthe
+increasedto726.1eVindicatingthetransformationtometallic delafossite structure did not occur in this case. According to
+This journal is © the Owner Societies 2023 Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 | 20897
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+PCCP Paper
+Fig.5 EthyleneconversionandselectivityforethyleneoxidationproductsfortheAgNiO sampleat201C(a)and(b)andduringsubsequentheatingto
+2
+2001C(c)and(d)ina2.5%C H /5%O /Hemixture.
+2 4 2
+in situ XRD data, the delafossite structure was completely Thus,theinitialsurfaceofAgNiO wascharacterizedbythe
+2
+destroyed only when heated in a C H + O mixture at T Z presenceofoxygenspeciescapableofinteractingwithethylene
+2 4 2
+2501C(Fig.S11a,ESI†). atroomtemperature.Themainproductofthisinteractionwas
+The coexistence of the AgNiO phase and Ag0 particles ethylene oxide (S B 70%). The interaction of AgNiO with
+2 EtO 2
+formed at 150–200 1C may be due to the accumulation of thereactionmediumat201Ccausedsmallstructuralchanges
+cationic vacancies in silver positions of the delafossite struc- due to the redistribution of silver ions in the interlayer space,
+ture.ItisknownthatdelafossiteAgBO canaccommodateupto whileheatinginareactionmediumofupto2001Cresultedin
+2
+15%ofvacanciesinthesilverpositions.Chargecompensation thepartialreleaseofsilverfromthedelafossitestructurewith-
+is implemented through the additional oxidation of B outdestroyingthelatter.
+cations.60,61 According to the PDF, the interaction of AgNiO 2
+with the reaction mixture at 20 1C did not cause noticeable Temperature-programmedreduction(TPR)
+structural changes, except forsmall deviationsin the range of Fig. 7 shows the TPR-C H curves for the as-prepared AgNiO
+2 4 2
+interlayerdistances(5–5.5Å,Fig.6a).Thismayberelatedtothe sample before and after pretreatment in O at 200 1C. For the
+2
+redistribution of cations in the interlayer space, for example, pristine AgNiO sample, two main reduction peaks were
+2
+thediffusionofsilverionsfromthebulktothesurface/subsur- observed with maxima at 245 1C (transition of AgNiO to Ag0
+2
+face zone. After heating at 200 1C in a C 2 H 4 + O 2 mixture, and NiO x ) and 365 1C (reduction of NiO x to Ni0). The integral
+additionalpeakscorrespondingtointeratomicdistancesinAg0
+molarratioofCO /AgNiO asaresultofinteractionwithC H
+2 2 2 4
+particles were observed on the PDF curve, while peaks of the was close to 0.9 for the overall temperature range, which is
+delafossitestructurewerepreserved(Fig.6b). consistentwiththereductionofAgNiO oxidetometallicsilver
+2
+Fig.6 ComparisonofthePDFcurvesforAgNiO beforeandafterinteractionwithareactionmixture(a)at201Cand(b)afterheatingto2001C.
+2
+20898 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+Paper PCCP
+oxide. These species can be considered as nucleophilic and
+electrophilic forms of oxygen, respectively. As a result of the
+AgNiO interaction with ethylene at room temperature, high
+2
+selectivityforethyleneoxidewasobserved(B70%),whichmay
+be due to the presence of electrophilic oxygen with E (O 1s) =
+b
+530.5 eV.26–30 Nucleophilic oxygen with E (O 1s) = 529.0 eV is b
+thelatticeoxygen(Ag–O–Ni)ofthedelafossitestructure.14Note
+that the stabilization of electrophilic oxygen with epoxidation
+activity is due to the defect structure of delafossite and the
+specific electronic states of Ni and Ag species on the surface.
+According to XPS and literature data,48 nickel on the AgNiO
+2
+surfaceisrepresentedbyacombinationofNi2+andNi3+states
+(Fig.2aandb).SilveronthesurfaceofAgNiO isrepresentedby
+2
+singleoxidizedstatewiththea0(Ag)parametercloseto725.2eV
+Fig.7 TPR-C 2 H 4 curves of AgNiO 2 before and after pretreatment in (Fig.2d).Thisvalueisintermediatebetweenmetallic(4726eV)
+20%O 2 /Heat2001C. andoxidizedsilverinAg OorAgOoxides(724.5–724.7eV).51,53
+2
+Basedonthea0(Ag)value,itwasconcludedthattheAg–Obond
+in AgNiO is more covalent in comparison with that of indivi-
+2
+dual AgO oxides. The stabilization of electrophilic oxygen on
+and nickel. Also, the corresponding TPR curve was character- x
+ized by a noticeable shoulder in the range from 0 to 150 1C, theAgNiO 2 surfaceismostlikelyassociatedwiththeformation
+of an oxygen bond with silver atoms in a state intermediate
+whichindicatedthepresenceofreactivesurfaceoxygenspecies.
+The relative abundance of such species was close to 8.5%.
+betweenAg0andAg1+,i.e.Agd+(do1).
+Pretreatment of AgNiO in an O flow at 200 1C resulted in According to literature data, the oxygen species with (E b (O 2 2
+1s) = 530.5 eV) is electrophilic oxygen.26–30 Associative oxygen
+the partial removal of reactive oxygen (the relative amount
+formsarethemostlikelycandidatesforthisroleonthesurface
+droppeddownto3%)andashiftinthemainreductionpeaks
+towardshighertemperatures(by6–71C). of AgNiO 2 , for example, peroxide (O 2 2(cid:3)-like), superoxide (O 2 (cid:3)-
+like),orozonide(O -like)oxygen. Notethatthepreparationof
+Notethatthispretreatmentdidnotcausedestructionofthe 3
+delafossite structure (Fig. S11b, ESI†). In this case, the CO / AgNiO 2 by co-precipitation was carried out in the presence of
+2
+peroxodisulfate (see Section 2.1), and it could be a reason for
+AgNiO molar ratio decreased to 0.7 for the treated AgNiO
+2 2
+thestabilizationofperoxideorsuperoxideformsontheAgNiO
+sampleduetotheremovalofbothreactivesurfaceoxygenanda 2
+surface. Electrophilic oxygen with epoxidation activity in the
+decrease in the intensity of the main peaks in the TPR curve.
+form of ozonide species on the surface of silver particles is
+This indicates equilibrium between the reactive surface and
+discussedelsewhere.26,27,62Atthesametime,theappearanceof
+lattice oxygen species in AgNiO . This conclusion was sup-
+2
+suchformsisassociatedwiththepresenceofcationicvacancies
+portedbyXPSdata,whichshowedthatbothlatticeandsurface
+onthereconstructedsilversurface.26Thepresenceofvacancies
+weaklychargedoxygenspecieswereremovedsimultaneouslyby
+in the positions of silver cations in the AgNiO structure was
+ethylene. Thus, surface reactive oxygen species (peaks up to 2
+150 1C on the TPR-C H curve) might be related to weakly notedbasedonPDFdata(Fig.1)andXPSresults(Ag/Nio1).
+2 4
+This is also consistent with the literature data for similar
+charged oxygen (E (O 1s) = 530.5 eV, Fig. 3). Note that weakly
+b
+materials.60 In this case, the diffusion of surface oxygen to
+charged oxygen with similar characteristics exhibit electrophi-
+licpropertiesduringtheepoxidationofethylene.27,57,58 the Ni–O–[]–O–Ni vacancy sites can form ozonide-like species
+of oxygen like Ni–O–O–O–Ni. The limited diffusion rate at
+ThepresentedTPR-C H datademonstratetherelativelylow
+2 4
+thermalstabilityofreactiveoxygenspeciesontheAgNiO oxide
+temperatureso1001Cmaybethereasonforthelowefficiency
+2
+of regeneration of such forms, leading to a decrease in the
+surface.MostoftheseformswereremovedbyheatinginanO -
+2
+containingmixtureat2001C.Atthesametime,latticeoxygen overallactivityuponreactiontime.However,adetailedstudyof
+the epoxidation oxygen on the AgNiO surface requires a
+of AgNiO may be removed only in the temperature range of 2
+2
+300–4001C(TPD-Hestudy,Fig.S12,ESI†).Notealsothatatwo- systematic study using modern experimental and theoretical
+researchmethods.
+step process of AgNiO reduction as well as the presence of
+2
+active surface oxygen with reactivity at T o 75 1C were also
+Nickelrole
+observedduringtheTPR-H study(Fig.S13,ESI†).
+2
+The improved epoxidation activity of mixed oxide AgNiO at
+2
+roomtemperaturemightbeprovidednotonlybysilverspecies,
+Discussion but also by nickel sites. Nickel-modified silver catalysts are
+known to exhibit improved performance in the epoxidation
+OxygenformsandsilverelectronicstateontheAgNiO surface
+2 reaction.Forexample,anincreaseintheNicontentleadstothe
+Twooxygenspecies,whichreactwithethylene,withE (O1s)= formation of dispersed Ag particles with an optimal concen-
+b
+529.0and530.5eV(Fig.3)werefoundonthesurfaceofAgNiO trationofoxidizedsilver,whichcausesanincreaseinselectivity
+2
+This journal is © the Owner Societies 2023 Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 | 20899
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+PCCP Paper
+for propylene epoxide.63 It was established that the control of temperature ranges of 20–100 1C and 120–180 1C indicating
+the Ag/Ni ratio during the synthesis of Ni@Ag core–shell thepossibilityofO activationontheAgNiO surface.
+2 2
+structuresmakesitpossibletooptimizetheAg–Aginteratomic
+distance by varying the thickness of the silver shell.64 In this
+Conclusions
+case, an increase in selectivity to the epoxidation product was
+observed. Another possible role of nickel may be isolation of Mixed oxide AgNiO was prepared by co-precipitation in an
+2
+silversitesfromeachother,whichreducestheefficiencyofthe
+alkalinesolutioninthepresenceofperoxodisulfate.Asaresult,
+complete oxidation route in accordance with the Grasselli
+highlydispersedparticleswithadelafossitetypestructurewere
+concept.4 However, Ni2+ complex compounds are active in
+obtained.AccordingtothePDFmethod,theinitialstructureof
+epoxidation of olefins by molecular oxygen in liquid.65 The
+AgNiO wascharacterizedbythepresenceofstackingfaults,as
+2
+presenceofcationicvacanciesinAgNiO accordingtoPDFand
+2 wellascationicvacanciesatsilverpositions,whichdetermined
+XPS(Ag/Nio1)dataindicatesthepotentialforthepresenceof
+the mobility of such cations in the interlayer space and oxide
+surfaceoxygenboundeddirectlytonickelatoms(Ni–O).More-
+nonstoichiometry(Ag/Nio1).OnthesurfaceofAgNiO ,silver 2
+over, during the interaction of AgNiO with ethylene up to
+2 had a more covalent (less ionic) bond with oxygen than in
+1501C,thereductionofnickelonthesurfacewasobserved(a
+individualsilveroxides.Theunusualelectronicstatesofsilver
+dropintheF-parameter),whilethestateofsilverwasfoundto
+and nickel, together with the developed defect structure of
+be unchanged (Fig. 4). In accordance with TPR-C H , in the
+2 4 AgNiO oxide,causetheappearanceofreactiveoxygenspecies
+temperature range below 150 1C, reactive forms of surface 2
+including oxygen with E (O 1s) = 530.5 eV, which was able to
+b
+oxygen were removed (Fig. 7). These data do not exclude the
+reactwithethyleneatroomtemperature.Ithasbeenestablished
+stabilization of electrophilic epoxidation oxygen, including on
+thatthisinteractionisaccompaniedbytheformationofethylene
+thenickelsitesofthedefectivedelafossitestructure.
+oxidewithselectivitycloseto70%forabout50min.Anincreasein
+the reaction temperature of up to 150 1C leads to the efficient
+oxidation of ethylene predominantly to CO (the selectivity with
+Activeoxygenregeneration 2
+respecttoEtOisnomorethan20%).InsituXRDandPDFstudies
+Regenerationofreactiveoxygenspecieswhenexposedtomole-
+revealedthattheinteractionofAgNiO withthereactionmixture 2
+cularoxygeninthegasphaseisoneofthemostimportantfor
+atroomtemperaturedidnotcausenoticeablestructuraltransfor-
+catalysis. In the case of a mixture of C H + O at 20 1C, a
+2 4 2 mations,exceptfortheredistributionofcationsintheinterlayer
+decrease in oxidative activity of AgNiO 2 was observed after space.At150–2001C,theformationofmetallicsilverparticleswas
+50 min of the reaction (Fig. 5a), which is most likely due to
+observedwiththepreservationofdelafossite-typestructure.Above
+theremovalofreactiveoxygenspecies.Moreover,experiments 200 1C, this structure was completely destroyed with the for-
+carriedoutinaflowreactorbothinthepresenceandabsence mation of an Ag0/NiO composite. According to the TPR-C H
+2 4
+of O at room temperature showed similar results. This
+2 data,therelativeamountofweaklyboundedandreactiveoxygen
+indicates that the active oxygen forms on the AgNiO surface
+2 ontheAgNiO surfacereached8.5at%,whilenomorethan3%of
+arenotreproducedafterinteractionwithO at201C.Therefore, 2
+2 oxygenwasinvolvedinethyleneepoxidationatroomtemperature.
+the regeneration of active oxygen was studied at an elevated
+In accordance with the obtained results and the literature data,
+temperature (601C).Experiments were carriedoutatdifferent
+oxygenwithE (O1s)4530eVobservedontheAgNiO surfaceby
+b 2
+atmospheres:(1)interactionwithethylene,(2)interactionwith
+XPS under vacuum conditions might be an associated species,
+aC H +O mixture,and(3)successiveinteractionwithC H ,
+2 4 2 2 4 whichareconsideredaselectrophilicoxygendirectlyinvolvedin
+andthenwithO .Detailsofsuchexperimentsarepresentedin
+2 theepoxidationofethylene.
+ESI† (Fig. S14–S16). When comparing the difference O 1s
+spectra obtained in the absence (experiment 1) and in the
+Author contributions
+presence (experiments 2 and 3) of molecular oxygen, differ-
+enceswererevealed(Fig.S14,ESI†).WhenAgNiO wastreated
+2
+onlywithethyleneat601C,removalofoxygenspecieswithE (O Dmitry A. Svintsitskiy: conceptualization, writing – original
+b
+draft, writing – review & editing, data curation, visualization,
+1s)=528.6and530.0eVwasobserved,aswellastheaccumula-
+methodology,andvalidation.MikhailK.Lazarev:investigation.
+tion of carbonate-like groups with E (O 1s) = 531.5 eV was
+b
+detected.InthepresenceofO duringtheinteractionat601C, Elena M. Slavinskaya: formal analysis, investigation, and writ-
+2
+ing – review & editing. Elizaveta A. Fedorova: investigation.
+thedifferenceinO1sspectrashowedonlytheaccumulationof
+Tatyana Yu. Kardash: formal analysis, writing – review & edit-
+carbonates. This result indirectly indicates the possibility of
+ing, visualization, and validation. Svetlana V. Cherepanova:
+regeneration of reactive oxygen species on the AgNiO surface
+2
+upon interaction with O at 60 1C. However, the efficiency of formal analysis. Andrei I. Boronin: conceptualization, writing –
+2
+review&editing,methodology,validation,andsupervision.
+this process might be insufficient due to kinetic limitations,
+resultinginadropinoverallepoxidationactivitywithreaction
+time. Additionally, a TPO study was performed for AgNiO Conflicts of interest
+2
+preliminary treated with ethylene at 30 1C for more than 1 h
+(Fig. S17, ESI†). The O consumption was observed in Therearenoconflictstodeclare.
+2
+20900 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+Paper PCCP
+Acknowledgements
+22 H. A. Alzahrani and J. J. Bravo-Su´arez, J. Catal., 2023, 418,
+225–236.
+This work was supported by the Ministry of Science and
+23 T. Pu, A. Setiawan, B. Mosevitzky Lis, M. Zhu, M. E. Ford,
+Education of the Russian Federation within the framework of
+S. Rangarajan and I. E. Wachs, ACS Catal., 2022, 12,
+thebudgetprojectoftheBoreskovInstituteofCatalysis(project
+4375–4381.
+AAAA-A21-121011390053-4). Experiments on a photoelectron
+24 V. I. Bukhtiyarov, A. I. Nizovskii, H. Bluhm, M. H¨avecker,
+spectrometer were performed using the equipment of the
+E. Kleimenov, A. Knop-Gericke and R. Schlo¨gl, J. Catal.,
+‘‘NationalCenterfortheStudyofCatalysts’’.
+2006,238,260–269.
+25 M. O. O¨zbek and R. A. Van Santen, Catal. Lett., 2013, 143,
+Notes and references 131–141.
+26 V. I. Avdeev, A. I. Boronin, S. V. Koscheev and G. M.
+1 Y.Pu,Y.Liu,D.Liu,Z.Zhou,S.Ding,Z.XiaandM.Li,Int. Zhidomirov,J.Mol.Catal.A:Chem.,2000,154,257–270.
+J.HydrogenEnergy,2018,43,17271–17282. 27 A. I. Boronin, S. V. Koscheev, K. T. Murzakhmetov,
+2 H. Wang, K. H. L. Zhang, J. P. Hofmann, V. A. de la Pen˜a V. I. Avdeev and G. M. Zhidomirov, Appl. Surf. Sci., 2000,
+O’Shea and F. E. Oropeza, J. Mater. Chem. A, 2021, 9, 165,9–14.
+19465–19488. 28 L. S. Kibis, V. I. Avdeev, S. V. Koscheev and A. I. Boronin,
+3 J.C.Vedrine,J.EnergyChem.,2016,25,936–946. Surf.Sci.,2010,604,1185–1192.
+4 R.K.Grasselli,Catal.Today,2014,238,10–27. 29 V. I. Bukhtiyarov, A. I. Boronin and V. I. Savchenko, Surf.
+5 W. C. Sheets, E. Mugnier, A. Barnabe, T. J. Marks and Sci.,1990,232,L205–L209.
+K.R.Poeppelmeier,Chem.Mater.,2006,18,7–20. 30 T. C. R. Rocha, M. H¨avecker, A. Knop-Gericke and
+6 D. Mun˜oz-Rojas, G. Sub´ıas, J. Oro´-Sol´e, J. Fraxedas, R.Schlo¨gl,J.Catal.,2014,312,12–16.
+B. Mart´ınez, M. Casas-Cabanas, J. Canales-V´azquez, 31 V.I.Bukhtiyarov,A.I.BoroninandV.I.Savchenko,J.Catal.,
+J. Gonzalez-Calbet, E. Garc´ıa-Gonz´alez, R. I. Walton and 1994,150,262–267.
+N.Casan˜-Pastor,J.SolidStateChem.,2006,179,3883–3892. 32 V. I. Bukhtiyarov, M. H¨avecker, V. V. Kaichev, A. Knop-
+7 C.MartinandM.Poienar,J.Cryst.Growth,2017,472,71–75. Gericke,R.W.MayerandR.Schlo¨gl,Phys.Rev.B:Condens.
+8 M.A.Marquardt,N.A.AshmoreandD.P.Cann,ThinSolid MatterMater.Phys.,2003,67,2354221.
+Films,2006,vol.496,pp.146–156. 33 S. M. Hosseini, H. Hosseini-Monfared, V. Abbasi and
+9 T. I. Draskovic and Y. Wu, ChemCatChem, 2017, 9, M.R.Khoshroo,Inorg.Chem.Commun.,2016,67,72–79.
+3837–3842. 34 D. A. Svintsitskiy, T. Y. Kardash, E. M. Slavinskaya,
+10 D.A.Svintsitskiy,V.M.Metalnikova,S.V.Cherepanovaand O.A.Stonkus, S.V.Koscheev andA. I. Boronin,Appl. Surf.
+A.I.Boronin,J.Struct.Chem.,2022,63,1496–1508. Sci.,2018,427,363–374.
+11 M.H.Whangbo,D.Dai,K.S.LeeandR.K.Kremer,Chem. 35 D. A. Svintsitskiy, N. A. Sokovikov, E. M. Slavinskaya,
+Mater.,2006,18,1268–1274. E. A. Fedorova and A. I. Boronin, J. Struct. Chem., 2022,
+12 Y.Zhao,H.An,G.Dong,J.Feng,T.Wei,Y.RenandJ.Ma, 63,1723–1733.
+Chem.Eng.J.,2020,388,124371. 36 X. Yang, S. Kattel, K. Xiong, K. Mudiyanselage, S. Rykov,
+13 D. A. Svintsitskiy, T. Y. Kardash, E. A. Fedorova, E. M. S.D.Senanayake,J.A.Rodriguez,P.Liu,D.J.Stacchiolaand
+Slavinskaya and A. I. Boronin, Appl. Surf. Sci., 2020, 525, J.G.Chen,Angew.Chem.,Int.Ed.,2015,54,11946–11951.
+1–10. 37 D.A.Svintsitskiy,E.M.Slavinskaya,T.Y.Kardash,V.I.Avdeev,
+14 D. A. Svintsitskiy, M. K. Lazarev, T. Y. Kardash, B.V.Senkovskiy,S.V.KoscheevandA.I.Boronin,Appl.Catal.,
+E. A. Fedorova, E. M. Slavinskaya and A. I. Boronin, A,2016,510,64–73.
+J.Chem.Phys.,2020,152,044707. 38 D. A. Svintsitskiy, L. S. Kibis, D. A. Smirnov, A. N. Suboch,
+15 T. Pu, H. Tian, M. E. Ford, S. Rangarajan and I. E. Wachs, O. A. Stonkus, O. Y. Podycheva, A. I. Boronin and
+ACSCatal.,2019,10727–10750. Z.R.Ismagilov,Appl.Surf.Sci.,2018,435,1273–1284.
+16 J.G.Serafin,A.C.LiuandS.R.Seyedmonir,J.Mol.Catal.A: 39 D.A.Svintsitskiy,T.Y.KardashandA.I.Boronin,Appl.Surf.
+Chem.,1998,131,157–168. Sci.,2019,463,300–309.
+17 M. A. Salaev, A. A. Salaeva and O. V. Vodyankina, Catal. 40 G. Ashiotis, A. Deschildre, Z. Nawaz, J. P. Wright,
+Today,2021,375,585–590. D. Karkoulis, F. E. Picca and J. Kieffer, J. Appl. Crystallogr.,
+18 V. V. Torbina, A. A. Vodyankin, S. Ten, G. V. Mamontov, 2015,48,510–519.
+M.A.Salaev,V.I.SobolevandO.V.Vodyankina,Catalysts, 41 P.Juh´as,T.Davis,C.L.FarrowandS.J.L.Billinge,J.Appl.
+2018,8,447. Crystallogr.,2013,46,560–566.
+19 S.RebsdatandD.Mayer,Ullmann’sencyclopediaofindustrial 42 C. L. Farrow, P. Juhas, J. W. Liu, D. Bryndin, E. S. Boin,
+chemistry,Wiley-VCH,NewYork,2012,pp.547–572. J. Bloch, T. Proffen and S. J. L. Billinge, J. Phys.: Condens.
+20 Z. Tang, T. Chen, K. Liu, H. Du and S. G. Podkolzin, Matter,2007,19,335219.
+Langmuir,2021,37,11603–11610. 43 S. Lowell, J. E. Shields, M. A. Thomas and M. Thommes,
+21 C. Liu, D. P. Wijewardena, A. Sviripa, A. Sampath, D. W. Characterization of Porous Solids and Powders: Surface Area,
+FlahertyandC.Paolucci,J.Catal.,2022,405,445–461. PoreSizeandDensity,2006.
+This journal is © the Owner Societies 2023 Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 | 20901
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+PCCP Paper
+44 S. B¨ocklein, S. Gu¨nther, R. Reichelt, R. Wyrwich, M. Joas, 54 L.S.Kibis,D.A.Svintsitskiy,T.Y.Kardash,E.M.Slavinskaya,
+C. Hettstedt, M. Ehrensperger, J. Sicklinger and E. Y. Gotovtseva, V. A. Svetlichnyi and A. I. Boronin, Appl.
+J.Wintterlin,J.Catal.,2013,299,129–136. Catal.,A,2019,570,51–61.
+45 V. I. Korsounski, R. B. Neder, K. Hradil, C. Barglik-Chory, 55 C. D. Wagner, A. V. Naumkin, A. Kraut-Vass, J. W. Allison,
+G. Mu¨ller and J. Neuefeind, J. Appl. Crystallogr., 2003, 36, C. J. Powell and C. J. Rumble, Natl. Inst. Stand. Technol.,
+1389–1396. Gaithersbg.,2003.
+46 J. L. Durham, A. B. Brady, C. A. Cama, D. C. Bock, C. J. 56 J.-C.Dupin,D.Gonbeau,P.VinatierandA.Levasseur,Phys.
+Pelliccione, Q. Zhang, M. Ge, Y. R. Li, Y. Zhang, H. Yan, Chem.Chem.Phys.,2000,2,1319–1324.
+X. Huang, Y. Chu, E. S. Takeuchi, K. J. Takeuchi and 57 R.B.GrantandR.M.Lambert,J.Catal.,1985,92,364–375.
+A. C. Marschilok, Phys. Chem. Chem. Phys., 2017, 19, 58 R.A.VanSantenandH.P.C.E.Kuipers,Adv.Catal.,1987,
+22329–22343. 35,265–321.
+47 U.Wedig,P.Adler,J.Nuss,H.ModrowandM.Jansen,Solid 59 Y. Lei, F. Mehmood, S. Lee, J. Greeley, B. Lee, S. Seifert,
+StateSci.,2006,8,753–763. R. E. Winans, J. W. Elam, R. J. Meyer, P. C. Redfern,
+48 J.S.Kang,S.S.Lee,G.Kim,H.J.Lee,H.K.Song,Y.J.Shin, D. Teschner, R. Schlo¨gl, M. J. Pellin, L. A. Curtiss and
+S. W. Han, C. Hwang, M. C. Jung, H. J. Shin, B. H. Kim, S.Vajda,Science,2010,328,224.
+S. K. Kwon and B. I. Min, Phys. Rev. B: Condens. Matter 60 S.Kato,N.Takagi,K.SaitoandM.Ogasawara,ACSOmega,
+Mater.Phys.,2007,76,195122. 2019,4,9763–9768.
+49 A.F.Carley,S.D.Jackson,M.W.RobertsandJ.O’Shea,Surf. 61 Y.-J.Shin,J.-H.KwakandS.Yoon, Bull.KoreanChem.Soc.,
+Sci.,2000,454–456,141–146. 1997,18,775–778.
+50 A.F.Carley,S.D.Jackson,J.N.O’SheaandM.W.Roberts, 62 N. Kenge, S. Pitale and K. Joshi, Surf. Sci., 2019, 679,
+Surf.Sci.,1999,440,L868–L874. 188–195.
+51 G.I.N.Waterhouse,G.A.BowmakerandJ.B.Metson,Appl. 63 A. Takahashi, N. Hamakawa, I. Nakamura and T. Fujitani,
+Surf.Sci.,2001,183,191–204. Appl.Catal.,A,2005,294,34–39.
+52 A. I. Boronin, S. V. Koscheev and G. M. Zhidomirov, 64 B.Yu,T.Ayvalı,E.Raine,T.Li,M.M.J.Li,J.Zheng,S.Wu,
+J.ElectronSpectrosc.Relat.Phenom.,1998,96,43–51. A.A.BagabasandS.C.E.Tsang,Appl.Catal.,B,2019,243,
+53 J.F.Moulder,W.F.Stickle,P.E.SobolandK.D.Bomben, 304–312.
+Handbook of X-ray photoelectron spectroscopy, PerkinElmer 65 T. Mukaiyama and T. Yamada, Bull. Chem. Soc. Jpn., 1995,
+Corp,EdenPrairie,Minnesota,USA,1992. 68,17–35.
+20902 | Phys. Chem. Chem. Phys., 2023, 25, 20892–20902 This journal is © the Owner Societies 2023
+.MA
+30:34:7
+5202/3/11
+no
+ygolonhceT
+lacimehC
+fo
+ytisrevinU
+gnijieB
+yb
+dedaolnwoD
+.3202
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+

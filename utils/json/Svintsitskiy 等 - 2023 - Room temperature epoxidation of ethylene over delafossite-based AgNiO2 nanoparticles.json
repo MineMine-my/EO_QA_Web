@@ -1,0 +1,197 @@
+[
+    {
+        "start_node": "AgNiO2",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "制备方法",
+        "end_node": "共沉淀法"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "结构",
+        "end_node": "delafossite"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "银空位"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "堆垛层错"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "非化学计量",
+        "end_node": "Ag/Ni<1"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "比表面积",
+        "end_node": "80-100m²g⁻¹"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "室温活性",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "选择性",
+        "end_node": "70%"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "转化率",
+        "end_node": "5%"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "稳定性",
+        "end_node": "50分钟"
+    },
+    {
+        "start_node": "银状态",
+        "relationship": "介于",
+        "end_node": "Ag2O-Ag0"
+    },
+    {
+        "start_node": "镍状态",
+        "relationship": "深度氧化",
+        "end_node": "Ni5+"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "包括",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "包括",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "结合能",
+        "end_node": "529.0eV"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "结合能",
+        "end_node": "530.5eV"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "属性",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "属性",
+        "end_node": "弱结合氧"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "参与",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "C2H4",
+        "relationship": "移除",
+        "end_node": "氧物种"
+    },
+    {
+        "start_node": "室温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "室温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "温度升高",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "温度升高",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "150-200°C",
+        "relationship": "形成",
+        "end_node": "Ag0颗粒"
+    },
+    {
+        "start_node": "200°C",
+        "relationship": "部分破坏",
+        "end_node": "delafossite"
+    },
+    {
+        "start_node": "250°C",
+        "relationship": "完全破坏",
+        "end_node": "delafossite"
+    },
+    {
+        "start_node": "弱结合氧",
+        "relationship": "相对含量",
+        "end_node": "8.5%"
+    },
+    {
+        "start_node": "环氧化氧",
+        "relationship": "消耗量",
+        "end_node": "3%"
+    },
+    {
+        "start_node": "TPR-C2H4",
+        "relationship": "显示",
+        "end_node": "还原峰"
+    },
+    {
+        "start_node": "还原峰",
+        "relationship": "温度",
+        "end_node": "245°C"
+    },
+    {
+        "start_node": "还原峰",
+        "relationship": "温度",
+        "end_node": "365°C"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

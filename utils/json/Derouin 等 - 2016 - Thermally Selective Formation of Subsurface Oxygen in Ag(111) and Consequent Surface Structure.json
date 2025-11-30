@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "形成",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "温度<500K",
+        "relationship": "促进",
+        "end_node": "亚表面氧形成"
+    },
+    {
+        "start_node": "温度>500K",
+        "relationship": "抑制",
+        "end_node": "亚表面氧形成"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "诱导",
+        "end_node": "条纹结构"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "影响",
+        "end_node": "表面结构"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "改变",
+        "end_node": "表面化学"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "影响",
+        "end_node": "反应性"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "促进",
+        "end_node": "部分氧化"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "475-500K"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "475-500K"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "存在",
+        "end_node": "工业条件"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "氧化",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "NO2",
+        "relationship": "氧化",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "形成",
+        "end_node": "原子氧暴露"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "不形成",
+        "end_node": "NO2暴露"
+    },
+    {
+        "start_node": "表面重构",
+        "relationship": "分解",
+        "end_node": "595K"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "脱附",
+        "end_node": "550K"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "热不稳定",
+        "end_node": "表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "零级脱附",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "临界浓度",
+        "end_node": "0.1ML"
+    },
+    {
+        "start_node": "条纹结构",
+        "relationship": "覆盖",
+        "end_node": "整个表面"
+    },
+    {
+        "start_node": "p(4×4)",
+        "relationship": "稳定结构",
+        "end_node": "EO催化"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "多种结构",
+        "end_node": "Ag(111)"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "活性",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "重要",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "表面结构",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DOI 10.1021/acscatal.6b01239",
+        "relationship": "发表年份",
+        "end_node": "2016"
+    },
+    {
+        "start_node": "亚表面氧研究",
+        "relationship": "DOI",
+        "end_node": "10.1021/acscatal.6b01239"
+    }
+]

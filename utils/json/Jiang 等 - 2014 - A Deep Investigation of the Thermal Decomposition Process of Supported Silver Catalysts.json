@@ -1,0 +1,142 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银草酸盐",
+        "relationship": "分解",
+        "end_node": "金属银"
+    },
+    {
+        "start_node": "热分解",
+        "relationship": "温度范围",
+        "end_node": "100–145°C"
+    },
+    {
+        "start_node": "活化温度",
+        "relationship": "范围",
+        "end_node": "170°C"
+    },
+    {
+        "start_node": "活化时间",
+        "relationship": "范围",
+        "end_node": "5分钟"
+    },
+    {
+        "start_node": "低温活化",
+        "relationship": "形成",
+        "end_node": "小粒径银"
+    },
+    {
+        "start_node": "小粒径银",
+        "relationship": "提高",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "高温活化",
+        "relationship": "导致",
+        "end_node": "银烧结"
+    },
+    {
+        "start_node": "银烧结",
+        "relationship": "降低",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "长活化时间",
+        "relationship": "降低",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "草酸盐分解",
+        "relationship": "释放",
+        "end_node": "二氧化碳"
+    },
+    {
+        "start_node": "有机胺",
+        "relationship": "去除",
+        "end_node": "热分解"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "影响",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "银粒径分布",
+        "relationship": "影响",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "170–190°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "0.16 MPa"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "13%"
+    },
+    {
+        "start_node": "氧气浓度",
+        "relationship": "范围",
+        "end_node": "7%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "银草酸盐",
+        "relationship": "前驱体",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "乙二胺",
+        "relationship": "溶剂",
+        "end_node": "银草酸盐"
+    },
+    {
+        "start_node": "乙醇胺",
+        "relationship": "溶剂",
+        "end_node": "银草酸盐"
+    }
+]

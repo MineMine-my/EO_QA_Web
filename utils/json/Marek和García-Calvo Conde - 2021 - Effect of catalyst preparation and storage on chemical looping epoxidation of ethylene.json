@@ -1,0 +1,202 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "提供",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "化学循环环氧化",
+        "relationship": "使用",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "影响",
+        "end_node": "Ag粒径"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高温煅烧",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温煅烧",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "650°C煅烧",
+        "relationship": "产生",
+        "end_node": "最高选择性"
+    },
+    {
+        "start_node": "650°C煅烧",
+        "relationship": "产生",
+        "end_node": "最高转化率"
+    },
+    {
+        "start_node": "Ce掺杂",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Ce掺杂",
+        "relationship": "维持",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Sr1-xCexFeO3",
+        "relationship": "达到",
+        "end_node": "60%选择性"
+    },
+    {
+        "start_node": "Sr1-xCexFeO3",
+        "relationship": "达到",
+        "end_node": "15%转化率"
+    },
+    {
+        "start_node": "表面杂质",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "表面杂质",
+        "relationship": "增加",
+        "end_node": "CO2生成"
+    },
+    {
+        "start_node": "储存时间",
+        "relationship": "增加",
+        "end_node": "表面杂质"
+    },
+    {
+        "start_node": "Ag-SrFeO3界面",
+        "relationship": "促进",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "电荷转移",
+        "relationship": "增强",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "大Ag颗粒",
+        "relationship": "积累",
+        "end_node": "更多溶解氧"
+    },
+    {
+        "start_node": "溶解氧",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "10-30 bar"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "7-20 wt%"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "范围",
+        "end_node": "0.06-0.12"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "450-700°C"
+    },
+    {
+        "start_node": "晶格氧",
+        "relationship": "转化为",
+        "end_node": "溶解氧"
+    },
+    {
+        "start_node": "溶解氧",
+        "relationship": "转化为",
+        "end_node": "表面氧"
+    },
+    {
+        "start_node": "表面氧",
+        "relationship": "参与",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "表面杂质",
+        "relationship": "阻碍",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    }
+]

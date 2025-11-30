@@ -1,0 +1,92 @@
+[
+    {
+        "start_node": "Fe-BTC",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Fe-BTC",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Fe-BTC",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "N2O分解",
+        "relationship": "生成",
+        "end_node": "活性氧"
+    },
+    {
+        "start_node": "活性氧",
+        "relationship": "反应",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "形成",
+        "end_node": "乙烯氧中间体"
+    },
+    {
+        "start_node": "乙烯氧中间体",
+        "relationship": "转化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯氧中间体",
+        "relationship": "转化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "环氧乙烷路径",
+        "relationship": "活化能",
+        "end_node": "5.1 kcal/mol"
+    },
+    {
+        "start_node": "乙醛路径",
+        "relationship": "活化能",
+        "end_node": "14.3 kcal/mol"
+    },
+    {
+        "start_node": "环氧乙烷路径",
+        "relationship": "速率常数",
+        "end_node": "2-4 orders"
+    },
+    {
+        "start_node": "乙醛路径",
+        "relationship": "速率常数",
+        "end_node": "较低"
+    },
+    {
+        "start_node": "低活化能",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高活化能",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Fe-BTC",
+        "relationship": "DOI",
+        "end_node": "10.1002/cphc.201600836"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

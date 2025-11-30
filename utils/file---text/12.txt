@@ -1,0 +1,636 @@
+CatalysisCommunications3(2002)51–60
+www.elsevier.com/locate/catcom
+A possible role for surface carbon during ethylene
+epoxidation over silver catalysts
+Michael C.J. Bradford *, Digna X. Fuentes
+CeraMemCorporation,12ClematisAvenue,Waltham,MA02453,USA
+Received24October2001;receivedinrevisedform10January2002;accepted10January2002
+Abstract
+Evidence obtained during an investigation of ethylene epoxidation over unsupported silver powder and
+Ag–Cs=a-Al O is used to present the hypothesis that some surface sites responsible for epoxidation may deactivate
+2 3
+under some (but not all) experimental conditions as a consequence of surface carbon deposition and/or mild surface
+reconstruction facilitated bysurface carbon. (cid:1) 2002Publishedby Elsevier ScienceB.V.
+Keywords:Silver;Ethyleneepoxidation;Reconstruction;Carbon
+1. Introduction The desired oxidation reaction is ethylene ep-
+oxidation to ethylene oxide:
+Ethylene oxide, first produced by the reaction
+C H þ1O !C H O
+ofethylenechlorohydrinandpotassiumhydroxide 2 4 2 2 2 4 ð1Þ
+in 1859, has been produced commercially via gas- DH ¼(cid:4)105 kJ=mol C H
+rxn 2 4
+phase ethylene epoxidation since ca. 1931 [1,2].
+However, complete combustion of the ethylene:
+Currently, the worldwide production capacity of
+ethylene oxide exceeds 22 billion lb per annum C H þ3O !2CO þ2H O
+m 2 4 2 2 2
+ð2Þ
+[3], and according to the US Department of En-
+DH ¼(cid:4)1323 kJ=mol C H
+rxn 2 4
+ergy, up to 29 trillion BTUs can be potentially
+savedthroughtechnologyimprovementsrelatedto as well as combustion of the ethylene oxide:
+ethyleneoxidemanufacture[4].Therefore,thereis
+C H Oþ21O !2CO þ2H O
+a motivation to develop improved catalyst com- 2 4 2 2 2 2 ð3Þ
+positions that improve both catalyst performance DH rxn ¼(cid:4)1218 kJ=mol C 2 H 4 O
+and process energy efficiency.
+may also occur.
+Historical catalyst development efforts have
+focused on modifications and promoters that in-
+hibit combustion pathways and side reactions,
+*Correspondingauthor.
+such as the isomerization of ethylene oxide to
+E-mail address: mbradford@ceramem.com (M.C.J. Brad-
+ford). acetaldehyde [5–16]. Catalysts employed in indus-
+1566-7367/02/$-seefrontmatter (cid:1) 2002PublishedbyElsevierScienceB.V.
+PII:S1566-7367(02)00049-3
+
+52 M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60
+try utilize silver supported by low surface area purity a-Al O (99.99%, Ceralox HPA-1.0) was
+2 3
+(<3 m2=g), low acidity supports, such as a-alu- pre-calcined in flowing dry air (60 cm3=h g ) for
+cat
+mina or sintered silicon carbide. Trace amounts 2 h at 700 (cid:2)C prior to use. Silver and cesium were
+(ca. 0.1 wt%) of alkali promoters such as cesium introduced independently and sequentially to the
+are used to stabilize the ‘‘optimal’’ silver surface calcined support material using aqueous solutions
+structure and the active surface oxygen species, as of AgNO (Aldrich, 99.995%) and CsNO (Ald-
+3 3
+well as to adjust surface electron density and to rich, 99.99%), respectively. First, a nominal
+neutralize acid sites on the support [17–19]. In Ag=a-Al O sample was prepared and calcined in
+2 3
+addition, halide inhibitors such as chlorine are flowing dry air for 2 h at 250 (cid:2)C. Thereafter, ce-
+utilized via both catalyst modification and intro- sium was added to the calcined Ag=a-Al O cata-
+2 3
+ductionofhalocarbonssuchas1,2-dichloroethane lysttoyieldanominalcesiumloadingof0.20wt%,
+into the feed to promote ethylene oxide formation andtheCs–Ag=a-Al O catalystwasre-calcinedin
+2 3
+byeitheranensembleorligandeffect,orboth[19]. flowing dry air for 2 h at 250 (cid:2)C.
+Severalstudieshaveindicatedthatbothoxygen Catalysts were characterized using direct cur-
+andchlorinecaninducedynamicreconstructionof rent plasma emission spectroscopy to determine
+silver surfaces, and the epoxidation reaction may elemental composition. N BET analysis was used
+2
+onlyoccuronasmallfractionofsitesonthesilver to determine the surface area of the calcined
+surface [19]. In addition, the dissolution of ele- a-Al O . Pulse N O chemisorption at 120 (cid:2)C was
+2 3 2
+mental carbon atoms into the silver sub-surface used to estimate silver surface area and dispersion
+during the interaction of ethylene and oxygen on after cyclic pretreatment in hydrogen and oxygen
+polycrystalline silver foil has been reported [20]. [23–25]. Surface-weighted silver particle sizes were
+The phenomenon of adsorbate-induced restruc- calculated from N O chemisorption data (d )
+2 s;N2O
+turing of metal surfaces has been observed for a and silver dispersion (D) using d ðnmÞ¼
+s;N2O
+number of metal–adsorbate systems, such as car- 1:34=D [24,25]. Powder X-ray diffraction (XRD)
+bon on Ni(100) and ethylene on Rh(111) [21]. spectra were obtained using filtered Cu K radia-
+a
+Therefore, it is reasonable to question if surface tion(MaterialsCharacterizationLaboratoryatthe
+carbon can form on, dissolve into, and/or recon- PennsylvaniaStateUniversity).Inthecaseof‘‘as-
+struct the silver surface during ethylene epoxida- received’’ silver powder, the volume-weighted
+tion, thereby resulting in an alteration of the crystallite size ðd Þ was estimated using the
+v
+catalyst performance. Scherrer equation, d ¼0:9k=Bcosh, with War-
+v
+Herein, evidence obtained during an investiga- ren’s correction for instrumental line broadening,
+tion of ethylene epoxidation over unsupported sil- B¼ðB2 (cid:4)B2Þ1=2, where k¼1:5418 AA(cid:1) for weigh-
+M I
+verpowderandAg–Cs=a-Al O isusedtopresent ted Cu K radiation, B is the peak width at one-
+2 3 a M
+the hypothesis that some surface sites responsible halfmaximumintensity,andB istheinstrumental
+I
+for epoxidation may deactivate under some (but line broadening.
+not all) experimental conditions as a consequence Spent catalyst samples were characterized ex
+of surface carbon deposition and/or mild surface situ via temperature programmed oxidation
+reconstruction facilitated by surface carbon. (TPO). After reaction, catalysts were cooled to
+roomtemperatureinflowingargon,removedfrom
+the reactor, and subsequently transferred to a
+2. Experimental quartz tube packed with quartz wool. The quartz
+tube was placed in a horizontal tube furnace
+2.1. Catalyst preparation and characterization equipped with a carbon dioxide sensor at the ef-
+fluent (Vaisala). Temperature-programmed oxi-
+Silver powder (Alfa Aesar, 99.99%) was used dation of the catalysts in flowing dry air was
+as-received without further modification. A Cs- thereafter performed at ca. 4 (cid:2)C/min from 20 to
+promotedAg=a-Al O catalystwaspreparedusing 700 (cid:2)C to quantify total carbon deposition (as ei-
+2 3
+a modified incipient wetness technique [22]. High- ther carbonaceous deposits or adsorbed CO ).
+2
+
+M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60 53
+2.2. Bench-scale apparatus for catalyst testing ature[26],andanFIDresponsefactorforethylene
+oxidedeterminedusingagascalibrationstandard.
+High purity ethylene (99.5%), hydrogen
+(99.999%), argon (99.998%) and 9.0% oxygen in 2.3. Catalyst testing
+argon were introduced independently to the feed-
+gas manifold using mass flow controllers. The Typically, 0.6 g of ground and sieved catalyst
+system used a tubular, fixed-bed reactor made of [0:1256particlediameterðmmÞ60:25] was packed
+type 316 stainless steel. Electrical heating tape intothereactorbetweenplugsofquartzwool,and
+powered by a programmable temperature con- thereafter purged overnight in flowing argon
+troller was used to control external reactor tem- ð4500cm3=hg Þ. The following morning, the
+cat
+perature, and up to three K-type thermocouples catalyst was subject to a pretreatment procedure
+were placed inside the reactor to independently similar to that suggested by Vannice and co-
+monitor the axial temperature gradient in the vi- workers [24,25], involving multiple oxidation and
+cinity of the catalyst bed. The temperature of the reductioncyclesat170(cid:2)C.Afterpretreatment,the
+reactor effluent line was typically maintained at external reactor temperature was held at 240 (cid:2)C
+150–175 (cid:2)C, and a back-pressure regulator was and the catalyst was exposed to a mixture of eth-
+used to manually vary total reactor pressure be- ylene and oxygen in argon (O =C H =Ar¼
+2 2 4
+tween 100 and 1130 kPa. A manual gas-sampling 8:1=9:1=82:8, gas hourly space velocity¼5500
+portwaslocateddownstreamoftheback-pressure cm3=hg , weight hourly space velocity¼0:63g
+cat
+regulator for reactor effluent gas collection. Col- C H =hg ). Catalyst activity and selectivity were
+2 4 cat
+lected gas samples were injected into a gas chro- fairly constant during the initial 6 h on stream;
+matograph (SRI Model 8610A), separated with a therefore, time-weighted average of these data are
+HayeSep D column operating isothermally at 120 reported herein.
+(cid:2)C, and thereafter split for simultaneous analysis
+with flame ionization detector (FID) and thermal
+conductivity detector (TCD). The FID was used 3. Results
+for methane, ethylene, ethylene oxide and acetal-
+dehyde analyses, and the TCD was used for oxy- 3.1. Catalyst characterization
+gen, carbon dioxide, ethylene and water analyses.
+Ethylene conversion and product formation rates Catalysts were characterized via N BET, N O
+2 2
+were quantified from an overall carbon balance chemisorption, and XRD; a summary of avail-
+usingTCDandFIDresponsefactorsformethane, able data is provided in Table 1. The chemi-
+ethylene and carbon dioxide available in the liter- sorption uptake of atomic oxygen on the silver
+Table 1
+Surfaceareas,compositions,N Oadsorptionuptakes,andparticlesizesforsilverpowderandCs–Ag=a-Al O
+2 2 3
+Sa Composition(wt%)b Ouptakec Agsize(nm)d
+ðm2=gÞ ðlmol=g Þ
+Catalyst Al Ag Cs cat d d
+s;N2O v
+Agpowder 0.42 – 99.99 – 7.80 1590 32
+Cs–Ag=a-Al O 3:96(cid:7)0:06 46:4(cid:7)0:5 9:2(cid:7)0:7 0.2 12.9 64(cid:7)24 –
+2 3
+aThesurfaceareaoftheAgpowderwasestimatedfromtheOuptake.ThesurfaceareaforCs–Ag=a-Al O isthatofthecalcined
+2 3
+supportonlyandwasobtainedfromN BET.
+2
+bElementalcompositions(excludingCs,forwhichthenominalvalueislisted)weredeterminedviaDCPESð(cid:7)1r Þ.
+n
+cElementalOuptakesweredeterminedviapulseN Odecompositionat120(cid:2)C.
+2
+dSurface-weightedparticlesizeswereprimarilycalculatedfromOuptakesaftercyclicpretreatmentinH =O ðd Þassumingan
+2 2 s;N2O
+adsorptionstoichiometryofO=Ag ¼1.Volume-weightedcrystallitesizeðd ÞwascalculatedviaXRD.Seethediscussioninthe
+surface v
+textfordetails.
+
+54 M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60
+Table 2
+Catalyst performance for ethylene epoxidation (reaction conditions: P ¼100 kPa; T ¼240(cid:2)C; O =C H =Ar¼8:1=9:1=82:8;
+ext 2 2 4
+GHSV¼5500cm3=hg )
+cat
+Conversion(%)a Formationrateðlmol=sg Þa
+cat
+Catalyst C H O CO C H O C H O TOF (s(cid:4)1)c
+2 4 2 2 2 4 2 4 C2H4O
+selectivitya;b (%)
+Agpowder 21.0(cid:7)1.2 40.6 1:29(cid:7)0:27 0:66(cid:7)0:13 50:7(cid:7)9:9 0:085(cid:7)0:017
+Cs–Ag=a-Al O 3.1(cid:7)0.4 4.0 0:10(cid:7)0:03 0:14(cid:7)0:01 75:1(cid:7)5:8 0:011(cid:7)0:001
+2 3
+aConversionformation rates, and C H O selectivity are average values ð(cid:7)1r Þ observedover the duration of multiple experi-
+2 4 n(cid:4)1
+ments.
+bSelectivityisdefinedasthemolarrateofC H OformationnormalizedtothemolarrateofC H consumption.
+2 4 2 4
+cTOFswereestimatedbynormalizingspecificactivitiesðlmol=sg ÞtoOuptakeduringpulseN Ochemisorptionðlmol=g Þ–
+cat 2 cat
+fromTable1.
+powder, asmeasured by pulse N O chemisorption the Weisz–Prater criterion demonstrated that the
+2
+after pretreatment in hydrogen and oxygen, cor- influence of intraparticle mass transfer on the
+responds to a silver surface area of 0:42 m2=g observed global reaction rates was negligible.
+[23]. The small volume-weighted crystallite size of ApplicationofthecriterionofAndersonindicated
+32 nm for the ‘‘as-received’’ silver powder indi- that intraparticle heat transfer did not likely bias
+cates that these bulk silver particles are poly- the kinetic results. In addition, the criterion of
+crystalline, and contain breaks in the long-term Mears was used to demonstrate that interphase
+order, possibly due to grain boundaries or shear heat transfer resistance was negligible in these
+planes. The surface-weighted particle size of experiments. Consequently, apparent turnover
+64(cid:7)24 nm reported for silver in the frequencies (TOFs) for ethylene oxide formation
+Cs–Ag=a-Al O catalyst was calculated as an were estimated by normalizing specific activities
+2 3
+average of two extremes by assuming either zero for ethylene oxide formation (Table 2) to catalyst
+surface coverage of cesium on the silver surface atomic oxygen uptakes at 120 (cid:2)C (Table 1). The
+(87 nm), or complete and exclusive adsorption of apparent TOF of 0:085 s(cid:4)1 obtained for silver
+cesium on the silver surface (40 nm). powderat240(cid:2)CislargerthantheapparentTOF
+of 0:011 s(cid:4)1 obtained for the Cs–Ag=a-Al O
+2 3
+3.2. Catalyst performance catalyst. Presumably, the relatively lower activity
+of this Cs–Ag=a-Al O catalyst is a consequence
+2 3
+Catalyst performance for ethylene epoxidation of a relatively high coverage of cesium on the sil-
+was initially evaluated at 100 kPa after cyclic ver surface.
+pretreatmentinhydrogenandoxygenat170(cid:2)C;a Additional catalyst performance data were ob-
+summaryofthesedataisprovidedinTable2.The tained at elevated pressures up to 1130 kPa; a
+measuredethyleneoxideselectivityofca.51%over summary of the results obtained is provided in
+silver powder is quite similar to that of ca. 44% Table 3. In these experiments, the reaction was
+reported for unpromoted, alumina-supported, 56– initially undertaken at a pressure of 100 kPa for
+100 nm silver particles [27]. The higher selectivity several hours, followed by a slow but continuous
+ofethyleneoxideovertheCs–Ag=a-Al O catalyst increase inpressureuntilthe desiredfinalpressure
+2 3
+is expected due to a combination of cesium pro- was obtained. The total duration of this pressure
+motion and lower ethylene conversion. transient was ca. 1 h. To facilitate comparison of
+In the evaluation of the kinetic data reported these elevated pressure data with data obtained at
+herein, established theoretical criteria were used atmosphericpressure(andshowninTable2),data
+for the preliminary assessment of the influence of in Table 3 are normalized to corresponding data
+mass and heat transfer; a brief review of these obtained at 100 kPa. In this regard, normalized
+critera is available elsewhere [28]. Evaluation of valuesinTable3thatarelessthanunityindicatea
+
+M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60 55
+Table 3
+Influenceofpressureonrelativecatalystperformanceforethyleneepoxidation(reactionconditions(exceptpressure)areidenticalto
+thoseinTable2)
+Rateratioðr =r Þa
+P P¼100
+Catalyst P(kPa) CO C H O C =C b S =S c
+2 2 4 P P¼100 P P¼100
+Agpowder 100 1.00 1.00 1.00 1.00
+990 1.08 1.10 1.10 1.01
+1130 1.21 0.69 0.90 0.77
+Cs–Ag=a-Al O 100 1.00 1.00 1.00 1.00
+2 3
+1130 1.64 0.18 0.53 0.34
+aSubscriptPindicatesthevalueoftheparameteratthespecifiedpressureinthistable,andsubscriptP ¼100indicatesthevalueof
+theparameterobtainedatP ¼100kPa(datainTable2).
+bCistheethyleneconversion.
+cSistheethyleneoxidemolarselectivity,asdefinedinTable2.
+decrease in the parameter value at elevated pres- The increase of total system pressure from 100
+sure, and normalized values in Table 3 which are to 990 kPa over silver powder resulted in a minor
+greater than unity indicate an increase in the pa- increase in the rates of ethylene conversion and
+rameter value. carbon dioxide and ethylene oxide formation, al-
+though the selectivity to ethylene oxide was un-
+changed within experimental error. However,
+during experiments in which the pressure was
+raisedfrom100to1130kPa,amarkedtransientin
+effluent methane concentration was observed at
+pressures exceeding 990 kPa (corresponding to an
+absolute ethylene partial pressure of 90 kPa), ac-
+companied by a decrease in ethylene conversion
+andethyleneoxideproduction,aswellasincreased
+selectivitytocarbondioxide.Anillustrationofthis
+phenomenon is provided in Fig. 1 (similar results
+were obtained for the Cs–Ag=a-Al O catalyst
+2 3
+during the 10–1130 kPa transient). It is unlikely
+that the observed change in the performance of
+silver powder during the pressure transient from
+990 to 1130 kPa is a sole consequence of the ki-
+neticaccelerationofsecondary reactions–suchas
+ethylene oxide isomerization to acetaldehyde fol-
+lowed by rapid decomposition and combustion to
+yieldmethane,carbondioxideandwater–because
+the absolute rate of ethylene conversion also de-
+creased markedly. The concomitant nature of
+methane formation and catalyst deactivation in-
+dicatesthatthephenomenonisassociatedwiththe
+catalystsurface.Inaddition,itisofinteresttonote
+that the sharp transient increase in methane pro-
+Fig. 1. Ethylene epoxidation over silver powder during a
+duction at P >990 kPa is not maintained at
+transient in total pressure from 100 to 1130 kPa. Reaction
+steady state. This phenomenon may indicate a
+conditions:T ¼240(cid:2)C;O =C H =Ar¼8:1=9:1=82:8;GHSV
+ext 2 2 4
+¼5500cm3=hg ;WHSV¼0:63gC H =hg . causalrelationship,i.e.,aparticulartypeofsurface
+cat 2 4 cat
+
+56 M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60
+Table 4 the total amounts of carbon removed from the
+Carbon accumulation on spent catalysts after ethylene epoxi- usedcatalystsafterreactionexceed theadsorption
+dation(reactionconditionsareshowninTables2and3)
+capacities of each catalyst for atomic oxygen
+CarbonremovedðlmolCO 2 =g cat Þa;b (Section 3.3). In this section, a hypothesis is pre-
+Catalyst 100kPa 990kPa 1130kPa sented to explain these observations; i.e., a po-
+tential exists for surface carbon and methane to
+Agpowder 41 37 17
+Cs–Ag=a-Al O 44 – 25 form during ethylene epoxidation, and under cer-
+2 3
+tain conditions surface carbon might facilitate a
+aCarbon removed was quantified via integration of CO ðtÞ
+2
+subtle reconstruction of the silver surface. Ther-
+evolutionduringTPO.
+bThe pressures indicated are the reactor pressures during modynamic calculations are presented to demon-
+ethyleneepoxidation. strate that a potential exists for the formation of
+carbon and methane from mixtures of oxygen,
+ensemble that is responsible for ethylene epoxida- ethylene and argon (Section 4.1). Bond order
+tion (at P <990 kPa) might have deactivated conservation–Morse potential (BOC–MP) calcu-
+through the methane formation mechanism (at lations are presented to demonstrate that hydro-
+990<PðkPaÞ<1130). gen abstraction by adsorbed oxygen is an
+energetically possible mechanism for the forma-
+3.3. Temperature programmed oxidation tion of surface carbon on the Ag(111) surface
+(Section 4.2). In addition, circumstantial evidence
+Temperature programmed oxidation (TPO) of is presented to support the hypothesis that a po-
+used catalysts was performed to quantify catalyst tential exists for surface carbon to reconstruct the
+carbon content; a summary of these data is pro- silver surface (Section 4.3).
+vided in Table 4. For these catalyst samples the
+total carbon deposition consistently decreased 4.1. Thermodynamic equilibrium
+with increasing reaction pressure. In addition, the
+total carbon contents (Table 4) exceed atomic A series of thermodynamic calculations were
+oxygen adsorption capacity, as determined sepa- performed (using HSC Chemistry v.4.1) to deter-
+ratelyviapulseN 2 Odecomposition(Table1).For mine the potential for carbon and methane for-
+the Cs–Ag=a-Al 2 O 3 catalyst, this observation is mation during ethylene epoxidation subject to the
+explicable as a consequence of carbon deposition reaction conditions employed in this experimental
+and carbon dioxide chemisorption on the a-Al 2 O 3 study. Initial conditions were: Ar=C 2 H 4 =O 2 ¼
+support, as well as the silver surface, during reac- 828=91=81, T ¼240 (cid:2)C and P ¼100–1130 kPa.
+tion. However, in the case of silver powder, the The free energy minimization calculations were
+data indicate an apparent surface coverage for limited by the restriction of possible reaction
+carbonrangingfromca.2.2(afterreactionat1130 products to ethylene oxide, carbon monoxide,
+kPa) to ca. 5.2 (after reaction at 100 kPa). carbon dioxide, methane, water and graphite
+(chosen as a model representative carbon species).
+The calculation results are independent of total
+4. Discussion system pressure and indicate 100% conversion of
+both ethylene and oxygen at equilibrium, accord-
+During this investigation of ethylene epoxida- ing to the following approximate reaction stoi-
+tionoverbulksilverpowderandaCs–Ag=a-Al 2 O 3 chiometry:
+catalyst, two unexpected phenomena were ob-
+served. First, a continuous increase in reaction 91C H þ81O !117:68C þ37:16CH
+2 4 2 ðsÞ 4
+pressure above 990 kPa resulted in a decrease in
+þ27:16CO þ107:68H O ð4Þ
+2 2
+ethylene conversion and ethylene oxide selectivity,
+as well as a transient increase in methane and Although this production distribution was not
+carbon dioxide formation (Section 3.2). Second, observed experimentally during ethylene epoxida-
+
+M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60 57
+tionoversupportedsilvercatalystsduetointrinsic vichemployedadifferentheatofadsorptionforC
+kinetic limitations, the thermodynamic results onAg(111)inasubsequentwork[30].Regardless,
+nevertheless indicate that a strong potential exists this difference has no impact on the ultimate con-
+for both carbon and methane formation from clusionsderivedfromthesecalculations.Theheats
+ethylene in ethylene–oxygen mixtures. of adsorption for CH and C H fragments were
+x 2 x
+calculated using the formula for intermediate
+4.2. Surface energetics bonding of M –AB species [29]:
+n
+Thethermodynamicequilibriumcalculationsin 1 " Q2 (cid:4) Q (cid:2) 2(cid:4)1 (cid:3)(cid:5)2 #
+Section 4.1 indicate that there is a potential for Q AB ðnÞ¼ 2 QAþ A D þ Q (cid:2) 2 A (cid:4)1 (cid:3) þ n D ; ð5Þ
+carbon to form from ethylene–oxygen mixtures, n AB A n AB
+provided that an energetically viable kinetic
+where Q ðnÞ is the heat of adsorption of species
+pathway exists for the transformation to occur. AB
+ABatasurfacesiteM withcoordinationnumber
+Presently, there is an absence of reports in the n
+n,Q istheheatofadsorptionoffragmentA,and
+literature that discuss the energetics of carbon A
+D is the total bond energy of species AB. In the
+formation on silver surfaces during ethylene ep- AB
+application of this equation it must be noted that
+oxidation. Therefore, in order to elucidate the ex-
+valuesforn(limitedtoeither1,2or3)werechosen
+istence of a possible kinetic pathway for surface
+based on the experimental observation that CH
+carbon formation during ethylene epoxidation x
+fragments on metal surfaces are preferentially lo-
+over supported silver, the BOC–MP method [29],
+cated at adsorption sites that complete its tetra-
+which has been previously used to investigate the
+valency [32].
+formation and reaction of allylic species [30] and
+The activation energy barriers for some bond
+the mechanism of methanol partial oxidation [31]
+dissociation reactions ðDE Þ on the Ag(111)
+on the Ag(111) surface, was employed. BD
+surface ðAB!AþBÞ were calculated directly
+Acompilationofheatsofadsorptionforseveral
+from the data in Table 5 using the following
+surface species necessary for the estimation of ac-
+equation [29]:
+tivation energy barriers for relevant surface reac-
+tions on Ag(111) is provided in Table 5. It is
+(cid:7) (cid:8)
+1 Q Q
+worthnotingthatwhiletheadsorptionenergiesfor DE ¼Q þ D þ A B (cid:4)Q (cid:4)Q (cid:4)Q :
+O, H, OH and C species on Ag(111) were ob- BD AB 2 AB Q A þQ B AB A B
+tained directly from Shustorovich [29], Shustoro- ð6Þ
+Table 5
+BondenergiesðD ÞandheatsofadsorptionðQ ÞformonocoordinatedM –ABspeciesonAg(111)
+AB AB n
+Species D (kcal/mol) A B n Q (kcal/mol) Reference
+AB AB
+O – – – 3 80 [29]
+H – – – 3 52 [29]
+OH 102 O H – 55 [30]
+C – – – 3 120 [29]
+CH 81 C H 3 130 Thiswork
+CH 183 C H 2 74 Thiswork
+2 2
+CH 293 C H 1 35 Thiswork
+3 3
+CBC 145 C C 3 97 Thiswork
+HCBC 259 C CH 3 68 Thiswork
+H C@C 348 C CH 3 55 Thiswork
+2 2
+H C@CH 421 CH CH 3 55 Thiswork
+2 2
+H C–C 376 C CH 3 52 Thiswork
+3 3
+H C@CH 538 CH CH 2 14 Thiswork
+2 2 2 2
+CO 257 – – 1 6.5 [31]
+CO 384 – – 1 3.2 [31]
+2
+
+58 M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60
+Table 6 Table 7
+Activationenergybarriersforsomebonddissociationreactions Activation energy barriers for some hydrogen abstraction re-
+(DE )ontheAg(111)surface actions(DE )ontheAg(111)surface
+BD HA
+Surfacereaction DE (kcal/mol) Surfacereaction DE (kcal/mol)
+BD HA
+H C@CH !H C@CHþH 236 H C@CH þO!H C@CHþOH 13
+2 2 2 2 2 2
+H C@CH !CH þCH 220 H C–CþO!H C@CþOH 14
+2 2 2 2 3 2
+H C–C!CH þC 150 H C@CþO!HCBCþOH 16
+3 3 2
+H C@C!CH þC 127 HCBCþO!CBCþOH 22
+2 2
+HCBC!CHþC 70
+CBC!CþC 31
+that the energetically favorable reaction pathway
+for acetylene oxidation on silver surfaces is via
+A summary of activation energy barriers for sev-
+hydrogenabstraction,resultingintheformationof
+eral C H dissociation reactions is provided in
+2 x surface acetylide and hydroxyl intermediates [33].
+Table 6. The results indicate that while the acti-
+vation energy barriers for C 2 H x dissociation on 4.3. Surface carbon
+Ag(111) decrease considerably with decreasing
+valuesofx,theonlyC H dissociationreaction(of
+2 x A thermodynamic potential (Section 4.1) and a
+those examined) that is likely not energetically
+possiblereactionmechanism(Section4.2)existfor
+prohibited is CBC dissociation.
+surface carbon formation during ethylene epoxi-
+The activation energy barriers for hydrogen
+dation over silver surfaces. Although BOC–MP
+abstraction (DE ) from C H by adsorbed oxy-
+HA 2 x derived activation energies for the surface reac-
+gen on the Ag(111) surface ðAþBC!ABþCÞ
+tions between atomic oxygen and carbon (0 kcal/
+were calculated directly from the data in Table 5
+mol) and between atomic oxygen and carbon
+using the following equation [29]:
+monoxide (6 kcal/mol) indicate that carbon re-
+1 (cid:7) Q Q (cid:8) moval from the Ag(111) surface is facile, the ac-
+DE ¼ Dþ AB C þQ þQ (cid:4)Q (cid:4)Q ;
+HA 2 Q þQ A BC AB C cumulation of carbon on silver powder and
+AB C
+Cs–Ag=a-Al O catalysts was observed experi-
+ð7Þ 2 3
+mentally (Section 3.3). Therefore, inquiry about
+where D¼D þD (cid:4)D (cid:4)D P0. For reac- the nature and influence of surface carbon on sil-
+A BC AB C
+tions where D<0, the activation energy for the ver surfaces is required.
+reversereaction(DE )wascalculatedfromEq.(7), In the case of silver powder, the observation of
+r
+and DE was calculated directly from apparent carbon surface coverages exceeding one
+HA
+DE ¼DE (cid:4)DH . A summary of activation monolayerindicatestheformationoflargecarbon
+HA r rxn
+energy barriers for several hydrogen abstraction deposits on the silver surface and/or subsurface
+reactions is provided in Table 7. The results indi- carbon. During transient ethylene epoxidation
+cate that the activation energy barriers for hy- experiments at elevated pressures, deactivation
+drogen abstraction by adsorbed oxygen are was not complete (Section 3.2), indicating that a
+significantly lower than for C H dissociation significant fraction of the silver surface remained
+2 x
+(DE (cid:8)DE ), and are within a range that is, at available to both oxygen and ethylene. The
+HA BD
+least, energetically viable. Therefore, although possible formation of multi-layer carbon deposits
+surface carbon could conceivably form from sur- by either the Frank–van der Merwe or Stranski–
+face reactions not represented by the simple reac- Krastanov mechanisms is excluded from
+tions examined herein, it is concluded that consideration because both mechanisms require
+hydrogen abstraction by surface oxygen from theinitialformationofacompletemonolayer[21].
+C H is a possible mechanism for surface carbon Therefore, the formation of carbon islands on the
+2 x
+formation during ethylene epoxidation. This con- silver surface by a Volmer–Weber type of mecha-
+clusionisconsistentwithrecent‘‘dipped-adcluster/ nism at particular sites on the silver surface
+Hartree–Fock/MP2’’ calculations which indicate through an overall reaction stoichiometry similar
+
+M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60 59
+to that described in Section 4.1 is possible. How- maximizing the extent of carbon–silver interac-
+ever,canthesecarbonspeciesdiffuseintothesilver tions. However, the calculated activation energy
+subsurface and/or induce a mild reconstruction of barrier for carbon diffusion within bulk silver is
+the silver surface? The phenomenon of adsorbate- reportedly73kcal/mol[35];therefore,bulkcarbon
+induced restructuring of metal surfaces has been diffusion would likely be restricted.
+observed for a number of metal–adsorbate sys-
+tems, such as carbon on Ni(100) and ethylene on
+Rh(111) [21]. Several studies have indicated that 5. Summary
+both oxygen and chlorine can induce dynamic re-
+construction of silver surfaces [19], and the disso- During a preliminary investigation of ethylene
+lution of elemental carbon atoms into the silver epoxidation over unsupported silver powder and
+subsurface during the interaction of ethylene and Ag–Cs=a-Al O , a concomitant transient increase
+2 3
+oxygen on polycrystalline silver foil has been in methane formation and decreases in both eth-
+reported [20]. Therefore, it is reasonable to ques- yleneconversionandethyleneoxidewereobserved
+tion if surface carbon can form on, diffuse into, during a transient in reaction pressure. Ex situ
+and/or reconstruct a portion of the silver surface temperatureprogrammedoxidationanalysisofthe
+during ethylene epoxidation, thereby resulting in usedcatalyst samples revealedthatcarbonsurface
+an alteration of the catalyst performance. coverages exceeded one monolayer. Thermody-
+Proper quantitative analysis of this question namiccalculationsrevealedthatastrongpotential
+involves a detailed analysis of surface reaction exists for methane and carbon formation from
+energetics and dynamics under relevant reaction ethylene–oxygenmixtures.ResultsfromBOC–MP
+conditions and is beyond the scope of the limited calculations indicate that surface carbon forma-
+analysis herein. Nevertheless, a circumstantial tion during ethylene epoxidation over Ag(111) is
+argument is available to support the hypothesis energetically viable through a mechanism involv-
+that mild surface reconstruction by surface car- ing hydride abstraction from surface C H species
+2 x
+bon is plausible. Specifically, the diatomic gas- by adsorbed oxygen. In addition, simple energetic
+phase bond dissociation energies [34] for Ag–O arguments indicate that perturbation of surface
+(53(cid:7)5 kcal/mol) and Ag–Cl (82 kcal/mol), as Ag–AgbondsbysurfacecarbonorC H speciesis
+2 x
+wellastheheatsofadsorptionforatomicchlorine possible. Therefore, it is proposed that some sur-
+(53 kcal/mol – [30]) and oxygen (80 kcal/mol), facesitesresponsibleforethyleneepoxidationover
+exceed the diatomic bond dissociation energy for unsupported silver powder and Ag–Cs=a-Al O
+2 3
+Ag–Ag (39(cid:7)2 kcal/mol), indicating that a ther- may deactivate under some experimental condi-
+modynamic potential exists for surface oxygen tions as a consequence of carbon deposition by a
+andchlorinetodisruptsurfaceAg–Agbonds.The Volmer–Weber type of mechanism and/or mild
+estimatedheatofadsorptionforcarbon(120kcal/ surfacereconstructionfacilitatedbysurfaceand/or
+mol) exceeds adsorption energies for chlorine and subsurface carbon species. Ultimately, however,
+oxygen, as well as the diatomic gas-phase bond additional work is necessary in order to either re-
+dissociation energy for Ag–Ag. Therefore, it fute or support this hypothesis.
+might be inferred that adsorbed carbon and C H
+2 x
+fragments (if present) can also disrupt surface
+Ag–Ag bonds, thereby resulting in a reconstruc- Acknowledgements
+tion of the silver surface during ethylene epoxi-
+dation. This work was funded by the National Science
+Ifatomiccarbonispresentonthesilversurface FoundationunderSBIRGrantnos.DMI-9960419
+under conditions in which reconstruction (for and DMI-0109981. The authors thank CeraMem
+example, by oxygen) is occurring, carbon atoms Corporation for permission to publish this work,
+might diffuse to the subsurface in order to mini- and the manuscript reviewers for providing useful
+mize the total energy of the surface layer by comments.
+
+60 M.C.J.Bradford,D.X.Fuentes/CatalysisCommunications3(2002)51–60
+References [18] V.I. Bukhtiyarov, I.P. Prosvirin, R.I. Kvon, S.N. Gon-
+charova,B.S.Bal’shinimaev,J.Chem.Soc.FaradayTrans.
+93(1997)2323.
+[1] B.J. Ozero, R. Landau, in: J.J. McKetta, W.A. Cunn-
+[19] J.G.Serafin,A.C.Liu,S.R.Seyedmonir,J.Mol.Catal.A:
+ingham (Eds.), Encyclopedia of Chemical Processing
+Chem.131(1998)157.
+and Design, Marcel Dekker, New York, 1984, pp. 274–
+[20] V.I. Bukhtiyarov, A.I. Boronin, I.P. Prosvirin, V.I. Sav-
+318.
+chenko,J.Catal.150(1994)268.
+[2] J.P. Dever, K.F. George, W.C. Hoffman, H. Soo, fourth
+[21] G.A. Somorjai, Introduction to Surface Chemistry and
+ed., Kirk-Othmer Encyclopedia of Chemical Technology,
+Catalysis,Wiley/Interscience,NewYork,1994.
+Vol.9,Wiley,NewYork,1994,pp.915–959.
+[22] R.E.Kenson,M.Lapkin,J.Phys.Chem.74(1970)1493.
+[3] G.H.Shahani,H.H.Gunardson,N.C.Easterbrook,Chem.
+[23] J.J.F.Scholten,J.A.Konvalinka,F.W.Beekman,J.Catal.
+Eng.Prog.92(11)(1996)66.
+28(1973)209.
+[4] Energy and Environmental Profile of the US Chemical
+[24] S.R.Seyedmonir,D.E.Strohmayer,G.L.Geoffroy,M.A.
+Industry.OfficeofIndustrialTechnologies,Departmentof
+Vannice,Adsorpt.Sci.Technol.1(1984)253.
+Energy,May2000.
+[25] M.V. Badani, M.A. Vannice, Appl. Catal. A: Gen. 204
+[5] F.E.Cassidy,B.K.Hodnett,CATECH2(2)(1998)173.
+(2000)129.
+[6] J.E. Buffum, R.M. Kowaleski, W.H. Gerdes, US Patent
+[26] W.A.Dietz,J.GasChromatogr.(February)(1967)68.
+#5,145,824(1992).
+[27] V.I. Bukhtiyarov, I.P. Prosvirin, R.I. Kvon, S.N. Gon-
+[7] G. Boxhoorn, A.H. Klazinga, O.Velthuis, US Patent
+charova,B.S.Bal’zhinimaev,J.Chem.Soc.FaradayTrans.
+#4,728,634(1988).
+93(1997)2323.
+[8] S. Nagase, H. Tanabe, H. Imai, US Patent #5,395,812
+[28] R.J. Madon, M. Boudart, Ind. Eng. Chem. Fundam. 21
+(1995).
+(1982)438.
+[9] N.Rizkalla,USPatent#5,736,483(1998).
+[29] E.Shustorovich,Adv.Catal.37(1990)101.
+[10] R.A.Kemp,USPatent#5,545,603(1996).
+[30] E.Shustorovich,Surf.Sci.279(1992)355.
+[11] S.F.Mitchell,D.M.A.Minahan,M.M.Bhasin,USPatent
+[31] B.Shen,X.Chen,K.Fan,J.-F.Deng,Surf.Sci.408(1998)
+#5,051,395(1991).
+128.
+[12] W.L.Wernli,USPatent#4,087,385(1978).
+[32] M.C.J.Bradford,M.A.Vannice,Catal.Rev.–Sci.Eng.41
+[13] S.D.Barnicki,J.R.Monnier,USPatent#6,011,163(2000).
+(1999)1.
+[14] S.Khoobiar,USPatent#4,169,099(1979).
+[33] Z.-M. Hu,H. Ito, S. Hara,H. Nakatsuji,J. Mol.Struct.
+[15] W.H. Gerdes, C.M. Doddato, P.F. Malone, US Patent
+(Theochem)461–462(1999)29.
+#5,100,859(1992).
+[34] CRCHandbookofChemistryandPhysics,76thed.,CRC
+[16] B. Klopries, H. Metz, W. Dibowski, D. Kyewski, J.
+Press,BocaRaton,1995.
+Pospiech,USPatent#5,668,077(1997).
+[35] S. Dorfman,D.Fuks, M. Suery,J.Mater.Sci. 34(1999)
+[17] S.N. Goncharova, E.A. Paukshtis, B.S. Bal’zhinimaev,
+77.
+Appl.Catal.A:Gen.126(1995)67.
+

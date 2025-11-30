@@ -1,0 +1,112 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "热分解",
+        "relationship": "形成",
+        "end_node": "Ag颗粒"
+    },
+    {
+        "start_node": "氮气氛",
+        "relationship": "形成",
+        "end_node": "小粒径"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氮气氛",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "空气气氛",
+        "relationship": "形成",
+        "end_node": "大粒径"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "空气气氛",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "结晶过程",
+        "relationship": "温度范围",
+        "end_node": "低于80°C"
+    },
+    {
+        "start_node": "分解过程",
+        "relationship": "温度范围",
+        "end_node": "90-140°C"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-280°C"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.06-0.12"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "二氧化碳"
+    }
+]

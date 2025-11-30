@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DOI:10.1002/cite.201700071",
+        "relationship": "发表年份",
+        "end_node": "2017"
+    },
+    {
+        "start_node": "氧负载量",
+        "relationship": "影响",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "50%氧负载量",
+        "relationship": "对应",
+        "end_node": "最高活性"
+    },
+    {
+        "start_node": "选择性",
+        "relationship": "独立于",
+        "end_node": "氧负载量"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "吸附",
+        "end_node": "氧化银表面"
+    },
+    {
+        "start_node": "乙烯吸附",
+        "relationship": "热焓",
+        "end_node": "-73 kJ/mol"
+    },
+    {
+        "start_node": "C=C键",
+        "relationship": "导致",
+        "end_node": "强吸附"
+    },
+    {
+        "start_node": "乙烷",
+        "relationship": "不吸附",
+        "end_node": "银表面"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "等于",
+        "end_node": "大气压"
+    },
+    {
+        "start_node": "银粉末",
+        "relationship": "选择性",
+        "end_node": "40%"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "存在于",
+        "end_node": "银表面"
+    },
+    {
+        "start_node": "表面氧",
+        "relationship": "稳定",
+        "end_node": "数分钟"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "反应",
+        "end_node": "表面氧"
+    },
+    {
+        "start_node": "气相氧",
+        "relationship": "非必要",
+        "end_node": "反应开始"
+    },
+    {
+        "start_node": "CO2",
+        "relationship": "化学吸附",
+        "end_node": "氧化银"
+    },
+    {
+        "start_node": "氧覆盖度",
+        "relationship": "影响",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "高氧覆盖",
+        "relationship": "减少",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "OMC形成"
+    },
+    {
+        "start_node": "OMC",
+        "relationship": "中间体",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "单一位点模型",
+        "relationship": "解释",
+        "end_node": "恒定选择性"
+    },
+    {
+        "start_node": "氘代乙烯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "同位素效应",
+        "relationship": "支持",
+        "end_node": "OMC机理"
+    },
+    {
+        "start_node": "脉冲反应器",
+        "relationship": "研究",
+        "end_node": "本征动力学"
+    },
+    {
+        "start_node": "低浓度脉冲",
+        "relationship": "简化",
+        "end_node": "反应网络"
+    },
+    {
+        "start_node": "TAP方法",
+        "relationship": "提供",
+        "end_node": "瞬态动力学"
+    }
+]

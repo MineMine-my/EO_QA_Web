@@ -1,0 +1,122 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "200-260°C"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "10-30 bar"
+    },
+    {
+        "start_node": "传统工艺",
+        "relationship": "排放",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "电化学方法",
+        "relationship": "替代",
+        "end_node": "传统工艺"
+    },
+    {
+        "start_node": "乙醇",
+        "relationship": "转化为",
+        "end_node": "2-氯乙醇"
+    },
+    {
+        "start_node": "2-氯乙醇",
+        "relationship": "环化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "氯离子",
+        "relationship": "催化",
+        "end_node": "环化反应"
+    },
+    {
+        "start_node": "BDD电极",
+        "relationship": "促进",
+        "end_node": "氯自由基生成"
+    },
+    {
+        "start_node": "氯自由基",
+        "relationship": "氢提取",
+        "end_node": "乙醇"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "提高",
+        "end_node": "2-氯乙醇选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "促进",
+        "end_node": "乙酸生成"
+    },
+    {
+        "start_node": "低电位",
+        "relationship": "提高",
+        "end_node": "2-氯乙醇选择性"
+    },
+    {
+        "start_node": "高电位",
+        "relationship": "促进",
+        "end_node": "乙酸生成"
+    },
+    {
+        "start_node": "ta-C:N电极",
+        "relationship": "优于",
+        "end_node": "BDD电极"
+    },
+    {
+        "start_node": "ta-C:N电极",
+        "relationship": "提高",
+        "end_node": "2-氯乙醇选择性"
+    },
+    {
+        "start_node": "碱性条件",
+        "relationship": "促进",
+        "end_node": "环化反应"
+    },
+    {
+        "start_node": "集成流动池",
+        "relationship": "实现",
+        "end_node": "连续生产"
+    },
+    {
+        "start_node": "电化学方法",
+        "relationship": "使用",
+        "end_node": "可再生能源"
+    }
+]

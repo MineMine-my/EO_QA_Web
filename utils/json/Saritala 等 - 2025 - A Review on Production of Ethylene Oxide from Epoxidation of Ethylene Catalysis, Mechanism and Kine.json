@@ -1,0 +1,337 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Mn-N4GP",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Mn-N4GP",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "Mn-N4GP",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "Ag-h-BN",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-h-BN",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag-h-BN",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "Ag-h-BN",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "Ag-CuO",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-CuO",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "Ag-CuO",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "Ir1-α-MnO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ir1-α-MnO2",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "Ir1-α-MnO2",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "RuO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "RuO2",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "RuO2",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "Ag-SrFeO3",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-SrFeO3",
+        "relationship": "DOI",
+        "end_node": "10.3390/catal15060560"
+    },
+    {
+        "start_node": "Ag-SrFeO3",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "392–500°F"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "10–30 bar"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Co",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Au",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50–500 nm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "1–30 m²/g"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:2"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "230°C"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "H2O2",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "水浓度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "形成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "OMC-DH路径",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "双氧物种",
+        "relationship": "促进",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Langmuir-Hinshelwood",
+        "relationship": "主导",
+        "end_node": "环氧乙烷形成"
+    },
+    {
+        "start_node": "Eley-Rideal",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "等离子体Ag",
+        "relationship": "降低",
+        "end_node": "活化温度"
+    },
+    {
+        "start_node": "等离子体Ag",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "增强",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    }
+]

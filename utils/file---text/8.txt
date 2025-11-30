@@ -1,0 +1,394 @@
+TopCatal(2010)53:13–18
+DOI10.1007/s11244-009-9440-9
+ORIGINAL PAPER
+Effect of Preparation Conditions on Ag Catalysts for Ethylene
+Epoxidation
+Joseph C. Dellamorte • Jochen Lauterbach •
+Mark A. Barteau
+Publishedonline:22December2009
+(cid:1)SpringerScience+BusinessMedia,LLC2009
+Abstract The effect of calcination of silver catalysts promoters have been shown to affect catalyst performance
+supported on foamed monoliths was examined for the and lifetime. In particular, many studies have focused on
+epoxidation of ethylene. Previous results suggested that howthesefactorsaffectthecharacteristicsofsupportedAg
+calcination at 673 K for 3 h would give a maximum con- particles. Several precursors are available for Ag particle
+version. Further study revealed that calcination for[3 h synthesis,includingsilvernitrate[2],silverlactate[3],and
+reduced the catalyst surface area and therefore the con- silver oxalate [4], to produce catalysts with different per-
+versionseeninreactorstudies.Thisphenomenonhasbeen formance. In general, the effect of the Ag source is not
+attributed to sintering, with the migration of Ag from completely understood. Sajkowski and Boudart have sug-
+mesopores of the catalysts to macropore regions and the gestedthattheepoxidationreactionisstructure-insensitive,
+eventual formation of a Ag film covering the walls of the which would imply that there is little need to tune the Ag
+macropores. Studies of the metal loading showed that a morphology[5].However,severalstudieshaveshownthat
+tradeoffexistsbetweenmetalloadingandcalcinationtime. particlesizedoesaffectthecatalystperformance[6–9].Wu
+Increasing the amount of silver can have a detrimental and Harriott reported that increasing the Ag particle size
+effect on catalysts calcined for 12 h, however the opposite from 6 to 50 nm caused a 3-fold increase in the EO
+trend, an increased conversion with higher loadings, was selectivity[6].Goncharovaetal.reporteda6-foldincrease
+observedforcatalystscalcinedfor2 h.Theseresultsimply in the selectivity for 40 nm particles compared to 1.6 nm
+that the sintering of Ag can play a dramatic effect on [10].Acorrespondingincreaseintheratewasseenaswell.
+catalyst design for optimum performance. Tsybulya et al. claimed that Ag particles with multiple
+grainsaremoreactive,andthatfurtherenhancementofthe
+Keywords Ethylene epoxidation (cid:1) Ag catalysts (cid:1) activity occurs as the quantity of intergrain boundaries
+Calcination (cid:1) Sintering (cid:1) Ag migration increases[8].Thesizeofthegrainswasfoundtobegreater
+for more active catalysts as well. However, ex situ char-
+acterization may not provide particle morphologies or size
+1 Introduction distributions representative of those under reaction condi-
+tions.Forexample, RuckensteinandLeeobserved thatAg
+The direct gas phase production of ethylene oxide (EO) particleschangedshapeupontheadditionofethylene[11].
+overAgcatalystshasbeenanactiveresearchfieldsinceits Particle shapes shifted from spherical to ellipsoidal upon
+discoveryinthe1930sbyLefort [1].Factors including the exposure to hydrocarbons. Shifts in Ag morphology to
+Ag precursor, particle size, support materials, and ellipsoidal particlesand chain structures were also seen by
+Chimentao et al. for Ag nanoparticles synthesized via a
+polyol process for the oxidation of styrene [12].
+J.C.Dellamorte(cid:1)J.Lauterbach(&)(cid:1)M.A.Barteau Oneofthedifficultieswithstudyingparticlesizeeffects
+CenterforCatalyticScienceandTechnology,Department
+isthesinteringofAgonAl O .Infact,Verykiosetal.used
+ofChemicalEngineering,UniversityofDelaware,Newark, 2 3
+sintering to tune Ag particles for optimum ethylene epox-
+DE19716,USA
+e-mail:lauterba@udel.edu idation performance [9]. For such studies, the calcination
+123
+
+14 TopCatal(2010)53:13–18
+andreductionconditionsbecomeincreasinglyimportant.A moduli less than 1 indicate a reaction limited process and
+recent high throughput (HTE) designofexperiments study therefore no mass transfer limitations were found for the
+from our lab focused on the calcination and reduction reactor experiments.
+conditions of monolith-supported Ag catalysts. In that Fresh and used catalysts were imaged using a JEOL
+study, a maximum ethylene conversion was identified for 7400FSEM.Topermitimagingofallpartsofthecatalyst,
+catalystscalcinedfor2–3 hat673 Kwitha12 hreduction the monolith was cross-sectioned approximately half-way
+in 20% H /He at 573 K [13]. Similar to the literature along its length with a low speed diamond wheel saw. Ag
+2
+results presented above, it was postulated that sintering of particle size distributions were determined from the SEM
+the Ag affected the surface area and therefore the activity imagesusingImageJprocessingsoftware.Alldistributions
+andselectivity.Herewepresentamoresystematicstudyof were based on particles ranging from 0.1 to 20 lm in size
+the effects of preparation procedure, and in particular cal- within an 18 9 24 lm image.
+cination, on the connections between morphology and O uptake and temperature programmed desorption
+2
+activity of Ag catalysts for the production of EO. (TPD) experiments were conducted in vacuum at a base
+pressure of 10-9 torr. All catalysts were exposed to 10-6
+torr O for 1 h at 507 K. The catalyst was cooled in O to
+2 2
+2 Experimental Methods 317 K,beforetheoxygenwaspumpedoutandthecatalyst
+further cooled to 307 K for 1 h to ensure a constant O
+2
+Foam monoliths composed of 99.5% a-Al O , obtained baseline. The TPD experiments were carried out with a
+2 3
+from Vesuvius Hi-Tech Ceramics, were used as catalyst *15 K/min ramp to 627 K followed by cooling to room
+supports. The monoliths were 18 9 10 mm cylinders temperature. A mass spectrometer (SRS RGA100) was
+(diameter 9 length), with a nominal pore density of 45 used to quantify O desorbed from the sample. Several
+2
+pores per linear inch. The monoliths were immersed in a cycles of O uptake and TPD for each sample were
+2
+solutionofsilvernitrateanddistilledwater.Thesecatalysts requiredtoreachaconstantO uptake;steady-stateuptakes
+2
+werethendriedat353 K,calcinedat673 Kinanopenair were used for calculations of active surface area based on
+furnace,andreducedat573 Kunderaflowof20%H /He. the assumption of spherical particle shape.
+2
+Catalystswithnominalweightloadingsvaryingfrom0.5to
+20 wt% Ag were prepared by varying the concentration of
+silver nitrate and subsequently characterized through 3 Results and Discussion
+reactorstudies,ScanningElectronMicroscopy(SEM),and
+O uptake measurements. As noted previously [13], from our statistical design of
+2
+For reactor studies, the catalyst was placed under reac- experimentstudyofcalcinationandreductionconditions,a
+tion conditions(100 sccm feed of 10 or6% ethylene,10% maximum in ethylene conversion was found for catalysts
+oxygen, balance nitrogen, at 540 K) and allowed to reach calcined for 3 h at 673 K. A more complete HTE study of
+steady-state (typically 36–48 h) before temperature and/or catalysts calcined for various times at 673 K is shown in
+reactant partial pressures were altered. After reaching Fig. 1. The maximum ethylene conversion was observed
+steady-state, the temperature of each catalyst was changed for catalysts calcined between 2 and 3 h. The EO selec-
+as necessary to give 1.8% ethylene conversion. This tivity remained constant, within experimental error, for all
+allowed for comparison of the EO selectivities at fixed catalysts calcined for more than 2 h. Characterization of
+conversion for all catalysts. Testing was undertaken either these catalysts using SEM was undertaken to further
+inasinglereactorapparatus,whereeffluentswereanalyzed understand this phenomenon. Figure 2 shows a cross-sec-
+andquantified usingan HP6890 gas chromatographwith a tion of a support impregnated with Ag. In addition to the
+flame ionization detector (FID) and thermal conductivity macroscopicpores,sectioningofthemonolithexposedthe
+detector(TCD),orinaHTEreactordescribedin[13],with interiorofthealuminastructuralelements.Thesewerealso
+parallel analysis of the reaction products using FTIR porous; they contained mesoscopic pores of ca. 1 lm cre-
+spectroscopic imaging [14, 15]. ated from the packing of the primary Al O particles. The
+2 3
+In order to account for the possibility of mass transfer porosityisparticularlyapparentinthehighermagnification
+effectsskewingthereactorstudiestheThielemoduluswas imagesinFig. 3.Wewillrefertothecharacteristicregions
+calculated for a range of pore sizes using the pre-expo- in images of the sectioned monoliths as ‘‘macropore sur-
+nential and activation energies for oxygen dissociation on face’’ and ‘‘structure region.’’ We eschew terms such as
+Ag presented by Linic [16]. The modulus was found to be ‘‘external’’ or ‘‘internal’’ surfaces to avoid confusion with
+less than 1 in all cases. Two examples of which were the geometric description of the monolith. As shown in
+moduli of 4E-4 and 4E-2, which were calculated for 1 Fig. 3forcatalystscalcinedforvarioustimes,100–400 nm
+and 100 lm pores, respectively. As is commonly known, Ag particles were observed within the structure region,
+123
+
+sizesandparticlecountscanversuscalcinationtimecanbe
+found in Fig. 5. The statistics were performed on 18 9
+24 lmimages,restrictingthemajorityofparticlescounted
+to the 1 lm particle size distribution. The average particle
+sizechangedsignificantlyonthemacroporesurfacesasthe
+calcinations time was increased. No appreciable changes
+35 weredetectedinthemesopores.Conversely,thenumberof
+particlesdecreasedinbothregionsforcatalystscalcinedfor
+30
+[3 h. Therefore, sintering of the catalysts profoundly
+25
+changed the amount of Ag present in the mesoscopic and
+20
+macroscopic pores. Based on the migration shown by
+15
+Ruckenstein and Lee [11], we believe that the agglomer-
+10
+ation of particles on the macropore surface proceeds via a
+5
+migrationoftheAgfromthemesoporeregion,creatingthe
+0
+largeAgcrystallites(almostaAgsheet)seeninFig. 4e.In
+0.5 1 2 3 4 5 7 12 21
+general,smallerparticleswouldbeexpectedtoaccountfor
+thebulkoftheactivesurfaceareaandthereforeadecrease
+inthenumberofsmallparticlesseeninthestructureregion
+is likely to be responsible for the lower ethylene conver-
+sions for longer calcinations.
+The effect of Ag loading was also studied for catalysts
+calcined for both 2 and 12 h. As seen in Fig. 6, the 12 h
+calcinedcatalystshaveamaximuminactivityfora1wt%
+nominalloading.Increasesintheloadingactuallyledtoan
+apparent decrease in the ethylene conversion. Catalysts
+calcined for 2 h behaved more consistently with expecta-
+tions,inthatasmoreAgwasadded,theactivityincreased.
+Catalysts calcined for 2 h underwent less sintering, as
+mentioned previously, and instead presented large quanti-
+ties of particles on the order of 1 lm. The particle size
+statistics for the catalysts calcined for 12 h, shown in
+Fig. 7,indicatethattheparticlesizeincreaseddramatically
+astheloadingwasincreased.Allcatalystsmentionedwere
+stable for more than 100 h after the induction period of
+12–36 h to reach steady state, implying that temperatures
+greater than 540 K are needed for sintering on the time
+scale of days to occur.
+O uptake measurements were performed in order to
+2
+determine the active surface area of each catalyst. Repre-
+sentative TPD spectra for catalysts with various Ag load-
+ingscalcinedfor12 hareshowninFig. 8.Forallcatalysts,
+a single peak at 535–545 K was observed. Single crystal
+studies on Ag(111) and Ag(110) have reported O
+2
+desorption temperatures of 579 K [17] and 590 K [18].
+Busser et al. performed O TPDs for supported catalysts
+2
+with a peak temperature of 542 K for a 20 K/min ramp
+[19]. Atkins et al. [20] and Bal’zhinimaev [21] also pre-
+indicatingthatAgparticleswerepresentinthemesopores. sented spectra for supported catalysts, however both
+The macropore surface (Fig. 4) showed a markedly dif- reported two peaks. Atkins et al. reported peak tempera-
+ferent morphology, with a much wider range of particle tures near 523 and 573 K, while Bal’zhinimaev observed
+sizesforthevariouscalcinationtimes.TheAgparticlesize peaks near 580 and 690 K. Based on comparison to XPS
+distributions for this region were bimodal, with peaks experiments, Bal’zhinimaev assigned the lower tempera-
+around *1 and 20 lm. Representative average particles turepeaktonucleophilicoxygenatomsonAgterracesites,
+)%(
+noisrevnoC
+enelyhtE
+60
+50
+40
+30
+20
+10
+Calcination Time (hrs)
+)%(
+ytivitceleS
+OE
+TopCatal(2010)53:13–18 15
+Fig.1 Ethyleneconversion(bottom)andEOselectivity(top)versus
+calcinationtimeat673K.Allcatalystshadanominalsilverloading
+of15%w/w
+Fig.2 SEM image of a representative Ag catalyst, showing the
+macropore,macroporesurface,andaluminastructureregionexposed
+bysectioningthemonolith
+123
+
+Fig.3 SEMimagesofthestructureregionof15%w/wAgcatalystssupportedona-Al O aftervariouscalcinationtimes.Whiteparticlesare
+2 3
+Ag,darkgrayareAl O .a0h,(b)1h,(c)2h,(d)4h,(e)12hcalcination
+2 3
+Fig.4 SEMImagesofmacroporesurfacesof15%w/wAgcatalystssupportedona-Al O aftervariouscalcinationtimes.Whiteparticlesare
+2 3
+Ag,darkgrayareAl O .a0h,(b)0.5h,(c)2h,(d)4h,(e)12hcalcination
+2 3
+12
+10
+structure region
+macropore surface
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 0.5 02 04 12 0 0.5 02 04 12
+while the higher temperature peak was assigned to elect- Atkins and Bal’zhinimaev, possibly explaining the lack of
+ophilic oxygen on defect or stepped regions. The peaks a second peak. The turnover frequencies (TOF) obtained
+near 550 K in Fig. 8 indicate that a large amount of O is for catalysts calcined for 12 hare showninTable 1, along
+2
+present on Ag terrace sites. This agrees with the images with ethylene conversions obtained with these catalysts at
+from Figs. 3 and 4, which showed that the majority of the 540 K. The TOF and conversion show opposite trends,
+Ag was present as large Ag crystallites that would be wheretheTOFincreaseswithincreasingloading.Basedon
+expected to expose large terrace regions. The number of the results from Wu and Harriott, as well as Bukhtiyarov
+defects for these large particles should be small compared etal.[6,7],andtheSEMresultsofFig. 7,thisdiscrepancy
+the 50 nm (or smaller) particles used in the studies by between the TOFs and ethylene conversions can be
+)norcim(
+eziS
+elcitraP
+egarevA
+(a)
+600
+structure region
+macropore surface
+500
+400
+300
+200
+100
+0
+Calcine Time (hours)
+selcitraP
+gA
+fo
+rebmuN
+16 TopCatal(2010)53:13–18
+Fig.5 aParticlesizeversus (b)
+calcinationtimeforboththe
+structureandmacroporesurface
+regionsoftheAl O monolith
+2 3
+(b)NumberofAgparticlesin
+18924mmSEMimagefor
+variouscalcinationtimes
+Calcine Time (hours)
+123
+
+35
+30
+15
+10
+5
+0
+0 5 10 15
+surface area are too small to overcome the decrease in
+turnover frequency for the smaller particles.
+Also, the disparity in conversion trends between the
+catalysts calcined for 2 and 12 h can be explained by the
+difference intheparticlesizedistributionsforthedifferent
+calcination times. By reducing sintering, the 2 h catalysts
+undergo increases in surface area while maintaining an
+almost constant particle size distribution eliminating the
+tradeoff seen for the 12 h calcined samples. Therefore,
+thesecatalystsshowincreasesinconversionasmoreAgis
+explained by the difference in particle distributions added and markedly higher conversions than the 12 h
+betweenthevariousloadingsofAg.Largeloadingsleadto calcined counterparts.
+moreagglomerationandlargeraverageparticlesizewhich
+has been shown to increase the TOF. Therefore, a tradeoff
+appears to exist between creating catalysts with high sur-
+face areas and high turnover frequencies. Based on the
+References
+conversion results from Fig. 6, the optimum catalyst con-
+version can be attained near 1 wt% Ag loading. Catalysts
+1. Lefort TE (1931) French Patent 729952, assigned to Socie´te´
+with lower loadings will have a decreased particle size,
+Franc¸aisedeCatalyseGe´ne´rale
+increasing the surface area. However the increases in 2. JankowiakJ,BarteauMA(2005)JCatal236:366
+)%(
+noisrevnoC
+enelyhtE
+45
+40
+35
+30
+25
+20
+15 Calcined 12 hours
+10 Calcined 2 hours
+5
+0
+Nominal Ag wt%
+)%(
+ytivitceleS
+OE
+Fig.6 ReactorresultsforAgcatalystswithnominalweightloadings
+from 0.25–20% w/w at 540K with 10% v/v ethylene and 10% v/v
+oxygen
+12
+10 structure region
+macropore surface
+8
+6
+4
+2
+0.2
+0.0
+01 05 10 15 01 05 10 15
+)norcim(
+eziS
+elcitraP
+egarevA
+200
+structure region
+macropore surface
+150
+100
+50
+0
+Nominal Ag weight loading
+selcitraP
+gA
+fo
+rebmuN
+7.00E-011
+6.00E-011
+5.00E-011
+4.00E-011
+3.00E-011
+2.00E-011
+1.00E-011 5 %
+10 %
+0.00E+000 15 %
+450 500 550 600
+Fig.7 Averageparticlesize
+andfrequencyforAgcatalysts
+ofvaryingnominalweight
+loadingsinboththestructure
+andmacroporesurfaceregions.
+Calcinationtimeis12h
+Nominal Ag weight loading
+) O
+lom(
+ekatpU
+O
+2
+2
+TopCatal(2010)53:13–18 17
+1 %
+Temperature (K)
+Fig.8 Representative TPD spectra of catalysts loaded with 1–15%
+w/wofAg
+Table1 Comparison between theethyleneconversion andTOF for
+Agcatalystscalcinedat673Kfor12h
+wt%Ag Ethylene TOF(s-1) Surfacearea
+conversion(%) (m2/g )
+cat
+1 8.6 1.5E?03 3.89E-04
+5 7.4 4.4E?03 1.13E-04
+10 6.4 5.2E?03 7.45E-05
+15 6.1 9.9E?03 3.78E-05
+123
+
+18 TopCatal(2010)53:13–18
+3. Martens A (1967) French Patent 1499285, assigned to 12. Chimentao RJ, Kirm I, Medina F, Rodriguez X, Cesteros Y,
+Naphtachimie SalagreP,SueirasJE,FierroJLG(2005)ApplSurfSci252:793
+4. BhasinMM,WarnerGH(1983)USPatent4419276,assignedto 13. DellamorteJC,VijayR,SnivelyCM,BarteauMA,LauterbachJ
+UnionCarbideCorporation (2007)RevSciInstrum78:072211
+5. SajkowskiDJ,BoudartM(1987)CatalRevSciEng29:325 14. Snively CM, Katzenberger S, Oskarsdottir G, Lauterbach J
+6. WuJC,HarriottP(1975)JCatal39:395 (1999)OpticsLett24:1841
+7. Bukhtiyarov VI, Prosvirin IP, Kvon RI, Goncharova SN, 15. SnivelyCM,LauterbachJ(2005)ApplSpec59:1075
+Bal’zhinimaevBS(1997)JChemSocFaradayTrans93:2323 16. LinicS(2003)PhDDissertation,UniversityofDelaware
+8. Tsybulya SV, Kryukova GN, Goncharova SN, Shmakov AN, 17. CampbellCT(1985)SurfSci157:43
+Bal’zhinimaevBS(1995)JCatal154:194 18. BarteauMA,MadixRJ(1980)SurfSci97:101
+9. VerykiosXE,SteinFP,CoughlinRW(1980)JCatal66:368 19. BusserGW,HinrichsenO,MuhlerM(2002)CatalLett79:49
+10. Goncharova SN, Paukshtis EA, Bal’zhinimaev BS (1995) Appl 20. AtkinsM,CouvesJ,HagueM,SakakiniBH,WaughKC(2005)
+CatalA126:67 JCatal235:103
+11. RuckensteinE,LeeSH(1988)JCatal109:100 21. Bal’zhinimaevBS(1999)KinetCatal40:795
+123
+

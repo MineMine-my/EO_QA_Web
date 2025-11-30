@@ -1,0 +1,437 @@
+JournalofCatalysis236(2005)379–386
+www.elsevier.com/locate/jcat
+Ethylene epoxidation over silver and copper–silver bimetallic catalysts: II.
+Cs and Cl promotion
+Jerome T. Jankowiak, Mark A. Barteau∗
+CenterforCatalyticScienceandTechnology(CCST),DepartmentofChemicalEngineering,UniversityofDelaware,Newark,DE19716,USA
+Received1July2005;revised8October2005;accepted11October2005
+Abstract
+Copper–silver bimetallic catalysts offer improved selectivity relative to silver in the direct epoxidation of ethylene, as predicted by density
+functional theory calculations. The performance advantages of bimetallics over silver have been shown previously for unpromoted, monolith-
+supportedcatalysts.HerewedemonstratethatthehigheractivityandselectivityofCu–Agbimetalliccatalystspreparedbysequentialimpregnation
+are maintained when conventional promoters, such as cesium and/or chlorine, are used. Selectivities to ethylene oxide obtained for promoted
+bimetalliccatalystswereupto15pointshigherthanthoseobtainedforpromotedsilvercatalystsatcomparableconversions.
+2005ElsevierInc.Allrightsreserved.
+Keywords:Ethyleneepoxidation;Silvercatalysts;Bimetalliccatalyst;Alkalipromotion;Chlorinepromotion
+1. Introduction
+C2H4 +1
+2
+O2 Oxametallacycle
+Unpromoted copper–silver bimetallic catalysts prepared by
+sequentialimpregnationexhibitincreasedactivityandselectiv-
+ity relative to unpromoted silver catalysts for the epoxidation CH3CHO CO2
+of ethylene to ethylene oxide (EO) [1,2]. The design basis for
+these bimetallic catalysts was provided by density functional Scheme1.Simplifiedreactionnetworkforethyleneepoxidation[3].(Depic-
+tionsandstructuraldetailsoftheoxametallacyclecanbefoundin[1,3–5].)
+theory (DFT) calculations for the simplified reaction network
+illustratedinScheme1.Thekeyfeatureofthereactionmech-
+Cu–AgbimetalliccatalystspreparedtoembodytheDFT-based
+anism is the surface oxametallacycle intermediate. Reactions
+design[1,2].
+ofthisintermediatecontrolselectivity,becauseitcanreactvia
+Commercialcatalystsforethyleneepoxidationaretypically
+competing channels to either the desired product, EO, or the
+promoted by alkali-metal salts incorporated during catalyst
+gateway product to combustion, acetaldehyde [3]. The basic
+preparation [10]. Among these alkali-metal salts, cesium has
+structure of the reaction network in Scheme 1 is central to
+beenreportedtobeespeciallyeffective[11,12].Althoughpro-
+DFT-andkinetics-basedmodelsofthereactionselectivitypro-
+motion using cesium additives can increase the selectivity to
+posedbyus[1–4]andothers[5–9].DFTcalculationspredicted
+EO by as much as 10% [13,14], the role of cesium continues
+thatincorporating25%Cuatomsintothesilversurfaceshould
+to be debated. It has been suggested that the presence of ce-
+enhanceselectivitybyfavoringthetransitionstateforringclo-
+sium neutralizes acid sites on the support that are active for
+sureoftheoxametallacyclerelativetothatforisomerizationto
+theisomerizationofEOtoformacetaldehyde[15],orthatce-
+acetaldehyde. The validity of this prediction has been shown
+siumreducesthebindingstrengthofEOtothesurface[16,17],
+by catalytic reaction studies of monolith-supported silver and
+thereby minimizing further reaction to form carbon dioxide.
+In addition, it has been suggested that cesium plays a role in
+* Correspondingauthor.Fax:+13028318201. bindinganddispersingthesilverparticlesonthesupport[15],
+E-mailaddress:barteau@che.udel.edu(M.A.Barteau). as well as increasing the adsorption probability of oxygen on
+0021-9517/$–seefrontmatter 2005ElsevierInc.Allrightsreserved.
+doi:10.1016/j.jcat.2005.10.017
+
+380 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386
+silver[18].Wehaverecentlysuggestedthatthepresenceofce- sition of the cesium and silver salts, the catalyst was exposed
+siumpromotesselectivitytoEOviacesium-inducedlong-range tothesamecalcinationandreductionstepsoutlinedpreviously.
+dipole–dipole electrostatic effects [6]. Because the transition Forthebimetalliccatalysts,copperwasdepositedontothere-
+states for the two competing reactions of the oxametallacycle duced Cs–Ag/Al O catalysts by secondary wet impregnation
+2 3
+intermediate in Scheme 1 have different dipole moments, the andreductionasdescribedpreviously[2].Forallsamples,the
+selectivitycanbeshiftedbymanipulatingthesurfacefieldwith reportedcesiumweightloadingsassumedthatallofthecesium
+ionicpromoters[6].Itshouldbenotedthatthecatalystactivity presentintheprecursorsolutionwasadsorbedontothesurface
+is sensitivetoalkalimetalloading,andin factit ispossibleto ofthecatalyst.
+suppress all activity by adding larger amounts of alkalis [12]. Chlorinewasintroducedtothecatalystsbycofeedingvinyl
+From an industrial standpoint, alkali metals are added to in- chloride (C H Cl) at a concentration of 1 ppm by volume of
+2 3
+creaseselectivityattheexpenseofsomeactivity. feed.Thevinylchloridesourceconsistedofa50-ppm(byvol-
+Adding chlorine to the catalyst also has been shown to in- ume) mixture in a balance of nitrogen, the concentration of
+crease the selectivity to EO [19–24]. Chlorine is continuously whichwascertifiedbythemanufacturer(Keen).Theflowwas
+added to the reactor feed at ppm levels in the form of chlo- introducedthroughtheuseofanelectronicmassflowcontroller
+rinated hydrocarbons, such as dichloroethane (C H Cl ) and asdescribedfortheC H ,O ,andN flows[2].
+2 4 2 2 4 2 2
+vinyl chloride (C H Cl). Reactions of these hydrocarbons de- Catalysts were synthesized containing copper concentra-
+2 3
+positchlorineatomsonthecatalystsurface.Acontinuousfeed tionsof0–1.0%(molCu/molCu+Ag).Catalystscorrespond-
+ofchlorineisusedtooffsettheslowremovalofsurfacechlorine ingtobatchAofourpreviousstudy[2]wereusedinthepresent
+underreactionconditions.Itisgenerallyfoundthatthepresence work. All experiments were conducted with a total feed rate
+ofchlorinesignificantlyincreasestheselectivitytoEOwhileat of 100 sccm (at STP), giving a contact time on the order of
+the same time decreasing the rates of EO and carbon dioxide 0.5 s. Catalysts were tested over a wide range of feed condi-
+formation.Therefore,chlorineworksasapoisontoinhibitthe tions, ranging from 6:1 ethylene to oxygen to 6:1 oxygen to
+rate of carbon dioxide formation to a greater extent than EO ethylene. All catalysts operated under Cl-free conditions were
+formation. How chlorine functions as a promoter is not well lined out for an initial 24-h period of operation under consis-
+understoodandhasbeenattributedtobothgeometric/ensemble tent feed and temperature conditions. During this period, the
+effects [19,21,22] and electronic effects [20,25,26]. These ef- feedcontained10mol%eachofoxygenandethylene,andthe
+fects have been postulated to affect both the adsorption and reactor temperature was maintained at 540 K. Once a catalyst
+reactionofoxygen[27,28],aswellastheadsorptionstrengthof hadbeenlinedout,compositionandtemperaturevariationex-
+ethyleneandEO,thuschangingtherelativepopulationsofsur- perimentswerecarriedouttoprobethekineticsandselectivity
+facespeciesduringreaction[29,30].BecauseCldiffusesbelow of the reaction. After each changeof temperatureor composi-
+the surface [27,28] even at low coverage [31], it may also al- tion,thereactorwasoperatedatsteadystateforaminimumof
+terthefieldatthesurfaceinthesamedirectionasdoadsorbed 1 h before results were recorded. In the case of catalysts op-
+cations,suchasCs.Thusitmayimproveselectivityinafashion eratedwithCl-containingfeeds,aninitial48-hline-outperiod
+analogoustoCs,creatingasurfacefieldthatdisfavorsthetran- wasneededtoreachsteady-state,aswediscussbelow.
+sitionstateforoxametallacyclerearrangementtoacetaldehyde
+relativetoringclosuretoEO. 3. Results
+The purpose of the present work is to investigate whether
+the superior selectivity of Cu–Ag bimetallic catalysts is main- 3.1. Cesium-promotedcatalysts
+tainedwhenthesecatalystsarepromotedwiththetypicalalkali
+andhalidepromotersusedincommercialepoxidationcatalysts, Fig. 1 shows ethylene conversion data for a series of
+andwhethertheselectivityenhancementbythesepromotersis Cs CO -promotedsilverandCu–AgbimetalliccatalystsatCs
+2 3
+comparable for Ag and Cu–Ag bimetallics. Although it is not loadings up to 132 ppm by weight of reduced catalyst for a
+the objective of this work to probe mechanisms of promotion, feedconsistingof10%ethyleneand10%oxygenat540Kand
+to the extent that the effects between different promoters are 1.34atm.Asmentionedabove,theadditionofcesiumcanhave
+synergistic, one may suggest that different promoters work in asignificanteffectoncatalystactivity,withthesuppressionof
+differentways,asonewouldexpecttoseediminishingreturns allactivityoccurringatveryhighloadings.Thisisevidentfrom
+frompromoteradditionifallpromotersservedtotuneasingle the data in Fig. 1, which show that catalyst activity declined
+surfacepropertythatinfluencedselectivity. rapidly for cesium loadings above ca. 70 ppm. Fig. 2 shows
+the selectivity to EO for these catalysts after lining out for
+2. Experimentalmethods 24 h. The selectivity of both Ag and Cu–Ag bimetallic cata-
+lysts increased for cesium loadings of up to 70 ppm, with no
+The preparation of monolith-supported silver and Cu–Ag additionalperformanceenhancementobservedforhigherload-
+bimetallic catalysts and the reactor setup have been described ings. The correspondence of the optimal Cs loadings for both
+previously[2].Cesium-promotedsilvermonolithcatalystswere Ag and Cu–Ag bimetallic catalysts is illustrated more clearly
+preparedbycoimpregnationofcesiumandsilverontothecat- bycomparingtheselectivitiesatconstant(1.8%)ethylenecon-
+alyst support. Cesium was added to the aqueous silver nitrate version, shown in Fig. 3. The data reveal an optimum cesium
+precursor via an aqueous solution of Cs CO . After the depo- loadingaround70ppm.Atthisloading,EOselectivitywasin-
+2 3
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386 381
+Table1
+EthyleneconversiondataobtainedforpromotedandunpromotedsilverandCu–Agbimetalliccatalystsforethyleneandoxygenfeedpressuresof0.13–0.8atm,
+collectedatconstanttemperature.Thetemperaturesusedtoconductthemeasurementswereselectedtogiveaconversionofapproximately1.8%forafeedstream
+consistingof0.13atmofethyleneandoxygen.Thesetemperaturesarelistedinparenthesesbeloweachcatalyst
+PC2H4 PO2 Ag 0.2%Cu–Ag Cs–Ag Cs–Cu–Ag Cl–Ag Cl–Cu–Ag Cl–Cs–Ag Cl–Cs–Cu–Ag
+(490K) (481K) (494K) (479K) (540K) (508K) (540K) (507K)
+0.13 0.13 1.81 1.80 1.84 1.80 1.67 1.80 1.68 1.80
+0.27 0.13 0.90 0.78 0.98 0.96 0.94 0.99 1.49 1.55
+0.54 0.13 0.38 0.30 0.50 0.48 0.38 0.45 0.98 0.93
+0.8 0.13 0.22 0.18 0.32 0.30 0.25 0.23 0.82 0.63
+0.13 0.27 2.18 2.46 2.22 2.24 2.11 2.34 2.19 2.36
+0.13 0.54 2.97 3.26 2.90 2.78 2.77 2.82 2.90 3.09
+0.13 0.8 3.58 3.72 3.17 3.26 3.01 3.45 3.58 3.73
+0.27 0.27 1.30 1.21 1.22 1.17 1.09 1.17 1.76 1.62
+0.54 0.27 0.55 0.51 0.66 0.62 0.74 0.69 1.56 1.66
+0.27 0.54 1.62 1.65 1.63 1.56 1.49 1.75 2.34 2.37
+0.54 0.54 0.88 0.85 0.90 0.83 1.19 1.05 1.62 1.49
+Fig.1.EthyleneconversionforaseriesofCs-promotedsilverand0.2%Cu–Ag Fig. 2. EO selectivity for a series of Cs-promoted silver and 0.2% Cu–Ag
+bimetalliccatalystsasafunctionofcesiumloading.Conversionsarereported bimetallic catalysts as a function of cesium loading. Selectivity data are re-
+forafeedstreamcontaining10%ethyleneand10%oxygenat540K. portedforafeedstreamcontaining10%ethyleneand10%oxygenat540K.
+creasedbyapproximately9%relativetopuresilver,withsilver ing the ethylene feed concentration from 10 to 60% (0.13 to
+catalysts containing the optimal cesium loading achieving an 0.8 atm). The data for each catalyst shown in Fig. 4 were col-
+EO selectivity of approximately 41%. The Cs-promoted Cu– lected at constant temperature, with the temperature of each
+Ag (0.2 mol% Cu) bimetallic catalysts were superior to the catalyst sample adjusted to give an ethylene conversion of ap-
+Cu-free catalysts at all cesium levels, with a selectivity to EO proximately 1.8% for a 1:1 feed stoichiometry (0.13 atm each
+ofca.56%foraCs–Cu–Agcatalystatoptimalcesiumloading. ofethyleneandoxygen).Thistemperaturewasthenmaintained
+As Fig. 3 shows, adding cesium to a Cu–Ag bimetallic cata- (asgiveninTable1)astheethylenepressurewasincreased.As
+lyst increased the selectivity by approximately 10%. Thus the Fig. 4 shows, the effects of cesium and copper are largely ad-
+effectsofCsandCuoncatalystselectivityareroughlyadditive. ditiveforfeedstoichiometriesof1:1to4:1ethylenetooxygen,
+To further investigate the performance of cesium-promoted withapinchingeffectoccurringat6:1,wheretheperformance
+silver and Cu–Ag bimetallics, catalysts containing optimized of the Cu–Ag and Cs–Cu–Ag catalysts were effectively the
+Cs levels (as defined in Fig. 3) were investigated at different same. The maximum observed selectivities to EO for Cs–Ag
+feed stoichiometries. The ethylene conversion data for these and Cs–Cu–Ag catalysts were 54 and 60%, respectively, for a
+studies are presented in Table 1. Fig. 4 shows EO selectivity feedstoichiometryof6:1ethylenetooxygen.
+datacollectedforAg,Cs–Ag,Cu–Ag,andCs–Cu–Agcatalysts Also investigated were oxygen-rich feed streams with feed
+at constant temperature for ethylene-rich feed stoichiometries stoichiometries ranging from 1:1 to 6:1 oxygen to ethylene.
+rangingfrom1:1to6:1ethylenetooxygenatsimilarethylene These data are presented in Fig. 5 at similar ethylene conver-
+conversions. Feed variations were conducted by maintaining sions. Feed variationswere conductedby maintainingthe eth-
+the oxygen feed concentration at 10% (0.13 atm) and increas- ylenefeedconcentrationat10%andincreasingtheoxygenfeed
+
+382 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386
+Fig. 5. EO selectivity for Ag, Cs–Ag, Cu–Ag and Cs–Cu–Ag catalysts as a
+functionoffeedstoichiometryforoxygen-richfeedconditions.Theethylene
+partialpressurewasfixedat0.13atmforallexperimentsandtheoxygenpartial
+pressurewasvaried.TheCs–AgandCs–Cu–Agcatalystscontained68ppm
+Fig.3.EOselectivityforaseriesofCs-promotedsilverandCu–Agbimetal- ofcesiumandtheCu–AgandCs–Cu–Agcatalystscontained0.2mol%cop-
+liccatalystsasafunctionofcesiumloading.Selectivitydataarereportedfor per.Thereactiontemperatureandethyleneconversionforeachexperimentare
+afeedstreamcontaining10%ethyleneand10%oxygenatdifferentialethyl- specifiedinTable1.
+eneconversion(∼1.8%).DatafortheCs-promotedAgcatalystswereobtained
+at 492±2K; data for the Cs-promoted Cu–Ag bimetallic were obtained at
+480±1K.
+Fig.6.3-DcontoursofEOselectivityforAg,Cs–Ag,Cu–Ag,andCs–Cu–Ag
+Fig. 4. EO selectivity for Ag, Cs–Ag, Cu–Ag and Cs–Cu–Ag catalysts as a catalystsforethyleneandoxygenpressuresrangingfrom0.13–0.54atm.The
+functionoffeedstoichiometryforethylene-richfeedconditions.Theoxygen Cs–AgandCs–Cu–Agcatalystscontained68ppmofcesiumandtheCu–Ag
+partialpressurewasfixedat0.13atmforallexperimentsandtheethylenepar- andCs–Cu–Agcatalystscontained0.2mol%copper.Thereactiontemperature
+tialpressurewasvaried.TheCs–AgandCs–Cu–Agcatalystscontained68ppm foreachcatalystisspecifiedinTable1.
+ofcesiumandtheCu–AgandCs–Cu–Agcatalystscontained0.2mol%cop-
+per.Thereactiontemperatureandethyleneconversionforeachexperimentare
+specifiedinTable1. are shown in Fig. 6, along with contours generated for silver
+andCu–Agatsimilarethyleneconversions.Theoperatingtem-
+concentration from 10 to 60%. For oxygen-rich feed streams, perature for each catalyst was chosen to produce an ethylene
+the effects of cesium and copper appear to be additive for the
+conversionof∼1.8%forafeedcontaining10%eachofethyl-
+entirerangeoffeedstoichiometriesinvestigated.Themaximum eneandoxygen.Theindividualtemperaturesforeachcatalyst
+observed selectivities to EO were 50% for the Cs–Ag catalyst arelistedinTable1.Eachcatalystwasmaintainedatthespeci-
+and63%fortheCs–Cu–Agcatalyst,atafeedstoichiometryof fiedtemperatureasthefeedcompositionwasvaried,toproduce
+6:1oxygentoethylene. theselectivitycontoursshowninFig.6.Itisevidentfromthis
+As for unpromoted silver and Cu–Ag bimetallic cata- figurethattheCs–Cu–AgcatalystoutperformsboththeCs–Ag
+lysts[2],theCs–AgandCs–Cu–Agcatalystswereexposedto and Cu–Ag catalysts over the entire range of feed composi-
+feedpressuresof0.13–0.54atmofethyleneandoxygen.From tions explored, with maximum observed selectivities to EO of
+these results, three-dimensionalselectivitycontours weregen- 56% for the Cs–Ag catalyst and 64% for the Cs–Cu–Ag cata-
+eratedatconstanttemperatureforeachcatalyst.Thesecontours lyst.
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386 383
+3.2. Chlorinepromotion for24–48honstream).Asimilarreductioninactivitywasob-
+served for all catalyst samples with chlorine promotion. The
+conversiondecreaseddramaticallyinthefirst24h,mostlikely
+The effect of chlorine promotion on silver and Cu–Ag
+due to the uptake of chlorine by the surface and/or subsurface
+bimetalliccatalystswasalsostudied.Asmentionedabove,the
+of the silver catalyst, with stable activity observed thereafter.
+presenceofchlorineonthecatalysthasbeenshowntoenhance
+Fig.8showsthetransientselectivitytrendsforsilvercatalysts
+theselectivitytoEOattheexpenseofactivity.Thispropertyis
+withandwithoutchlorinecofeed.Theresultsindicatethatthe
+illustrated in Figs. 7 and 8, which show transient activity and
+presence of chlorine significantly increased the selectivity to
+selectivitytrendsforsilvercatalystslinedoutwithandwithout
+EO, with a selectivity increase of ca. 21 percentage points at
+the presence of chlorine cofeed. These data were collected at
+similarreactorconditions(47%selectivitywithchlorinecofeed
+540 K for a feed stream consisting of 10% ethylene and 10%
+vs.26%withoutchlorinecofeed).Theselectivityincreasedsig-
+oxygen at a pressure of 1.34 atm. As shown in Fig. 7, the ac-
+nificantlyinthefirst24handreachedastablevalueatca.30h.
+tivity of the catalyst was significantly reduced with chlorine
+Atasimilarethyleneconversionof1.7–1.8%,theselectivityen-
+cofeed,withaca.75%reductionintherelativeactivityatsim-
+hancementachievedbythechlorinecofeedwasapproximately
+ilarconditions(1.7%conversionwithchlorinecofeedvs.6.4%
+15percentagepoints(47%selectivitywithchlorinecofeedvs.
+conversionwithoutchlorinecofeedafterliningoutthecatalyst
+32%withoutchlorinecofeed).Similartrendswereobservedfor
+a0.2%Cu–Agbimetalliccatalyst,forwhichadecreaseinthe
+relative activity of approximately 60% was observed at simi-
+lar reactor conditions (540 K, 10% ethylene and 10% oxygen
+at1.34atm).Inaddition,theselectivitytoEOincreasedbyap-
+proximately 22 percentage points at similar reactor conditions
+(57%selectivitywithchlorinecofeedvs.35%withoutchlorine
+co-feed).Atanethyleneconversionofapproximately1.8%,the
+selectivitytoEOincreasedby18percentagepoints(64%selec-
+tivity with chlorine cofeed vs. 46% without chlorine cofeed),
+indicating that the effects of chlorine and copper are additive
+withrespecttoEOselectivityenhancement.
+Chlorine-promoted catalysts were exposed to a wide range
+offeedconditions.Thechlorine-promotedsampleswerelined
+out for 48 h before any feed variations. Table 1 presents the
+ethylene conversion data for these studies. Fig. 9 shows EO
+selectivity data collected for Ag, Cl–Ag, Cu–Ag, and Cl–Cu–
+Agcatalystscollectedatconstanttemperatureforethylene-rich
+Fig.7.Ethyleneconversionasafunctionoftimeonstreamforasilverand
+aCl-promotedsilvercatalyst.Theconversiondatawerecollectedforafeed feedsrangingfrom1:1to6:1ethylenetooxygenatsimilareth-
+streamcontaining10%ethyleneand10%oxygenat540K.Thechlorinefeed yleneconversions.Thebimetallicsamplescontained0.2mol%
+concentrationwas1ppmbyvolume.
+Fig.9.EOselectivityforAg,Cl–Ag,Cu–AgandCl–Cu–Agcatalystsasafunc-
+tionoffeedstoichiometryforethylene-richfeedconditions.Theoxygenpartial
+pressure was fixed at 0.13 atm for all experiments and the ethylene partial
+Fig. 8. EO selectivity as a function of time on stream for a silver and a pressurewasvaried.TheCu–AgandCl–Cu–Agcatalystscontained0.2mol%
+Cl-promoted silver catalyst. The selectivity data were collected for a feed copper.Thechlorinefeedconcentrationwas1ppmbyvolume.Thereaction
+streamcontaining10%ethyleneand10%oxygenat540K.Thechlorinefeed temperatureandethyleneconversionforeachexperimentarespecifiedinTa-
+concentrationwas1ppmbyvolume. ble1.
+
+384 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386
+Fig.10.EOselectivityforAg,Cl–Ag,Cu–AgandCl–Cu–Agcatalystsfrom
+batchAasafunctionoffeedstoichiometryforoxygen-richfeedconditions.
+Fig.11.3-DcontoursofEOselectivityforAg,Cl–Ag,Cu–Ag,andCl–Cu–Ag
+The ethylene partial pressure was fixed at 0.13 atm for all experiments and
+catalystsforethyleneandoxygenpressuresrangingfrom0.13–0.54atm.The
+theoxygenpartialpressurewasvaried.TheCu–AgandCl–Cu–Agcatalysts
+Cu–AgandCl–Cu–Agcatalystscontained0.2mol%copper.Thechlorinefeed
+contained 0.2 mol% copper. The chlorine feed concentration was 1 ppm by
+concentrationwas1ppmbyvolume.Thereactiontemperatureforeachcatalyst
+volume.
+isspecifiedinTable1.
+copper,whereasthechlorine-promotedcatalystswereexposed
+toavinylchloridefeedconcentrationof1ppm.Themaximum
+observedselectivitiestoEOforCl–AgandCl–Cu–Agcatalysts
+were 53 and 71%, respectively, at a feed stoichiometry of 6:1
+ethylenetooxygen.Fig.10showsEOselectivitydatacollected
+for oxygen-rich feed streams ranging from 1:1 to 6:1 oxygen
+to ethylene at similar ethylene conversions. As was observed
+forethylene-richconditions,theeffectsofchlorineandcopper
+werelargelyadditiveovertheentirerangeoffeedstoichiome-
+tries investigated. The maximum observed selectivities to EO
+for Cl–Ag and Cl–Cu–Ag catalysts were 59 and 72%, respec-
+tively,atafeedstoichiometryof6:1oxygentoethylene.
+TheCl–AgandCl–Cu–Agcatalystsweretestedatfeedpres-
+sures ranging of 0.13–0.54 atm of ethylene and oxygen. From
+these results, three-dimensionalselectivitycontours weregen-
+erated at constant temperature for these catalysts. These con-
+Fig. 12. EO selectivity for Ag, Cu–Ag, Cl–Cs–Ag and Cl–Cs–Cu–Ag cata-
+tours are shown in Fig. 11, along with contours generated for lysts as a function of feed stoichiometry for ethylene-rich feed conditions.
+silver and Cu–Ag bimetallic catalysts at similar ethylene con- The Cu–Ag and Cl–Cs–Cu–Ag catalysts contained 0.2 mol% copper. The
+versions.ItisevidentthattheCl–Cu–Agcatalystoutperformed Cs-promotedcatalystscontainedapproximately65ppmofcesium.Thechlo-
+rinefeedconcentrationwas1ppmbyvolume.Thereactiontemperatureand
+both the Cl–Ag and Cu–Ag catalysts over the entire range of
+ethyleneconversionforeachexperimentarespecifiedinTable1.
+feedcompositionsexplored,withmaximumobservedselectiv-
+ities to EO for the Cl–Ag and Cl–Cu–Ag catalysts of 62 and
+from1:1to6:1ethylenetooxygenatsimilarethyleneconver-
+73%,respectively.
+sions.Thecesium-promotedsamplescontainedapproximately
+65 ppm of cesium added to the catalyst as Cs CO , while the
+3.3. Cesiumandchlorinecopromotion 2 3
+chlorine-promoted samples were exposed to a vinyl chloride
+feedconcentrationof1ppm.Thebimetalliccatalystscontained
+The effects of cesium and chlorine copromotion on EO se-
+0.2 mol% copper. The results shown in Fig. 12 indicate that
+lectivity for silver and 0.2% Cu–Ag bimetallic catalysts were
+the effects of cesium and chlorine on the selectivity to EO
+also examined. These catalysts were exposed to a similar pro-
+are additive for the range of feed stoichiometries investigated.
+tocol as for the catalysts discussed previously with respect
+AmaximumselectivitytoEOof63%wasobservedforafeed
+to variations in feed pressure and stoichiometry. The samples
+were lined out for 48 h before any feed variation. Table 1 stoichiometryof6:1ethylenetooxygen,ascomparedtoselec-
+presentstheethyleneconversiondataforthesestudies.Fig.12 tivitiesof53and54%observedforCl–AgandCs–Agcatalysts
+showsEOselectivitydatacollectedforAg,Cu–Ag,Cl–Cs–Ag, atsimilarfeedconditionsandethyleneconversions.Theeffects
+and Cl–Cs–Cu–Ag catalysts from batch A collected at con- ofcopper,chlorineandcesiumalsoappeartobeadditive,with
+stanttemperatureforethylene-richfeedstoichiometriesranging a maximum selectivity to EO of 73% observed for a Cl–Cs–
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386 385
+Fig.13.EOselectivityforAg,Cu–Ag,Cl–Cs–AgandCl–Cs–Cu–Agcatalysts
+asafunctionoffeedstoichiometryforoxygen-richfeedconditions.TheCu–Ag
+and Cl–Cs–Cu–Ag catalysts contained 0.2 mol% copper. The Cs-promoted
+Fig. 14. 3-D contours of EO selectivity for Ag, Cu–Ag, Cl–Cs–Ag and
+catalysts contained approximately 65 ppm of cesium and the chlorine feed
+Cl–Cs–Cu–Ag catalysts for ethylene and oxygen pressures ranging from
+concentrationwas1ppmbyvolume.Thereactiontemperatureandethylene
+0.13–0.54atm.TheCu–AgandCl–Cs–Cu–Agcatalystscontained0.2mol%
+conversionforeachexperimentarespecifiedinTable1.
+copper.TheCs-promotedcatalystscontainedapproximately65ppmofcesium
+andthechlorinefeedconcentrationwas1ppmbyvolume.Thereactiontem-
+Cu–Ag catalyst at 6:1 ethylene to oxygen. Fig. 13 shows EO peratureforeachcatalystisspecifiedinTable1.
+selectivitydatacollectedforoxygen-richfeedstreamsranging
+from1:1to6:1oxygentoethyleneatsimilarethyleneconver- ers. To the extent that lower operating temperature is usually
+sions.Aswasobservedforethylene-richconditions,theeffects associated with longer lifetime, bimetallic catalysts may offer
+ofchlorine,cesiumandcopperontheselectivitytoEOweread- advantageswithrespecttothisperformancemeasureaswell.
+ditiveovertheentirerangeoffeedstoichiometriesinvestigated. Wehavepreviouslyproposed[3]thattheselectivityofsilver
+ThemaximumobservedselectivitytoEOforaCl–Cs–Agcata- ethylene epoxidation catalysts is controlled by the competing
+lystwas65%atafeedstoichiometryof6:1oxygentoethylene, reactions of the oxametallacycle, leading to either EO or ac-
+comparedwithselectivitiesof55%forCs–Agcatalystand59% etaldehyde (which rapidly combusts), as shown in Scheme 1.
+forCl–Agcatalystatsimilarfeedconditionsandethylenecon- This mechanism provides a framework for understanding the
+versions,whereasthemaximumobservedselectivitytoEOfor effects of known promoters on catalyst selectivity, as well as
+aCl–Cs–Cu–Agcatalystwas77%at6:1oxygentoethylene. forformulatingnewcatalysts,includingbimetallics.Ontheba-
+AswasdonepreviouslyforsilverandCu–Agbimetalliccat- sis of DFT calculations, we have proposed [4] that Cs cations
+alysts, the Cl–Cs–Ag and Cl–Cs–Cu–Ag catalysts were oper- increaseselectivitybylong-rangeelectrostaticinteractionsthat
+atedatfeedpressuresof0.13–0.54atmofethyleneandoxygen. stabilize the transition state for EO formation (TS1) relative
+Fromtheseresults,three-dimensionalselectivitycontourswere to the transition state for acetaldehyde formation (TS2). (The
+generated at constant temperature for these catalysts. These structures of these two transition states have been described
+contours are shown in Fig. 14, along with contours generated previously[3,4].)Thedifferenceinstabilizationofthetwotran-
+for silver and Cu–Ag at similar ethylene conversions. Clearly, sition states produced by the electrostatic effect of Cs was at-
+the Cl–Cs–Cu–Ag catalyst outperformed both the Cl–Cs–Ag tributedtoadifferenceintheirrespectivedipolemoments.This
+andCu–Agcatalystsovertheentirerangeoffeedcompositions electrostaticmodelsuggeststhatcationsabovethesurfaceand
+explored, with maximum observed selectivities to EO of 67% anions below the surface should have a similar effect on the
+fortheCl–Cs–Agcatalystand77%fortheCl–Cs–Cu–Agcat- competingtransitionstates.ThusCl,whichmightbeexpected
+alyst. tocounteracttheeffectofCs,insteadactsinacomplementary
+fashionbecauseitdiffusesthesubsurface.Thismodelmayalso
+4. Discussion explain the role of subsurface oxygen, because this species is
+alsoanionic.
+The selectivity advantages of Cu–Ag bimetallic catalysts Incontrast,theroleofCuinCu–Agbimetallicsurfacesisto
+over silver are maintained when these catalysts are promoted alter the chemical and electronic properties of the surface ac-
+withCsand/orCl.Indeed,overawiderangeofreactantpres- cordingtoourDFTcalculations.Cualterstheelectronicchar-
+sures and stoichiometries, adding copper has an additive ef- acteristicsofthebindingsitesavailabletosurfaceoxametalla-
+fectwithcesiumandchlorinewithrespecttoEOselectivityat cycleintermediates(andotheradsorbates)andalterstherelative
+comparable conversions. In addition, as shown in Table 1, the energiesofthetwotransitionstatesforthecompetingreactions
+bimetallic catalysts are more active and operate at lower tem- oftheseintermediates.Byincreasingtherelativedifferencebe-
+peratures to achieve comparable conversions than their silver tween the barriers for the oxametallacycle ring-closure versus
+counterparts, both with and without alkali and halide promot- H-shift pathways, Cu addition increases the selectivity to EO.
+
+386 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)379–386
+Toperhapsoversimplifythedistinction,Cuinfluencesselectiv- thanpromotedsilvercatalysts.Theperformanceadvantagesof
+ityviathrough-surfaceinteractionswithadsorbatesandtransi- bimetalliccatalystsoverawiderangeoffeedcompositionsare
+tionstates,whereasCsinfluencesselectivityviathrough-space thusmaintainedwhenconventionalpromotersareincorporated.
+interactions. The observation in the present work that the ef- Theeffectsofcopperandofionicpromotersoncatalystselec-
+fects of Cu, Cs, and Cl on epoxidation selectivity are largely tivity are largely additive, consistent with the suggestion from
+additive is consistent with this distinction. If the principal ef- DFTcalculationsthatthesecomponentsaltertheenergeticsof
+fect of adding all of these promoters was to tune the surface thecompetingreactionchannelsofsurfaceoxametallacyclein-
+electronicpropertiestosomeoptimumforselectivity,thenone termediatesbydifferentmechanisms.
+would expect that the maximum selectivities achieved by op-
+timized catalysts using different subsets of these components Acknowledgments
+would be similar. The fact that this is not the case, that pro-
+motion of Cu–Ag bimetallic catalysts with alkalis and halides
+We gratefully acknowledge the support of the U.S. Depart-
+increases selectivity in a nearly additive fashion, suggests that
+ment of Energy, Division of Chemical Sciences (grant FG02-
+surface alloy components such as copper and ionic promoters
+84ER13290).
+such as Cs and Cl act by different mechanismsto increase se-
+lectivity.Thisisnottosayeachdoesnothaveaneffectonthe
+References
+electronicpropertiesofsitesofthesilversurface,butratherthat
+theprincipalmeansofimpactofionicpromotersisonthesur-
+[1] S.Linic,J.T.Jankowiak,M.A.Barteau,J.Catal.224(2004)489.
+facefield.
+[2] J.T.Jankowiak,M.A.Barteau,J.Catal.236(2005)366.
+Finally,itisimportanttonotethattheeffectsoncatalystac- [3] S.Linic,M.A.Barteau,J.Am.Chem.Soc.125(2003)4034.
+tivitycanbequitedifferentforalloyandpromotercomponents [4] S.Linic,M.A.Barteau,J.Am.Chem.Soc.126(2004)8086.
+that improve selectivity. Higher selectivity is not necessarily [5] M.L. Bocquet, A. Michaelides, D. Loffreda, P. Sautet, A. Alavi, D.A.
+King,J.Am.Chem.Soc.125(2003)5620.
+associated with lower activity. In the present work we have
+[6] C. Stegelmann, N.C. Schiodt, C.T. Campbell, P. Stoltze, J. Catal. 221
+deliberately carried out experiments under conditions chosen
+(2004)630.
+to minimize secondary reactions of the product EO. These in- [7] C.Stegelmann,P.Stoltze,J.Catal.226(2004)129.
+cludeoperatingatlowethyleneconversionandusingmonolith- [8] C.Stegelmann,P.Stoltze,J.Catal.232(2005)444.
+supportedcatalyststoprovideuniform,shortcontacttimes.For [9] J. Couves, M. Atkins, M. Hague, B.H. Sakakini, K.C. Waugh, Catal.
+thesecatalystsandconditions,Cuadditiontoformabimetallic Lett.99(2005)45.
+[10] J.C.Zomerdijk,M.W.Hall,Catal.Rev.-Sci.Eng.23(1981)163.
+increasedbothactivityandselectivity[2];Csadditionhadrela-
+[11] R.P.Nielsen,J.H.LaRochelle,USPatent4,012,425(1972).
+tivelylittleeffectonactivitywhileincreasingselectivity;andCl
+[12] W.D.Mross,Catal.Rev.-Sci.Eng.25(1983)591.
+additionsharplydecreasedactivitywhileimprovingselectivity [13] M.M.Bhasin,USPatent4,908,343(1988).
+ofbothAgandCu–Agbimetalliccatalysts.Thisisalsoconsis- [14] M.M.Bhasin,P.C.Ellgen,C.D.Hendrix,USPatent4,916,243(1987).
+tent with the network depicted in Scheme 1 and our previous [15] W.S.Epling,G.B.Hoflund,D.M.Minahan,J.Catal.171(1997)490.
+microkineticanalysisofit[32].Thestepsthatcontroltherate [16] R.B.Grant,R.M.Lambert,Langmuir1(1985)29.
+[17] S.A.Tan,R.B.Grant,R.M.Lambert,J.Catal.106(1987)54.
+ofethyleneepoxidationarethosethatleadtoformationofthe
+[18] M.Kitson,R.M.Lambert,Surf.Sci.109(1981)60.
+oxametallacycle;thestepsthatcontroltheselectivityarethose
+[19] C.T.Campbell,M.T.Paffett,Appl.Surf.Sci.19(1984)28.
+thatleadfromtheoxametallacycle.Theformerinvolveoxygen [20] S.A.Tan,R.B.Grant,R.M.Lambert,J.Catal.100(1986)383.
+dissociation and oxygen addition to ethylene. Thus promoter [21] C.T.Campbell,B.E.Koel,J.Catal.92(1985)272.
+effectsonactivityarelikelydominatedbyalterationoftheoxy- [22] C.T.Campbell,J.Catal.99(1986)28.
+genatombindingenergytothecatalystsurface,whereastheef- [23] G.H.Law,H.C.Chitwood,USPatent2,279,470(1942).
+[24] K.L.Yeung,A.Gavriilidis,A.Varma,M.M.Bhasin,J.Catal.174(1998)
+fectsonselectivityinvolveinteractionwiththeoxametallacycle
+1.
+andthetransitionstatesforitsconversiontodifferentproducts.
+[25] R.A.vanSanten,H.Kuipers,Adv.Catal.35(1987)265.
+There is no intrinsic connection between the influence of dif- [26] R.M.Lambert,R.L.Cropley,A.Husain,M.S.Tikhov,Chem.Commun.
+ferentpromotersonactivityandselectivity,asdemonstratedby (2003)1184.
+bothmicrokineticmodelsandtheresultsofthepresentexperi- [27] M.Bowker,K.C.Waugh,Surf.Sci.134(1983)639.
+mentalstudy. [28] M.Bowker,K.C.Waugh,Surf.Sci.155(1985)1.
+[29] S.Hawker,C.Mukoid,J.P.S.Badyal,R.M.Lambert,Surf.Sci.219(1989)
+L615.
+5. Conclusion
+[30] C.Mukoid,S.Hawker,J.P.S.Badyal,R.M.Lambert,Catal.Lett.4(1990)
+57.
+Cu–Ag bimetallic catalysts promoted with Cs and/or Cl [31] H.Piao,K.Adib,M.A.Barteau,Surf.Sci.557(2004)13.
+are more active and more selective for ethylene epoxidation [32] S.Linic,M.A.Barteau,J.Catal.214(2003)200.
+

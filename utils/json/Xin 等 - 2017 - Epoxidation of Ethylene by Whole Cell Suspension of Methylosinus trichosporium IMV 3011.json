@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "Methylosinus trichosporium",
+        "relationship": "文献",
+        "end_node": "DOI:10.1155/2017/9191382"
+    },
+    {
+        "start_node": "Methylosinus trichosporium",
+        "relationship": "发表年份",
+        "end_node": "2017"
+    },
+    {
+        "start_node": "甲烷单加氧酶",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "全细胞悬浮液",
+        "relationship": "用于",
+        "end_node": "环氧乙烷生产"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "抑制",
+        "end_node": "环氧乙烷生产"
+    },
+    {
+        "start_node": "甲烷",
+        "relationship": "提供",
+        "end_node": "还原剂"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "再生",
+        "end_node": "NADH"
+    },
+    {
+        "start_node": "NADH",
+        "relationship": "促进",
+        "end_node": "环氧乙烷合成"
+    },
+    {
+        "start_node": "10%甲烷",
+        "relationship": "提高",
+        "end_node": "环氧乙烷产量"
+    },
+    {
+        "start_node": "3mmol/L甲醇",
+        "relationship": "提高",
+        "end_node": "环氧乙烷产量"
+    },
+    {
+        "start_node": "环氧乙烷浓度",
+        "relationship": "抑制",
+        "end_node": "MMO活性"
+    },
+    {
+        "start_node": "反应时间",
+        "relationship": "范围",
+        "end_node": "8-12小时"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "30℃"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "20%气体相"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "50%气体相"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

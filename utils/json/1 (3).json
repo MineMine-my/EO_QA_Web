@@ -1,0 +1,137 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "提高",
+        "end_node": "热点温度"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "提高",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "冷却介质温度",
+        "relationship": "提高",
+        "end_node": "热点温度"
+    },
+    {
+        "start_node": "冷却介质温度",
+        "relationship": "提高",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "冷却介质温度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "降低",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "进料温度",
+        "relationship": "影响小",
+        "end_node": "热点温度"
+    },
+    {
+        "start_node": "进料温度",
+        "relationship": "影响小",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "提高",
+        "end_node": "副反应速率"
+    },
+    {
+        "start_node": "副反应速率",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "2.1-2.8 MPa"
+    },
+    {
+        "start_node": "冷却介质温度",
+        "relationship": "范围",
+        "end_node": "216-235°C"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "1500-6500 h-1"
+    },
+    {
+        "start_node": "进料温度",
+        "relationship": "范围",
+        "end_node": "160-200°C"
+    },
+    {
+        "start_node": "YS银催化剂",
+        "relationship": "工业化",
+        "end_node": "燕山石化"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "强放热",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "氧化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "完全氧化",
+        "end_node": "二氧化碳"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "氧化",
+        "end_node": "二氧化碳"
+    }
+]

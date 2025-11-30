@@ -1,0 +1,232 @@
+[
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧丁烯"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧杂金属环",
+        "relationship": "是",
+        "end_node": "关键中间体"
+    },
+    {
+        "start_node": "氧杂金属环",
+        "relationship": "形成",
+        "end_node": "环氧丁烯"
+    },
+    {
+        "start_node": "氧杂金属环",
+        "relationship": "形成",
+        "end_node": "2,5-二氢呋喃"
+    },
+    {
+        "start_node": "环氧丁烯开环",
+        "relationship": "形成",
+        "end_node": "氧杂金属环"
+    },
+    {
+        "start_node": "环氧丁烯开环",
+        "relationship": "活化能",
+        "end_node": "8.4 kcal/mol"
+    },
+    {
+        "start_node": "氧杂金属环闭环",
+        "relationship": "活化能",
+        "end_node": "32 kcal/mol"
+    },
+    {
+        "start_node": "CsCl促进剂",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "CsCl促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CsCl负载量",
+        "relationship": "范围",
+        "end_node": "2 wt%"
+    },
+    {
+        "start_node": "CsCl促进剂",
+        "relationship": "减少",
+        "end_node": "吸附强度"
+    },
+    {
+        "start_node": "无促进剂催化剂",
+        "relationship": "导致",
+        "end_node": "强吸附"
+    },
+    {
+        "start_node": "强吸附",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "验证",
+        "end_node": "氧杂金属环"
+    },
+    {
+        "start_node": "表面科学实验",
+        "relationship": "合成",
+        "end_node": "氧杂金属环"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "独特",
+        "end_node": "选择性环氧化"
+    },
+    {
+        "start_node": "银氧杂金属环",
+        "relationship": "热力学稳定性",
+        "end_node": "适中"
+    },
+    {
+        "start_node": "适中热力学稳定性",
+        "relationship": "促进",
+        "end_node": "选择性环氧化"
+    },
+    {
+        "start_node": "α-Al2O3载体",
+        "relationship": "用于",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "类似",
+        "end_node": "乙烯氧化催化剂"
+    },
+    {
+        "start_node": "丁二烯环氧化",
+        "relationship": "需要",
+        "end_node": "高促进剂水平"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "需要",
+        "end_node": "低促进剂水平"
+    },
+    {
+        "start_node": "CsCl促进剂",
+        "relationship": "优化",
+        "end_node": "环氧丁烯生产"
+    },
+    {
+        "start_node": "CsCl促进剂",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "活化能降低",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氧杂金属环",
+        "relationship": "环闭合",
+        "end_node": "环氧丁烯"
+    },
+    {
+        "start_node": "氧杂金属环",
+        "relationship": "环闭合",
+        "end_node": "2,5-二氢呋喃"
+    },
+    {
+        "start_node": "1,2环闭合",
+        "relationship": "形成",
+        "end_node": "环氧丁烯"
+    },
+    {
+        "start_node": "1,4环闭合",
+        "relationship": "形成",
+        "end_node": "2,5-二氢呋喃"
+    },
+    {
+        "start_node": "银原子簇",
+        "relationship": "稳定",
+        "end_node": "氧杂金属环"
+    },
+    {
+        "start_node": "银原子簇",
+        "relationship": "改善",
+        "end_node": "振动谱匹配"
+    },
+    {
+        "start_node": "HREELS",
+        "relationship": "表征",
+        "end_node": "氧杂金属环"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "预测",
+        "end_node": "振动谱"
+    },
+    {
+        "start_node": "实验振动谱",
+        "relationship": "匹配",
+        "end_node": "理论振动谱"
+    },
+    {
+        "start_node": "NEXAFS谱",
+        "relationship": "验证",
+        "end_node": "氧杂金属环结构"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "用于",
+        "end_node": "直接环氧化"
+    },
+    {
+        "start_node": "O2",
+        "relationship": "是",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "直接环氧化",
+        "relationship": "使用",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "银",
+        "relationship": "独特",
+        "end_node": "可行环氧化物收率"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "用于",
+        "end_node": "工业环氧化"
+    }
+]

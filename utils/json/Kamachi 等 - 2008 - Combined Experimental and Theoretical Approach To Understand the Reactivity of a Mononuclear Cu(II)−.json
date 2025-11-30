@@ -1,0 +1,112 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "低氧化性",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "CuIII-oxo",
+        "relationship": "高活性",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "高能垒",
+        "end_node": "39.7 kcal/mol"
+    },
+    {
+        "start_node": "CuIII-oxo",
+        "relationship": "低能垒",
+        "end_node": "3.1 kcal/mol"
+    },
+    {
+        "start_node": "O-O键断裂",
+        "relationship": "高能垒",
+        "end_node": "42 kcal/mol"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "-40°C"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "反应",
+        "end_node": "三乙基膦"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "不反应",
+        "end_node": "环己烯"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "不反应",
+        "end_node": "环己烷"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "不反应",
+        "end_node": "硫代苯甲醚"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "不反应",
+        "end_node": "苄醇"
+    },
+    {
+        "start_node": "CuII-hydroperoxo",
+        "relationship": "不反应",
+        "end_node": "1,4-环己二烯"
+    },
+    {
+        "start_node": "高能垒",
+        "relationship": "抑制",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "低能垒",
+        "relationship": "促进",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "O-O键断裂",
+        "relationship": "生成",
+        "end_node": "CuIII-oxo"
+    },
+    {
+        "start_node": "CuIII-oxo",
+        "relationship": "高效催化",
+        "end_node": "乙烯环氧化"
+    }
+]

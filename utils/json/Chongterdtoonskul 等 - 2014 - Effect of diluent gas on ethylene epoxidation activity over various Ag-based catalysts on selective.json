@@ -1,0 +1,287 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "稳定",
+        "end_node": "Ag-载体相互作用"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "中和",
+        "end_node": "酸性位点"
+    },
+    {
+        "start_node": "酸性位点",
+        "relationship": "导致",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "异构化",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "晶格缺陷"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "参与",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "改善",
+        "end_node": "氧吸附分布"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "稳定",
+        "end_node": "缺陷区域"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "减弱",
+        "end_node": "Ag-O键"
+    },
+    {
+        "start_node": "Sn",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Sn",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "Sn",
+        "relationship": "减少",
+        "end_node": "积碳"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "提高",
+        "end_node": "金属形式"
+    },
+    {
+        "start_node": "金属形式",
+        "relationship": "增强",
+        "end_node": "反应性能"
+    },
+    {
+        "start_node": "SrTiO3",
+        "relationship": "增强",
+        "end_node": "相互作用"
+    },
+    {
+        "start_node": "SrTiO3",
+        "relationship": "提高",
+        "end_node": "吸附能力"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "弱",
+        "end_node": "相互作用"
+    },
+    {
+        "start_node": "CH4+He",
+        "relationship": "最佳",
+        "end_node": "稀释气体"
+    },
+    {
+        "start_node": "CH4",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "He",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CH4+He",
+        "relationship": "协同",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "CH4+He",
+        "relationship": "减少",
+        "end_node": "积碳"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "548K"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "24.7 psia"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "6000 h-1"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:1"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "14.86-17.16 wt%"
+    },
+    {
+        "start_node": "Cu负载量",
+        "relationship": "范围",
+        "end_node": "1.39-1.41 wt%"
+    },
+    {
+        "start_node": "Sn负载量",
+        "relationship": "范围",
+        "end_node": "0.32 wt%"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "44-61 nm"
+    },
+    {
+        "start_node": "Cu粒径",
+        "relationship": "范围",
+        "end_node": "4.7-5.8 nm"
+    },
+    {
+        "start_node": "Sn粒径",
+        "relationship": "范围",
+        "end_node": "2.8-2.9 nm"
+    },
+    {
+        "start_node": "积碳",
+        "relationship": "降低",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "氧吸附",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯吸附",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "溶胶凝胶",
+        "relationship": "制备",
+        "end_node": "SrTiO3"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "773K"
+    },
+    {
+        "start_node": "0.32wt%Sn-Cu-Ag/SrTiO3",
+        "relationship": "最佳",
+        "end_node": "催化剂"
+    },
+    {
+        "start_node": "0.32wt%Sn-Cu-Ag/SrTiO3",
+        "relationship": "最高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "0.32wt%Sn-Cu-Ag/SrTiO3",
+        "relationship": "最高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "0.32wt%Sn-Cu-Ag/SrTiO3",
+        "relationship": "最高",
+        "end_node": "吸附能力"
+    },
+    {
+        "start_node": "氯化合物",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化合物",
+        "relationship": "导致",
+        "end_node": "中毒"
+    },
+    {
+        "start_node": "乙烷",
+        "relationship": "脱氯",
+        "end_node": "剂"
+    }
+]

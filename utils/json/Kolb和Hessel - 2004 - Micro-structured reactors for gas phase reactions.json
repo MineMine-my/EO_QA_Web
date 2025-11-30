@@ -1,0 +1,327 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "增强",
+        "end_node": "温度控制"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "抑制",
+        "end_node": "热点形成"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "时空产率"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "实现",
+        "end_node": "安全操作"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "允许",
+        "end_node": "爆炸区操作"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "传热效率"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "传质效率"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "抑制",
+        "end_node": "均相反应"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "促进",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "微通道",
+        "relationship": "增强",
+        "end_node": "传质"
+    },
+    {
+        "start_node": "微通道",
+        "relationship": "增强",
+        "end_node": "传热"
+    },
+    {
+        "start_node": "微通道",
+        "relationship": "提高",
+        "end_node": "比表面积"
+    },
+    {
+        "start_node": "微通道",
+        "relationship": "抑制",
+        "end_node": "热点形成"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "产生",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "需要",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "受控于",
+        "end_node": "反应条件"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "3-25 bar"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "3.4-60%"
+    },
+    {
+        "start_node": "氧气浓度",
+        "relationship": "范围",
+        "end_node": "8-80%"
+    },
+    {
+        "start_node": "二氯乙烷",
+        "relationship": "抑制",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "二氯乙烷",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Al2O3载体",
+        "relationship": "负载",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "Al2O3载体",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "氯化银",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "长停留时间",
+        "relationship": "降低",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "长停留时间",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "短停留时间",
+        "relationship": "提高",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "短停留时间",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧吸附",
+        "relationship": "决定",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "乙烯吸附",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "Eley-Rideal机理",
+        "relationship": "描述",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "作为",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "部分氧化",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙醛路径",
+        "relationship": "导致",
+        "end_node": "副产物"
+    },
+    {
+        "start_node": "CO2形成",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "水形成",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "工业过程",
+        "relationship": "使用",
+        "end_node": "促进剂"
+    },
+    {
+        "start_node": "工业过程",
+        "relationship": "使用",
+        "end_node": "抑制剂"
+    },
+    {
+        "start_node": "工业过程",
+        "relationship": "达到",
+        "end_node": "80%选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "达到",
+        "end_node": "69%选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "实现",
+        "end_node": "高转化率"
+    },
+    {
+        "start_node": "固定床",
+        "relationship": "产生",
+        "end_node": "热点"
+    },
+    {
+        "start_node": "固定床",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "优于",
+        "end_node": "固定床"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Pt1/NCNT",
+        "relationship": "实现",
+        "end_node": "92.2% FE"
+    },
+    {
+        "start_node": "Cu2O-Br",
+        "relationship": "实现",
+        "end_node": "66.9% FE"
+    },
+    {
+        "start_node": "Br介导",
+        "relationship": "提高",
+        "end_node": "C2H4-to-EO"
+    },
+    {
+        "start_node": "Br介导",
+        "relationship": "优于",
+        "end_node": "Cl介导"
+    },
+    {
+        "start_node": "Br2溶解度",
+        "relationship": "范围",
+        "end_node": "33.8 gL-1"
+    },
+    {
+        "start_node": "Cl2溶解度",
+        "relationship": "范围",
+        "end_node": "7.3 gL-1"
+    },
+    {
+        "start_node": "HBrO pKa",
+        "relationship": "范围",
+        "end_node": "8.7"
+    },
+    {
+        "start_node": "HClO pKa",
+        "relationship": "范围",
+        "end_node": "7.5"
+    },
+    {
+        "start_node": "Br2/Br电位",
+        "relationship": "范围",
+        "end_node": "1.09 V"
+    },
+    {
+        "start_node": "Cl2/Cl电位",
+        "relationship": "范围",
+        "end_node": "1.36 V"
+    },
+    {
+        "start_node": "Pt-N4位点",
+        "relationship": "促进",
+        "end_node": "Br2生成"
+    },
+    {
+        "start_node": "Br亲核性",
+        "relationship": "强于",
+        "end_node": "Cl亲核性"
+    },
+    {
+        "start_node": "Br吸附",
+        "relationship": "稳定",
+        "end_node": "Cu+物种"
+    },
+    {
+        "start_node": "Cu+稳定",
+        "relationship": "促进",
+        "end_node": "CO2-to-C2H4"
+    },
+    {
+        "start_node": "CO吸附",
+        "relationship": "促进",
+        "end_node": "C-C耦合"
+    },
+    {
+        "start_node": "C-C耦合",
+        "relationship": "决定",
+        "end_node": "C2H4生成"
+    },
+    {
+        "start_node": "Cu2O-Br",
+        "relationship": "降低",
+        "end_node": "ΔGOCCO"
+    },
+    {
+        "start_node": "ΔGOCCO降低",
+        "relationship": "促进",
+        "end_node": "C2H4生成"
+    },
+    {
+        "start_node": "串联系统",
+        "relationship": "实现",
+        "end_node": "41.1% FE"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200–260°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "10–30 bar"
+    },
+    {
+        "start_node": "单程转化率",
+        "relationship": "范围",
+        "end_node": "10%"
+    },
+    {
+        "start_node": "Pt1/NCNT",
+        "relationship": "DOI",
+        "end_node": "e202311570"
+    },
+    {
+        "start_node": "Cu2O-Br",
+        "relationship": "DOI",
+        "end_node": "e202311570"
+    },
+    {
+        "start_node": "Pt1/NCNT",
+        "relationship": "年份",
+        "end_node": "2023"
+    },
+    {
+        "start_node": "Cu2O-Br",
+        "relationship": "年份",
+        "end_node": "2023"
+    }
+]

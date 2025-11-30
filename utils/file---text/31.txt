@@ -1,0 +1,944 @@
+DOI: 10.1002/ejic.201800710 Full Paper
+Intermetallic Compounds
+Chemical Behaviour of CaAg under Ethylene Epoxidation
+2
+Conditions
+Iryna Antonyshyn,*[a] Olga Sichevych,[a] Karsten Rasim,[a] Alim Ormeci,[a] Ulrich Burkhardt,[a]
+Sven Titlbach,[b] Stephan Andreas Schunk,[b] Marc Armbrüster,[c] and Yuri Grin*[a]
+Abstract: The binary compound CaAg is examined as a cata- ous reactants and forms a porous microstructure of calcium-
+2
+lystfortheethyleneepoxidationreaction.Duringtheinduction containingoxidationproductsonthesurface,inwhichparticles
+phase,conversionandselectivityincreaseandthenremainsta- ofelementalsilverareembedded.Themicrostructureisremark-
+ble for several hundred hours. The presence of ethyl chloride ably stable, and in particular, prevents further sintering of the
+asapromoteriscrucial.ThepristineCaAg reactswiththegase- silverparticles.
+2
+Introduction ates(e.g.,oxametallacycleOMC), optimizationofcatalystparti-
+cle size, the development of suitable supports and the search
+Silverisauniquecatalystfortwoindustriallyrelevantprocesses: fornewsynthesisroutesforcatalysts.[11–16]
+ethylene epoxidation and partial oxidation of methanol to
+Based on a variety of studies of the epoxidation reaction, it
+formaldehyde.[1]Nevertheless,theselectivitytowardsthetarget
+is evident that the electronic structure of the surface layer of
+product ethylene oxide (EO) in the epoxidation reaction
+the catalyst has a tremendous influence on the adsorption
+amountstoonly40–50%forunpromotedsilvercatalysts[2]and
+properties of reactants and the occurrence of specific reaction
+can be improved to about 85–90% by using a variety of pro-
+intermediates. Depending on the adsorption strength of reac-
+moters,whicharetypicallyusedintechnicalprocesses.[1,3]Aim-
+tantsandintermediates,aswellasdesorptionratesofreaction
+ing for a rational understanding and/or design of alternative
+products,therate-determiningstepcanvary,largelygoverning
+catalysts, a deep insight into the underlying reactions and the
+reaction pathways, and therefore, overall selectivity. Bimetallic
+dynamic changes of the catalyst material is decisive. Conse-
+catalysts have been assumed to be useful systems for tuning
+quently,thelastdecadeshaveseenenormouseffortsinstudies
+thecatalyticactivitybymodifyingtheelectronicstructure.DFT
+using both experimental techniques and computational meth-
+calculations on simplified models, where individual Ag atoms
+ods.The“hot”topicsareadsorptionofoxygenontoAg,[1,4]the
+onthesurfacearereplacedbyatomsofanothermetal,predict
+natureoftheactivespecies[1,4c–4e]andreactionintermediates,[5]
+catalyticperformanceforAg–Cu,Ag–AuandAg–Pdcatalysts.[17]
+themechanismofethyleneepoxidation,[1,6]theroleofthesup-
+Theenhancementoftheselectivitytowardsethyleneoxidefor
+port,[1,7]promoters[1,8]andsizeeffects.[1,9]
+supported Ag–Cu and Ag–Pd bimetallic catalysts, compared
+Stilldebatedindetail,therearetwofundamentallydifferent
+with elemental Ag, has also been experimentally con-
+approachesforthediscussionoftheethyleneepoxidationreac-
+firmed.[17,18] However, advanced investigations of Ag–Cu cata-
+tion: (i) the consideration of different types of oxygen species
+lysts under reaction conditions reveal no metallic or alloyed
+and their roles in the ethylene epoxidation;[1,4,10] and (ii) the
+copper on the surface of these catalysts. Instead, thin oxide-
+“oxametallacycle” model,[1,6] which largely relies on suitable
+like “CuO” layers are detected and the mechanism of ethylene
+oxygen species from model (i). Nowadays, intense research is
+epoxidationturnsouttobestronglysurface-structuredepend-
+focusedonthenatureofelectrophilicoxygenspecies,theoreti-
+ent.[19] There seems to be no unique surface structure that is
+cal predictions and experimental proofs of reaction intermedi-
+responsible for the catalytic activity. The chemistry of the Ag–
+Cu catalyst system is highly dynamic and not trivial. The com-
+[a] Max-Planck-InstitutfürChemischePhysikfesterStoffe, plexity of such catalytic systems sometimes also leads to dis-
+NöthnitzerStr.40,01187Dresden,Germany crepancies between theoretical calculations and experimental
+E-mail:Iryna.Antonyshyn@cpfs.mpg.de
+evidence. For example, the Ag–Cd catalyst is unselective to-
+Grin@cpfs.mpg.de
+wards ethylene oxide, according to density functional theory
+http://www.cpfs.mpg.de/chemical_metals_science
+[b] hteGmbH,
+(DFT)calculations,[20]whereasexperimentalstudieshaveshown
+Kurpfalzring104,69123Heidelberg,Germany enhanced selectivity, compared withelemental Ag.[21] This can
+[c] TechnischeUniversitätChemnitz,FakultätfürNaturwissenschaften, be explained by oversimplified assumptions in the model for
+InstitutfürChemie,
+the calculation: the oxidizing conditions of ethylene epoxid-
+StraßederNationen62,09111Chemnitz,Germany
+ation dramatically change the oxidation states of the surface
+SupportinginformationandORCID(s)fromtheauthor(s)forthisarticleare
+availableontheWWWunderhttps://doi.org/10.1002/ejic.201800710. atoms,andthus,theiradsorptionproperties.Inthesamedirec-
+Eur.J.Inorg.Chem.2018,3933–3941 3933 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+
+Full Paper
+tion,isthefindingthatzincoxideZnOsegregatestothesurface theX-raypowderdiffractionpattern(PXRD),recordedusingin-
+duringkineticstudiesofsupportedAg–Zncatalysts.[22] ternal standard LaB , and subsequent refinement yield lattice
+6
+Theneedforfurtherunderstandingoftheoxygenincorpora- parametersa=4.691(1)Å,b=7.295(2)Å,c=8.135(1)Å,which
+tion into silver-based catalysts is the reason to investigate are in perfect agreement with literature data [a = 4.689(1) Å,
+CaAg ,oneofthebinarycompoundsintheCa–Agsystemwith b=7.301(2)Å,c=8.139(3)Å].[24]Thesummarizedinformation
+2
+ordered crystal structure. The crystal structure of intermetallic is shown in Table S1 and confirms the KHg -type of crystal
+2
+compounds(IMCs),astheconsequenceoftheirchemicalbond- structure. In the “zig-zag” chains along [100] (d = 2.731 Å,
+1
+ing, makes them useful model systems for understanding the orange in Figure 2, bottom), the Ag atoms are interconnected,
+behaviourofcatalystsunderreactionconditions.Thishasbeen formingplanarhoneycomb-likenets.Theinteratomicdistances
+well documented for hydrogenation reactions.[23] Here, a com- Ag–Ag between these chains are slightly longer d = 2.772 Å
+2
+bined experimental and computational study on the CaAg (green in Figure 2, bottom). The planar nets are interlinked to
+2
+compoundunderethyleneepoxidationconditionsispresented. a three-dimensional (3D) framework by longer bonds of d =
+3
+2.900Åalong[010].Thecalciumatomsarelocatedinthecavi-
+ties of this framework. Because of the orthorhombic deforma-
+Results and Discussion tion of the pristine hexagonal AlB -type structure, the trigonal
+2
+prisms around the silver atoms are strongly deformed and the
+CharacterizationofAs-PreparedSamples coordinationnumberofAgbecomes10(6×Caplus4×Ag).
+Single-phasesamplesofCaAg weresynthesizedusingtheheat
+2
+treatmentdescribedintheExperimentalSection.Theobtained
+samples were well crystallized (Figure 1, top) and brittle. They
+are stable in an argon atmosphere at room temperature and
+oxidizeslowlyduringexposuretoair.
+Figure 2. (top) Experimental (black), calculated (red), and difference (blue)
+powder X-ray diffraction patterns of CaAg (peak positions are shown in
+2
+green).(bottom)ViewofthecrystalstructureofCaAg along[010].
+2
+The single-phase nature of the synthesized samples is addi-
+tionally confirmed using differential thermal analysis (DTA, Fig-
+ure S1). One only sharp endothermic peak, at 600 °C, on heat-
+ing,correspondstothedecompositionofCaAg ,followingthe 2
+Figure 1. Morphology of CaAg 2 particles (BSE detector, 8 kV, material con- peritecticreactionCaAg →Ca Ag +L,whichisingoodagree-
+trast):(top)as-preparedand(bottom)aftercatalytictest. 2 2 7
+ment with literature data of 596 °C[25a] and 597 °C,[25b,25c] re-
+ThebinarycompoundCaAg crystallizeswiththeKHg -type spectively.
+2 2
+crystalstructure(spacegroupImma).[24]Figure2(top)presents These results reveal that CaAg samples can be synthesized
+2
+the results of the crystal structure refinement of CaAg from reproducibly,withsufficientcompositionandstructuralcontrol, 2
+powder X-ray diffraction data. Indexing of the reflections from usingthedescribedsynthesisroute.
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3934 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+CatalyticMeasurements Afterthecatalytictest(T =280°C,GHSV=1000–2000h–1,
+max
+0–4.5 ppm EC), the whole surface of the CaAg crumbs is cov-
+2
+Ethylene epoxidation using CaAg as the catalyst was per-
+2 ered by small particles (Figure 1, bottom). Elemental mapping
+formed, varying temperature (T), gas hourly space velocity
+and energy-dispersive X-ray spectroscopy (EDXS) at different
+(GHSV), and amount of ethyl chloride (EC) in the gas stream
+pointsand regions(Figure 4)shows thepresenceof elemental
+(Figure3).Theselectivitytowardsethyleneoxideincreasesand
+Ag agglomerates (ca. 1–3 μm in size) on the surface (point 1),
+reaches 60–65% in about 30 h, whereas the conversion level
+areas with different Ca/Ag ratios (points 2–3) and oxygen en-
+remains relatively low during the whole experiment and does
+richment of calcium-rich regions (point 3). The corresponding
+not exceed 1.5–2.5%. The observed increase of selectivity at
+spectraarepresentedinFigureS2.Themoredetaileddetermi-
+the beginning indicates the presence of an induction period
+nation of the compositions for the Ca–Ag phases is hampered
+duringwhichthecatalystistransformedtoitsactivestate.Usu-
+bythepresenceofoxygenandtheroughnessofthesurface.
+ally, the existence of an induction period reflects a noticeable
+modification;forexample,theformationofanoxygen-contain-
+inglayerinoxidativecatalysis.[26]Asexpected,apositiveimpact
+ontheconversionisobservedatlowerGHSVvalues(1000h–1),
+becauseofthelongercontacttimeofthereactionmixturewith
+thecatalyst(Figure3).
+Figure3.EthyleneepoxidationonCaAg:conversionofethylene(red),yield 2
+of EO (violet) and selectivity towards EO (green) as a function of time on
+stream(TOS).Variationofexperimentalconditions(T,GHSV,amountofEC)
+areshownwithsolidlines.
+Anincreaseintheconversionisachievedatelevatedtemper-
+atures (up to 280 °C), but simultaneously, a significant drop of
+selectivityisobserved.Evenaslightincreaseoftemperatureby
+30°Creducestheselectivityfrom64to53%.Thesametrends
+of conversion and selectivity dependence on the reaction
+temperature are known for different types of silver catalysts:
+sponge-like,[27] powder,[28] Ag(111) single crystals,[29] Ag/ Figure4.CaAg 2 particleaftercatalytictest(BSEdetector,8kV,materialcon-
+α-Al O [30]etc. trast): (top) morphology of the surface; and (bottom) elemental mapping
+2 3 (colour-codedintensitydistribution).
+The reduction of the EC concentration, and finally, its ab-
+sence in the reactive gas stream leads to a significant drop of
+SEM results are in agreement with powder X-ray diffraction
+selectivityfrom64to34%(Figure3).Thus,thepresenceofthe
+data(Figure5),whichevidencesthepresenceofCaAg ,Ca Ag ethylchloridepromoteriscrucialforthecatalyticperformance. 2 2 7
+and elemental Ag under reaction conditions. Calcium-related
+oxidation products are not clearly identified by PXRD, most
+probablyduetotheirsmallamountandlowdegreeofcrystalli-
+Post-CatalyticCharacterizationofCaAg
+2
+nity.
+The surface morphologies of the particles before and after ex- In general, the oxidation of CaAg under ethylene epoxid-
+2
+posure to reaction conditions are completely different (Fig- ationconditionscanbeschematicallydescribedasinScheme1.
+ure 1). Elemental mapping of as-synthesized sample shows a Asthecalcium-containingproductoftheCaAg oxidation,CaO
+2
+homogeneous distribution of Ca and Ag within the particles, was assumed, but due to the presence of carbon dioxide and
+but the presence of a tiny oxygen signal should also be men- watervapourinthegasstream(productsoftheundesiredfull
+tioned. oxidation of ethylene C H + 3O → 2CO + 2H O), as well
+2 4 2 2 2
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3935 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+the enhanced selectivity towards ethylene oxide and prevents
+the sintering of Ag particles, which is the main reason for the
+deactivationofindustriallyusedAgcatalysts.[30b,32]
+Figure5.X-raydiffractionpatternsoftheCaAg samplebefore(black)and
+2
+after (blue) the ethylene epoxidation experiment (600 h on stream, non-
+markedreflectionscorrespondtoCaAg).
+2
+Figure6.Ethyleneepoxidationfordifferenttypesofcatalysts:conversionof
+ethylene(totalheightofthebars)andyieldsofEO/CO (colouredsectionsof
+2
+as ethyl chloride (as the promoter), the formation of calcium thebars)(T=250°C,2.5ppmEC)onA–CaAg 2 (TOS=114h),B1–5wt.-%
+Ag@CaO(TOS=192h),B2–15wt.-%Ag@CaO(TOS=192h),B3–30wt.-%
+hydroxideCa(OH) ,carbonateCaCO ,as wellaschlorideCaCl ,
+2 3 2 Ag@CaO(TOS=192h).Selectivityvalues(S)arewrittenontopofeachbar
+cannotbeexcluded.
+graph.
+ElectronicStructureandChemicalBonding
+The crystal structure was fully optimized. The obtained lattice
+parameters are a = 4.733 Å, b = 7.339 Å, c = 8.256 Å, giving a
+Scheme1.OxidationofCaAg.
+2
+2.9% larger unit cell volume, comparedwith the experimental
+TheamountofCaAg decreasessignificantlyafterprolonged values (cf. Characterization of As-Prepared Samples). The opti-
+2
+exposuretothegasstream,butevenafter600hitremainsthe mized atomic coordinates, z = 0.5446, y = 0.0495, z =
+Ca Ag Ag
+majorityphase,asinferredfromthePXRDdata. 0.1623, are in good agreement with the experimental values
+Catalytic tests at elevated temperatures (up to 350 °C) lead (TableS1).
+to full oxidation of CaAg to elemental Ag and a mixture of In the crystal structure of CaAg , each silver atom has four
+2 2
+CaCO , Ca(OH) and CaO; the corresponding reflections are Agnearneighbours(distances2×d ,d andd ).Incomparison
+3 2 1 2 3
+identified in PXRD patterns (Figure S3). This reveals that the with the elemental fcc Ag with 12 nearest neighbours, this
+formation of calcium-related products as result of CaAg oxid- number of Ag–Ag contacts in CaAg is rather small. Therefore,
+2 2
+ationisdynamicanddependsontheamountandaccessibility theimplieddecreaseind–dhybridizationisexpectedtoreduce
+ofwatervapourandcarbondioxideonthesurfaceofthecata- the band width of the Ag (4d) states. Indeed, the Ag d band
+lyst. The catalytic performance of the obtained catalyst resem- width of 2.5 eV in CaAg is smaller than 3.7 eV in fcc Ag (Fig-
+2
+bles one after a standard catalytic test (T = 280 °C) over ure7,top).Thetopedgeofthe4dbandislocatedat–3.25eV,
+max
+600h(S=65%,conversionofethylene:1–3%). andthecentreofgravityat–4.49eV.Thecorrespondingvalues
+TheshortinductionphaseforCaAg intheethyleneepoxid- fortheelementalAgare–4.32and–2.7eV,respectively.
+2
+ationexperiment(Figure3),aswellastheappearanceofsmall The (100)surface hasthe lowestsurface energy(see below:
+Agparticlesonthesurface,revealtheinsituformationofAgon SurfaceEnergyCalculations).Thissurfacehasthesamecompo-
+a CaO/Ca(OH) /CaCO support, to which catalytic activity and sitionasthebulk;therefore,thebehaviouroftheAgdDOSin 2 3
+selectivitycanbeassigned.TheformationofelementalAgun- the surface region is similar to that of the bulk. In a four-layer
+der reaction conditions is also supported by the fact that the slab model, the subsurface Ag already closely resembles Ag in
+selectivityisstronglydependentonthepresenceofethylchlor- bulk CaAg (Figure 7, bottom). The bandwidth and centre of
+2
+ide, as the promoter, in the gas stream (Figure 3). The promo- gravityvaluesofsubsurfaceAg(4d)statesare2.5and–4.53eV,
+tion effect of Cl is a well-described feature of elemental Ag respectively,essentiallyidenticaltothecorrespondingbulkval-
+catalysts in ethylene epoxidation.[8a,8b,8f,31] This means that ues.Thedstatesofthetop-layerAgatomsshifttohigherener-
+underethyleneepoxidationreaction,CaAg actsasaprecursor gies, the centre of gravity is at –4.21 eV, and since these Ag
+2
+fortheformationofanelementalAgcatalyst.Nevertheless,the atoms are missing one of their d neighbours, the band width 1
+“stepwise”formedAgcatalyst(CaAg →Ca Ag →Ag)isclearly gets narrower, 2.35 eV. However, the top edge of the d bands
+2 2 7
+more selective towards ethylene oxide than Ag nanoparticles remainsthesameinbothbulkandsurface.
+supportedonCaO,whichweresynthesizedforcomparisonus- The chemical bonding in an intermetallic compound is an
+ingclassicalimpregnationtechniques(Figure6).Parallelforma- essential component of the overall assessment of that com-
+tionofAgparticlesandthecalcium-containingsupportyielda pound's suitability for heterogeneous catalysis.[23c] The behav-
+3D microstructure in the subsurface region. The latter ensures iour of IMC in the presence of various species under reaction
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3936 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+Figure 7.Electronic structureof CaAg: (top)Ca andAg (4d) statesfor the
+2
+optimizedstructurecomparedtotheAg(4d)DOSinfccAg;(bottom)com-
+parisonofAg(4d)DOSinbulk,topandsubsurfaceforthe(100)surface.
+conditionscanbeunderstoodbyanalysingtheatomicinterac-
+tions.[23c] To have a better understanding of the chemical be-
+haviour of CaAg , the electronic structural calculations were
+2
+combinedwithareal-spacestudyofthechemicalbonding.The
+topological analysis of the electron density (ED) within
+QTAIM[33] reveals that a Ca atom loses 1.3 electrons so that
+each Ag atom gains 0.65 electrons. Hence, Ag becomes more
+nucleophilic than in the elemental solid. The shapes of the Ca
+and Ag QTAIM basins are very different (Figure 8, top). The Ca
+QTAIM basin is close to spherical, implying cationic character
+(ionicbonding).TheboundariesbetweentwoAgQTAIMbasins
+are flat, indicating the covalent character of the interaction,
+while those between the Ag and Ca ones are round, as if cut Figure8.ChemicalbondinginCaAg:(top)theAgandCaQTAIMbasinswith
+2
+fromasphere,characteristicofpolar(ionic)interactions. theireffectivecharges;(middle)theELI-DdistributionintheCaAg unitcell
+2
+Thisfindingalreadyemphasizesalargeioniccontributionto withthethreeshortestAg–Agdistancesd 1 ,d 2 ,d 3 :isosurfacevalueis0.93,
+theCa–Agbonding.Furtherinsightisobtainedfromananalysis b 1 and b 2 stand for the bonds, the four Ag atoms contributing to the b 2
+bond are identified; (bottom) the ELI-D distribution for the four-layer slab
+oftheelectronlocalizabilityindicator (ELI-D).Thespatialdistri- modelofthe(100)surfaceforCaAg:theorangeisosurfacevalueis1.045,
+2 butionofELI-DinCaAg 2 revealsonlytwotypesofattractorsin the surface represents the dangling bonds; the yellow isosurface value is
+thevicinityoftheAg–Agcontactsd andd (Figure8,middle). 0.954,thesurfaceshowsthelocalizationdomainofthecombineddangling,
+1 2
+The population of the bond basin b 1 (0.5 electrons) is formed b 2 andtheb 1 bonds;thegreenisosurfacevalueis0.938,thesurfaceshows theb-andb-likebondsintheinnerregionoftheslab;theredisosurface
+by two silver atoms separated by d (90%) and by two neigh- 1 2
+1 valueis0.931,thesurfacedepictstheb-typebondformedbythesurface
+bouringCaatoms(10%).Thebondbasinb contains1.8elec- 2 2 andsubsurfaceAgatoms.Theblacklinesshowtheunitcell(topandmiddle)
+trons:1.2oftheseoriginatefromthesilveratomsseparatedby andcalculatedpartofthestructure(bottom).
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3937 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the applicable
+Creative
+Commons
+License
+
+Full Paper
+d (0.6electronseach),another0.44arecontributedbytwoAg
+2
+atomswiththed distancetothelattertwo,andtheremaining
+1
+10% is coming from two Ca atoms. Thus, both – b and b –
+1 2
+mainly reflect the covalent interactions between two and four
+Ag atoms, respectively. These attractors reveal a formation of
+covalentlybondedpuckeredanionicsilverlayersperpendicular
+to[010].Thecalciumcationsareembeddedinbetween.
+The ELI-D distribution was also computed for the four-layer
+slab model of the (100) surface (Figure 8, bottom). The Ag
+atomsinthetopandbottomlayershaveoneoftheird neigh-
+1
+bours missing; therefore, the according dangling bonds pro-
+trudingintothevacuumregioncanbeobservedonbothsides
+oftheslab.Thebondingfeaturesinsidetheslabcorrespondto
+bulkfeaturesinaverysimilarmanner.Theeffectivechargesof
+the surface atoms do not deviate significantly from the corre-
+sponding bulk values. This finding suggests the scenario that
+when a species much more electronegative than Ag is intro-
+ducedtothepristinesurface,Caatomsmayprefertoformionic
+bonds with that species, abandoning the Ag atoms. This may
+thenresultintheaggregationofAgatoms.
+SurfaceEnergyCalculations
+The three principal directions [100], [010] and [001] were cho-
+sen for construction of possible surface termination in CaAg
+2
+(Figure9).
+Inthetwolattercases,thecrystalstructureallowsfordiffer-
+ent surface terminations. To obtain the surface energy of one
+surfacestructureonly,theupperandlowersidesofthesimula-
+tion slabs have to be symmetric. However, this requirement
+leadstononstoichiometric(withrespecttothe2:1Ag/Caratio)
+slabs for the cases (010)-I and (001)-III. The individual surface
+energies of these nonstoichiometric surfaces (Figure 10) thus
+depend on the chemical potential of the two components,
+which is limited by the heat of formation of the bulk com-
+pound.Inthissense,alow-lyingnonstoichiometricsurfaceen-
+ergy, such as the calcium-rich one for (010)-I, indicates a tend-
+ency to transform Ag-rich surfaces after cleaving into the cal-
+cium-terminatedvariantbyAg-precipitation,forexample,upon
+annealing.Themostfavourablecleavageenergiesoccurforflat
+Figure9.CleavageofthecrystalstructureofCaAg andformationofpossible
+surface terminations (variants I). In general, one observes al- 2
+terminatingsurfacesindifferentcrystallographicdirections.
+most identical values of the most favourable surface energies
+for different terminations, implying the equivalent ability to
+cleave in all directions. Furthermore, relaxation of the pristine
+surfacesonlychangesthesurfaceenergiestoanegligiblysmall
+degree.
+Inviewoftheepoxidationreaction,thecharacterofthesur-
+faces under oxidizing conditions is of particular importance. A
+number of fully relaxed oxygen adsorption configurations was
+calculated. All results are related to dioxygen at the GGA-PBE
+level of theory. Given the electropositive character of the cal-
+cium, extremely large adsorption energies are observed for all
+configurations.Dependingontheparticularlocalenvironment,
+theenergygainvariesbetween2and4.6eVperoxygenatom.
+Adsorption onto Ag (111), in comparison, yields merely a gain
+of0.45eV.Afavourablelocaladsorptionenergycorrelateswith
+thenumberoflocallyavailableCaatoms.Oxygenatomsoccu- Figure10.SurfaceenergiesoftheterminatingsurfacesinCaAg (unrelaxed).
+2
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3938 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+pying the centres of Ca tetrahedra or Ca triangles show the oxidize deeper-lying calcium atoms: the simple addition of
+highestlocaladsorptionenergy.Suchlargeadsorptionenergies more and more oxygen atoms above the already oxygen-cov-
+will therefore provide a sizeable driving force for the transfor- ered surface slabs leads to oxygen migration (during the DFT
+mationoftheintermetalliccompoundtosilverandCaO. relaxation;hence,withoutakineticbarrier)towardsthesubsur-
+Amorerealisticviewonthismatterisgivenbyan“abinitio faceregions.Theconfigurationsofthelowestenergy(Figure11,
+thermodynamics approach”.[34] It relates adsorption energies, bottom) already contain oxygen atoms beneath the surface.
+computed by DFT, to the partial pressure, p, of a gas species The indicated dashed lines correspond to the “last” surface
+(O inthiscase)throughtheexpression: structure that accommodates oxygen atoms exclusively at the
+2
+surface,bywhichtheregionofthefirstatomiclayer,inageo-
+metrical sense, is meant. Concomitantly, with inwards oxygen
+migration,oneobservestheexpulsionofsilveroutofthequite
+smallsurfaceunitcell.AnygivenCaatomtendstooptimizeits
+oxygen coordination. A prime example is shown for the (100)
+whereγ istheadsorptionenergypersurfacearea,N isthe
+ads ox termination,inwhich3-atomicsilverclustersform.
+number of oxygen atoms adsorbed onto the surface area A of
+The experimental and theoretical results above clearly indi-
+the slab and E is the adsorption energy per oxygen atom
+ads cateapronouncedinstabilityoftheCaAg surfacesagainstre-
+2
+with respect to the oxygen molecule. μ is tabulated and ac-
+actionwithoxygenunderepoxidationconditions,whichisgov-
+countsfortheentropydifferencebetweentheO moleculesin
+2 ernedbytheextremelystrongdrivingforcetowardstheforma-
+the gas phase and the immobile oxygen atoms at the surface.
+tion of calcium oxide. Potentially passivating layers that would
+The values are taken from the NIST-JANAF thermochemical
+qualify as energetically stable and geometrically dense were
+tables.[35]EachlineinFigure11(top)correspondstoaparticular
+not found. On the one hand, this instability is consequently
+calculatedadsorptionstatecharacterizedbythenumberofad-
+coupled to a segregation of silver atoms. On the other hand,
+sorbedoxygenatomsN andtheirlocalconfiguration.
+ox similar oxidation in different crystallographic directions may
+producea3Dmicrostructureofoxidationproductsonthesur-
+face, which may limit the size of the Ag particles, and thus, it
+ensures the stability of the catalytic system over a long time
+under the reaction conditions (Figure 12). Therefore, one may
+considertheintermetalliccompoundCaAg ,underepoxidation
+2
+conditions,tobeamodelprecursorforAg-basedcatalysts.
+Figure 11. (top) Adsorption energies per surface area at 600 K of oxygen
+atoms(wrt.O)onthemoststablepristinesurfaces(cf.Figure10)ofCaAg.
+2 2
+Lines with increasing slope correspond to an increasing oxygen coverage
+(N ).Dashedlinesindicatestructureswithfullsurfacecoverageandnosub-
+ox
+surfaceoxygenatoms.(bottom)Structureoftypicaloxygenatedsurfacecon- Figure12.MicrostructureofCaAg particleafterethyleneepoxidationexperi-
+2
+figurationsfor(100),(010)and(001)facets(fromlefttoright). mentwithaporous3DlayerofCaO/Ca(OH)/CaCO withparticlesofelemen-
+2 3
+talAg.Inset:schematicrepresentationoftheparticlecrosssection.
+Configurations with the highest density of oxygen atoms,
+bydefinition,havethesteepestnegativeslopewithincreasing
+oxygenpartialpressure.Thedifferentabsolutevaluesthuscor- Conclusion
+respondtotheparticulargeometricalarrangementsthatcanbe
+more or less favourable. Representative high-coverage surface CaAg was tested as a catalyst for ethylene epoxidation. The
+2
+configurationsareshowninFigure11(bottom). presenceofmoreelectronegativeoxygeninthegasstreamand
+The comparabledegree of stabilizationfor eachsurface ter- thehighaffinityofthecalciumtooxygenleadtotheformation
+mination allows the conclusion that CaAg particles react in a of calcium oxide and a substantial segregation of elemental
+2
+similarmannerinalldirections,inagreementwithexperimental silvertothesurface.Inadditiontooxygen,carbondioxideand
+data(Figure1,bottom).Thecorrosionprocesscanproceedun- water vapour from the undesired total combustion are in con-
+hindered, as the resulting structures are quite open and allow tactwiththesurfaceoftheCaAg ,leadingtoavarietyofpossi- 2
+easy access of the gas phase to the subsurface regions to ble calcium-containing products of CaAg oxidation; for exam-
+2
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3939 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+ple,CaO,Ca(OH) andCaCO .PXRDandSEManalysisofCaAg outembedding(thelatterwasusedincaseofmorphologystudies).
+2 3 2
+particles after the catalytic test, as well as calculations of ad- SiCpapersanddiamondpowderwithgrainsizesof3μmorsmaller
+sorptionenergiesofoxygenatomsatdifferentpartialpressures, wereusedforsurfacepolishing.
+have confirmed the expulsion of Ag towards the surface and Catalytic tests were performed using crushed bulk samples (ca.
+the formation of a 3D microstructure, which hinders further 1cm3)sievedtoafractionwithparticlesizesof500–1000μm.The
+bulk oxidation of CaAg 2 . The latter can be only achieved at catalystwasfilledbetweentwolayersofα-Al 2 O 3 (AlodurWSKF60,
+250–315μm)insidethetubularstainless-steelreactor(R0139).Pre-
+higher temperatures (up to 350 °C). The continuous dynamics
+conditioning was carried out by heating to 160 °C (rate 1 °C/min)
+oftheAgparticles,whicharehomogeneouslydistributedinthe
+undernitrogenflowanddwellingatthistemperaturefor15h.Fur-
+CaO/Ca(OH) /CaCO 3D support, prevents their sintering and
+2 3 therheatingto230°Cwasaccompaniedwithaswitchfromnitro-
+provides uniform values of selectivity towards ethylene oxide
+gentothereactionmixture[ethylene(35vol.%),oxygen(7vol.%),
+during almost 600 h of experiment. The comparison of CaO/
+argon (5 vol.%; internal standard) and nitrogen (53 vol.%; carrier
+Ca(OH) 2 /CaCO 3 -supported Ag catalyst (the product of CaAg 2 gas)].Asthepromoter,ethylchloride(EC)wasaddedinacontrolled
+oxidation) with an Ag/CaO catalyst (prepared using a classical way to the gas mixture. Different experiments, varying the
+impregnation method) reveals the unique catalytic behaviour temperature(230–350°C),gashourlyspacevelocity(GHSV=1000–
+oftheAg-basedcatalystobtainedusingCaAg asaprecursor. 2000 h–1) and amount of ethyl chloride (0–4.5 ppm), were per-
+2
+formed.Alltestswerecarriedoutatambientpressure.Gasproduct
+analysis was done with gas chromatography (GC) and mass spec-
+Experimental Section trometry(MS),analogouslytoprocedurespublishedelsewhere.[38]
+The Fritz-Haber Institute ab initio molecular simulations package Takingintoaccountthehighvapourpressureandchemicalreactiv-
+(FHI-aims)[39] was employed for investigating the electronic struc-
+ityofcalcium,allpreparationstepswerecarriedoutinargon-filled
+ture and chemical bonding features, geometry optimizations and
+glove boxes. Silver shot (1–6 mm, Alfa Aesar, 99.999%) and den-
+surface calculations. The FHI-aims is an all electron, full-potential
+driticcalciumpieces(AlfaAesar,99.98%)wereweighedinamolar
+electronicstructurecodethatemploysatom-centrednumericalba-
+ratioof2:1andplacedintotantalumcontainers,whichweresealed
+sisfunctions.Exchange-correlationeffectsweretakenintoaccount
+under argon. The latter were placed into quartz glass ampoules
+withinthegeneralizedgradientapproximation(GGA)tothedensity andsealedundervacuum.Theinitialreactionwascarriedoutina
+functional theory, as parametrized by Perdew–Burke–Ernzerhof
+resistance furnaceby heating up to1000 °C, dwelling atthis tem-
+(PBE).[40] The scalar relativistic effects were included by using a
+peraturefor1h,coolingdownto570°Candsubsequentannealing
+zeroth-orderregularapproximation(ZORA)approach.[41]
+atthistemperaturefor340h.Aftertheabove-mentionedheattreat-
+ment, the samples were quenched in ice water by breaking the Chemicalbondinganalysisinpositionspacewasperformedwithin
+quartzglass. theelectronlocalizabilityapproach,combiningtopologicalanalysis
+ofelectrondensity(ED),basedonthequantumtheoryofatomsin Supported Ag nanoparticles were prepared by incipient wetness
+molecules (QTAIM)[33] and electron localizability indicator (ELI).
+impregnationoftheCaOsupport(SigmaAldrich)withanaqueous
+ELI[42]wascalculatedintheELI-Drepresentation[43]byanowncode solution of silver nitrate (AgNO ), followed by drying (T = 80 °C)
+3 usinganinterfacetotheFHI-aims.[44]TopologicalanalysisoftheED
+andcalcination(T=280°C).Thesilverloadingswere5,15and30
+andtheELI-DwascarriedoutbytheprogramDGrid.[45]
+wt.-%.
+Allsurfaceenergyandadsorptioncalculationswerecarriedoutus-
+Powder X-ray diffraction (PXRD) patterns were recorded with a
+ingtheslabapproachwithinFHI-aims.Theslabscontainedatleast
+Huber Imaging Plate Guinier Camera G670 (Cu-K radiation, λ =
+α1 five atomic layers, with a vacuum region of approximately 20 Å.
+1.54059Å),withlanthanumhexaborideLaB (a=4.1569Å)asthe
+6 Surface unit cells (1×1) of the (100), (010) and (001) orientations
+internal standard. The phase analysis, through the comparison of
+(8.26×7.33, 4.73×8.26, or 4.73×7.34 Å2) were used throughout.
+experimental and calculated PXRD patterns, was performed using
+Thesedimensionscorrespondtotheoptimizedbulklatticeparame-
+WinXPowsoftware.[36]Forpeakpositiondetermination,indexingof
+ters(GGA-PBE).Inthecaseofone-sided,thusasymmetrical,adsorp-
+the powder X-ray diffraction patterns and the Rietveld refinement
+tion configurations, a dipole-field correction, as implemented in
+ofthecrystalstructure,theWinCSDpackage[37]wasemployed.
+FHI-aims,wasemployed.Surfaceenergiesandalladsorptionener-
+Differential thermal analysis/thermogravimetry (DTA/TG) measure- gieswerecalculatedbyrelaxingtheadsorbateandallatomsofthe
+ments underAr flow were donewith a Netzsch STA449 C Jupiter topthreesurfacelayers.
+F1apparatus,situatedinanAr-filledbox.Theheatingupto650°C
+andsubsequentcoolingtoroomtemperature,witharateof10°C/
+Acknowledgments
+min,werecarriedoutusingtantalumcrucibleswithoutcaps.
+Scanning electron microscopy (SEM) using a JEOL 7800 electron TheauthorsarethankfultoP.ScheppanandM.EckertforSEM
+microscope, with an attached EDX/EBSD system [Quantax 400, measurements,S.ScharsachandM.Schmidtforthermalanaly-
+Bruker, Silicon-Drift-Detector (SDD), acceleration voltages 0.1 kV– sis,andS.HückmannforX-raydiffractionexperiments.
+30 kV], was utilized for several purposes: (i) checking the initial
+samplequality;(ii)determinationofthecompositionofthesynthe-
+Keywords: Intermetallicphases · Heterogeneouscatalysis ·
+sizedcompound;(iii)elementalmappingofthesamplebeforeand
+Epoxidation · Chemicalbonding · Adsorptionenergy
+afterthecatalytictest;and(iv)morphologyimagingofthesample
+surface after its exposure to reaction conditions. All preparation
+steps for SEM investigation were carried out in an Ar atmosphere [1] V.I.Bukhtiyarov,A.Knop-Gericke,“Chapter9:EthyleneEpoxidationover
+andadedicatedshuttle-transfersystemwasusedforsampleinser- SilverCatalysts”inNanostructuredCatalysts:SelectiveOxidations(Eds.:C.
+tion into the microscope. The samples were cold fixed in silver- Hess, R. Schlögl), RSC Publishing, 2011, pp. 214–247, and references
+containingepoxyresinordirectlymountedongraphitetabswith- therein.
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3940 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by
+Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+Full Paper
+[2] R.A.vanSanten,H.P.C.E.Kuipers,Adv.Catal.1987,35,265–321. 2013,138,184707–1–8;e)M.T.Greiner,J.Cao,T.E.Jones,S.Beeg,K.
+[3] a) J. G. Serafin, A. C. Liu, S. R. Seyedmonir, J. Mol. Catal. A 1998, 131, Skopurska,E.A.Carbonio,H.Sezen,M.Amati,L.Gregoratti,M.-G.Will-
+157–168; b) W. E. Evans, P. I. Chipman (Shell Oil Company), US Patent inger,A.Knop-Gericke,R.Schlögl,ACSCatal.2018,8,2286–2295.
+6717001B2,2004. [20] J.C.Dellamorte,M.A.Barteau,J.Lauterbach,Surf.Sci.2009,603,1770–
+[4] a)T.C.R.Rocha,A.Oestereich,D.V.Demidov,M.Hävecker,S.Zafeiratos, 1775.
+G.Weinberg,V.I.Bukhtiyarov,A.Knop-Gericke,R.Schlögl,Phys.Chem. [21] B.K.Bonin,X.E.Verykios,J.Catal.1985,91,36–43.
+Chem.Phys.2012,14,4554–4564;b)T.E.Jones,T.C.R.Rocha,A.Knop- [22] N.Toreis,X.E.Verykios,S.M.Khalid,G.Bunker,Z.R.Korszun,J.Catal.
+Gericke,C.Stampfl,R.Schlögl,S.Piccinin,Phys.Chem.Chem.Phys.2015, 1988,109,143–155.
+17,9288–9312;c)T.E.Jones,T.C.R.Rocha,A.Knop-Gericke,C.Stampfl, [23] a)M.Armbrüster,K.Kovnir,M.Behrens,D.Teschner,Yu.Grin,R.Schlögl,
+R.Schlögl,S.Piccinin,ACSCatal.2015,5,5846–5850;d)T.E.Jones,R. J.Am.Chem.Soc.2010,132,14745–14747;b)M.Armbrüster,K.Kovnir,
+Wyrwich, S. Böcklein, E. A. Carbonio, M. T. Greiner, A. Yu. Klyushin, W. M.Friedrich,D.Teschner,G.Wowsnick,M.Hahne,P.Gille,L.Szentmiklósi,
+Moritz,A.Locatelli,T.O.Mentes,M.A.Niño,A.Knop-Gericke,R.Schlögl, M. Feuerbacher, M. Heggen, F. Girgsdies, D. Rosenthal, R. Schlögl, Yu.
+S. Güntner, J. Wintterlin, S. Piccinin, ACS Catal. 2018, 8, 3844–3852; e) Grin, Nat. Mater. 2012, 11, 690–693; c) M. Armbrüster, R. Schlögl, Yu.
+E.A.Carbonio,T.C.R.Rocha,A.Yu.Klyushin,I.Piš,E.Magnano,S.Nap- Grin,Sci.Technol.Adv.Mater.2014,15,034803–1–17.
+pini,S.Piccinin,A.Knop-Gericke,R.Schlögl,T.E.Jones,Chem.Sci.2018, [24] M.Pani,M.L.Fornasini,F.Merlo,Z.Kristallogr.2007,222,218–225.
+9,990–998. [25] a)N.Baar,Z.Anorg.Allg.Chem.1911,70,352–394;b)W.A.Alexander,
+[5] a)M.Egashira,R.L.Kuczkowski,N.W.Cant,J.Catal.1980,65,297–310; L.D.Calvert,A.Desaulniers,H.S.Dunsmore,D.F.Sargent,Can.J.Chem.
+b) S. Linic, M. A. Barteau, J. Am. Chem. Soc. 2002, 124, 310–317; c) S.
+1969,47,611–614;c)M.R.Baren,Bull.AlloysPhaseDiagr.1988,9,228–
+Linic,M.A.Barteau,J.Catal.2003,214,200–212;d)S.Linic,M.A.Barteau, 229.
+[26] a)C.Stampfl,M.V.Ganduglia-Pirovano,K.Reuter,M.Scheffler,Surf.Sci.
+J.Am.Chem.Soc.2003,125,4034–4035.
+2002, 500, 368–394; b) K. Reuter, M. Scheffler, Appl. Phys. A 2004, 78, [6] a)M.O.Özbek,I.Onal,R.A.vanSanten,J.Catal.2011,284,230–235;b)
+793–798;c)J.K.Nørskov,M.Scheffler,H.Toulhoat,MSRBull.2006,31,
+M.O.Özbek,R.A.vanSanten,Catal.Lett.2013,143,131–141.
+669–674. [7] a) A. Chongterdtoonskul, J. W. Schwank, S. Chavadej, J. Mol. Catal. A
+[27] N.W.Cant,W.K.Hall,J.Catal.1978,52,81–94.
+2012,358,58–66;b)A.Chongterdtoonskul,J.W.Schwank,S.Chavadej,
+[28] R. A. van Santen, J. Moolhuysen, W. M. H. Sachtler, J. Catal. 1980, 65,
+Catal.Lett.2012,142,991–1002.
+478–480.
+[8] a)M.O.Özbek,I.Önal,R.A.vanSanten,ChemCatChem2013,5,443–
+[29] R.B.Grant,R.M.Lambert,J.Catal.1985,92,364–375.
+451;b)T.C.R.Rocha,M.Hävecker,A.Knop-Gericke,R.Schlögl,J.Catal.
+[30] a)A.Ayame,Y.Uchida,H.Ono,M.Miyamoto,T.Sato,H.Hayasaka,Appl.
+2014,312,12–16;c)M.T.Greiner,T.C.R.Rocha,B.Johnson,A.Klyushin,
+Catal.A2003,244,59–70;b)G.Boskovic,N.Dropka,D.Wolf,A.Brückner,
+A. Knop-Gericke, R. Schlögl, Z. Phys. Chem. 2014, 228, 521–541; d) W. M.Baerns,J.Catal.2004,226,334–342;c)J.Jiang,T.Xu,Y.Li,X.Lei,H.
+Diao,C.D.DiGiulio,M.T.Schaal,S.Ma,J.R.Monnier,J.Catal.2015,322,
+Zhang,D. G.Evans,X.Sun, X.Duan,Bull. KoreanChem.Soc. 2014,35,
+14–23;e)D.Ren,G.Cheng,J.Li,J.Li,W.Dai,X.X.Sun,D.Cheng,Catal.
+1832–1836.
+Lett. 2017, 147, 2920–2928; f) M. Huš, A. Hellman, J. Catal. 2018, 363,
+[31] a)C.T.Campbell,M.T.Paffett,Appl.Surf.Sci.1984,19,28–42;b)C.T.
+18–25.
+Campbell,J.Catal.1986,99,28–38;c)S.A.Tan,R.B.Grant,R.M.Lambert,
+[9] J. Lu, J. J. Bravo-Suárez, A. Takahashi, M. Haruta, S. T. Oyama, J. Catal. J.Catal.1987,106,54–64;d)K.L.Yeung,A.Gavriilidis,A.Varma,M.M.
+2005,232,85–95.
+Bhasin,J.Catal.1998,174,1–12.
+[10] T. E. Jones, T. C. R. Rocha, A. Knop-Gericke, C. Stampfl, R. Schlögl, S. [32] a)A.E.B.Presland,G.L.Price,D.L.Trimm,J.Catal.1972,26,313–317;
+Piccinin,Phys.Chem.Chem.Phys.2014,16,9002–9014. b)G.L.Montrasi,G.R.Tauszik,M.Solari,G.Leofanti,Appl.Catal.1983,
+[11] T. E. Jones, R. Wyrwich, S. Böcklein, T. C. R. Rocha, E. A. Carbonio, A. 5,359–369;c)E.Ruckenstein,S.H.Lee,J.Catal.1988,109,100–119;d)
+Knop-Gericke, R. Schlögl, S. Günther, J. Wintterlin, S. Piccinin, J. Phys. X.G.Zhou,W.K.Yuan,Chem.Eng.Sci.2004,59,1723–1731;e)G.Bos-
+Chem.C2016,120,28630–28638. kovic,D.Wolf,A.Brückner,M.Baerns,J.Catal.2004,224,187–196.
+[12] T. Suttikul, T. Sreethawong, H. Sekiguchi, S. Chavadej, Plasma Chem. [33] R.F.W.Bader,AtomsinMolecules:AQuantumTheory,ClarendonPress,
+PlasmaProcess.2011,31,273–290. Oxford,1995.
+[13] J.E.vandenReijen,S.Kanungo,T.A.J.Welling,M.Versluijs-Helder,T.A. [34] K.Reuter,M.Scheffler,Phys.Rev.Lett.2003,90,046103–1–4.
+Nijhuis,K.P.deJong,P.E.deJongh,J.Catal.2017,356,65–74. [35] M. W. Chase, NIST-JANAF Thermochemical Tables, National Institute of
+[14] A. Indra, M. Greiner, A. Knop-Gericke, R. Schlögl, D. Avnir, M. Driess, StandardsandTechnology,Washington,1998.
+ChemCatChem2014,6,1935–1939. [36] WinXPow (Version 2.25), STOE and Cie GmbH, Darmstadt (Germany),
+[15] a)D.Sun,H.Wang,G.Zhang,J.Huang,Q.Li,RSCAdv.2013,3,20732– 2009.
+20737; b) X. Jing, H. Wang, H. Chen, J. Huang, Q. Li, D. Sun, RSC Adv. [37] L.Akselrud,Yu.Grin,J.Appl.Crystallogr.2014,47,803–805.
+2014,4,27597–27603;c)X.Jing,J.Huang,H.Wang,M.Du,D.Sun,Q. [38] S. A. Schunk, D. Demuth, A. Cross, O. Gerlach, A. Haas, J. Klein, J. M.
+Li,Chem.Eng.J.2016,284,149–157. Newsam, A. Sundermann, W. Stichert, W. Strehlau, U. Vietze, T. Zech,
+[16] a) S. S. Sangaru, H. Zhu, D. C. Rosenfeld, A. K. Samal, D. Anjum, J.-M. “Chapter 2: Mastering the Challenges of Catalyst Screening in High-
+Basset,ACSAppl.Mater.Interfaces2015,7,28576–28584;b)A.Ramirez, ThroughputExperimentationforHeterogeneouslyCatalyzedGas-Phase
+J.L.Hueso,H.Suarez,R.Mallada,A.Ibarra,S.Irusta,J.Santamaria,Angew. Reactions”inHigh-throughputScreeninginHeterogeneousCatalysis(Eds.:
+Chem.Int.Ed.2016,55,11158–11161;Angew.Chem.2016,128,11324– A.Hagemeyer,P.Strasser,A.F.Volpe),Wiley-VCH,Weinheim,2004,pp.
+11327;c)D.Kim,Y.Lee,Y.Kim,K.Mingle,J.Lauterbach,D.A.Blom,T. 19–62.
+Vogt,Y.Lee,Chem.Eur.J.2018,24,1041–1045. [39] V.Blum,R.Gehrke,F.Hanke,P.Havu,V.Havu,X.Ren,K.Reuter,M.Schef-
+[17] S.Linic,J.Jankowiak,M.A.Barteau,J.Catal.2004,224,489–493. fler,Comput.Phys.Commun.2009,180,2175–2196.
+[18] a) J. T. Jankowiak, M. A. Barteau, J. Catal. 2005, 236, 366–378; b) J. T. [40] J.P.Perdew,K.Burke,M.Ernzerhof,Phys.Rev.Lett.1996,77,3865–3868.
+Jankowiak,M.A.Barteau,J.Catal.2005,236,379–386;c)J.C.Dellamorte, [41] E. van Lenthe, E. J. Baerends, J. G. Snijders, J. Chem. Phys. 1994, 101,
+J. Lauterbach, M. A. Barteau, Catal. Today 2007, 120, 182–185; d) J. C. 9783–9792.
+Dellamorte,J.Lauterbach,M.A.Barteau,Appl.Catal.A2011,391,281– [42] M.Kohout,Int.J.QuantumChem.2004,97,651–658.
+288. [43] a)M.Kohout,F.R.Wagner,Yu.Grin,Int.J.QuantumChem.2006,106,
+[19] a) S. Piccinin, S. Zafeiratos, C. Stampfl, T. W. Hansen, M. Hävecker, D. 1499–1507;b)M.Kohout,FaradayDiscuss.2007,135,43–54.
+Teschner,V.I. Bukhtiyarov,F.Girgsdies,A.Knop-Gericke, R.Schlögl,M. [44] S.A.Villaseca,A.Ormeci,S.V.Levchenko,R.Schlögl,Yu.Grin,M.Arm-
+Scheffler, Phys. Rev. Lett. 2010, 104, 035503–1–4; b) S. Piccinin, N. L. brüster,ChemPhysChem2017,18,334–337.
+Nguyen,C.Stampfl,M.Scheffler,J.Mater.Chem.2010,20,10521–10527; [45] M.Kohout,ProgramDGRID,version4.6,Radebeul(Germany),2011.
+c)N.L.Nguyen,S.Piccinin,S.deGironcoli,J.Phys.Chem.C2011,115,
+10073–10079;d)N.L.Nguyen,S.deGironcoli,S.Piccinin,J.Chem.Phys. Received:June5,2018
+Eur.J.Inorg.Chem.2018,3933–3941 www.eurjic.org 3941 ©2018Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim
+10990682c,
+2018,
+35,
+Downloaded
+from
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejic.201800710
+by Beijing
+University
+of
+Chemistry
+Technology,
+Wiley
+Online
+Library
+on
+[02/11/2025].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+

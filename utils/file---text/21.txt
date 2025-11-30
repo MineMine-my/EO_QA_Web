@@ -1,0 +1,380 @@
+AdvancedPowderTechnology33(2022)103732
+ContentslistsavailableatScienceDirect
+Advanced Powder Technology
+journal homepage: www.elsevier.com/locate/apt
+Original Research Paper
+In situ discovery on the formation of supported silver catalysts for
+q
+ethylene epoxidation
+Like Suna,b, Haoyang Huangb,c, Ping Chea,⇑ , Qiang Lind, Kuo Liand, Jinbing Lid, Yu Zhangb,c,
+Yongsheng
+Hanb,c,⇑
+aSchoolofChemistryandBiologicalEngineering,UniversityofScience&TechnologyBeijing,100083,China
+bStateKeyLaboratoryofMultiphaseComplexSystems,InstituteofProcessEngineering,ChineseAcademyofSciences,Beijing100190,China
+cSchoolofChemicalEngineering,UniversityofChineseAcademyofScience,Beijing100049,China
+dBeijingResearchInstituteofChemicalIndustry,YanshanBranch,SINOPEC,Beijing102500,China
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Silverparticlessupportedonaluminaarethemainindustrialcatalystsforethyleneepoxidation.Silver
+Received5February2022 catalysts are usually produced by an impregnation method followed by thermal decomposition.
+Receivedinrevisedform17June2022 Although the decomposition process determines the structures and properties of silver catalysts, we
+Accepted22June2022
+areshortofinformationonthishightemperatureprocess.Hereinweemployedaconfocallaserscanning
+Availableonline5August2022
+microscope(CLSM)equippedwithaheatingstagetodisclosethethermaldecompositionprocessofsilver
+precursortowardsthepreparationofhighselectivesilvercatalysts.Itisfoundthattheformationofsilver
+Keywords:
+catalystsexperiencestwosteps:crystallizationanddecomposition.Thecrystallizationoccursatthetem-
+Silvercatalysts peraturebelow80℃,resultingintheformationofsilvercomplex.Furtherheatingthesampleto140℃,
+Thermaldecomposition
+leadstotheformationofsilverparticlesataluminawafers.Theatmospherehasasignificanteffecton
+Ethyleneepoxidation
+Selectivity theformationandperformanceofcatalysts.Whenthesamplesareheatedinthenitrogen,smallsilver
+Sizeeffect particleswithsimilarsizeareformed,whichleadstoahighselectivityofethyleneepoxidation.Therole
+ofthermalatmospheresonthesizeandpropertyofsilvercatalystsisdiscussedinthispaper.
+(cid:1)2022TheSocietyofPowderTechnologyJapan.PublishedbyElsevierB.V.andTheSocietyofPowder
+TechnologyJapan.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.
+org/licenses/by-nc-nd/4.0/).
+1.Introduction leneoxidetoformtheby-productofcarbondioxide,asshownin
+thefollowingchemicalformulations(1)-(3).Thesetwosidereac-
+Silveristheindustrialcatalystoftheepoxidationofethyleneto tions(2)and(3)presentgreatchallengesforcatalyststoreachhigh
+produceethyleneoxide(EO)[1,2].ThemainconsumptionofEOis selectivity.
+togenerateethyleneglycol(EG).EGisanimportantchemicalraw
+1
+materialtoproduceantifreezingagentsandplasticssuchaspoly- C H þ O !C H ODH¼(cid:2)105kJ=mol ð1Þ
+2 4 2 2 2 4
+ethyleneterephthalate(PET)[3,4].EGisalsoacommonsolventin
+the pharmaceutical industry. Silver catalysts are the key tech- C H þ3O !2CO þ2H ODH¼(cid:2)1327kJ=mol ð2Þ
+2 4 2 2 2
+niquesintheproductionofEOandEG,whichattractsgreatinterest
+of industrial and scientific communities. In the competition of
+5
+developingsilvercatalyst,selectivityisthemostimportantindex C 2 H 4 Oþ 2 O 2 !2CO 2 þ2H 2 ODH¼(cid:2)1223kJ=mol ð3Þ
+forsilvercatalystssincetheethyleneoxidationispronetoproduce
+the by-product of carbon dioxide [5–7]. Ethylene epoxidation is Great efforts have been devoted to developing silver catalysts
+accompaniedbytwohighlythermodynamicallyfavoredsidereac- withhighselectivity[8–11]. Amongthem,theeffectsofsizeand
+tions:totalcombustionofethyleneandtotalcombustionofethy- morphology of catalysts were extensively investigated. Different
+morphologies of catalysts led to different crystal facets exposed
+[12–14], resulting in diverse performance of silver catalysts. For
+q OpenAccessforthisarticlewassponsoredbytheSocietyofPowderTechnology, example, Christopher synthesized silver nanowires and silver
+Japan,throughtheKAKENHIGrantNumber18HP2009/Grant-in-AidforPublication nanocubes with mostly exposed (100) facet by polyol method
+ofScientificResearchResults,JapanSocietyforthePromotionofScience,2022/
+which has shown excellent selectivity [15,16]. However, silver
+2023.
+⇑ Correspondingauthors. nanowiresandsilvernanocubessufferedfromstructuredegrada-
+E-mailaddresses:cheping@ustb.edu.cn(P.Che),yshan@ipe.ac.cn(Y.Han). tionandselectivityreductioninlong-termcatalyticprocesses[17].
+https://doi.org/10.1016/j.apt.2022.103732
+0921-8831/(cid:1)2022TheSocietyofPowderTechnologyJapan.PublishedbyElsevierB.V.andTheSocietyofPowderTechnologyJapan.
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+a
+Thesizeeffectofsilvercatalystswasalsoinvestigatedanddif- The -Al O wasimpregnatedinthesilversolutionundervacuum
+2 3
+a
+ferentopinionswereproposed[18–21].Somegroupsreportedthat for10min.Afterfilteringthe -Al O fromtheimpregnatedsolu-
+2 3
+theselectivityofsilvercatalystswasdependentontheirsize[22– tion, the samples were dried at room temperature and heated in
+24].Forexample,Verykiosobservedaminimalcompleteoxidation thetubefurnaceatdifferentatmospheres.
+rateforethyleneepoxidationinaspecificsizerangingfrom50to
+70nm[25].However,Bukhtiyarovreportedthatlargesilvercata- 2.3.In-situobservationoftheformationofsilvercatalysts
+lystsshowedanimprovedselectivitysincethecatalyticactivesites
+of anionic oxygen species were largely formed on lager particles CLSM (Zeiss 710) equipped with a heating stage (Linkam TS
+but not on small particles by using X-ray photoelectron spec- 1500)wasemployedtoobservethein-situformationofsilvercat-
+a
+troscopy (XPS) [26]. He attributed the size effect to the different alysts. The impregnated solution was dropped on the -Al O
+2 3
+electronicstatesofsilveratomsatthesurfaceofparticles.Besides, waferwitha thicknessof 1mm.Thenthe samplewas placedon
+VandenReijenreportedthattheselectivityofsilvercatalystswas theheatingstage.Thetimeintervalfortakingpictureswassetto
+independent on particle size when the measurements were con- 12s,andtheheatingratewassetto5(cid:3)C/min.Theoriginalvideo
+ductedattheconstantconversionofethylene[27].Theseconflict- exportedfromtheCLSMwasatoneframepersecond.Thevideos
+ing points on the size effect of silver catalysts attracted our inthesupportinginformationhavebeenaccelerated5timeswhich
+attention to conduct this study, with special interest to reveal was60timesfasterthantheactualphenomena.
+the formation process of silver catalysts and to develop a facile
+strategytocontrolthesizeofsilverparticles. 2.4.Characterizationsofsilvercatalysts
+Silver catalysts were usually prepared by the impregnation
+methodwhichinvolvestheimpregnationofaluminasupportinto Thesizeandstructureofsilvercatalystswerecharacterizedbya
+silver solution, followed by drying and heating. It was reported high-resolution transmission electron microscope (HRTEM, JEM-
+that the thermal atmosphere has a significant effect on the size F200)andascanningelectronmicroscope(SEM,JSM-7800Prime).
+of particles supported. Sun studied the effect of atmosphere on BasedontheSEMimagesprocessedbyImageJsoftware,thesize
+the activity and selectivity of cobalt loaded on zeolites sieves for distribution of silver particles was calculated. X-ray diffraction
+Fischer-TropschreactionwhichrefersthatCOandH arecatalyti- (XRD, Empyrean) was operated in the reflection mode with Cu
+2
+callyconvertedintohydrocarbonsviasurfacepolymerization[28]. K a radiation (k = 0.1524 nm) in the 2h range of 5(cid:3) to 90(cid:3). The
+Theyfoundthatthedispersibilityofcobaltparticleswasimproved weightlossbehaviorofsampleswasrecordedbythermogravimet-
+in the zeolites sieves when the catalysts were pretreated in NO ricanddifferentialthermalanalysis(TG-DTA,LABYSYSEVO).The
+atmosphere,sothatthecatalystshadabetterCH selectivity.This sample was heated from 25 (cid:3)C to 200 (cid:3)C at a rate of 2 (cid:3)C/min.
+4
+finding enlightened us to disclose the atmosphere effect on the Themassspectrometer(MS,PrimaBT)wasconnectedtotheTG-
+propertyofsilvercatalysts.Adeepunderstandingoftheformation DTAinstrumenttomonitorthegaseousproductsproducedinthe
+processofsilvercatalystsmayhaveimportantscientificandprac- course of heating. The carbon dioxide produced was monitored
+ticalsignificancetodevelopbettersilvercatalysts. atm/e =44,and wateratm/e =18. Todisclosetheintermediate
+Inthiswork,weemployedCLSMequippedwithaheatingstage of thermal decomposition, the impregnated solution was heated
+todisclosethethermaldecompositionprocessofsilverprecursor in the furnace in air or nitrogen atmosphere at 60 (cid:3)C for 12 h.
+towards the formation of high selectivity of silver catalysts. The The functionalgroups of crystalscollected from the impregnated
+thermaldecompositionprocesswasconductedindifferentatmo- solution were identified using Fourier transform infrared spectra
+spheres,includingairandnitrogengas.Thesilverparticlessynthe- (FT-IR,NICOLETiS50)andXPS(ESCALAB250Xi).
+sized were characterized by electron microscopy and X-ray
+diffraction.Thesilvercatalystswereevaluatedforethyleneepoxi- 2.5.Catalystsevaluationforethyleneepoxidation
+dation.Theeffectofthermalatmosphereonthesizeandproperty
+ofsilvercatalystswasdiscussedinthispaper. Theethyleneepoxidationreactionwasevaluatedinastainless
+steel fixed-bed reactor with an inner diameter of 4 mm, a
+schematic illustration of the setup was shown in Fig. S2. The
+2.Materialsandmethods
+silver catalysts supported on alumina were broken and sieved
+to0.9–1.4mm,andloadedintothereactor.Thegasfeedcompo-
+2.1.Materials
+sition was C H 28.5 %, O 7.5 %, CO 1.5 %, ethylene dichloride
+2 4 2 2
+0.1 to 0.5 ppm and balance N with 1.8 MPa total pressure, and
+Silver nitrate (AgNO 3 , 99 %), oxalic acid dihydrate the gas hourly space velocity 2 was 6000 h(cid:2)1. The temperature
+(C H O ·2H O,99%),ethylenediamine(C H N ,99%),aluminium
+2 2 4 2 2 8 2 wasrecordedwhentheethyleneoxideconcentrationintheoutlet
+hydroxide(Al(OH) ,99%),pseudoboehmite(AlOOH·nH O,99%),
+3 2 gas stream reached 2 %. The inlet and outlet gas compositions
+magnesium fluoride (MgF , 99 %), barium acetate (C H O ·Ba,
+2 4 6 4 were measured by the MS. The gas concentrations from 10 ppm
+99 %) werepurchasedfrom Aladdin(Shanghai). Ultra-purewater
+to 100 % were analyzed by a Stand Faraday detector, and the
+(with a resistance of more than 18.2 MX cm) obtained from a
+gas concentrations from 10 ppb to 100 ppm were detected by
+MilliporeMilli-Qsystemwasusedinallexperiments.
+secondary electron multiplier.
+The EO selectivity was measured to evaluate silver catalysts.
+2.2.Preparationofsilvercatalysts The EO selectivity is the ratio of ethylene converted to EO (n E;EO Þ
+tothetotalconvertedethylene(n Þ.
+E
+was Si p lv re e p r a o r x e a d la b t y e a w d a d s in u g s a ed 40 as m t L h , e 0. s 3 i 5 lv M er a p q r u ec e u o r u s s o s r. ol I u ts ti s o u n s o p f e s n i s lv io e n r EO sel: ¼ n
+n
+E;EO(cid:3)100% ð4Þ
+E
+nitrateto60mL,0.35Maqueoussolutionofoxalicaciddihydrate
+at 60 (cid:3)C, followed by filtrating and washing the precipitate with WhereEO sel:istheethyleneoxideselectivity,n E;EO istheamount
+Milli-Qwater.Silveroxalatewasdissolvedinanaqueoussolution of ethylene converted to EO, n E is the amount of total converted
+containing 34.7 % ethylene diamine giving a solution containing ethylene.
+a
+30 wt% silver. The -Al 2 O 3 was used as the support of catalysts n E;EO ¼DEO(cid:3)V ð5Þ
+[29]. The morphology of alumina support was shown in Fig. S1.
+2
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+n E ¼DEO(cid:3)Vþ0:5DCO 2 (cid:3)V ð6Þ narrowsizedistributionweresynthesized,havinganaveragepar-
+ticlessizeof87nm,asshowninFig.1b.Whenthesilverprecursor
+DEO washeatedinair,silverparticleswithanaveragesizeof155nm
+EO sel: ¼ DEOþ0:5DCO (cid:3)100% ð7Þ andwidesizedistributionweresynthesized,as shownin Fig.1c.
+2
+Todisclosethesizeeffectofsilvercatalysts,silvercatalystssynthe-
+Where DEO is the difference in molar concentration of EO
+sizedwereevaluatedforethyleneepoxidation.Wemeasured the
+betweentheoutletandinletgas;DCO isthedifferenceinmolar
+2 selectivityofethyleneepoxidationatthesamereactantconversion
+concentrationofCO betweentheoutletandinletgas;Visthevol-
+2 (2%ofethyleneconversioninallmeasurements).Intheprocessof
+umeofthegasdetectedbythemassspectrometer.Thevolumesof
+ethyleneepoxidation,thepartialpressureofethylenewas0.1and
+gasattheinletandoutletofthereactorwerekeptthesame.
+theO /C H ratiowaskeptat0.25forallexperimentsandthebal-
+2 2 4
+ancewasmadeupbyN .Theselectivityofthesilverparticlespre-
+2
+3.Resultsanddiscussion pared in nitrogen was 80.24 % for ethylene epoxidation in the
+beginning. With the increase in reaction time, the selectivity
+Silvercatalystssupportedonthealuminawaferwereprepared decreased gradually, and finally reached a steady selectivity of
+bythermallydecomposingsilverprecursoratvariousatmospheres 78.75%.Theselectivityofthecatalystspreparedinairatmosphere
+torevealtheeffectofthermalatmosphereontheformationofsil- was77.46%,andtheaverageselectivitywas1.75%lowerthanthe
+verparticles,asshowninFig.1a.Silvercatalystsweresynthesized catalystspreparedinnitrogenatmosphere.
+byimpregnationmethod,wherebytheconcentrationsofprecursor, To disclose the size dependent selectivity of silver catalysts,
+temperatureandgasflowratewerekeptthesameinalltheexper- XRDwasusedtodeterminethecrystalstructureofsilverparticles,
+iments.Twotypesofatmosphereswereusedinthisstudy,namely as shown in Fig. 2. No matter which kinds of atmospheres were
+airandnitrogen.Thechoiceofatmosphereshadaconsiderationon usedinthepreparationofsilvercatalysts,crystallinesilverparti-
+the industrial preparation of silver catalysts, in which feasibility cles as well as the alumina crystals were detected, as shown in
+and safety are important issues. When the silver precursor was Fig. 2a. Two silver catalysts have similar peaks. The peaks at
+heated in nitrogen atmospheres, spherical silver particles with a 38.1(cid:3)and44.3(cid:3)belongtothe(111)and(200),respectively.When
+Fig.1. Anillustrationofthethermaldecompositionofsilverprecursortoformsilvercatalystsinwhichtheatmospheremayplayanimportantrole(a).SEMimagesofsilver
+catalystspreparedinnitrogen(b)andair(c)atmosphere.Inserts:particlesizedistributionofsilvercatalystsprepared.Theselectivityofethyleneoxidationcatalyzedbysilver
+particlespreparedinnitrogen(d)andair(e)atmosphere.
+3
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+Fig.2. XRDpatternsofsilvercatalystsonaluminawaferafterthethermaldecompositionofsilverprecursorsinairandnitrogenatmospheres(a).TheratioofAg(111)toAg
+(200)peakintensitiessynthesizedatdifferentatmosphericconditions.
+wecalculatedtheratioofpeaksintensitybetweenAg(111)andAg
+(200),adifferencewasfound.Silvercatalystspreparedinnitrogen
+hadalowerratio,asshowninFig.2b,whichwasattributedtothe
+higher intensity of (200) intensity in this sample than that pre-
+paredinair.Therefore,silverparticlesynthesizedinnitrogenhad
+more (200) facets exposed. Since the activation barriers of Ag
+(200) to form ethylene oxide are lower than Ag(111) [15,16],
+thesesmallparticlesshowedhigherselectivityinethyleneepoxi-
+dation,whichagreedwellwithpreviousinvestigationsfromother
+groups[15,16].
+To disclose the formation process of silver catalysts, we
+employed CLSM equipped witha heating stage to in-situ observe
+the thermal decomposition of silver precursor, as shown in the
+videos of supporting information. Parts of the video were picked
+upandshowninFig.3.Withtheincreaseoftemperature,theevap-
+oration of water resulted in the crystallization of silver salts, as
+shown in Fig. 3b, followed by the decomposition of silver salts
+(Fig.3cand3d),formingsilverparticlesatthesurfaceofalumina
+wafer. To disclose this decomposition process, TG-DTA measure-
+ments were conducted. TG curves were shown in Fig. 4, and the Fig.4. TGcurvesofsilvercatalystspreparedindifferentatmospheres.
+DTAcurveswereshowninFigureS3.AccordingtotheTGcurves,
+two rapid decreases of samples weight were found during the
+heatingprocess.Onewasaround60(cid:3)Candtheotherwasaround
+120 (cid:3)C. The whole decomposition process could be divided into
+two stages: (1) crystallizationprocess from room temperature to
+80(cid:3)C,theweightlossinthisprocesswascontributedbytheevap-
+oration of solvents; (2) the decomposition process from 80 (cid:3)C to
+150(cid:3)C,duringwhichtheweightlosswasattributedtothedecom-
+positionofthesilversaltprecursortoformsilverparticles.When
+the silver precursor was heated in air, the weight loss given by
+crystallization stopped at 49 (cid:3)C, which was lower than that in
+nitrogen, as shown in Fig. 4. In the decomposition process, the
+weight loss stopped at 124 (cid:3)C in air while the weight decreased
+until 135 (cid:3)C in nitrogen. Both the crystallization and decomposi-
+tion processes occurred at a lower temperature in air than that
+in nitrogen. The following study would attempt to reveal this
+difference.
+Torevealtheinfluenceofthethermalatmosphereonthecrys-
+tallizationofsilvercomplex,boththegasandsolidproductsgen-
+erated in the heating process at 30–70 (cid:3)C were collected and
+characterized by different instruments, as shown in Fig. 5. The
+gasproductsweresenttotheonlineMSattachedtotheTG-DTA.
+Water molecules were detected as the main products, as shown
+in Fig. 5b–c. In Fig. 5b, the signal of water molecules decreased
+Fig. 3. Images of the decomposition process of silver precursors at different
+gradually with temperature, indicating steady evaporation of
+temperatures. These images were cut from the videos taken by confocal laser
+scanningmicroscopy. waterinnitrogen.InFig.5c,apeakofwatersignalwas detected
+4
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+Fig.5. Schematicdiagramofthecrystallizationprocessinheatingsilverprecursoronaluminawafer(a).MassspectrumofH2O(m/e=18)releasedfromtheprecursorinthe
+nitrogen(b)andair(c)atmosphere.Theinfraredspectrumofcrystalspreparedinnitrogen(d)andair(e)atmosphere.TheN1sbindingenergyofcrystalspreparedinnitrogen
+(f)andair(g)atmosphere.
+at 30–50 (cid:3)C, indicating a quick evaporation of water in air. The 26.42%ofthetotalN-containingfunctiongroupsforthesamples
+solid products were characterizedby FT-IR and XPS, as shown in heatedinairwhileitwasonly19.02%forthesamplesheatedin
+Fig.5d–g.Whenthesilverprecursorwasheatedinair,theabsorp- nitrogen, as shown in Fig. 5f and 5 g. The peak position of nitro
+tion peak at 1127 cm(cid:2)1 disappeared, as shown in Fig. 5e, which groups and amino groups were consistent with the references.
+indicatesthebrokenoflongchaincomplexsincethemissingpeaks [31,32] The increase of nitro groups was ascribed to the reaction
+wereassignedtotheCANstretchingvibrationsoflongchainami- of silver complex with oxygen, as illustrated in Fig. S4. Further-
+nes [30]. These results suggested that the silver complex assem- more,thebrokenlongchaincomplexliberatedthewateradsorbed
+bled by ethylenediamine and silver ions was destroyed by inmolecules,whichresultedinthequickevaporationofwaterin
+oxygen during the heating process, resulting in the formation of air, as shown in Fig. 5c. These results confirmed that the atmo-
+short chain complex. This hypothesis was supported by XPS. The sphere influences the evaporation process as well as the solid
+solid samples heated in air had a higher amount of nitro groups intermediate, which may affect the structures of silver particles
+(ANO ) than that in nitrogen. The nitro groups accounted for formedinthefollowingheatingprocess.
+2
+5
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+Thesolidproductsformedat80(cid:3)Cwerefurtherheatedto200(cid:3)C decomposition occurred at the temperature from 102 (cid:3)C to
+in different atmospheres to reveal the effect of thermal atmo- 130(cid:3)C,asshowninFig.6d,whichresultedinthenucleationofsil-
+spheresonthesilvercatalysts,asshowninFig.6.Inthedecompo- ver particles followed by their growth, forming relatively similar
+sition process, oxalate groups were decomposed to reduce silver sizeofparticles,asshowninFig.6f.Whenthesamplewasheated
+ionsformingsilverparticles.Fig.6band6caretheDTAcurvesof in air,carbon dioxidewas detected at90 (cid:3)C,as shown in Fig. 6e,
+the precursor decomposition in different atmospheres. When the indicatingthattheoxalatebegantodecomposeatarelativelylow
+sampleswereheatedinnitrogen,theendothermicpeakoccurred temperature. The decomposition process lasted for a wide range
+at125(cid:3)Cwhileitdecreasedto120(cid:3)Cin air,asshowninFig.6b oftemperaturesfrom90(cid:3)Cto130(cid:3)C,inwhichthesilverionswere
+and c. The decrease in decomposition temperature could be continuouslyreduced,leadingtoalong-termcrystallizationofsil-
+ascribedtotheoxidationofethylenediamineinairtodestroythe verparticles.Thelaternucleiattachedtotheinitialsilverparticles,
+long chain complex structure, forming short chain complex. The formingbigparticleswithroughsurface,asshowninFig.6g.There-
+MSdatainFig.6dand6eshowedthatcarbondioxidewasproduced fore,thethermalatmosphereplaysanimportantroleintheforma-
+duringtheheatingprocess,confirmingthedecompositionofoxa- tionofsilvercatalysts,andachoiceoftheatmospheremayleadto
+late in this stage. When the sample was heated in nitrogen, the theimprovementofcatalystsstructureandperformance.
+Fig.6. Schematicdiagramofthethermaldecompositionofsilvercomplextoformsilverparticlesataluminawafer(a).DTAcurvesofsilverprecursordecompositionin
+nitrogen(b)andair(c)atmosphere.MassspectrumofCO2(m/e=44)releasedfromtheprecursorinthenitrogen(d)andair(e)atmosphere.TEMimagesofsilvercatalysts
+preparedinnitrogen(d)andair(g)atmosphere.
+6
+
+L.Sun,H.Huang,P.Cheetal. AdvancedPowderTechnology33(2022)103732
+4.Conclusions [8] J.E.vandenReijen,W.C.Versluis,S.Kanungo,M.F.d’Angelo,K.P.deJong,P.E.
+deJongh,Fromqualitativetoquantitativeunderstandingofsupporteffectson
+the selectivity in silver catalyzed ethylene epoxidation, Catal. Today 338
+Thethermaldecompositionprocessofsilverprecursortoform (2019)31–39.
+silvercatalystswasinvestigatedbyCLSMequippedwithaheating [9] J.C.Dellamorte,J.Lauterbach,M.A.Barteau,RheniumpromotionofAgandCu-
+stage. The formation of silver catalysts was disclosed into two Agbimetalliccatalystsforethyleneepoxidation,Catal.Today120(2)(2007)
+182–185.
+steps, namely crystallization and decomposition. The crystalliza- [10] S. Linic, M.A. Barteau, On the mechanism of Cs promotion in ethylene
+tionprocessoccurredbelow80(cid:3)C,inwhichwaterwasevaporated epoxidationonAg,J.Am.Chem.Soc.126(26)(2004)8086–8087.
+and solid products consisting of ethylenediamine, silver oxalate [11] E.J. Marek, S. Gabra, J.S. Dennis, S.A. Scott, High selectivity epoxidation of
+ethyleneinchemicalloopingsetup,Appl.Catal.,B262(2020)118216.
+and bound water precipitated. The decomposition process took
+[12] S.Thakur,S.Singh,B.Pal,Time-dependentgrowthofCaOnanoflowersfrom
+placeat90to140(cid:3)C,duringwhichthedecompositionofoxalate egg shells exhibit improved adsorption and catalytic activity, Adv. Powder
+wasaccompaniedbytheformationofsilverparticles.Itwasfound Technol.32(9)(2021)3288–3296.
+[13] T.S.Ahmadi,Z.L.Wang,T.C.Green,A.Henglein,M.A.Elsayed,Shape-controlled
+thatthermalatmospheresplayedanimportantroleintheforma-
+synthesis of colloidal platinum nanoparticles, Science 272 (5270) (1996)
+tion of silver catalysts. When the silver precursor was heated in 1924–1926.
+air,theoxygenattackedthesilvercomplexformedinthecrystal- [14] H.L.Wang,C.Y.Hsu,K.C.W.Wu,Y.F.Lin,D.H.Tsai,Functionalnanostructured
+materials:aerosol, aerogel, andde novo synthesistoemerging energy and
+lizationprocess,leadingtoalowdecompositiontemperatureand
+environmentalapplications,Adv.PowderTechnol.31(1)(2020)104–120.
+a long-term crystallization of silver particles, forming big silver [15] P.Christopher,S.Linic,Engineeringselectivityinheterogeneouscatalysis:Ag
+particleswithinhomogeneoussizedistribution.Whenthesamples nanowiresasselectiveethyleneepoxidationcatalysts,J.Am.Chem.Soc.130
+(34)(2008)11264.
+wereheatedinnitrogen,smallsilverparticleswithrelativelysim-
+[16] P. Christopher, S. Linic, Shape- and size- specific chemistry of Ag
+ilarsizesweregenerated,whichledtoahighselectivityofethy- nanostructuresincatalyticethyleneepoxidation,ChemCatChem2(1)(2010)
+leneepoxidationwhentheseparticleswereusedasthecatalysts. 78–83.
+Therefore,achoiceofthermalatmospherepromisesafacilestrat- [17] S.S.Sangaru,H.B.Zhu,D.C.Rosenfeld,A.K.Samal,D.Anjum,J.M.Basset,Surface
+composition of silver nanocubes and their influence on morphological
+egy to improve the structure and property of thermally decom- stabilization and catalytic performance in ethylene epoxidation, ACS Appl.
+posedcatalysts. Mater.Interfaces7(51)(2015)28576–28584.
+[18] Y.Fu,Y.Ni,W.Cui,X.Fang,Z.Chen,Z.Liu,W.Zhu,Z.Liu,Insightsintothesize
+DeclarationofCompetingInterest
+effectofZnCr2O4spineloxideincompositecatalystsforconversionofsyngas
+to aromatics, Green Energy Environ. (2021), https://doi.org/10.1016/j.
+gee.2021.07.003.
+Theauthorsdeclarethattheyhavenoknowncompetingfinan- [19] W.L.Gu,L.Y.Hu,C.S.Shang,J.Li,E.K.Wang,Enhancementofthehydrogen
+evolutionperformancebyfinelytuningthemorphologyofCo-basedcatalyst
+cial interests or personal relationships that could have appeared
+withoutchangingchemicalcomposition,NanoRes.12(1)(2019)191–196.
+toinfluencetheworkreportedinthispaper. [20] Y. Wang, Y.M. Qi, M.H. Fan, B.J. Wang, L.X. Ling, R.G. Zhang, C2H2 semi-
+hydrogenationonthePdxMycluster/graphdiynecatalysts:effectsofcluster
+compositionandsizeontheactivityandselectivity,GreenEnergyEnviron.7
+Acknowledgements
+(3)(2022)500–511.
+[21] Z.Wang,G.A.Solan,Y.P.Ma,Q.B.Liu,T.L.Liang,W.H.Sun,Fusingcarbocycles
+ThisworkwassupportedbytheNationalNaturalScienceFoun- ofinequivalentringsizetoabis(imino)pyridine-ironethylenepolymerization
+catalyst:distinctiveeffectsonactivity,PEmolecularweight,anddispersity,
+dationofChina(91934302,21978298,U1862117),andtheproject
+Research2019(2019)9426063.
+from the State Key Laboratory of Multiphase Complex Systems [22] S.N. Goncharova, E.A. Paukshtis, B.S. Balzhinimaev, Size effects in ethylene
+(MPCS-2021-A-05). oxidation on silver catalysts. Influence of support and Cs promoter, Appl.
+Catal.,A126(1)(1995)67–84.
+[23] A.J.F.vanHoof,I.A.W.Filot,H.Fridrich,E.J.M.Hensen,Reversiblerestructuring
+AppendixA.Supplementarymaterial of silver particles during ethylene epoxidation, ACS Catal. 8 (12) (2018)
+11794–11800.
+[24] A.J.F. van Hoof, E.A.R. Hermans, A.P. van Bavel, H. Fridrich, E.J.M. Hensen,
+Supplementary data to this article can be found online at
+Structuresensitivityofsilver-catalyzedethyleneepoxidation,ACSCatal.9(11)
+https://doi.org/10.1016/j.apt.2022.103732. (2019)9829–9839.
+[25] X.E. Verykios, F.P. Stein, R.W. Coughlin, Oxidation of ethylene over silver:
+adsorption,kinetics,catalyst,Catal.Rev.:Sci.Eng.22(2)(1980)197–234.
+References
+[26] V.I. Bukhtiyarov, A.F. Carley, L.A. Dollard, M.W. Roberts, XPS study of
+adsorption on supported silver: effect of particle size, Surf. Sci. 381 (2–3)
+[1] J.T. Jankowiak, M.A. Barteau, Ethylene epoxidation over silver and copper- (1997)L605–L608.
+silverbimetalliccatalysts:I.kineticsandselectivity,J.Catal.236(2)(2005) [27] J.E.vandenReijen,S.Kanungo,T.A.J.Welling,M.Versluijs-Helder,T.A.Nijhuis,
+366–378. K.P.deJongh,PreparationandparticlesizeeffectsofAg/a-Al2O3catalystsfor
+[2] M.O. Ozbek, I. Onal, R.A. van Santen, Why silver is theunique catalyst for ethylene,J.Catal.356(2017)65–74.
+ethyleneepoxidation,J.Catal.284(2)(2011)230–235. [28] X.H.Sun,S.Sartipi,F.Kapteijn,J.Gascon,Effectofpretreatmentatmosphereon
+[3] G.Boskovic,D.Wolf,A.Brückner,M.Baerns,Deactivationofacommercial theactivityandselectivityofCo/mesoHZSM-5forFischer-Tropschsynthesis,
+catalystintheepoxidationofethylenetoethyleneoxide-basisforaccelerated NewJ.Chem.40(5)(2016)4167–4177.
+testing,J.Catal.224(1)(2004)187–196. [29] H.Wang,K.Lian,H.J.Wei,CN111939884A,2020.
+[4] A.Talati,M.Haghighi,F.Rahmani,Oxidativedehydrogenationofethaneto [30] X.Tao,L.S.Shi,M.J.Sun,N.Li,Synthesisofligninamineasphaltemulsifierand
+ethylenebycarbondioxideoverCr/TiO2-ZrO2nanocatalyst:effectofactive its investigation by online FTIR spectrophotometry, Adv. Mater. Res. 909
+phaseandsupportcompositiononcatalyticpropertiesandperformance,Adv. (2014)72–76.
+PowderTechnol.27(4)(2016)1195–1206. [31] Z. Phiri, R.C. Everson, H.W.J.P. Neomagus, B.J. Wood, The effect of acid
+[5] A.Kakalj,P.Gava,S.deGironcoli,S.Baroni,Whatdeterminesthecatalyst’s demineralising bituminous coals and de-ashing the respective chars on
+selectivityintheethyleneepoxidationreaction,J.Catal.254(2)(2008)304– nitrogenfunctionalforms,J.Anal.Appl.Pyrolysis125(2017)127–135.
+309. [32] N.Graf,A.Lippitz,T.Gross,F.Pippig,A.Hollander,W.E.S.Unger,Determination
+[6] E.Alp,E.C.Araz,A.F.Buluc,Y.Guner,Y.Deger,H.Esgin,K.B.Dermenci,M.K. ofaccessibleaminogroupsonsurfacesbychemicalderivatizationwith3,5-bis
+Kazmanli,S.Truan,A.Genc,MesoporousnanocrystallineZnOmicrospheresby (trifluoromethyl)phenyl isothiocyanate and XPS/NEXAFS analysis, Anal.
+ethylene glycolmediated thermal decomposition, Adv. Powder Technol. 29 Bioanal.Chem.396(2)(2010)725–738.
+(12)(2019)3455–3461.
+[7] J.H.Miller,A.Joshi,X.Y.Li,A.Bhan,Catalyticdegradationofethyleneoxide
+overAg/a-Al2O3,J.Catal.389(2020)714–720.
+7
+

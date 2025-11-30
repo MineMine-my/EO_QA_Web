@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "MoO2L2",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "MoO2L2",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "MoO2L2",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "环己烯氧化物",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "环己烯氧化物",
+        "relationship": "提高",
+        "end_node": "重现性"
+    },
+    {
+        "start_node": "NO配体解离",
+        "relationship": "形成",
+        "end_node": "活性催化剂"
+    },
+    {
+        "start_node": "MoO2(8-羟基喹啉)2",
+        "relationship": "最高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "MoO2(8-羟基喹啉)2",
+        "relationship": "转化率",
+        "end_node": "42%"
+    },
+    {
+        "start_node": "MoO2(8-羟基喹啉)2",
+        "relationship": "选择性",
+        "end_node": "69%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "90℃"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "60-90 bar"
+    },
+    {
+        "start_node": "TBHP分解",
+        "relationship": "生成",
+        "end_node": "叔丁醇"
+    },
+    {
+        "start_node": "TBHP分解",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "水杨亚胺配体",
+        "relationship": "碱性",
+        "end_node": "影响活性"
+    },
+    {
+        "start_node": "胺前体体积",
+        "relationship": "提高",
+        "end_node": "TBHP转化率"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

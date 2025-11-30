@@ -1,0 +1,187 @@
+[
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "作为",
+        "end_node": "氧载体"
+    },
+    {
+        "start_node": "Sr3Fe2O7",
+        "relationship": "作为",
+        "end_node": "氧载体"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "负载于",
+        "end_node": "SrFeO3"
+    },
+    {
+        "start_node": "1:1 SrFeO3:RP",
+        "relationship": "提高",
+        "end_node": "环氧乙烷产率"
+    },
+    {
+        "start_node": "1:1 SrFeO3:RP",
+        "relationship": "增加",
+        "end_node": "产率4倍"
+    },
+    {
+        "start_node": "环氧乙烷产率",
+        "relationship": "范围",
+        "end_node": "0.4-1.6%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "270°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "常压"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "C2H4浓度",
+        "relationship": "范围",
+        "end_node": "5.16 vol%"
+    },
+    {
+        "start_node": "RP相含量",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "RP相含量",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "RP相含量",
+        "relationship": "影响",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "高RP相",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高RP相",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "低RP相",
+        "relationship": "提高",
+        "end_node": "初始选择性"
+    },
+    {
+        "start_node": "中间RP相",
+        "relationship": "产生",
+        "end_node": "协同效应"
+    },
+    {
+        "start_node": "晶格氧",
+        "relationship": "供应",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氧释放速率",
+        "relationship": "影响",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "氧容量",
+        "relationship": "影响",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "具有",
+        "end_node": "高氧容量"
+    },
+    {
+        "start_node": "Sr3Fe2O7",
+        "relationship": "具有",
+        "end_node": "快氧传输"
+    },
+    {
+        "start_node": "水浸渍",
+        "relationship": "导致",
+        "end_node": "结构变化"
+    },
+    {
+        "start_node": "水浸渍",
+        "relationship": "形成",
+        "end_node": "SrCO3"
+    },
+    {
+        "start_node": "循环操作",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "还原阶段",
+        "relationship": "产生",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "氧化阶段",
+        "relationship": "再生",
+        "end_node": "氧载体"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "避免",
+        "end_node": "爆炸混合物"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "提高",
+        "end_node": "安全性"
+    }
+]

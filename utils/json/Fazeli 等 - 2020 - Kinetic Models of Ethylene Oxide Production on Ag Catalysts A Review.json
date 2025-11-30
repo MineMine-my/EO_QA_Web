@@ -1,0 +1,207 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(110)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DCE",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DCE",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "210-320°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "240-320°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1-25 atm"
+    },
+    {
+        "start_node": "DCE浓度",
+        "relationship": "范围",
+        "end_node": "0.2-28 ppm"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "8-40 nm"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "优于",
+        "end_node": "SiO2"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "解离氧吸附",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高转化率",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CO2",
+        "relationship": "抑制",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "乙烯分压",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧分压",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "3-30%"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "2-25%"
+    },
+    {
+        "start_node": "Zhu模型",
+        "relationship": "DOI",
+        "end_node": "10.1134/S0023158420040059"
+    },
+    {
+        "start_node": "Zhu模型",
+        "relationship": "发表年份",
+        "end_node": "2020"
+    },
+    {
+        "start_node": "多管固定床",
+        "relationship": "用于",
+        "end_node": "EO生产"
+    },
+    {
+        "start_node": "微通道反应器",
+        "relationship": "用于",
+        "end_node": "动力学研究"
+    },
+    {
+        "start_node": "Berty反应器",
+        "relationship": "用于",
+        "end_node": "乙烯氧化"
+    },
+    {
+        "start_node": "Langmuir-Hinshelwood",
+        "relationship": "描述",
+        "end_node": "反应动力学"
+    },
+    {
+        "start_node": "Eley-Rideal",
+        "relationship": "描述",
+        "end_node": "反应动力学"
+    },
+    {
+        "start_node": "竞争反应",
+        "relationship": "包括",
+        "end_node": "部分氧化"
+    },
+    {
+        "start_node": "竞争反应",
+        "relationship": "包括",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "竞争反应",
+        "relationship": "包括",
+        "end_node": "EO氧化"
+    }
+]

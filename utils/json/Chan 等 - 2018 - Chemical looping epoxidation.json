@@ -1,0 +1,222 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "作为",
+        "end_node": "氧载体"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "实现",
+        "end_node": "化学链环氧化"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "产生",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "产生",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "DOI",
+        "end_node": "10.1016/j.jcat.2017.12.030"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "发表年份",
+        "end_node": "2018"
+    },
+    {
+        "start_node": "化学链环氧化",
+        "relationship": "避免",
+        "end_node": "O2气体"
+    },
+    {
+        "start_node": "化学链环氧化",
+        "relationship": "提高",
+        "end_node": "安全性"
+    },
+    {
+        "start_node": "化学链环氧化",
+        "relationship": "减少",
+        "end_node": "分离成本"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "需要",
+        "end_node": "氧原子"
+    },
+    {
+        "start_node": "氧原子",
+        "relationship": "负责",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "氧原子",
+        "relationship": "影响",
+        "end_node": "燃烧"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "O2分压",
+        "relationship": "范围",
+        "end_node": "2 bar"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "为",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "导致",
+        "end_node": "大粒径"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "还原程度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "还原程度",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "缓慢氧化",
+        "relationship": "限制",
+        "end_node": "再生速率"
+    },
+    {
+        "start_node": "高温氧化",
+        "relationship": "实现",
+        "end_node": "完全再生"
+    },
+    {
+        "start_node": "400°C氧化",
+        "relationship": "恢复",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "400°C氧化",
+        "relationship": "恢复",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "毒化",
+        "end_node": "非选择性位点"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/Al2O3",
+        "relationship": "产生",
+        "end_node": "低EO"
+    },
+    {
+        "start_node": "Ag/Al2O3",
+        "relationship": "缺乏",
+        "end_node": "氧储存"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "提供",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "晶格氧",
+        "relationship": "扩散",
+        "end_node": "Ag表面"
+    },
+    {
+        "start_node": "晶格氧",
+        "relationship": "形成",
+        "end_node": "氧原子"
+    },
+    {
+        "start_node": "氧原子",
+        "relationship": "参与",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "TOF",
+        "relationship": "范围",
+        "end_node": "10-3-10-1 s-1"
+    },
+    {
+        "start_node": "化学链",
+        "relationship": "降低",
+        "end_node": "TOF"
+    },
+    {
+        "start_node": "氧传输阻力",
+        "relationship": "降低",
+        "end_node": "TOF"
+    }
+]

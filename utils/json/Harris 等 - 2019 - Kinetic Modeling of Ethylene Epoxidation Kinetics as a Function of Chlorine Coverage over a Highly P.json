@@ -1,0 +1,187 @@
+[
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "降低",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "影响",
+        "end_node": "乙烯吸附焓"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "影响",
+        "end_node": "氧解离焓"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "范围",
+        "end_node": "10-15%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "513 K"
+    },
+    {
+        "start_node": "总压力",
+        "relationship": "范围",
+        "end_node": "530 kPa"
+    },
+    {
+        "start_node": "乙烯压力",
+        "relationship": "范围",
+        "end_node": "106-212 kPa"
+    },
+    {
+        "start_node": "氧压力",
+        "relationship": "范围",
+        "end_node": "10.6-37.1 kPa"
+    },
+    {
+        "start_node": "CO2压力",
+        "relationship": "范围",
+        "end_node": "5.3-26.5 kPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "500000 h-1"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "负载",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "35 wt%"
+    },
+    {
+        "start_node": "Ag分散度",
+        "relationship": "范围",
+        "end_node": "0.45%"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "产生",
+        "end_node": "电子效应"
+    },
+    {
+        "start_node": "电子效应",
+        "relationship": "影响",
+        "end_node": "过渡态"
+    },
+    {
+        "start_node": "过渡态",
+        "relationship": "决定",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "增加",
+        "end_node": "乙烯吸附焓"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "降低",
+        "end_node": "氧解离焓"
+    },
+    {
+        "start_node": "乙烯吸附焓",
+        "relationship": "影响",
+        "end_node": "反应级数"
+    },
+    {
+        "start_node": "氧解离焓",
+        "relationship": "影响",
+        "end_node": "反应级数"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "导致",
+        "end_node": "EO速率最大值"
+    },
+    {
+        "start_node": "氯覆盖度",
+        "relationship": "导致",
+        "end_node": "CO2速率降低"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "参与",
+        "end_node": "选择性氧化"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "参与",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "增加",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "减少",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "促进",
+        "end_node": "选择性氧化"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    }
+]

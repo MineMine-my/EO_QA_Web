@@ -1,0 +1,182 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "20-200 nm"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "100-1000 nm"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "225°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1-20 bar"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯促进剂",
+        "relationship": "抑制",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "晶界",
+        "relationship": "促进",
+        "end_node": "氧扩散"
+    },
+    {
+        "start_node": "晶界",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "多晶银",
+        "relationship": "包含",
+        "end_node": "晶界"
+    },
+    {
+        "start_node": "单晶银",
+        "relationship": "缺乏",
+        "end_node": "晶界"
+    },
+    {
+        "start_node": "氧覆盖度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高氧覆盖",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "载体羟基",
+        "relationship": "促进",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "高银负载",
+        "relationship": "覆盖",
+        "end_node": "载体羟基"
+    },
+    {
+        "start_node": "高银负载",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "影响",
+        "end_node": "反应路径"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "核氧物种",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "中间体",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "银草酸盐",
+        "relationship": "前驱体",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "乙二胺",
+        "relationship": "配体",
+        "end_node": "银草酸盐"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "控制",
+        "end_node": "粒径"
+    }
+]

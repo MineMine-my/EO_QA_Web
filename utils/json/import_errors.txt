@@ -1,0 +1,9 @@
+17.json 导入失败: {code: Neo.ClientError.Statement.SyntaxError} {message: Relationship type expressions in patterns are not allowed in a MERGE clause, but only in a MATCH clause (line 1, column 93 (offset: 92))
+"MERGE (a:Node {name: $start_node}) MERGE (b:Node {name: $end_node}) MERGE (a)-[r:C2H4:O2:CO2:N2]->(b) RETURN a, r, b"
+                                                                                             ^}
+17.json 导入失败: {code: Neo.ClientError.Statement.SyntaxError} {message: Relationship type expressions in patterns are not allowed in a MERGE clause, but only in a MATCH clause (line 1, column 93 (offset: 92))
+"MERGE (a:Node {name: $start_node}) MERGE (b:Node {name: $end_node}) MERGE (a)-[r:C2H4:O2:CO2:N2]->(b) RETURN a, r, b"
+                                                                                             ^}
+24.json 导入失败: {code: Neo.ClientError.Statement.SyntaxError} {message: Invalid input '/': expected a parameter, '&', '*', ':', 'WHERE', ']', '{' or '|' (line 1, column 84 (offset: 83))
+"MERGE (a:Node {name: $start_node}) MERGE (b:Node {name: $end_node}) MERGE (a)-[r:Ag/Ni比]->(b) RETURN a, r, b"
+                                                                                    ^}

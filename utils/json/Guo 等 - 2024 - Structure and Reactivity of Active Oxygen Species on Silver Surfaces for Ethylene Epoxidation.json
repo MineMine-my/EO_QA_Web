@@ -1,0 +1,132 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "表面晶格氧",
+        "relationship": "是",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "顶部氧",
+        "relationship": "是",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "是",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "顶部氧",
+        "relationship": "最活跃",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "顶部氧",
+        "relationship": "参与",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "顶部氧",
+        "relationship": "参与",
+        "end_node": "二氧化碳生成"
+    },
+    {
+        "start_node": "分子氧",
+        "relationship": "吸附",
+        "end_node": "银表面"
+    },
+    {
+        "start_node": "表面氧化物",
+        "relationship": "促进",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "100-400°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "1 mbar"
+    },
+    {
+        "start_node": "C2H4/O2",
+        "relationship": "范围",
+        "end_node": "2:1"
+    },
+    {
+        "start_node": "银箔",
+        "relationship": "低选择性",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "银纳米颗粒",
+        "relationship": "高选择性",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "高选择性",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "FSDA方法",
+        "relationship": "分析",
+        "end_node": "时间分辨数据"
+    },
+    {
+        "start_node": "FSDA方法",
+        "relationship": "过滤",
+        "end_node": "噪声"
+    },
+    {
+        "start_node": "FSDA方法",
+        "relationship": "识别",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "DOI",
+        "relationship": "标识",
+        "end_node": "10.1021/acscatal.4c01566"
+    },
+    {
+        "start_node": "发表年份",
+        "relationship": "是",
+        "end_node": "2024"
+    }
+]

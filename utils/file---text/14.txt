@@ -1,0 +1,759 @@
+Fuel 397 (2025) 135496
+Contents lists available at ScienceDirect
+Fuel
+journal homepage: www.elsevier.com/locate/fuel
+Full Length Article
+Improving the catalytic performance of Ag/SiC for ethylene epoxidation via
+modifying SiC surface using CeO
+2
+Xiang Lia,b, Jixiao Zhaob,*, Zhenni Weic, Xiaofei Liuc, Xin Huangc, Guoqiang Zhangc, Yu Liub,
+Zhifeng Jiaob, Xiangyun Guob,*
+aSchool of Materials Science and Engineering, Changzhou University, Changzhou 213164 Jiangsu, China
+bJiangsu Key Laboratory of Advanced Catalytic Materials and Technology, School of Petrochemical Engineering, Changzhou University, Changzhou 213164 Jiangsu,
+China
+cLanzhou Petrochemical Research Center, Petrochemical Research Institute, Petro China Co., Ltd., Lanzhou 730060, China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Ethylene epoxidation over high-loading Ag/α-Al2O3 catalysts is an important industrial process to produce
+Ethylene epoxidation ethylene oxide. However, the low specific surface area and poor thermal conductivity of α-Al2O3 restrict further
+SiC support improvement of the catalyst’s performance in ethylene epoxidation. In this work, we employed CeO2-modified
+CeO2 modification SiC as the support of active component Ag for the ethylene epoxidation reaction. Under the condition of 230 ◦C,
+Reactive oxygen species
+2 MPa, gas hourly space velocity of 3540 h
+(cid:0)1,
+the catalyst achieved good performance without any additives. The
+Oxygen migration
+conversion, ethylene oxide selectivity, and space–time yields were 5.4 %, 74.3 %, and 66 kg/(m3⋅h), respectively.
+The experimental and calculation results showed that oxygen molecules were activated on the Ag catalyst surface
+to form 1O2 and •O2 – species. These species then migrated onto the SiC with the ethylene adsorbed on the SiC
+surface. The oxygen vacancies in CeO2 promote the migration of these oxygen species, and thus enhance the
+reaction performance.
+1. Introduction very low, and the silver loading on the α-Al2O3 is as high as 15–30 % by
+weight [7]. Since the EO selectivity of the pure Ag catalyst is approxi-
+Ethylene oxide (EO) is an important chemical feedstock and organic mately 50 % [3,8], it is necessary to add alkali metals or oxygen-
+intermediate, with an annual production exceeding 37 million tons [1]. containing anions to enhance the selectivity in practical applications
+In industry, EO is widely used to produce a variety of chemicals, [9,10]. Although Ag/α-Al2O3 catalysts have been used in the industrial
+including ethylene glycols, glycol ethers, and ethanol amines. Tradi- production of EO, the studies on improving Ag catalysts have never
+tionally, EO was mainly produced through the chlorohydrin method. stopped. Many efforts have been dedicated to improving the catalysts by
+However, this method has serious pollution issues and has been elimi- reducing Ag content, adding additives, and modifying the carrier
+nated. Currently, EO is primarily produced through green and envi- [10–13]. Van Hoof et al. prepared Ag/α-Al2O3 catalysts by adjusting the
+ronmentally friendly direct oxidation method [2]. Ag is the most amount of silver oxalate during impregnation. Among these catalysts,
+commonly used catalytic metal for ethylene epoxidation due to its Ag/α-Al2O3 catalysts with Ag contents of 5 wt% and 10 wt% achieved
+ability to effectively activate O2 [3]. The advantage of Ag is that oxygen EO selectivities of 50 % and 75 %, respectively [14]. Additionally, they
+can form various oxygen species on its surface without causing complete found that chlorine could break up Ag particles with a particle size
+combustion of ethylene, which is beneficial to the production of EO. exceeding 100 nm and redistribute active silver particles. Ren et al.
+Transition metals are usually prone to activate C–H bonds and thus prepared an Ag catalyst with an Ag content of 15 wt% and modified it
+leading to the formation of combustion products [4]. This is the differ- with Cs and Re. The catalyst achieved an EO selectivity of approximately
+ence between Ag and transition metals [5,6]. 83.5 %. The authors suggested that the synergistic electronic effect be-
+In industry, Ag/α-Al2O3 catalysts are commonly used for the pro- tween Cs and Re was key to promoting the formation of weakly adsorbed
+duction of EO. Typically, the specific surface area of α-Al2O3 support is oxygen species and enhancing the EO selectivity [15].
+* Corresponding authors.
+E-mail addresses: zhaojixiao@cczu.edu.cn(J. Zhao), xyguo@cczu.edu.cn(X. Guo).
+https://doi.org/10.1016/j.fuel.2025.135496
+Received 19 February 2025; Received in revised form 8 April 2025; Accepted 23 April 2025
+Available online 27 April 2025
+0016-2361/© 2025 Published by Elsevier Ltd.
+
+X. Li et al. F u e l 397 (2025) 135496
+The low specific surface area of α-Al2O3 easily leads to poor dis- the reactor bed was heated to 200 ◦C in an N2 atmosphere. Subsequently,
+persibility of Ag [16]. Typically, achieving high EO selectivity requires the reactor was slowly heated at a rate of 1 ◦C/h to activate the catalyst,
+sacrificing ethylene conversion, which results in lower yields of ethylene and the temperature was finally raised to the reaction temperature of
+oxide [17]. Therefore, many researchers were committed to designing 230 ◦C. Next, the mass flow controller was gradually adjusted until the
+new catalytic systems. For example, MnO2, SrFeO3, TiO2, and CuO were proportions of ethylene, oxygen, and N2 in the reaction gas were 28.3
+used as catalyst supports [12,16,18,19]. However, the ethylene epoxi- vol%, 7.6 vol%, and 64.1 vol%, respectively. The gas hourly space ve-
+dation reaction is a strongly exothermic process, accompanied by two locity (GHSV) of the reactant gas was 3540 h (cid:0) 1. The ethylene epoxi-
+side reactions: the combustion of ethylene oxide and the combustion of dation reaction was performed at 230 ◦C and 2 MPa. The reaction
+ethylene [20]. More importantly, oxide carriers are prone to thermal products were detected using online gas chromatography-mass spec-
+agglomeration and deactivation of active metals due to their low ther- trometry (Thermo Scientific, Prima PRO). The ethylene conversion, EO
+mal conductivity [21]. Therefore, it is essential to consider both the selectivity, and space–time yield were calculated using formulas (1)-(3):
+specific surface area and the thermal conductivity of the carrier material
+Initialmolenumber(cid:0) Finalmolenumber
+when designing catalyst systems. Conversion= ×100% (1)
+Initialmolenumber
+β-SiC is a kind of semiconductor materials with excellent electrical
+and thermal conductivity, and has been successfully used as the catalyst EOmolenumberofproduct
+carrier for various catalytic reactions [22]. Meanwhile, its high specific EOSelectivity= molenumberofallproducts ×100% (2)
+surface area can improve the dispersibility of active metals. Previous
+studies have found that SiC can serve not only as a carrier of active
+EOspace(cid:0) timeyield=
+GHSV×ΔC×MEO
+(3)
+metals but also as an active surface for adsorbing and activating some 100×Vmolar
+reactants, such as nitroarenes, nitriles, cinnamaldehyde and styrene
+where ΔC is the EO concentration difference between the outlet and
+[23–27]. In the Ag/SiC-catalyzed epoxidation of styrene, the SiC support
+adsorbed styrene and activated the C=C in the molecule. Then the the inlet, MEO is the molar mass of EO, and Vmolar is the volume of 1 mol
+gas under standard conditions.
+adsorbed styrene and spillover of active oxygen species reacted on the
+The details for catalyst characterization and other experiments were
+SiC surface [27]. SiC as the catalyst support can provide abundant active
+described in supporting information.
+sites for reactions, thereby exhibiting enhanced catalytic performance.
+CeO2 owns plenty of oxygen vacancies due to the different valence states
+3. Results and discussions
+of Ce [28], and these oxygen vacancies can promote the migration of
+oxygen species and increase oxygen storage capacity [29], thus enhance
+The actual Ag content measured by titration was approximately 14.4
+the performance of oxygen-contained reactions.
+% (Table S1), closely matching the theoretical value of 15 wt%. Fig. 1
+In this work, we employed SiC with high specific surface area as the
+showed the reaction performances of different catalysts for ethylene
+carrier to disperse 15 wt% Ag for ethylene epoxidation. The results
+epoxidation. From the figure, the ethylene conversion and EO selectivity
+showed that the selectivity of EO reached over 70 % but the ethylene
+of unmodified Ag/SiC were 0.7 % and 70 %, respectively. Although the
+conversion was very low. By modifying the SiC with CeO2, the conver-
+selectivity was higher than those reported of pure Ag catalysts [3,8], the
+sion was significantly increased from 0.7 % to 5.4 % while the EO
+selectivity maintained beyond 70 %. Further investigations revealed
+conversion rate was very low. The CeO2 modification significantly
+that the CeO2 modification effectively increased the concentration of
+improved the conversion. As the amount of CeO2 modification
+increased, the catalytic performance exhibited a volcano-shaped curve.
+reactive oxygen species, and thus improved the catalytic activity.
+When the CeO2 modification amount was 5 wt%, the ethylene conver-
+sion and EO selectivity reached the highest values, 5.4 % and 74.3 %
+2. Experiment
+respectively. Correspondingly, the space–time yield was 66 kg/(m3⋅h).
+2.1. Catalyst preparation
+The effect of CeO2 modification on the catalytic performance shows a
+double-edged sword effect. The conversion rate of ethylene was signif-
+Powder β-SiC carrier with a specific surface area of 68 m2/g was icantly enhanced at low levels of CeO2 modification. However, excessive
+commercially purchased from ReginTech. Before the experiment, SiC
+powder was purified in a mixture composed of HF and HCl to remove
+any possible impurities. After the washing, the powders were rinsed
+until neutral and dried. The CeO2 modification was described as follows.
+1.9 g washed SiC was dispersed in 50 mL anhydrous ethanol, followed
+by addition of the Ce(NO3)3 ⋅6H2O solution (0.116 M). After stirring for
+3 h, the ethanol and water in the mixture were removed by vacuum
+rotary evaporation. Subsequently, heat treatment was carried out in a
+muffle furnace at 500 ◦C for 4 h. The obtained sample was named as 5 %
+CeO2-SiC, in which the CeO2 modification amount was 5 wt%. Similarly,
+different CeO2-modified carriers were prepared by varying the amount
+of Ce(NO3)3 ⋅6H2O, and named as x%CeO2-SiC (x =3, 5, 7, 10). The Ag/
+CeO2-SiC catalysts with 15 wt% Ag loading were prepared by the
+method reported previously [27], and the catalysts were named Ag/x%
+CeO2-SiC (x =3, 5, 7, 10).
+2.2. Catalyst test
+The reaction was carried out in a tubular fixed bed reactor (i.d. =6
+mm) with a length of 200 mm. The Ag/x%CeO2-SiC catalyst was shaped
+into tablets and subsequently crushed into 10–20 mesh particles. 2 mL of
+the formed catalyst was placed into the reactor for the reaction. The Fig. 1. Catalytic performances of Ag catalysts supported by the SiC modified
+packing density of Ag/x%CeO2-SiC catalyst was ~ 1.15 g/cm3. Firstly, with different amount of CeO2.
+2
+
+X. Li et al. F u e l 397 (2025) 135496
+CeO2 modification leads to a decrease in the ethylene conversion rate SiC catalysts is statistically calculated to be 7.3 and 11.2 nm, respec-
+and an increase in by-products (such as H2O and CO2). Therefore, the tively. The average particle size increases with the increase in modifi-
+optimal CeO2 modification amount was 5 wt%. Moreover, the catalyst cation amount of CeO2 (Fig. S3, Table S3). In order to further clarify the
+exhibited good stability (Fig. S1). distribution of CeO2 and Ag on the SiC surface, element mapping tests
+Compared with the performance of industrial and reported Ag/Al2O3 were conducted on the Ag/5%CeO2-SiC catalyst, as shown in Fig. 2(e-k).
+catalysts, Ag/SiC-based catalysts exhibit lower ethylene epoxidation Fig. 2(e) shows the high-angle annular dark-field (HADDF) image of the
+performance (Table S2). This may be due to the fact that the good catalyst. The yellow regions in Fig. 2(i) correspond to Ag particles,
+performance of Ag/Al2O3 catalysts typically requires promoters such as which align exactly with the bright spots in Fig. 2(e), indicating that the
+Cl, Re, Cs, etc. Without these promoters, the EO selectivity is only large spherical particles are indeed Ag. From Fig. 2(j), it is evident that
+around 50 % [30]. In contrast, in our work, the EO selectivity over Ag/ the Ce element is uniformly distributed on the SiC surface, with no
+SiC base catalysts can exceed 70 % without promoters, showing a sig- obvious large particle formation. These results demonstrate that Ag and
+nificant advantage over Ag/α-Al2O3 catalysts. CeO2 have been successfully and uniformly dispersed on the SiC.
+The catalysts were characterized using XRD and TEM tests. The XRD According to literature, the active component of ethylene epoxida-
+results indicate that the catalyst contains Ag and CeO2. The peak in- tion catalysts is metallic Ag [3]. Therefore, it is necessary to explore the
+tensity of CeO2 increases with the increasing amount of CeO2 modifi- valence state of Ag. UV–vis results show that the absorption values near
+cation. Since all catalysts have an Ag content of 15 wt%, there is no 300 nm and 500 nm were significantly enhanced (Fig. S4). The ab-
+significant difference in the peaks of Ag (Fig. S2). Fig. 2(a-d) show the sorption enhancement at 300 nm is attributed to the effects of CeO2,
+TEM images of Ag/SiC and Ag/5%CeO2-SiC catalysts. From these im- while the enhancement at 500 nm is attributed to Ag [34,35]. FTIR
+ages, the Ag particles over the both supports have relatively uniform testing also revealed vibrational peaks corresponding to Ce-O and Si-C
+distribution. In Fig. 2(b) and 2(d), the lattice spacings are 0.23 and 0.31 bonds in the catalyst (Fig. S5). These results demonstrate that the Ag
+nm, corresponding to the Ag(111) and CeO2(111), respectively component in the catalyst is metallic, providing the necessary conditions
+[31–33]. The averaged size of Ag particles on Ag/SiC and Ag/5%CeO2- for activating oxygen. In addition, the valence states of elements on the
+Fig. 2. TEM images of Ag/SiC (a,b) and Ag/5%CeO2-SiC (c,d); HAADF image (e) and EDS mapping of Ag/5%CeO2-SiC (f-k).
+3
+
+X. Li et al. F u e l 397 (2025) 135496
+catalyst were further determined by XPS. The spectra of Ag 3d for the the Ag/5%CeO2-SiC catalyst is 19.04 %. The rO/Ce is 1.74, which is lower
+Ag/SiC and Ag/5%CeO2-SiC catalysts are shown in Fig. 3(a). The than the stoichiometric O/Ce ratio of CeO2, indicating the presence of
+binding energies at 368.2/368.3 eV and 374.2/374.3 eV correspond to Vo. Fig. 3(c) shows the O 1 s spectrum of the catalysts. The O 1 s spec-
+the Ag 3d5/2 and Ag 3d3/2 spin–orbit doublets [10,36], respectively. The trum of the Ag/5%CeO2-SiC catalyst can be deconvoluted into 3 peaks.
+results indicate that the Ag of the Ag/CeO2-SiC catalyst exists in a The binding energies of 528.4, 530.9, and 531.4 eV are attributed to
+metallic state. Meanwhile, the peak near 450 nm in UV–vis testing is also surface-lattice oxygen (OLat), surface-adsorbed oxygen (OSurf), and hy-
+related to Ag0 (Fig. S4) [37]. This provides additional evidence for the droxyl or carbonate groups adsorbed on Vo, respectively [41,42].
+presence of metallic silver within the catalyst. Fig. 3(b) shows the Ce 3d However, for the O 1 s XPS spectrum of Ag/SiC, only one peak was
+spectrum of Ag/5%CeO2-SiC catalyst. Referring to the work of Bur- deconvoluted, and this peak corresponds to surface-adsorbed oxygen.
+roughs et al., the Ce 3d spectrum can be deconvoluted into 8 Gaussian These oxygen atoms mainly originate from functional groups adsorbed
+peaks [38]. These peaks are labeled as the V series of Ce 3d5/2 and the U on the SiC surface, such as SiOxCy, SiO2, and –OH [43]. For the Ag/SiC
+series of Ce 3d3/2. Specifically, the peaks labeled as V, V’’, V’’’, U, U’’ catalyst, no lattice oxygen XPS peak appeared at ~ 528.4 eV. The
+and U’’’ correspond to Ce4+ , while the peaks labeled as V’ and U’ comparison of O 1 s XPS spectra between Ag/SiC and Ag/5%CeO2-SiC
+correspond to the
+Ce3+
+[33,39]. further confirms the presence of Vo on the Ag/5%CeO2-SiC catalyst. In
+Usually, the formation process of
+Ce3+
+is associated with the types of addition, after CeO2 modification of Ag/SiC, the binding energies of C-Si
+oxygen ions and the presence of oxygen vacancies (Vo) [40,41]. When in the C 1 s and Si-C in the Si 2p spectra both show a positive shift
+oxygen spills from the lattice, it causes the Ce element to transition (Fig. S6). This indicates that an electron transfer occurs from SiC to
+between Ce3+ and Ce4+ [28]. Furthermore, the Ce3+ /(Ce3+ + Ce4+ ) CeO2, consistent with previous studies [34]. This electron transfer may
+ratio and the O/Ce ratio of the catalyst were calculated using formulas increase the proportion of
+Ce3+
+species and promote oxygen vacancy
+(4) and (5), respectively. formation.
+Ce3+.%=∑S ( U S ʹ U + + SV S ʹ V ) (4) wer F e u d rt e h t e e r r m m o in r e e d , si t n h g ro le u t g o h x y E g P e R n t ( e 1 s O ti 2 n ), g s u b p y e u ro si x n i g d e 2 r , a 2 d ,6 ic ,6 a - l t s e ( t • ra O m 2 – ) e a th n y d l p V i o -
+peridine (TEMP) and 5,5-dimethyl-1-pyrroline-N-oxide (DMPO) as
+rO/Ce =[ Ce4+ ]
+[O
++
+]
+[Ce3+] =2
+[
+Ce4+
+]
++2/3[Ce3+] (5)
+t
+5
+r
+%
+ap
+C
+i
+e
+n
+O
+g
+2
+a
+-
+g
+S
+e
+iC
+n t
+c
+s
+a
+r
+t
+e
+a
+s
+l
+p
+y
+e
+ti
+c
+c
+t i
+s
+v
+y
+e
+s
+l
+t
+y
+e
+.
+m
+T
+s
+h e
+a t
+E
+3
+P
+0
+R
+m
+te
+i
+s
+n
+t r
+a
+e
+r
+s
+e
+u l
+s
+t
+h
+s
+o
+f
+w
+or
+n
+t h
+in
+e A
+Fi
+g
+g
+/
+.
+S
+4
+iC
+. F
+a
+i
+n
+g
+d
+. 4
+A
+(
+g
+a
+/
+)
+shows the characteristic peaks of the 1:1:1 triplet state, indicating the
+where Ce3+.% is the Ce3+ /(Ce3++Ce4+ ) ratio, Sx is the XPS peak area presence of 1O2 in the system [44]. Four strong peaks with an intensity
+ratio of 1:1:1:1 and two weak peaks are observed in Fig. 4(b), suggesting
+a
+co
+n
+r
+d
+r e
+[
+s
+x
+p
+]
+o
+r
+n
+e
+d
+p
+i
+r
+n
+e
+g
+s e
+to
+n t
+t
+s
+h e
+th
+x
+e
+p
+p
+e
+r
+a
+o
+k
+p
+,
+o
+r
+r
+O
+t
+/
+i
+C
+o
+e
+n
+i s
+o
+t
+f
+h
+x
+e
+.
+r a
+T
+t
+h
+io
+e
+o
+c
+f
+a
+O
+lc u
+e
+l
+l
+a
+e
+t
+m
+ed
+en
+C
+t
+e
+to 3+ C
+c
+e
+o
+e
+n
+le
+te
+m
+n
+e
+t
+n
+i
+t
+n
+, the generation of •O2 – in the system[45]. The above results indicate that
+both the Ag/SiC and Ag/5%CeO2-SiC catalytic systems can produce 1O2
+Fig. 3. XPS spectra of Ag 3d (a), O 1 s (b) and Ce 3d (c) in Ag/SiC and Ag/5%CeO2-SiC catalysts.
+4
+
+X. Li et al. F u e l 397 (2025) 135496
+Fig. 4. EPR spectra of 1O2 (a), •O2 – (b) and Vo (c) for Ag/SiC and Ag/5%CeO2-SiC catalysts.
+and •O2 – . From Fig. 4(c), No oxygen vacancy was detected in the Ag/SiC with surface or subsurface adsorbed hybrid oxygen species, such as Ag4-
+catalyst. While a typical g-value of 2.003 was observed in Ag/5%CeO2- O2 and Ag-Osurface [51,53]. The features at 865 and 950 cm (cid:0) 1 can be
+SiC, indicates the presence of Vo in this system [46,47]. Subsequently, assigned to surface Ag-O [53,54]. The peak near 1060 cm (cid:0) 1 can be
+the quantitative analysis of Vo and reactive oxygen species in Ag/SiC and attributed to the superoxide
+Ag-O2–
+[51,53,54]. When the temperature
+CeO2-modified Ag/SiC was conducted using Eaton’s method [48], as exceeds 150 ◦C, the peak at 795 cm (cid:0) 1 in Fig. 5(a) undergoes a red shift,
+shown in Table 1. The concentration of Vo is 0 in Ag/SiC, but the con- which is related to the exchange of surface oxygen with gas-phase O2
+centrations of reactive oxygen species exceed 1011 spins/mm3. With an molecules on the surface [20]. Similarly, the peak located at 787 cm (cid:0) 1 in
+increase in the amount of CeO2 modification, the concentrations of Vo, Fig. 5(b) also exhibits a red shift, indicating that Ag can effectively
+1O2 and •O2 – were significantly increased. This indicates that the modi- activate oxygen. It was reported that the Raman peak corresponding to
+fication with CeO2 can introduce Vo into the catalyst and promote the the F2g symmetric vibration mode in CeO2 was located at 460 cm (cid:0) 1 [55].
+generation of reactive oxygen species [49]. However, the Raman peak of CeO2 in this work is located at 448 cm (cid:0) 1.
+The O2 adsorption capacities of the Ag/SiC and CeO2-modified Ag/ This redshift of the peak may suggest the existence of Vo defects in CeO2
+SiC catalysts (CeO2 contents: 3 %, 5 %, 7 %, and 10 %) further tested and [56]. When the temperature exceeds 100 ◦C, the peak intensity at 448
+found to be 29.12, 48.05, 55.27, 58.23 and 60.54 μmol/g (Table S4), cm (cid:0) 1 in Fig. 5(b) significantly increases. Meanwhile, the peak intensity
+respectively. The oxygen adsorption capacity of the catalyst is signifi- near 787 cm (cid:0) 1 is significantly reduced compared to Fig. 5(a). This
+cantly enhanced by the CeO2 modification. This further indicates that Vo change may be caused by oxygen vacancies present in CeO2. After ox-
+enhances the activation of oxygen. The Ag dispersion in the catalysts ygen is activated on the surface of Ag, Vo promotes the migration of
+was determined by H2 pulse adsorption. The Ag dispersion was reactive oxygen species to the surface of CeO2.
+measured to be 3.1 % in the Ag/SiC catalyst and 5.4 % in the Ag/5% It is generally recognized that the ethylene epoxidation process
+CeO2-SiC catalyst. Further calculations revealed that the O/Ag ratios for predominantly occurs on the Ag surface. In this reaction, active oxygen
+the two catalysts were 1.35 and 1.47, respectively. The O/Ag ratios in species activated on Ag can react with ethylene to form an oxame-
+both catalysts exceeded 0.5, the stoichiometric ratio of O/Ag in Ag2O, tallacycle intermediate on the Ag surface. Subsequently, the oxame-
+indicating the presence of oxygen spillover. The increase in the O/Ag tallacycle intermediate undergoes isomerization to form EO [11,57–59].
+ratio after CeO2 modification indicates that Vo has a promoting effect on However, this work suggests another possible route. Ethylene is adsor-
+oxygen spillover. In addition, the promoting effect of Vo on the oxidation bed and activated on the SiC surface. The oxygen species, activated on
+reaction was verified through controlled experiments of benzyl alcohol Ag surface, spills over to the SiC surface, and then react with the
+oxidation. The oxidation process was monitored using In-situ FTIR adsorbed ethylene.The adsorption of ethylene on the SiC was verified
+(Fig. S7). The results indicate that the CeO2-modified catalyst can using an adsorption instrument. The TPD curves of different samples
+significantly promote the oxidation of benzyl alcohol. after adsorbing ethylene were measured, as shown in Fig. 6. The TPD
+The process of O2 activation on these catalysts was further studied results show a similar desorption peak for SiC, Ag/SiC, and Ag/5%CeO2-
+through In-situ Raman spectroscopy (Fig. 5). The oxygen species in the SiC in the range of 504–507 ◦C. The desorption peak can be ascribed to
+Raman spectra can be divided into three regions: atomic oxygen the desorption of ethylene chemisorbed on SiC. However, the desorption
+(240–500 cm (cid:0) 1), hybrid oxygen (600–810 cm (cid:0) 1), and molecular oxygen peak was not observed in CeO2, indicating that the CeO2 surface did not
+(850–1150 cm (cid:0) 1) [50]. From Fig. 5, both Ag/SiC and Ag/5%CeO2-SiC adsorb ethylene. When the modification amount was too high, the sur-
+catalysts exhibited multiple Raman peaks, which were attributed to face of the SiC became increasingly covered by CeO2, hindering the
+various binding modes of oxygen on the catalyst surface. Specifically, adsorption of ethylene on the SiC surface. Therefore, the reaction per-
+the peaks observed at 317 and 311 cm (cid:0) 1 can correspond to Ag3-O [51], formance decreased at high CeO2 modification levels (Fig. 1).
+while those at 443 and 448 cm (cid:0) 1 can correspond to O-Ag-O [51,52]. The To further verify the adsorption of ethylene on SiC surface, the
+peaks located at 785, 795, 763, and 787 cm (cid:0) 1 are typically associated adsorption energy of ethylene on the surfaces of various components
+was calculated by DFT. The calculated adsorption energies of ethylene
+on Si-terminated SiC and C-terminated SiC were (cid:0) 3.96 and (cid:0) 3.87 eV
+Table 1 (Fig. S8, Table S5), respectively, indicating a strong adsorption inter-
+Active oxygen concentration in Ag/SiC and different CeO2-modified catalysts. action between ethylene and the SiC surface. To more realistically
+Ag Catalysts Concentration (spins/mm3) simulate the actual situation, a model where SiC, Ag and CeO2 coexist
+1O2 •O2 – Vo was built for the calculation. The adsorption energies of ethylene on the
+Ag/SiC 1.49 ×1011 1.43 ×1012 0 ​ surfaces of SiC, Ag, and CeO2 are (cid:0) 3.25, (cid:0) 0.11, and (cid:0) 0.10 eV (Fig. S9,
+Ag/3%CeO2-SiC 1.96 ×1011 1.51 ×1012 9.28 ×1012 ​ Table S5), respectively. Compared with the C=C bond length of 1.33 Å
+Ag/5%CeO2-SiC 2.11 ×1011 1.69 ×1012 1.45 ×1013 ​ in gaseous ethylene molecules [60], it significantly increases to 1.575 Å
+Ag/7%CeO2-SiC 2.87 ×1011 3.23 ×1012 5.74 ×1013 ​ after adsorption on the SiC surface. Theoretical calculations further
+Ag/10 %CeO2-SiC 4.25 ×1011 6.57 ×1012 8.13 ×1013 ​
+5
+
+X. Li et al. F u e l 397 (2025) 135496
+Fig. 5. In-situ Raman spectra of Ag/SiC (a) and Ag/5%CeO2-SiC (b) catalysts under O2 atmosphere.
+ethylene epoxidation. The catalyst exhibited good activity and selec-
+tivity. At 230 ◦C, the reaction showed 5.4 % conversion, 74.3 % ethylene
+oxide selectivity, and a space–time yield of 66 kg/(m3⋅h). The experi-
+mental and computational results suggested a different activation and
+reaction route for ethylene epoxidation over the Ag catalyst supported
+on SiC. 1O2 and •O2 – were formed on the Ag surface and then migrated to
+the SiC surface, where they react with ethylene adsorbed on the SiC. The
+Vo in CeO2 can promote the spillover of these oxygen species, ultimately
+enhancing the reaction performance. This work provides new perspec-
+tives for a deeper understanding of ethylene epoxidation reactions and
+contributes to the development of catalysts for epoxidation.
+CRediT authorship contribution statement
+Xiang Li: Writing – original draft, Investigation, Funding acquisi-
+tion, Formal analysis, Data curation. Jixiao Zhao: Supervision, Project
+administration, Methodology, Formal analysis. Zhenni Wei: Validation,
+Methodology, Formal analysis, Data curation. Xiaofei Liu: Methodol-
+ogy, Formal analysis. Xin Huang: Methodology, Data curation. Guo-
+qiang Zhang: Data curation. Yu Liu: Methodology, Data curation.
+Zhifeng Jiao: Writing – review & editing, Supervision, Project admin-
+istration, Methodology. Xiangyun Guo: Writing – review & editing,
+Fig. 6. TPD results of ethylene on different samples.
+Supervision, Methodology, Funding acquisition, Conceptualization.
+indicate that ethylene molecules are preferentially adsorbed and acti-
+Declaration of competing interest
+vated on the SiC surface, consistent with the results of the TPD results. In
+addition, previous reports have also indicated that ethylene was adsor-
+The authors declare that they have no known competing financial
+bed on SiC [60].
+interests or personal relationships that could have appeared to influence
+Based on the experimental and calculated results, a possible reaction
+the work reported in this paper.
+route was proposed to understand the ethylene epoxidation on SiC
+supported Ag catalysts. Firstly, O2 is activated on the Ag surface and
+subsequently transformed into 1O2 and •O2 – , while ethylene is activated Acknowledgements
+on the surface of SiC. Next, the 1O2 and •O2 – undergo a migration to the
+This work was supported by a project from CNPC-CZU Innovation
+SiC surface and react with the activated ethylene. The Vo in CeO2 can
+Alliance (2021DQ06) and Postgraduate Research & Practice Innovation
+enhance the catalytic activity by promoting the migration of oxygen
+Program of Jiangsu Province (KYCX23_3024).
+species. The route also produces by-products of excessive oxidation,
+including water and CO2. This route differs from the commonly recog-
+Appendix A. Supplementary data
+nized viewpoint that oxametallacycle intermediates react on the Ag
+surface.
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.fuel.2025.135496.
+4. Conclusion
+Data availability
+In summary, we employed CeO2-modified SiC as the support and
+prepared a low Ag-loaded (15 wt%) catalyst, Ag/5%CeO2-SiC for the
+Data will be made available on request.
+6
+
+X. Li et al. F u e l 397 (2025) 135496
+References [27] Li X, Jiao Z-F, Zhao J-X, Xu T-Y, Guo X-Y. Catalytic performances of Ag/SiC
+catalysts for styrene epoxidation in O2 atmosphere. Appl Catal, A 2024;688:
+120004. https://doi.org/10.1016/j.apcata.2024.120004.
+[1] Van Hoof AJF, Hermans EAR, Van Bavel AP, Friedrich H, Hensen EJM. Structure
+sensitivity of silver-catalyzed ethylene epoxidation. ACS Catal 2019;9:9829–39. [28] Li R, Wen C, Yan K, Liu T, Zhang B, Xu M, et al. The water splitting cycle for
+hydrogen production at photo-induced oxygen vacancies using solar energy:
+https://doi.org/10.1021/acscatal.9b02720.
+[2] Fazeli A, Naseri A, Eslamjamal F. Kinetic models of ethylene oxide production on
+experiments and DFT calculation on pure and metal-doped CeO2. J Mater Chem A
+Ag catalysts: A review. Kinet Catal 2020;61:603–12. https://doi.org/10.1134/ 2023;11:7128–41. https://doi.org/10.1039/D2TA08833A.
+[29] Liu J, Wang H, Zhang W, Gao J, Yu Q, Ke J, et al. Boosting the performance of Co-
+S0023158420040059.
+[3] Ozbek MO, Onal I, van Santen RA. Why silver is the unique catalyst for ethylene
+doped CeO2 catalyst in the catalytic oxidation of toluene by modulating oxygen
+epoxidation. J Catal 2011;284:230–5. https://doi.org/10.1016/j.jcat.2011.08.004. vacancies. Fuel 2023;349:128657. https://doi.org/10.1016/j.fuel.2023.128657.
+[30] Christopher P, Linic S. Engineering Selectivity in Heterogeneous Catalysis: Ag
+[4] Van Santen RA, Kuipers HPCE. The mechanism of ethylene epoxidation. Adv Catal
+1987;35:265–321. https://doi.org/10.1016/S0360-0564(08)60095-4. Nanowires as Selective Ethylene Epoxidation Catalysts. J Am Chem Soc 2008;130:
+11264–5. https://doi.org/10.1021/ja803818k.
+[5] Mavrikakis M, Doren DJ, Barteau MA. Density functional theory calculations for
+simple oxametallacycles: Trends across the periodic table. J Phys Chem B 1998;
+[31] Wang Y, Bi F, Wang Y, Jia M, Tao X, Jin Y, et al. MOF-derived CeO2 supported Ag
+102:394–9. https://doi.org/10.1021/jp971450p. catalysts for toluene oxidation: The effect of synthesis method. Mol Catal 2021;
+515:111922. https://doi.org/10.1016/j.mcat.2021.111922.
+[6] Reuter K, Scheffler M. Oxide formation at the surface of late 4d transition metals:
+[32] Li X, Jiao Z, Zhao J, Wei Z, Liu Y, Guo X. Catalytic performances of Ag/SiC and Ag/
+insights from first-principles atomistic thermodynamics. Appl Phys A 2004;78:
+793–8. https://doi.org/10.1007/s00339-003-2433-9. Al2O3-SiC catalysts for ethylene epoxidation. Journal of Changzhou University
+(Natural Science Edition) 2024;36:85–92. https://doi.org/10.3969/j.issn.2095-
+[7] Pinaeva LG, Noskov AS. Prospects for the development of ethylene oxide
+production catalysts and processes (Review). Pet Chem 2020;60:1191–206. 0411.2024.02.009.
+[33] Liang X, Wang P, Gao Y, Huang H, Tong F, Zhang Q, et al. Design and synthesis of
+https://doi.org/10.1134/S096554412011016X.
+[8] Ozbek MO, Santen R. The mechanism of ethylene epoxidation catalysis. Catal Lett
+porous M-ZnO/CeO2 microspheres as efficient plasmonic photocatalysts for
+2013;143:131–41. https://doi.org/10.1007/s10562-012-0957-3. n de o f n e p c o ts l a a r n g d a M se = ou A s g m , A o u le n cu a l n e o s p o a x r i t d ic a l t e i s o . n A : p In p s l i C gh at t a i l n , t B o 2 th 0 e 2 0 r ; o 2 l 6 e 0 o :1 f 1 o 8 x 1 y 5 ge 1 n . h v t a tp ca s: n / c / y d oi.
+[9] Santos VP, Plauck A, Gold J, Majumdar P, McAdon MH, Calverley T. The complex
+org/10.1016/j.apcatb.2019.118151.
+chlorination effects on high selectivity industrial eo catalysts: dynamic interplay
+between catalyst composition and process conditions. ACS Catal 2024;14:
+[34] Gao J, Tang L, Shen Z, Dong Y, Wang Z, Lyu J, et al. Coupling of SiC and CeO2
+10839–52. https://doi.org/10.1021/acscatal.4c01764. nanosheets to enhance solar energy utilization and optimize catalytic ozonation.
+Appl Catal, B 2022;317:121697. https://doi.org/10.1016/j.apcatb.2022.121697.
+[10] Diao W, DiGiulio CD, Schaal MT, Ma S, Monnier JR. An investigation on the role of
+R ca e t a a l s y s a t s p . r J o m Ca o t t a e l r 2 in 0 1 A 5 g ;3 -C 2 s 2 - : R 1 e 4 / – α 2 - 3 A . l 2 h O tt 3 p h s: i / g / h d -s o e i. l o ec rg ti / v 1 it 0 y . , 1 0 et 1 h 6 y / l j e .j n c e a t e .2 p 0 ox 1 i 4 d . a 1 t 1 io .0 n 0 7. [35] G no a v n e n l o A ru g w 2O a / A T , i O A 2 r i p ya h s o i t n o g c h a e ta B ly , s B t a a n c d t a iv r e a i J n . T in h f e r a m re e d c h r a a n d i i s a m ti o a n n d fo m r a w t a e t r e ia r l s a p s l p it e t c in ts g . o f a
+Catal Sci Technol 2016;6:479–87. https://doi.org/10.1039/C5CY01002K.
+[11] Pu T, Setiawan A, Foucher AC, Guo M, Jehng J-M, Zhu M, et al. Revealing the
+[36] Li R, Xu X, Zhu B, Li X-Y, Ning Y, Mu R, et al. In situ identification of the metallic
+Nature of Active Oxygen Species and Reaction Mechanism of Ethylene Epoxidation
+by Supported Ag/α-Al2O3 Catalysts. ACS Catal 2024;14:406–17. https://doi.org/ s
+h
+t
+t
+a
+t
+t
+p
+e
+s :
+o
+/
+f
+/ d
+A
+o
+g
+i .
+n
+or
+a
+g
+n
+/
+o
+1
+c
+0
+lu
+.1
+st
+0
+e
+3
+r
+8
+s
+/
+i
+s
+n
+4
+o
+1
+x
+4
+i
+6
+d
+7
+a
+-
+t
+0
+iv
+2
+e
+1 -
+d
+2
+i
+1
+sp
+5
+e
+5
+r
+2
+s
+-
+i
+2
+o
+.
+n. Nat Commun 2021;12:1406.
+10.1021/acscatal.3c04361.
+[12] Yang H, Li G, Liu Q, Cheng H, Wang X, Cheng J, et al. Tailoring the electronic
+[37] Wang F, Ma J, He G, Chen M, Zhang C, He H. Nanosize effect of Al2O3 in Ag/Al2O3
+catalyst for the selective catalytic oxidation of ammonia. ACS Catal 2018;8:
+metal-support interactions in supported silver catalysts through Al modification for
+2670–82. https://doi.org/10.1021/acscatal.7b03799.
+efficient ethylene epoxidation. Angew Chem Int Ed 2024;63:e202400627. https://
+[38] Burroughs P, Hamnett A, Orchard AF, Thornton G. Satellite structure in the X-ray
+doi.org/10.1002/anie.202400627.
+photoelectron spectra of some binary and mixed oxides of lanthanum and cerium.
+[13] Wen Q, Xu H, Nan Y, Xie Y, Cheng D. Design of CuCs-doped Ag-based catalyst for
+ethylene epoxidation. Chin J Chem Phys 2022;35:589–99. https://doi.org/ J Chem Soc, Dalton Trans 1976:1686. https://doi.org/10.1039/dt9760001686.
+[39] Wang X, Wang Y, Robinson B, Wang Q, Hu J. Ethane oxidative dehydrogenation by
+10.1063/1674-0068/cjcp2111246.
+[14] Van Hoof AJF, Van Der Poll RCJ, Friedrich H, Hensen EJM. Dynamics of silver
+CO2 over stable CsRu/CeO2 catalyst. J Catal 2022;413:138–49. https://doi.org/
+10.1016/j.jcat.2022.06.021.
+particles during ethylene epoxidation. Appl Catal, B 2020;272:118983. https://doi.
+org/10.1016/j.apcatb.2020.118983.
+[40] Wu S, Yang Y, Lu C, Ma Y, Yuan S, Qian G. Soot oxidation over CeO2 or Ag/CeO2 :
+Influences of bulk oxygen vacancies and surface oxygen vacancies on activity and
+[15] Ren D, Cheng G, Li J, Li J, Dai W, Sun X, et al. Effect of rhenium loading sequence
+on selectivity of Ag–Cs catalyst for ethylene epoxidation. Catal Lett 2017;147: stability of the catalyst. Eur J Inorg Chem 2018;2018:2944–51. https://doi.org/
+2920–8. https://doi.org/10.1007/s10562-017-2211-5. 10.1002/ejic.201800423.
+[16] Rojluechai S, Chavadej S, Schwank JW, Meeyoo V. Catalytic activity of ethylene
+[41] Mi R, Li D, Hu Z, Yang RT. Morphology effects of CeO2 nanomaterials on the
+oxidation over Au, Ag and Au–Ag catalysts: Support effect. Catal Commun 2007;8: catalytic combustion of toluene: A combined kinetics and diffuse reflectance
+57–64. https://doi.org/10.1016/j.catcom.2006.05.029. infrared fourier transform spectroscopy study. ACS Catal 2021;11:7876–89.
+[17] Li H, Cao A, Nørskov JK. Understanding trends in ethylene epoxidation on group IB https://doi.org/10.1021/acscatal.1c01981.
+metals. ACS Catal 2021;11:12052–7. https://doi.org/10.1021/acscatal.1c03094. [42] Torrente-Murciano L, Gilbank A, Puertolas B, Garcia T, Solsona B, Chadwick D.
+[18] Ramirez A, Hueso JL, Suarez H, Mallada R, Ibarra A, Irusta S, et al.
+Shape-dependency activity of nanostructured CeO2 in the total oxidation of
+polycyclic aromatic hydrocarbons. Appl Catal, B 2013;132–133:116–22. https://
+A nanoarchitecture based on silver and copper oxide with an exceptional response
+doi.org/10.1016/j.apcatb.2012.10.030.
+in the chlorine-promoted epoxidation of ethylene. Angew Chem Int Ed 2016;55:
+11158–61. https://doi.org/10.1002/anie.201603886. [43] Carrero CA, Burt SP, Huang F, Venegas JM, Love AM, Mueller P, et al. Supported
+two- and three-dimensional vanadium oxide species on the surface of β-SiC. Catal
+[19] Marek EJ, Gabra S, Dennis JS, Scott SA. High selectivity epoxidation of ethylene in
+Sci Technol 2017;7:3707–14. https://doi.org/10.1039/C7CY01036B.
+chemical looping setup. Appl Catal, B 2020;262:118216. https://doi.org/10.1016/
+[44] Li H, Zou Y, Jiang J. Synthesis of Ag@CuO nanohybrids and their photo-enhanced
+j.apcatb.2019.118216.
+bactericidal effect through concerted Ag ion release and reactive oxygen species
+[20] Pu T, Tian H, Ford ME, Rangarajan S, Wachs IE. Overview of Selective Oxidation of
+Ethylene to Ethylene Oxide by Ag Catalysts. ACS Catal 2019;9:10727–50. https:// generation. Dalton Trans 2020;49:9274–81. https://doi.org/10.1039/
+D0DT01816C.
+doi.org/10.1021/acscatal.9b03443.
+[45] Cao L, Yang C, Zhang B, Lv K, Li M, Deng K. Synergistic photocatalytic performance
+[21] Ortega-Trigueros A, Narciso J, Caccia M. Synthesis of high-surface area
+of cobalt tetra (2-hydroxymethyl-1,4-dithiin) porphyrazine loaded on zinc oxide
+mesoporous SiC with hierarchical porosity for use as catalyst support. J Am Ceram
+Soc 2020;103:5966–77. https://doi.org/10.1111/jace.17285. nanoparticles. J Hazard Mater 2018;359:388–95. https://doi.org/10.1016/j.
+jhazmat.2018.07.074.
+[22] Tuci G, Liu Y, Rossin A, Guo X, Pham C, Giambastiani G, et al. Porous silicon
+[46] Zhao S, Kang D, Liu Y, Wen Y, Xie X, Yi H, et al. Spontaneous formation of
+carbide (SiC): A chance for improving catalysts or just another active-phase
+carrier? Chem Rev 2021;121:10559–665. https://doi.org/10.1021/acs. asymmetric oxygen vacancies in transition-metal-doped CeO2 nanorods with
+improved activity for carbonyl sulfide hydrolysis. ACS Catal 2020;10:11739–50.
+chemrev.1c00269.
+https://doi.org/10.1021/acscatal.0c02832.
+[23] Hao C-H, Guo X-N, Sankar M, Yang H, Ma B, Zhang Y-F, et al. Synergistic effect of
+segregated Pd and Au nanoparticles on semiconducting SiC for efficient [47] X ox ia y o g e Y n , T v i a a c n a n S c , i W es a a n n g d D C , e W 4+ u / J C , e J 3 i + a T re , d L o iu x Q ce , n e t t e a rs l. s C y e n O er 2 g / i B s i t O ic I a O ll 3 y h e e n te h r a o n j c u e n d c tion with
+photocatalytic hydrogenation of nitroarenes. ACS Appl Mater Interfaces 2018;10:
+23029–36. https://doi.org/10.1021/acsami.8b04044. photocatalytic removal heavy metal. Appl Surf Sci 2020;530:147116. https://doi.
+org/10.1016/j.apsusc.2020.147116.
+[24] Jiao Z-F, Zhao J-X, Guo X-N, Tong X-L, Zhang B, Jin G-Q, et al. Turning the product
+[48] Eaton GR, Eaton SS, Barr DP, Weber RT. Quantitative EPR. Springer, New York,
+selectivity of nitrile hydrogenation from primary to secondary amines by precise
+2010, https://link.springer.com/book/10.1007/978-3-211-92948-3.
+modification of Pd/SiC catalysts using NiO nanodots. Catal Sci Technol 2019;9:
+[49] He H, Lin X, Li S, Wu Z, Gao J, Wu J, et al. The key surface species and oxygen
+2266. https://doi.org/10.1039/c9cy00353c.
+[25] Li L, Jiao Z-F, Zhao J-X, Yao D, Li X, Guo X-Y. Boosting the selectivity of Pt catalysts
+vacancies in MnOx(0.4)-CeO2 toward repeated soot oxidation. Appl Catal, B 2018;
+223:134–42. https://doi.org/10.1016/j.apcatb.2017.08.084.
+for cinnamaldehyde hydrogenation to cinnamylalcohol by surface oxidation of SiC
+support. J Catal 2023;425:314–21. https://doi.org/10.1016/j.jcat.2023.06.018. [50] Tang Z, Chen T, Liu K, Du H, Podkolzin SG. Atomic, molecular and hybrid oxygen
+structures on silver. Langmuir 2021;37:11603–10. https://doi.org/10.1021/acs.
+[26] Zheng Z-Y, Jiao Z-F, Zhao J-X, Liu X-C, Song C-D, Li J-H, et al. Selective adsorption
+of SiC quantum dots to C=O bond promoting the catalytic hydrogenation of langmuir.1c01941.
+[51] Pu T, Setiawan A, Lis BM, Zhu M, Ford ME, Rangarajan S, et al. Nature and
+cinnamaldehyde. Chem Eng J 2025;503:158727. https://doi.org/10.1016/j.
+reactivity of oxygen species on/in silver catalysts during ethylene oxidation. ACS
+cej.2024.158727.
+Catal 2022;12:4375–81. https://doi.org/10.1021/acscatal.1c05939.
+7
+
+X. Li et al. F u e l 397 (2025) 135496
+[52] Guo J, Ghimire G, Zhou J, Yu L, Wang Z, Chang S, et al. Potential controlled redox [56] Choudhury B, Chetri P, Choudhury A. Oxygen defects and formation of
+Ce3+
+cycling of 4-aminothiophenol by coupling plasmon mediated chemical reaction affecting the photocatalytic performance of CeO2 nanoparticles. RSC Adv 2014;4:
+with electrochemical reaction. J Catal 2023;418:256–62. https://doi.org/10.1016/ 4663–71. https://doi.org/10.1039/C3RA44603D.
+j.jcat.2023.01.018. [57] Chen BWJ, Wang B, Sullivan MB, Borgna A, Zhang J. Unraveling the Synergistic
+[53] Liu C, Wijewardena DP, Sviripa A, Sampath A, Flaherty DW, Paolucci C. Effect of Re and Cs Promoters on Ethylene Epoxidation over Silver Catalysts with
+Computational and experimental insights into reactive forms of oxygen species on Machine Learning-Accelerated First-Principles Simulations. ACS Catal 2022;12:
+dynamic Ag surfaces under ethylene epoxidation conditions. J Catal 2022;405: 2540–51. https://doi.org/10.1021/acscatal.1c05419.
+445–61. https://doi.org/10.1016/j.jcat.2021.11.031. [58] Yu Z, Zhu L, Xu H, Cheng D. Selective enhancement of ethylene epoxidation via
+[54] Wang C-B, Deo G, Wachs IE. Interaction of polycrystalline silver with oxygen, directing reaction pathways over Ag Single-atom catalyst. Ind Eng Chem Res 2024;
+water, carbon dioxide, ethylene, and methanol: In situ Raman and catalytic studies. 63:3044–56. https://doi.org/10.1021/acs.iecr.3c04600.
+J Phys Chem B 1999;103:5645–56. https://doi.org/10.1021/jp984363l. [59] Iyer KR, Bhan A. Particle size dependence of ethylene epoxidation rates on Ag/
+[55] Li Z, Yang W, Xie L, Li Y, Liu Y, Sun Y, et al. Prominent role of oxygen vacancy for α-Al2O3 catalysts: Why particle size distributions matter. J Catal 2023;420:99–109.
+superoxide radical and hydroxyl radical formation to promote electro-Fenton like https://doi.org/10.1016/j.jcat.2023.02.008.
+reaction by W-doped CeO2 composites. Appl Surf Sci 2021;549:149262. https:// [60] Pollmann J, Peng X, Wieferink J, Krüger P. Adsorption of hydrogen and
+doi.org/10.1016/j.apsusc.2021.149262. hydrocarbon molecules on SiC(001). Surf Sci Rep 2014;69:55–104. https://doi.
+org/10.1016/j.surfrep.2014.04.001.
+8
+

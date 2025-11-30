@@ -1,0 +1,358 @@
+JournalofCatalysis248(2007)124–129
+www.elsevier.com/locate/jcat
+ResearchNote
+Study of the active phase of silver catalysts for ethylene epoxidation
+Marta C.N. Amorim de Carvalhoa, Fabio B. Passosb, M. Schmala,∗
+aNUCAT/PEQ/COPPE–Chem.Eng.Program,FederalUniversityofRiodeJaneiro,Brazil
+bChemicalandPetroleumEngineeringDepartment,FederalFluminenseUniversity,RiodeJaneiro,Brazil
+Received14February2006;revised26September2006;accepted1October2006
+Availableonline29March2007
+Abstract
+Aninvestigationofethyleneepoxidationonα-alumina-supportedsilvercatalystspromotedbycesiumfoundthatcesiumfavoredtheformation
+ofstronglyadsorbedelectrophilicoxygen.Thereactantmixture(C2H4 andO2)modifiedthesilverstructure,favoringtheformationofoxygen
+electrophilicspecies.InsituDRIFTSresultsdemonstratedtheformationofathinfilmofsilverforthecesium-promotedcatalyst,decreasingthe
+influenceofthesupport.SimilarinsituDRSprofileswereobservedforpromotedandnonpromotedcatalysts,indicatingthattheeffectofcesium
+isduemainlytogeometricratherthanelectroniceffects.Atiso-conversionconditions,Cspresenceincreasedtheyieldtowardethyleneoxide.
+©2007PublishedbyElsevierInc.
+Keywords:Silver;Ethylene;Epoxidation
+1. Introduction to ethylene oxide formation through a second-order effect. Cs
+is able to neutralize acid sites on the oxide support responsi-
+In the commercial process for ethylene oxide production, bleforisomerizationoftheepoxidetoacetaldehyde,followed
+a key intermediate in the chemical industry, ethylene epoxi- bycombustion[18].Campbell[10]suggestedthatthestructure
+dation is performed on silver catalysts. Since the discovery of of Cs ismorecomplex,notingtheformationofCsO species,
+3
+this reaction by Lefort, significant efforts have been made to which can generate some electronic or geometric effects. Ser-
+improvethecatalystsusedinthisprocess[1].Appliedsurface afinetal.[8]showedthatCspromotesa(1×2)reconstruction
+sciencemethodsallowedthedevelopmentofstructure–activity atAg(110)andincreasesCO releasebysilverinthepresence
+2
+relationshipsforthisreactionsystem.Thenatureofsurfaceac- ofoxygen.Thislattereffectdecreasesethyleneoxidecombus-
+tivespeciesandadsorbedintermediates,theeffectofpromoters, tion, inhibiting additional CO formation. It turns out that Cs
+2
+and the mechanism of this reactions have been intensively in- actsbydiminishingandstabilizingtheAgparticlesize,increas-
+vestigated[2–16].Thereisagrowinginterestinanalyzingthese ing the crystalline lattice defects, where the electrophilic oxy-
+systems under reaction conditions [17], because the postreac- genislikelylocated[4,9],anddecreasingnucleophilicoxygen
+tionevacuationmethodologymayleadtodestructionofweakly concentration,whichisresponsiblefortheethylenetotaloxida-
+adsorbed intermediate species or changes in the surface struc- tion[16].LinicandBarteauproposedthatethyleneepoxidation
+ture. Debate continues over such matters as the mechanism occursthoughformationofaoxametallacycleintermediate,and
+of reaction and the promoter action mechanism. Considering thattheroleofCsistomodifytheelectricfieldordipolesurface
+only electronic effects, Cs should decrease the selectivity to interactions,favoringthetransitionstatethatleadstoethylene
+ethylene oxide through an electronic charge donation to the oxide[19].Similarresultshavebeenobservedbymicrokinetic
+atomic oxygen [8]. Actually, Grant and Lambert [9] observed modelanalysis[20].
+thatCsadditiononAg(111)favoredtheCO productionasso-
+2 Inthepresentwork,westudiedthesurfacepropertiesofCs-
+ciated with ethylene combustion but increased the selectivity
+promotedandnonpromoted15%Ag/α-Al O catalystsapplied
+2 3
+intheepoxidationreaction,takingintoconsiderationthemodi-
+* Correspondingauthor. ficationsofthemorphologyandstructureofthecatalyst,aswell
+E-mailaddress:schmal@peq.coppe.ufrj.br(M.Schmal). astheinfluenceonthereactionintermediates.Wechoseinsitu
+0021-9517/$–seefrontmatter ©2007PublishedbyElsevierInc.
+doi:10.1016/j.jcat.2006.10.030
+
+M.C.N.AmorimdeCarvalhoetal./JournalofCatalysis248(2007)124–129 125
+characterization techniques using chemical and spectroscopic column. The silver dispersion was calculated according to the
+methods. methodofBusser etal.[23],assumingasilveratomicdensity
+of1.15×10 −19atoms/m2.
+2. Experimental
+3. Resultsanddiscussion
+Silver catalysts were prepared through impregnation of sil-
+verlactatetocommercialα-aluminasupport(Norton,0.5m2/g, OxygenTPDresults(m/e=32)arepresentedinFig.1.As
+6%silica),asdescribedbyLiuandShen[21].ACs-promoted expected, oxygen adsorption was not observed on α-alumina,
+sample was obtained by adding CsOH to a silver lactate so- whereas silver catalysts demonstrated oxygen adsorption ca-
+lution. The sample labels and composition are described in pacity.TheadditionofCscausedafivefoldincreaseinthetotal
+◦
+Table 1. The samples were calcined at 350 C for 4 h in amount of desorbed oxygen compared with the nonpromoted
+20% O 2 /He at a total flow rate of 30 mL/min. The samples catalyst (Table 1). Along with an oxygen desorption peak at
+werepreviouslysubmittedtoablanktestbyheatingunderHe 430 ◦ C, the cesium-promoted catalyst exhibited a larger peak
+◦
+flowuntil550 Candmonitoredbymassspectroscopy,andno (22.90 µmol/g ) related to more strongly adsorbed oxygen
+cat
+evidenceofundecomposedcompoundsorpreadsorbedoxygen speciesat500 ◦ C.Thedifferentoxygenspeciesonsilverhave
+wasfound. beenwidelydiscussedintheliterature,mainlyforsinglecrys-
+Beforeeachdesorptionandreactionprocedure,thesamples tals under low-pressure conditions [5,7–9,24,25]. These have
+◦
+were also pretreated by heating to 350 C in 20% O 2 /He for demonstratedlowertemperaturesthanweobservedfortheoxy-
+2 h, cooling to room temperature, and holding under a 20% gendesorptionofsupportedsilvercatalysts.Similardesorption
+O 2 /He stream for 18 h. Temperature-programmed desorption temperatures were observed by Kim et al. [26] for supported
+(TPD) was monitoredusing a Balzers mass spectrometer with silver catalysts. All of the studies of supported and unsup-
+aQMS200Prismaquadrupole.ForTPDofoxygen,thetemper- portedsilverattributelow-temperaturedesorptiontomolecular
+◦
+aturewasincreasedto550 CunderanHeflowof30mL/min. adsorbed oxygen and high-temperature desorption to atomic
+TPD of ethylene was done in a C 2 H 4 flow of 30 mL/min oxygen.Bukhtiyarovetal.[24]reportedthatCsadditionblocks
+◦ ◦
+at 0 C for 1 h, followed by heating 550 C as described for the regular silver surface, which is responsible for the forma-
+TPD of oxygen. In situ investigations were carried out using tionofnucleophilicoxygen;increasessilvercrystallinenetwork
+20% C 2 H 4 and 5% O 2 diluted in He reactant feed. Superfi- defects,whereepoxidizingoxygenspeciesarelocated;andde-
+cialreactionatprogrammedtemperature(TPSR)wasmeasured creasestheconcentrationofnucleophilicoxygenspecies,which
+◦
+by heating the samples up to 800 C under reactant flow. In areresponsibleforcompleteethyleneoxidation.Silvercandis-
+situdiffusereflectancespectroscopyUV–vis–NIR(DRS)mea- sociativelychemisorbmolecularoxygentoformasurfacesilver
+surements were done with a Varian-Cary 5 spectrophotome- oxidelayer(Ag O)[3].Silvercations(Ag + )areneededtofix
+2
+ter connected to a diffuse reflectance accessory (Harrick). To theethyleneatthecatalystsurface;ifthesecationsarelocated
+separate the contribution of the support, the reflectance r(λ) closetosilvercrystallinedefects,whereelectrophilicoxygenis
+was ratioed to the reflectance of the support, and the results located,thenepoxidationoccurs[3].
+werecalculatedasfunctionoftheShultz–Kubelka–Munkequa- The results of the ethylene TPD analysis are presented in
+tion.DRSspectrawereobtainedatroomtemperatureafterthe Fig.2.Ethylenedesorption(m/e=28)wasnotobserved,with
+samples were exposed to a 30-mL/min reactant feed flow at the appearance of only one signal referred to mass 44 (the
+◦
+250 C for 15 min. In situ diffuse reflectance infrared Fourier main signal, intensity 100%), corresponding to both the par-
+transformspectroscopy(DRIFTS)experimentswereperformed
+using a Thermo Nicolet Nexus 470 device with an MCT-A
+detector and a Spectra-Tech diffuse reflectance accessory. In-
+◦
+terferogramswerecollectedat250 C.Theethyleneoxidation
+reaction (30 mL reactant feed) was carried out in a microre-
+actor at atmospheric pressure under 200 mg of catalyst, with
+◦
+the temperaturevariedbetween200 and350 C. The products
+were analyzed after 10 h on stream at a constant temperature
+reaction to ensure a stationary state [22], using a Chrompack-
+CP9001 TCD gas chromatograph fitted with a HAYESEP D
+Table1
+Silvercontentanddataofsilversurfacecoverage
+Catalyst Metalcontent(wt%) DesorbedO2 Agdispersion(%)a
+Ag Cs
+(µmol/gcat)
+Before After
+reaction reaction
+15Ag 15.7 – 8.2 1.4 10.2
+15AgCs 15.2 211 41.7 1.5 23.7
+a CalculatedbyCO2chemisorption. Fig.1.O2TPDprofilesofsilvercatalystsandthesupport(m/e=32).
+
+126 M.C.N.AmorimdeCarvalhoetal./JournalofCatalysis248(2007)124–129
+Fig.2.EthyleneTPDprofilesofsilvercatalystsandthesupport(m/e=44).
+tial oxidation to ethylene oxide (C H O) and total oxidation
+2 4
+(CO )reactionproducts.Mass29,characteristicofasecondary
+2
+C H Osignal[27,28],wasnotdetected.Thisfindingindicates
+2 4
+preferential conversion of ethylene to CO . No CO desorp-
+2 2
+tionfromthesupportwasseen,indicatingthatethylenewasnot
+adsorbedonthesupport.The15Agand15AgCscatalystspre-
+sented similar desorption profiles, indicating that the presence
+Fig.3.InsituDRSprofilesofsilvercatalysts.
+ofCsdidnotinfluencethetotaloxidationreaction.Bukhtiyarov
+etal.[16]reportedthatwhenAgisexposedtothereactantfeed,
+that most of the silver is deposited on alumina in the reduced
+thesurfaceisactivatedbyformationofanotheroxygenspecies
+formbutwithasignificantpresenceofoxidizedsilverclusters.
+(O1s, 528.4 eV), increasing the ionicity of the adsorbed oxy- ◦
+After reaction at 250 C, a new shoulder appeared at 420 nm
+genandfavoringitsparticipationinethyleneepoxidation.This
+assigned to the formation of metallic silver particles [29–31].
+specieswasidentifiedasasubsurfaceoxygenspecies,whichis
+No significant differences in silver electronic transitions dur-
+dissolvedintothesilvermatrix[7,25],anditspresenceiscon-
+ing the ethylene epoxidation reaction were seen between the
+sideredfundamentalforepoxidationactivity[6].
+catalysts. This indicates that the Cs-promoting action is due
+The silver dispersion was calculatedbased on CO desorp-
+2 mainlytogeometriceffects,notelectroniceffects.Adrasticin-
+tion for fresh samples and after reaction (TPSR), based on
+crease in silver dispersion in the presence of cesium has been
+a 1 Ag:4 CO ratio (Table 1). The fresh catalysts of 15Ag
+2 observed by scanning electronic microscopy and atomic force
+and 15AgCs presented silver dispersions of 1.4 and 1.5%, re-
+microscopy[32].
+spectively, a good result compared with the reference values
+Fig.4presentsDRIFTSspectraunderethyleneoxidationre-
+of 1.08% reported by Busser et al. [23]. The calculated silver ◦
+action conditions (250 C, 1 atm). Two different backgrounds
+surface area for fresh samples was around 1 m2/g , but af-
+cat were used: catalyst after pretreatment with oxygen (a) and re-
+terreactionitincreasedto7.4and17.3m2/g cat ,corresponding actant mixture (C 2 H 4 +O 2 ) (b). The adsorption bands were
+tosilverdispersionsof10.2%for15Agand23.7%for15AgCs. ascribed to different compounds according to the literature
+Thissignificantimprovementwasprobablyduetotheincreased [15,22,33–35]. The spectrum for gas-phase ethylene presents
+oxygenspeciesdiffusioninthesilvermatrixfavoredbyreaction bands in two regions: 3200–2900 and 1500–1400 cm −1.
+feed activation [6], which is greatly enhanced for the cesium- Coadsorption of ethylene with oxygen raises another band at
+promotedsampleduetothegreateramountofsilvercrystalline 1900–1800cm −1.CO ispresentat2370and2330cm −1,and
+2
+framework defects, where these subsurface atoms are located C H O appears at 1245 cm −1. Along with the bands charac-
+2 4
+[4,9]. teristicofethylene,theα-Al O spectrumexhibitscarboxylate
+2 3
+Fig. 3 presents the results for the in situ DRS analyses. species(1580–1260cm −1)andacetaldehyde(1043cm −1).Ac-
+The 15Ag and 15AgCs catalysts show similar bands, appear- cordingtosomeauthors[6,11],C H Oisformedoveralumina
+2 4
+ing and increasing in intensity in the same wavelengths. Be- but is immediately isomerized to acetaldehyde by Lewis Al3+
+fore the reaction, both samples had four bands: a small band acid sites as surface silica hydroxyls present in commercial
++
+at 230 nm attributed to isolated Ag ion electronic transition supports.TheAgcatalystspresentsimilarprofileswithhigher
+4d10→4d9 5s1,abandofaverageintensityat350nmderived formation of CO for 15Ag, giving rise to a band at the same
+2
+fromclustersofoxidizedsilver,andalargerbandat320nmdue region of gaseous CO (2350 cm
+−1),
+attributed to CO ad-
+2 2
+totheelectronictransitionofreducedsilverspecies,indicating sorbedoverAgatoms.Bothsilversamplesalsoshowabandat
+
+M.C.N.AmorimdeCarvalhoetal./JournalofCatalysis248(2007)124–129 127
+(a) (b)
+◦
+Fig.4.DRIFTspectraduringethyleneoxidationreactionat250 Cusingasbackground:thesample(a)andreactantmixture(b).
+1245 cm
+−1,
+ascribed to C H O formation. The 15Ag catalyst
+2 4
+shows a band at 1580 cm
+−1
+corresponding to antisymmetrical
+stretchingvibrationofsurfacecarboxylates,anacetateinterme-
+diate[11–13].Thusthepresenceofthisbandfornonpromoted
+catalyst suggests an influence of the residual support on eth-
+ylene oxidation. These results suggest that the addition of Cs
+enhances the epoxidation reaction by decreasing undesirable
+stablecompoundformation.Thesedataagreewithreportsthat
+Cs favors the formation of a thin Ag film that decreases the
+supporteffect[32,37,38].
+Fig. 5 presents the conversion of ethylene and the yield to
+ethylene oxide obtained during the catalytic runs. The 15Ag
+◦
+catalystwasnotactiveattemperaturesbelow260 C.Whenthe
+◦
+temperature reached 280 C, the reaction started with a grad-
+ual increase in conversion, which varied between 1 and 6%.
+Ethylene oxide yield increased abruptly, reaching 32%, which
+was the maximum yield value observed for this sample. In-
+creasing the temperature to 300
+◦
+C increased the conversion
+Fig.5.ConversionandyieldtoC2H4Oinethyleneepoxidationonsilvercata-
+lysts.
+◦
+to about 9% but decreased the yield to 24%. At 350 C, the
+conversion was the same, and the yield decreased to between
+Table2
+7 and 4.5%. This apparent stable conversion for temperatures
+Yieldtoethyleneoxideatiso-conversionconditionoversilvercatalysts
+◦
+above 300 C is due to a limitation of the reaction condition
+Catalyst
+caused by the total consumption of the oxygen in the reac-
+15Ag 15AgCs
+tant feed, which was observed by the absence of the oxygen
+Reactiontemperature( ◦ C) 280 280a 350 280 280a 350
+peakinthechromatograms.Toverifydeactivation,thetemper-
+ature was reduced to 280 ◦ C. The initial conversion and yield Conversion(%) 2 5 8 2 5 8
+Yield(%) 30 17 10 45 29 32
+levelsdecreasedto5and16%,respectively,indicatingdeactiva-
+tionofthe15Agcatalyst.The15AgCscatalystactivitystarted a Afterreactionat350 ◦ C.
+◦
+at a lower reaction temperature (260 C), but with a low con-
+time on stream instead of deactivating. Force and Bell [33]
+version (1%). The ethylene oxide yield was much higher for
+◦ alsoreportedincreasedconversionwithreactiontime,reaching
+15AgCs than for 15Ag, reaching up to 48%. At 280 C, the
+a maximum after 18 h. According to some authors [9,39,40],
+conversion did not increased significantly (2%), and the yield
+decreasedslightlytoabout45%.At300 ◦ C,theconversionin- catalytic activity depends on the activation of silver surface
+creased gradually up to 7%, but the yield diminished to 30%. anddiffusionofoxygenspeciesinthesilvercrystallineframe-
+At a higher reaction temperature (350 ◦ C), the conversion in- work. The apparent lower deactivation of the 15AgCs can be
+creasedto10%,buttheyielddecreasedto13%.Afterreturning explained by a better distribution of the silver particles in the
+to280 ◦ C,theconversionwasthetwicetheinitialamount,but silverfilmdepositedonthesupportsurface[32].Table2gives
+the yield diminished from 45 to 29%. In contrast to the 15Ag the C 2 H 4 O yield at iso-conversion, showing that the presence
+catalyst,thepromotedcatalystexhibitedincreasedactivitywith ofCspromotedtheC H Oyieldforalllevelsofiso-conversion
+2 4
+
+128 M.C.N.AmorimdeCarvalhoetal./JournalofCatalysis248(2007)124–129
+tested, with an increase of up to 220% in the case of ethylene proposedbyBukhtiyarovetal.[16],withdirectparticipationof
+conversionof8%.Intheseexperiments,themaximumethylene nucleophilicandelectrophilicoxygenspeciesandindirectpar-
+oxideyieldswereca.30%for15Agand45%for15AgCs. ticipationofsubsurfaceoxygen.Theformationofthereaction
+The calculation of TOF values based on surface area of intermediate and yield toward C H O or CO depend on the
+2 4 2
+fresh15Agand15AgCscatalystswere6.02×10 −4mol/(sm2) oxygenspeciesthatattackstheadsorbedethylenemolecule,be-
+and 3.49 × 10 −4 mol/(sm2) (or 3.62 × 1020 and 2.10 × ingthattheepoxidationisledbyanelectrophilicattack.
+1020 molecules/(sm2) at iso-conversion around 2% and tem-
+perature of 280 ◦ C, indicating that the reaction is structure- 4. Conclusion
+insensitive for the supported catalysts, because the factor 2 is
+withinthecriteriausedforTOF.Moreover,themostimportant Cs promotional action is due mainly to geometric effects
+effectofCsisstabilityandselectivity,asdemonstratedabove. ofimprovedsilverdispersion.TheincreasedAgdispersionin-
+The activity is directly proportional to the surface active sites, creasedtheamountofcrystallineframeworkdefects.Theesti-
+asdemonstratedbytheTOFvalue. mateddispersionofsilversurfacebasedonCO 2 desorptionon
+Forcomparison,Bal’zhinimaevetal.[22]foundfor 13.8% freshof15Agand15AgCscatalystsandthesurfacesiteswere
+of Ag/α-Al O (7 m2/g support) a reaction rate of 4.9 × verysimilar,andwhencomparedwiththesurfaceareaofused
+2 3
+1017 molecules/(sm2), at around 10–15% conversion and catalystsafter90hofreaction,increasedbyafactorof5forthe
+230 ◦ C anda feed withexcess of oxygen,whichis lower than unpromotedsamplesandafactorof11forthepromotedsam-
+ours, because the ethylene/oxygen ratio is 4:1 in the feed. In- ples.ThissignificantimprovementinthestoragecapacityofO 2
+dustrially, the ethylene epoxidation reaction proceeds under afterreactionwasprobablyduetotheincreasedoxygenspecies
+pressures of 2–30 atm [41,42], with chlorine-containing hy- diffusioninsilvermatrixduringreaction.
+drocarbons used as moderators. Along with Cs, the catalysts The TOF values based on surface area of fresh 15Ag and
+alsocontainRhandBaascatalyticpromoters.Currently,work- 15AgCs catalysts at iso-conversion and constant temperature
+ing with conversion of ethylene around 8%, it is possible to shows that the reaction is structure-insensitive for the sup-
+reach a yieldof 85% to ethyleneoxide. A 60% yieldto ethyl- ported catalysts. The reaction mixture was capable of modi-
+ene oxide for a conversion 0.58% of ethylene at atmospheric fying the silver structure, generating electrophilic oxygen. At
+pressure and at 230 ◦ C over 16% Ag/α-alumina catalyst has iso-conversion conditions, the presence of Cs promoted an in-
+beenreported[43].At3.4atmwith10%Ag/α-aluminacatalyst, crease in the yield for ethylene; however, the most important
+a79%yieldat180 ◦ Cfor1.4%conversionwasobtained[36]. effectsofCsareonstabilityandselectivity.
+◦
+At 240 C, the conversion was 10%, but the ethylene oxide
+yielddecreasedto59%. References
+Our data agree with those of Bal’zhinimaev et al. [3], in-
+[1] T.E.Lefort,Fr.Patent729(1931)952;
+dicating that addition of Cs in the Ag/Al O system results in
+2 3
+T.E.Lefort,USPatent1(1935)998.
+asubstantiallyincreasedethyleneoxideyield,withtheactiva-
+[2] R.A.VanSanten,H.P.C.E.Kuipers,Adv.Catal.35(1987)265.
+tion of Ag surface by reactant feed increasing the ionicity of [3] B.S.Bal’zhinimaev,Kinet.Catal.40(1999)795.
+theadsorbedoxygen,whichfavorsitsparticipationintheethyl- [4] V.I. Bukhtiyarov, V.V. Kaichev, E.A. Podgornov, I.P. Prosvirin, Catal.
+eneepoxidation.Ethyleneadsorptiononsilveroccursonlyafter Lett.57(1999)233.
+[5] S.N.Trukhan,V.P.Ivanov,B.S.Bal’zhinimaev,Kinet.Catal.38(1997)
+pretreatmentunderoxygenatmosphereand,consequently,gen-
++ 565.
+eration of Ag adsorption sites [5,16,44]. However, the pres-
+[6] C.Borman,K.R.Westerterp,Ind.Eng.Chem.Res.34(1995)49.
+ence of electrophilic oxygen species is necessary for ethylene [7] C.T.Campbell,M.Paffett,Surf.Sci.143(1984)517.
+oxide formation because it effectively epoxides the ethylene, [8] J.G.Serafin,A.C.Liu,S.R.Seyedmonir,J.Catal.131(1998)157.
+[9] R.B.Grant,R.M.Lambert,J.Catal.92(1985)364.
+andtheyarefoundinAgcrystallineframeworkdefects,which
+[10] C.T.Campbell,J.Catal.99(1986)28.
+arefavoredbythepresenceofCs.
+[11] D.A.Bulushev,E.A.Paukshtis,Y.N.Nogin,B.S.Bal’zhinimaev,Appl.
+Ourexperimentalresultsdemonstratethatthesimultaneous Catal.A123(1995)301.
+presence of ethylene and oxygen are necessary for activating [12] M.Kanno,M.Kobayashi,Proc.8thInt.Congr.Catal.,vol.3,Berlin,1984,
+thecatalystsurfaceandobtainingethyleneoxide,asevidenced p.277.
+[13] P.T.Connor,S.Kovenklioglu,D.C.Shelly,Appl.Catal.71(1991)247.
+intheethyleneTPDexperiments.Accordingtomanyauthors,
+[14] C.T.Campbell,J.Phys.Chem.89(1985)5789.
+this activation causes oxygen diffusion to inner silver layers
+[15] S.N.Goncharova,E.A.Paukshtis,B.S.Bal’zhinimaev,Appl.Catal.126
+generating the electrophilic oxygen, which is essential to the (1995)67.
+ethylene epoxidation reaction [2,6,16,45]. The surface silver [16] V.I.Bukhtiyarov,A.I.Boronin,V.I.Savchenko,J.Catal.150(1994)262.
+[17] V.I.Bukhtiyarov,A.I.Nizovskii,H.Bluhm,M.Hävecker,E.Kleimenov,
+state changed during reaction, with the appearance of silver
+A.Knop-Gericke,R.Schlögl,J.Catal.238(2006)260.
+reduced species indicating the Ag redox property. Moreover,
+[18] F.J.Williams,D.P.C.Bird,A.Palermo,A.K.Santra,R.M.Lambert,J.Am.
+theformationofacetatesandaldehydeswasobservedwhenthe Chem.Soc.126(2004)8509.
+residualinfluenceofthesupportremained,decreasingethylene [19] S.Linic,M.A.Barteau,J.Am.Chem.Soc.126(2004)8087.
+oxideyield.Theresults,basedoninsituanalysesofrealcata- [20] C.Stegelmann,P.Stoltze,J.Catal.232(2005)444.
+[21] Y.Liu,S.Shen,Appl.Catal.A121(1995)57.
+lysts,confirmedobservationsreportedforsilverfoilandsingle
+[22] S.V. Tsybula, G.N. Kryukova, S.N. Goncharova, A.N. Shmakov, B.S.
+crystals, with participation of different oxygen species during
+Bal’zhinimaev,J.Catal.154(1995)194.
+ethyleneepoxidationandareinaccordancewiththemechanism [23] G.W.Busser,O.Hinrichsen,M.Muhler,Catal.Lett.79(2002)49.
+
+M.C.N.AmorimdeCarvalhoetal./JournalofCatalysis248(2007)124–129 129
+[24] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,B.S.Bal’zhinimaev,E.A.Pod- [35] P.A.Kilty,W.M.H.Sachtler,Catal.Rev.Sci.Eng.10(1974)1.
+gornov,Appl.Surf.Sci.115(1997)135. [36] R.E.Kenson,M.Lapkin,J.Phys.Chem.74(1970)1493.
+[25] C.Backx,C.P.M.deGroot,P.Biloen,Surf.Sci.104(1981)300. [37] D.M.Minahan,G.B.Hoflund,W.S.Epling,D.Schoenfeld,J.Catal.168
+[26] Y.C.Kim,N.C.Parka,J.S.Shina,S.R.Leeb,Y.J.Leeb,D.J.Moon,Catal. (1997)393.
+Today87(2003)153. [38] W.S.Epling,G.B.Hoflund,D.M.Minahan,J.Catal.171(1997)490.
+[27] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,Surf.Sci.320(1994)L47. [39] R.B. Grant, C.A.J. Harbach, R.M. Lambert, J. Chem. Soc. Faraday
+[28] E.A. Podgornov, I.P. Prosvirin, V.I. Bukhtiyarov, J. Mol. Catal. A 158 Trans.I83(1987)2035.
+(2000)337. [40] V.N.Korchark,I.I.Tret’yakov,Kinet.Catal.18(1977)141.
+[29] Z.Li,M.F.Stephanopoulos,J.Catal.182(1999)313. [41] J.E.Buffum,W.H.Gerdes,R.MKowaleski,USPatent5145824(1992),
+[30] I.H.Son,M.C.Kim,H.L.Koh,K.L.Kim,Catal.Lett.75(2001)191. toShellOilCo.
+[31] W.L. Dai, Y. Cao, L.P. Ren, X.L. Yang, J.H. Xu, H.X. Li, H.Y. He, [42] S.Nagase,H.Tanabo,H.Imai,Br.PatentPI9300692A(1993),toNippon
+J.Catal.228(2004)80. ShokubaiCo.
+[32] M.C.N.A. Carvalho, C.A. Perez, R.A. Simão, F.B. Passos, M. Schmal, [43] C.F.Mao,M.A.Vannice,Appl.Catal.A122(1995)61.
+An.Acad.Bras.Ciênc.76(2004)19. [44] J.S.Ozcomert,W.W.Pai,N.C.Bartelt,J.E.Reutt-Robey,Surf.Sci.293
+[33] E.L.Force,A.T.Bell,J.Catal.38(1975)440. (1993)183.
+[34] E.L.Force,A.T.Bell,J.Catal.40(1975)356. [45] R.A.VanSanten,C.P.M.deGroot,J.Catal.98(1986)530.
+

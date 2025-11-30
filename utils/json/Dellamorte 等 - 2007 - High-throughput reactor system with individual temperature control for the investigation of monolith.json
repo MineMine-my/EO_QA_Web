@@ -1,0 +1,167 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温煅烧",
+        "relationship": "导致",
+        "end_node": "Ag烧结"
+    },
+    {
+        "start_node": "Ag烧结",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag烧结",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "煅烧条件",
+        "relationship": "影响",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "煅烧条件",
+        "relationship": "影响",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "300-500°C"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "257-267°C"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "3h煅烧",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "12h煅烧",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "400°C煅烧",
+        "relationship": "产生",
+        "end_node": "活性催化剂"
+    },
+    {
+        "start_node": "300°C煅烧",
+        "relationship": "导致",
+        "end_node": "低活性"
+    },
+    {
+        "start_node": "AgNO3",
+        "relationship": "稳定至",
+        "end_node": "350°C"
+    },
+    {
+        "start_node": "还原条件",
+        "relationship": "影响小",
+        "end_node": "性能"
+    },
+    {
+        "start_node": "还原温度",
+        "relationship": "范围",
+        "end_node": "250-350°C"
+    },
+    {
+        "start_node": "还原时间",
+        "relationship": "范围",
+        "end_node": "6-18h"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "包含",
+        "end_node": "6%乙烯"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "包含",
+        "end_node": "10%氧气"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "比值",
+        "end_node": "1.67"
+    },
+    {
+        "start_node": "反应条件",
+        "relationship": "包括",
+        "end_node": "温度控制"
+    },
+    {
+        "start_node": "反应条件",
+        "relationship": "包括",
+        "end_node": "流量控制"
+    },
+    {
+        "start_node": "HTE系统",
+        "relationship": "用于",
+        "end_node": "催化剂筛选"
+    },
+    {
+        "start_node": "FTIR成像",
+        "relationship": "分析",
+        "end_node": "产物浓度"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "典型值",
+        "end_node": "7.0%"
+    },
+    {
+        "start_node": "EO选择性",
+        "relationship": "典型值",
+        "end_node": "35%"
+    },
+    {
+        "start_node": "最佳催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1063/1.2755781"
+    },
+    {
+        "start_node": "最佳催化剂",
+        "relationship": "发表年份",
+        "end_node": "2007"
+    }
+]

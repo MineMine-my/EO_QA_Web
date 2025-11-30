@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "生物质辅助",
+        "relationship": "抑制",
+        "end_node": "Ag烧结"
+    },
+    {
+        "start_node": "Ag烧结",
+        "relationship": "降低",
+        "end_node": "分散度"
+    },
+    {
+        "start_node": "分散度",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "生物质辅助",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "生物质辅助",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "600°C"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "范围",
+        "end_node": "60 min"
+    },
+    {
+        "start_node": "C. camphora提取物",
+        "relationship": "浓度",
+        "end_node": "0.25 g mL-1"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "240°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "2.0 MPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "7000 mL h-1mLcat-1"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "比例",
+        "end_node": "15/7/5/73 vol%"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "110-727 nm"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "影响",
+        "end_node": "Ag粒径"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "C. camphora提取物",
+        "relationship": "减小",
+        "end_node": "Ag粒径"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag0",
+        "relationship": "是",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "Agnd+",
+        "relationship": "是",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "Ag+",
+        "relationship": "不是",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "生物质辅助",
+        "relationship": "增强",
+        "end_node": "载体相互作用"
+    },
+    {
+        "start_node": "载体相互作用",
+        "relationship": "减少",
+        "end_node": "Ag损失"
+    },
+    {
+        "start_node": "Ag损失",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温煅烧",
+        "relationship": "导致",
+        "end_node": "Ag团聚"
+    },
+    {
+        "start_node": "Ag团聚",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "生物质辅助",
+        "relationship": "防止",
+        "end_node": "Ag团聚"
+    }
+]

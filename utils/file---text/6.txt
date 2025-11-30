@@ -1,0 +1,853 @@
+www.nature.com/scientificreports
+OPEN Synergistic effect of Ag(111) and
+transition metal promoters toward
+optimization of catalytic ethylene
+epoxidation selectivity
+Farhad Keivanimehr, Maryam Mokhtarian & Sajjad Habibzadeh
+The ethylene epoxidation process is crucial for selective chemical oxidation in various industrial
+applications. However, adding suitable promoters improves the selectivity of the commercially
+available Ag-catalyzed ethylene epoxidation toward ethylene oxide (EO). Empirical evidence suggests
+that cesium can significantly enhance the modest selectivity of silver; however, there is a need for
+more effective dual or multi-promoter combinations to achieve better selectivity for EO. In the
+present study, we employ a density functional theory (DFT) approach to investigate the impacts of
+Cs and various transition metal (TM) promoters—Re, Rh, Au, Cu, W, Zn, and Mo—on the ethylene
+epoxidation. We analyze the electronic properties of the catalysts, the adsorption energies of the
+reactants, and the activation barrier energies associated with the intermediates, utilizing fundamental
+principles and transition state theory. The results indicate that an optimal charge balance on the
+catalyst can be attained by combining electron-accepting TMs with electron-donating Cs. This
+balance effectively suppresses the formation of nucleophilic oxygen species that would otherwise
+improve ethylene combustion. It also mitigates the excessive electrophilicy of Ag centers, which
+facilitates EO isomerization. Therefore, the overall selectivity toward EO is enhanced. Indeed, the
+findings and methodologies presented in this work illustrate that the multi-promoted catalyst (Ag/
+Cs Cu Re Au ) can substantially improve the selectivity of the EO reaction, with a shift in selectivity
+22 24 24 30
+from 1.29 to 2.71 eV when compared to the pristine Ag (111) catalyst.
+Keywords Epoxidation of ethylene, Density functional theory, Ethylene oxide, Transition metal, Selectivity
+Heterogeneous catalysts that utilize various trace promoters present a continual challenge for effective
+development. However, this challenge may be addressed by monitoring and predicting the influence of these
+promoters prior to conducting future experiments. In ethylene epoxidation, one of the most extensively
+investigated catalytic reactions in surface science, promoters play a vital role1–4. The resulting product from
+this process, ethylene oxide (EO), is an important chemical intermediate in producing several important
+compounds, including the ethylene glycol used in antifreeze formulations and polyester fibers. Conventionally,
+silver supported onto alpha-alumina has been applied as an industrial catalyst in the epoxidation of ethylene5,6.
+By adding Cl promoters and alkali metal additives, this catalyst has achieved over 80% EO selectivity7,8.
+Numerous studies observed that the activation and adsorption of molecular oxygen are critical factors to
+determine EO selectivity9–12. In particular, the EO reaction is driven by adsorption, dissociation, and activation
+of molecular oxygen, which leads to the formation of atomic oxygen species. The ethylene adsorption and
+its interaction with oxygen species favor the formation of an oxametallacycle (OMC), which may be further
+converted to EO and acetaldehyde (AA). The latter then undergoes rapid conversion through complete
+oxidation to yield CO and H O13,14. This conversion is related to the formation of nucleophilic and electrophilic
+2 2
+surface oxygen species15–18, which are responsible for nonselective total oxidation and selective epoxidation,
+respectively19,20.
+Various promoters for Ag-based EO catalysts have been reported to modify the active oxygen species involved
+in the reaction. Cesium, rhenium, and chloride are well-known as effective promoters. In particular, cesium has
+been well investigated21–24 and is believed to alter the electronic states of oxygen species adsorbed on the catalyst
+surface. This switching occurs through inhibiting active sites where combustion occurs, changing the transition
+states. This facilitates the OMC to convert more easily to EO25,26 rather than to switch to AA8.
+Surface Reaction and Advanced Energy Materials Laboratory, Chemical Engineering Department, Amirkabir
+University of Technology (Tehran Polytechnic), Tehran, Iran. email: sajjad.habibzadeh@mail.mcgill.ca
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 1
+
+www.nature.com/scientificreports/
+Rhenium has mainly been investigated in the context of single-promoter EO catalysts27–29, yet its
+corresponding chemical state remains inadequately described. The electronic and geometric properties of Re
+promote selectivity. Specifically, the electronic influence of the Re makes the silver sites more electron-deficient30.
+Diao et al.30 proved that Re promotes the surface oxygen species’ electrophilic attack on the carbon–carbon (C–
+C) bond of an ethylene molecule and thus increases the selectivity of the catalyst. In addition, Re may accelerate
+the isomerization of the OMC intermediate to EO30,31. Conversely, EO adsorbed on Re-promoted Ag catalysts is
+more likely to isomerize into AA rather than desorb from the catalysts. Furthermore, the geometric effects Re are
+associated with the blocking of defect and step sites on Ag, which causes the adsorption and reaction of oxygen
+to shift toward the terraces of Ag32.
+Additionally, there are limited studies on dual promoter combinations. It is important to mention that Cs-
+Re can be readily incorporated into an Ag-based EO catalyst, which offers much higher EO selectivity than a
+single Cs or Re promoter33. Özbek et al.34 investigated the effect of Cl-Cs promoter combinations and realized
+that the main function of Cl is to occupy oxygen vacancies. They further propose considering Cl as a structural
+preventing agent for forming the OMC intermediate, which leads to the AA product on the oxide surface. Li
+et al.33 applied density functional theory (DFT) simulations to explain the epoxidation of ethylene over dual-
+promoted Ag (110) and Ag (111) surfaces, using Cu-Re, Cs-Cu, and Cs-Re promoters. They found that Cu-
+Re dual-promoted surfaces have higher EO selectivity, which depends on the O-C-C angle and ΔE /d of
+ads Ag–O
+OMC-type intermediate adsorbate. Chen et al.35,36 also theoretically investigated ethylene epoxidation using
+atomic oxygen and molecular O adsorbed on Au nanoparticles (AuNPs). They found that AuNPs possess special
+2
+catalytic properties and more activity and selectivity during ethylene epoxidation. Despite recent developments
+in proposing new catalysts, there are few computational studies on multi-promoted surfaces at the molecular
+level for the C H /O reaction30,33,37,38. Besides, the interaction of three or four transition metals, such as Cs-Rh,
+2 4 2
+Cs-Cu-Re, Cs-Au, and Cs-Cu-Au-Re, has not been addressed in the literature. Moreover, a comprehensive study
+that includes the adsorption, dissociation, and reaction of reactive species on the promoted Cs-Ag catalysts by
+mixed transition metal oxides is lacking. Therefore, studying the CH oxidation mechanisms on Ag catalysts
+2 4
+would be quite insightful, especially when transition metals (TMs) are employed in the Cs-Ag catalyst as
+promoters.
+Likewise, the extensive theoretical and experimental research on promoters and their industrial application
+could not somewhat fade the respective discussions about the effect of various promoters. This is particularly
+important since low-content promoters are challenging to characterize accurately. Consequently, to address
+the limitation of previous studies, the present study aims to provide a detailed computational evaluation of
+the promoting effects of Cs and TM(s) on Ag-based catalysts for ethylene epoxidation. The study addresses
+the reactive species, the reaction mechanism, charge distribution, electronic characteristics, and the minimum
+energy pathway (MEP) analysis.
+Computational method
+Periodic DFT calculations were conducted using the Dmol3 code in the Materials Studio 7.0 software package.
+DFT calculations are carried out using generalized gradient approximation (GGA), as implemented by the
+Perdew-Burke-Ernzerhof (PBE) exchange–correlation density functional (PBE)39. Ultrasoft pseudopotentials
+(USP) were used, which treat all electrons explicitly but can be computationally more expensive in some cases
+than tabulated ultrasoft pseudopotentials. A double numeric plus polarization (DNP) was used as the basis
+set. Finally, empirical correction for van der Waals (vdW) interaction, according to Grimme et al.40 has been
+considered in the calculation. For the C H /O adsorption process and the ethylene oxidation reaction, the
+2 4 2
+4 × 4 cubic supercell was built with a slab containing up to three layers with 200 Ag atoms. Periodic boundary
+conditions (PBCs) were applied in the x–y–z directions to model the Ag (111) catalyst surfaces.
+A 15 Å slab-slab vacuum layer was used along the z-axis to ensure sufficient repeated space between images.
+The unit cell parameters of the modeled supercell were chosen based on the dimensions of the Ag (111) surface
+and are as follows: a = b = 23.92, and c = 22.32 Å; α = β = 90, and γ = 120 degree. Regarding geometry optimizations,
+a Monkhorst–Pack 5 × 5 × 1 k-point mesh was utilized to integrate over the Brillouin zone. To determine the
+projected density of state (PDOS), a 6 × 6 × 1 k-point was applied41. All atoms except the lowest two Ag layers
+were relaxed during structural optimization to an overall energy convergence at 10–6 Ha (2.7 × 10–5 eV). The
+global orbital cut-off, or real space cut-off, was set at 4.5 Å for all calculations. All geometry optimizations
+were completed with a maximum force of 0.001 Ha/Å (0.027 eV/Å) and a maximum displacement of 0.005 Å.
+An orbital occupation smearing of 0.005 Ha (0.136 eV) was also used to converge the electronic properties
+appropriately. The adsorption energy (∆E ads) for each adsorbate was calculated with the following equation:
+∆E ads =E total − E Ag(111)− E adsorbate (1)
+where E total, E Ag(111), and E adsorbate are the system’s total, surface, and adsorbate energy in a vacuum,
+respectively.
+To determine the MEP for each step in the reaction, we employed the quadratic synchronous transit (QST)/
+linear synchronous transit (LST) and nudged elastic band (NEB) methods42. The nature of the transition states
+was confirmed by analyzing vibrational frequencies, specifically looking for imaginary frequencies over the
+potential energy surface (PES). The simulation was halted when the orthogonal force reached 0.01 eV/Å. The
+highest image in the MEP was designated as the transition state (TS). For each reaction step, the activation
+energy barrier (∆E Activation) was estimated using the equation:
+∆E Activation =E TS E IS (2)
+−
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 2
+
+www.nature.com/scientificreports/
+where IS denotes the reaction’s initial state and ∆∆E Activation reflects the selectivity of the reaction. A larger
+∆∆E Activation indicates higher EO selectivity, calculated as follows33:
+∆∆E Activation =∆E Activation(AA)− ∆E Activation(EO) (3)
+where ∆E Activation(AA) and ∆E Activation(EO) are the energy barriers for OMC → AA and OMC → EO
+reactions, respectively.
+In a given configuration, the binding energy is defined as13:
+BE =E Ag(111)+promoter(s)− E Ag(111)− E promoter(s) (4)
+where E Ag(111)+promoter(s), E Ag(111), and E promoter(s) are the energy of the promoted Ag (111), the pristine
+Ag (111) slab, and the promoter(s) atom, respectively. The more positive or negative binding energy indicates
+weaker or stronger binding.
+In addition, electron density difference properties were analyzed by the CASTEP plane-wave code with USP
+and cut-off energy of 400 eV43.
+Results and discussion
+Structural optimization and surface models
+Figure 1 presents the top and side views of optimized structures of promoted Ag catalysts. The Ag (111) surface
+was selected as the representative surface for the catalyst due to its superior thermodynamic stability and its
+prevalence in commercial EO catalysts44–46. The Ag (111) surface was modeled using a 4 × 4 supercell consisting
+of three atomic layers of Ag. The largest species examined have an effective molecular diameter of 3.53 Å, with
+a center-to-center distance of 20.93 Å between two adjacent unit cells. Since every single elementary step in
+the reaction occurs independently on the surface of the supercell, the analysis of the reaction path itself needs
+to be focused entirely on those species participating in the particular action, typically two atoms or molecules.
+Hence, the supercell size is large enough to represent all possible relative positions among these species, with
+negligible impacts on the next nearest neighbor (NNN). The surface adsorbates and the upper two metal layers
+were allowed to relax to optimize the surface structure. For simplicity, the lower layer was constrained to the
+positions of bulk Ag atoms.
+Fig. 1. (a) Top and (b) side views of the promoted Ag (111) catalyst. In the current model, the adsorption
+sites are indicated in red, while blue and yellow spheres represent the Ag and promoter(s) atoms, respectively.
+The adsorption sites available on the Ag (111) surface include face-centered cubic (FCC), Bridge (B), and
+hexagonal-close packed (HCP) configurations. (c) Top and (d) side views of the local configuration of the
+oxygen molecule adsorbed on the surface of the promoted Ag (111) catalyst.
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 3
+
+www.nature.com/scientificreports/
+Before we can look at how different promoters work together to improve the selectivity of EO during ethylene
+epoxidation, we need to figure out where on the Ag (111) surface each promoter is most thermodynamically
+optimal. In order to obtain a structure that reflects the fractional occupancy, we used the Mixture Atoms module
+in the Materials Studio software. By applying the Mixture Atoms module, we can simulate cases where different
+types of atoms occupy an atomic site. Namely, for a dual-promoter catalyst, the composition of a Cs promoter
+was altered to 50% Cs and 50% Au. This promoter can either bind to the surface Ag atoms as an adsorbate or
+become part of the surface of the Ag slab as a dopant.
+In Fig. 1, the adsorption sites for the promoters (Cs, Re, Rh, Au, Cu, W, Zn, Mo, and their combination) on Ag
+(111) surfaces, face-centered cubic (FCC), Bridge (B), and hexagonal-close packed (HCP) are provided. Table S1
+presents the adsorption energies for all the concrete promoters. The binding energy calculations reveal that the
+FCC site is the most favorable for the promoters to bind. The chemical bonds between the Ag and the promoter
+atom are formed by interactions between the d-states of the prompter and the in-plane d-states of the Ag atoms.
+In the optimized Ag/Cs-Au nanosheet, the metallic bonds formed between Cs-Au and three neighboring Ag
+atoms have a bond length of about 2.75 Å, which is much shorter than the Ag–Ag bonds of 2.91 Å in the pristine
+Ag (111) nanosheet, as shown in Table S1. The Ag–Ag bond lengths determined in the present study are slightly
+longer than the value reported by Lee et al. (2.89 Å)47 and slightly shorter than that reported by Li et al. (3.10 Å)48.
+Table S1 collects a summary of the BEs related to the interactions of the promoter with Ag atoms in the
+models developed. A lower BE value corresponds to a stronger binding affinity of the substrate to the silver.
+Adding either individual or mixed metal promoter moiety—regardless of their specific nature—generally results
+in increased substrate BEs for most systems compared to pristine Ag. Remarkably, TM dopants exhibit strong
+binding properties, which might account for the enhanced catalytic activity revealed experimentally31,49.
+Surface charge analysis
+It is believed that nucleophilic and electrophilic oxygen atoms are responsible for both the nonselective and the
+selective processes50,51. Our study begins with a Hirshfeld charge analysis of oxygen at the atomic level. In the
+charge analysis, the oxygen atom has a significant negative charge (− 0.390 e), whereas the Ag atom has a negative
+net charge accumulation (− 0.007 e). The adsorbed O atom acquires a substantial number of electrons from
+the substrate. Consequently, the net charge accumulation on the defective Ag becomes significantly positive,
+from − 0.007 e to 0.034 e. The initial value, i.e., −0.007 e, indicates that the silver atom featured a slightly negative
+charge, indicating a small excess of electrons. Also, the shift to 0.034 e indicates the transition of the atom to a
+positively charged state, which reflects the increased positive nature of the atom’s environment or a net loss of
+electrons.
+The atomic O becomes negatively charged upon the addition of Cs, thus increasing its nucleophilic.
+Conversely, TMs transform that charge into a more electrophilic behavior. This is consistent with the electron-
+donating and electron-receiving behaviors of Cs and TMs, respectively. According to Hirshfeld charge analysis,
+the Re atom contributes approximately 0.26 electrons to the surface of the Ag/Cs-Re particles. In addition, due to
+a large amount of charge transfer, strong interactions occur between the positively charged Re and its neighbor
+Ag atoms. This interaction is also supported by the calculated high adsorption energy of the Cs-Re atom on
+the defective Ag (4.64 eV). The Cs-Re atom has a Hirshfeld charge density of 0.68 au, with the most unpaired
+electrons among all considered atoms. Based on the large positive atomic charge calculated, Ag/Cs-Re becomes
+the most active nucleophilic or radical attack site on the surface.
+The Hirshfeld charge of Ag exhibits a similar pattern to that of Ag/Cs-Re, with Ag becoming more positively
+charged with introducing transition metal(s) and more negatively charged with adding Cs. This similarity
+implies that charge transfer from promoters to the catalyst surface is responsible for the Hirshfeld charge
+trends in atomic O and Ag. In transitional metals, electron density is accepted from silver, which subsequently
+interacts with atomic oxygen to increase the metal’s electrophilicity. Similar coverage-dependent effects have
+been observed in the adsorption of O on the surfaces of various TM(s) and alloys48,52. Furthermore, donating
+promoter charges facilitates filling the O’s p-bands and s-bands, expanding band centers. As a result, given that
+the p-band center of O has a broader range than the d-band center of Ag, the (O p-Ag d) band center is expected
+to be influenced (see Figure S4). The ionic nature of the Ag/O bond suggests that an increased O charge density
+improves the bonding strength of O to the surface53. In addition, nucleophilic oxygen species show considerable
+binding affinity to mixtures of Cs with transition metals. These results complement previous DFT studies for
+several such mixtures19,53 and experiments27. This evidence suggests that while Cs strengthens the affinity of O,
+transition metals (TMSs) tend to weaken it.
+Charge density difference analysis
+A charge density difference (CDD) plot was used to analyze the redistribution of electron density. Figure 2 shows
+the CDD of the developed catalysts, calculated by the following equation:
+∆ρ=ρ Cat ρ Ag ρ Promoter ρ O (5)
+− − −
+where ρ Cat, ρ Ag, ρ Promoter, and ρ O are the charge densities of the simulated catalyst, pristine Ag (111) slab,
+promoter(s) atom, and pristine oxygen adsorbed systems, respectively54,55. A cutting slice, defined by the distance
+between the promoter atom and the nearest O atom, was oriented perpendicular to the Ag plane to illustrate the
+CCD. In the resulting visualization, charge accumulation and depletion by the promoters, O, and Ag atoms are
+presented in red and blue colors, respectively. Charge depletion is observed in most promoter atoms, except for
+Cs-Zn and Cs-Mo, while electron accumulation is observed repeatedly in the O atoms (Figs. 2a–o). This electron
+density accumulation between the O atom and the surface indicates that oxygen is polarized by the positively
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 4
+
+www.nature.com/scientificreports/
+Fig. 2. Spatial mapping of charge density differences (a) Ag, (b) Ag/Cs, (c) Ag/Cs-Rh, (d) Ag/Cs-Au, (e)
+Ag/Cs-Re, (f) Ag/Cs-Cu, (g) Ag/Cs-W, (h) Ag/Cs-Zn, (i) Ag/Cs-Mo, (j) Ag/Cs Au Cu , (k) Ag/
+33.3 33.3 33.3
+Cs Re Cu , (l) Ag/Cs Re Au , (m) Ag/Cs Cu Re Au , (n) Ag/Cs Cu Re Au , (o) Ag/
+33.3 33.3 33.3 33.3 33.3 33.3 25 25 25 25 22 24 24 30
+Cs Rh Re Au , catalysts. Regions of electron accumulation and depletion are denoted by blue and yellow
+22 24 24 30
+lobes, respectively. The isosurface value of all figures is 0.08 a.u.
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 5
+
+www.nature.com/scientificreports/
+charged Ag atom on the surface. As previously reported56–58, the electrophilic nature of the O atom has been
+shown to improve EO selectivity.
+Furthermore, the increased electron density surrounding the O atom results in a reduced transfer of electrons
+from the catalyst to the O atom, promoting the formation of electrophilic O atoms. Conversely, TM atoms
+enhance the electrophilic nature of O by reducing the accumulation of electron density from adjacent O atoms.
+This process is beneficial for producing more selective sites for ethylene epoxidation since the Cs atoms on the Ag
+surface increase the electron density accumulation. In addition, as shown in Fig. 2, the electronic charge density
+in pristine Ag (111) is spherically symmetrical around the O atoms, while that in promoted-Ag (111) catalysts
+is significantly asymmetrical. This kind of charge distribution is caused by factors such as valence electron
+delocalization or directional bonding, which substantially affects the deformation behavior of the catalysts59,60.
+The findings confirm the previous hypothesis that selectivity gain is strongly connected to the promoter electric
+effects. In fact, previous works22,61, have reported that the promoters generate an electric field that modifies the
+energy of intermediates and transition states. Thus, the mixed TMs promoters, especially Cs Cu Re Au
+22 24 24 30
+catalyst, would potentially show higher efficiency in selectivity and activity of the ethylene epoxidation reaction.
+This is due to the enhancement in electrophilicity of the atomic oxygen.
+Adsorption properties of molecular oxygen
+The adsorbed O atom is critical in increasing EO selectivity in the ethylene epoxidation reaction process62. The
+active species was previously thought to be the O molecule25. The first stage is to characterize the adsorption
+2
+of O molecules and O atoms on Ag surfaces, whether pristine or promoted with mixed metal. It is important
+2
+to note that the ethylene epoxidation process may include a stage where molecular oxygen dissociates on the
+catalysts. Therefore, we investigated the adsorption of molecular oxygen as a potential starting point for the
+decomposition of O . Our study used the adsorption locator module in Materials Studio to explore various
+2
+molecular oxygen adsorption configurations on the surface of the catalysts. The module suggested several
+configurations based on their adsorption energies. Using a systematic evaluation of multiple configurations,
+the most favorable configuration (i.e., the most negative adsorption value) was assigned the one with the
+highest adsorption energy. Following a series of studies, Table 1 summarizes the most favorable O adsorption
+2
+configurations across various catalysts. Previous computational studies estimate that the energy released by O
+2
+adsorption on pristine Ag varies between −0.243 and −0.70 eV, depending on the computational techniques,
+high and low oxygen coverage, and crystal size63–66. Specifically, Zhu et al.63 showed an adsorption energy of
+−0.57 eV using DFT calculations employed by PWSCF (Plane-Wave Self-Consistent Field) code in the Quantum
+ESPRESSO package. However, lower adsorption energy (−0.244 eV) using the DMOL3 code in the present study
+might be due to using different computational codes in calculating O adsorption energies. Notably, Yu et al.67
+2
+reported an adsorption energy of -0.243 eV for O₂ on Ag (111) using the projector augmented wave (PAW) code,
+which closely aligns with our calculated value.
+Because of the weak interaction of molecular oxygen with promoter atoms, O adsorption only slightly
+2
+increases in mixed metal-promoted catalysts. The larger Ag–O distance in the Cs–Ag model confirms that the
+2
+Cs oxyanion plays an insignificant promotional role in dioxygen activation. Notably, the Cs atom is positioned
+outside the plane formed by the Ag atoms in all Cs-containing models. This arrangement is significant since
+it influences the interaction between the Ag and Cs atoms and their adsorption properties. This out-of-plane
+positioning may be influenced by the large size of the Cs atoms, although it is also important to consider the
+effect of the restructured surface. As depicted in Fig. 1, O atoms can occupy three possible adsorption sites
+on both pristine and mixed metal-promoted Ag (111) surfaces: FCC, B, and HCP. Among these, the FCC site
+is confirmed to be the most stable atom for O adsorption. The current study shows that Cs cannot form a
+covalent bond with the O atom on the Cs-Ag catalyst. The adsorption energies of the atomic oxygen at the most
+favorable site (i.e., FCC) on the pristine and mixed metal-promoted Ag are presented in Table 1. For instance, the
+calculated adsorption energy of the O atom on the pristine Ag (111) surface is -5.05 eV. On the other hand, Ren
+et al. reported the binding energy of the O atom on the same Ag (111) surface as –5.92 eV23. The differences in
+the observed binding energies can be attributed to the smaller size of the silver clusters, known to show unique
+properties compared to larger particles or surfaces, including increased reactivity68.
+The mixed metal-promoted models show higher binding energies for most of the interactions investigated69–72.
+Notably, when Cs and Rh moieties are combined, the binding energies of atomic oxygen are significantly
+increased compared to the pristine Ag model. In the Ag/Cs-Rh catalyst, the energy values associated with
+substrate bonding with the surface are doomed “optimal,” aligning with the experimentally observed superior
+performance of Ag catalysts co-promoted by Rh and Cs when compared to those promoted individually by
+either Rh or Cs. This observation indicates the synergistic effect of the Rh and Cs promoters. Furthermore, this
+enhancement suggests an increase in the strength of facet-dependent adsorption. It has been demonstrated
+that the adsorption energy of the adsorbate on these catalysts is proportional to the d-band center (εd) of the
+occupied d-d-band (see Figure S4)73,74.
+The results for O adsorption are also in acceptable agreement with those reported by Zhu et al.63, where
+2
+the atomic oxygen binding energy results are similar to those obtained by Ren et al.23. The Ag–O bond length
+for O atom binding is consistent with the value calculated by Zhu et al.63 for Ag (111) FCC sites. Notably, the
+Ag–O bond values indicate that the strength of the O atom is significantly greater on mixed metal-promoted Ag
+catalysts than on pristine Ag, as shown in Table S1. According to Table 1, the adsorption energy of the O atom
+on the Cs Cu Re Au -promoted Ag (111) surface increases to −7.77 eV, compared to −5.05 eV on the pristine
+25 25 25 25
+Ag (111) surface.
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 6
+
+www.nature.com/scientificreports/
+Catalyst Adsorption Energy per O2 molecule (eV) Configuration Length Ag-O2 Adsorption Energy per one O (eV) Length Ag–O
+Ag − 0.244 4.494 − 5.05 2.147
+Cs − 0.247 3.543 − 6.16 2.199
+Cs-Rh − 0.249 5.238 − 4.58 2.279
+Cs-Au − 0.245 3.169 − 5.65 2.280
+Cs-Re − 0.245 3.170 − 7.49 2.236
+Cs-Cu − 0.245 3.183 − 7.70 2.272
+Cs-W − 0.250 3.151 − 8.94 2.27
+Cs-Zn − 0.251 3.113 − 8.07 2.314
+Cs-Mo − 0.249 3.153 − 8.08 2.193
+Cs33.33Au33.33Cu33.33 − 0.245 3.2 − 7.79 2.344
+Cs33.33Re33.33Cu33.33 − 0.246 3.205 − 7.80 2.345
+Cs33.33Re33.33Au33.33 − 0.245 3.169 − 5.65 2.294
+Cs25Cu25Re25Au25 − 0.245 3.183 − 7.77 2.343
+Continued
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 7
+
+www.nature.com/scientificreports/
+Catalyst A dsorption Energy per O2 molecule (eV) Configuration Length Ag-O2 Adsorption Energy per one O (eV) Length Ag–O
+Cs22Cu24Re24Au30 − 0.248 3.195 − 5.65 2.292
+Cs22Rh24Re24Au30 − 0.245 3.169 − 5.66 2.295
+Table 1. Calculated adsorption energies of molecular oxygen (in eV), Ag-O bond length (in Å), and local
+2
+configuration of the molecular oxygen adsorption on the promoted and unpromoted surfaces.
+Adsorption properties of ethylene
+The adsorption of C H and O atoms on the surfaces of the developed catalysts has been calculated to gain a
+2 4
+deeper understanding of the reaction mechanism on both pristine and mixed metal-promoted Ag surfaces. Table
+2 summarizes the optimized stable structures and adsorption energies of ethylene on these Ag (111) surfaces.
+Tables S2, S3, and S5 indicate the presence of atomic oxygen species on the entire surface, at different positions
+of Ag atoms, and coordinates of O-adsorbed on the Ag/Cs-Au surface simultaneously. In addition, the atomic
+or lattice oxygen occupying the FCC positions acts as the active site for ethylene adsorption. The optimized
+geometrical parameters of ethylene are compared quite well with the theoretical values reported by Bocquet and
+Loffreda75,76. For example, the C–H and C–C bond lengths were found to be 1.09 Å and 1.34 Å, respectively,
+while the angles H–C–C and H–C–H were to be 121° and 117°. In our model, the calculated values for these
+parameters are 121.9° and 116.3°.
+As shown in Table 2, atomic oxygen species are located on top of coordinatively unsaturated (CU) Ag atoms.
+All Ag sites can be fully covered with atomic oxygen by exposing the Ag (111) surface to multiple Langmuirs
+cu
+of molecular oxygen at various temperatures and oxygen pressures77,78. However, experimental evidence
+demonstrates that ethylene adsorption requires an empty Ag site. Without an empty Ag site, ethylene cannot
+cu cu
+bind atop the oxygen atoms78. To evaluate the current state of the ethylene epoxidation reaction, an ethylene
+gas molecule was positioned over the oxygen atoms to assess binding. According to calculations of these
+configurations, the ethylene molecule adsorbs at oxygen atom sites. The binding distance of ethylene to the Ag
+atom on the surface of a pristine Ag catalyst is measured at 3.71 Å.
+Furthermore, ethylene aligns nearly parallel to the nanosheet surface, attributed to a favorable orbital
+interaction between its d orbital and the d orbital of the nanosheet surface. C H has an adsorption energy of
+2 4
+−0.082 eV on pristine Ag surfaces (111). According to Gao et al.79, ethylene adsorbed at a rate of −0.119 eV onto
+Ag sites. The differences in binding energies can be explained by the small size of the silver clusters, which are
+known to possess unique properties compared to larger particles or surfaces, including enhanced reactivity68.
+As shown in Table 2, the adsorption of C H on mixed metal-promoted Ag (111) surfaces shows greater stability
+2 4
+than on pristine Ag (111) surfaces. Figure 3 illustrates the adsorption strength of C H on Ag (111) surfaces,
+2 4
+indicating that the promoters exert a facet-dependent effect on the adsorption strength of the ethylene.
+Reaction mechanism of ethylene epoxidation
+The conversion of C H to EO is depicted in Fig. 4 as a two-dimensional structural process. The minimum
+2 4
+energy pathway for the reaction is also shown in Fig. 5, which includes the optimized structures of the reactant,
+transition state (TS), product structures, and relative energies. The reaction consists of ten fundamental steps,
+summarized and organized in Table 3. Firstly, ethylene and molecular oxygen are weakly adsorbed onto the
+silver surface (steps 1 and 2). The dissociative adsorption of the adsorbed molecular or gaseous oxygen generates
+atomic oxygen on the surface (steps 3* and 3). There are two potential scenarios in step 4: co-adsorption of
+oxygen and ethylene (step 4*) or ethylene adsorption occurring through an Eley–Rideal mechanism (step 4).
+Following the OMC intermediate, the reaction continues through two competing pathways previously observed
+on other surfaces80,81.
+The first pathway builds up an epoxy ring on the Ag surface by breaking the C = C bond to form an EO
+molecule (step 5). This elementary reaction is exothermic, while its reaction energy of −0.63 eV indicates it
+may occur under typical conditions. The conversion of EO to AA through isomerization is illustrated in Fig. 4
+(Step 6). Because of the strong chemical interaction between the C and the displaced H atoms, this reaction is
+more exothermic than the previous step, but it has a higher activation energy barrier of 1.06 eV. When assessing
+the degree of rate control, these processes are identified as rate-determining and selectivity-controlling82. The
+subsequent desorption of EO and AA molecules into the gas phase after OMC isomerization does not require
+a transition state and involves negligible reaction energy (steps 7 and 8). The competitive oxidation reaction to
+AA immediately turns into H O, and CO is thermodynamically favorable because ∆G= 194 kJ.mol-1 61. In
+2 2 −
+other words, the energy barrier for transforming AA to CO and H O is much lower than that for OMC to AA.
+2 2
+Therefore, it is reasonable to conclude that the complete combustion reaction is not a rate-determinate step in
+the EO reaction.
+According to Jankowiak and Barteau83, the activation energy barrier for ethylene epoxidation is 0.58 eV,
+which is in acceptable agreement with our 0.66 eV on pristine Ag (111), considering the bulk metallic catalyst
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 8
+
+www.nature.com/scientificreports/
+Catalyst Adsorption Energy CH (eV) Configuration Length O-C
+2 4
+Ag − 0.082 3.51
+Cs − 0.102 3.667
+Cs-Rh − 0.092 3.592
+Cs-Au − 0.097 3.657
+Cs-Re − 0.093 3.587
+Cs-Cu − 0.094 3.625
+Cs-W − 0.096 3.931
+Cs-Zn − 0.092 3.571
+Cs-Mo − 0.093 3.585
+Cs Au Cu − 0.087 3.481
+33.3 33.3 33.3
+Cs Re Cu − 0.094 3.623
+33.3 33.3 33.3
+Cs Re Au − 0.091 3.547
+33.3 33.3 33.3
+Cs Cu Re Au − 0.088 3.547
+25 25 25 25
+Continued
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 9
+
+www.nature.com/scientificreports/
+Catalyst Adsorption Energy CH (eV) Configuration Length O-C
+2 4
+Cs Cu Re Au − 0.098 3.612
+22 24 24 30
+Cs Rh Re Au − 0.089 3.686
+22 24 24 30
+Table 2. Calculated adsorption energies of molecular oxygen (in eV), O-C bond length (in Å), and local
+configuration of the ethylene adsorption on the promoted and unpromoted surfaces.
+Fig. 3. Adsorption strength of C H on the promoted and unpromoted Ag (111) surfaces.
+2 4
+is primarily composed of Ag (111). Grant and Lambert84 represented that the activation energy barriers for
+the mixture of C H and O in a 1:1 ratio range between 0.45–0.53 eV and 0.52–0.63 eV, respectively, which
+2 4 2
+are within our simulated results. Previous studies have also indicated that activation energy barriers can range
+between 0.4 and 1.1 eV, depending on experimental conditions and laboratory setups85,86.
+This work does not include a complete oxide phase because, in general, metal oxides have a lower affinity
+for oxygen than metals, resulting in dramatically different scaling relationships87,88. Therefore, the present study
+concentrates on the general features of ethylene oxidation for small oxygen coverages. Previous computations of
+the O-Ag phase diagram as a function of pressure and temperature89 revealed that under typical experimental
+conditions for ethylene epoxidation—characterized by low O pressure (0.1 bar) and high temperatures (230
+2
+°C)— a low O-coverage on Ag (111) is thermodynamically beneficial. Furthermore, previous studies on the
+Ag phase diagram confirm that under the reaction conditions for ethylene epoxidation, the AgO surface is
+2
+unstable. In fact, the Ag surface partially oxidized during the reaction45,46,90.
+Moreover, prior investigations that employed first principles-aided thermodynamic modeling to study
+the phase diagrams of the TMs in the oxygen environment (Ag89, Au91, Pt92, Cu93, Pd94, Ir95, Ni96, Ru97, Rh98)
+indicate that Pt and Au promoters maintain their metallic phase during ethylene epoxidation. In contrast, the
+promoters Ni, Cu, Ir, Pd, Ru, and Rh fully change to their corresponding oxide states. According to XPS spectra,
+Diago et al. show that Re and Mo oxidize in a pure oxygen environment, turning into Re O and MoO phases,
+2 7 3
+respectively. However, it should be noted that in real conditions of the ethylene epoxidation reaction, the oxygen
+concentration is about 20%, suggesting that these promoters may not be fully oxidized. Thus, based on the
+partially oxidized Ag surface, our present models could be relevant to the mechanism of EO production under
+low-pressure oxygen conditions.
+To determine which catalysts are more active toward producing either ethylene oxides (EOs) or acetaldehydes
+(AAs), investigations into the transition state (TS) features of the two competing processes must be pursued.
+Figure 5 depicts the TS values for both EO and AA after OMC isomerization. The top and side views of OMC,
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 10
+
+www.nature.com/scientificreports/
+Fig. 4. The possible reaction mechanism for epoxidation of ethylene over the silver surface to produce EO.
+EO, and AA formation over-developed catalysts are presented simultaneously in Figures S1–S3. Moreover, the
+highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) of specious
+are shown in Figure S5 and Table S4. A crystal-clear distinction is observed in the two TSs. In EO formation, the
+TS includes the breaking of the C = C bond to allow the epoxy ring closure. During this process, oxygen shifts
+beneath the ethylene fragment while the O-metal bond remains intact. On the other hand, the TS for producing
+AA involves the dissolution of both C-metal and O-metal bonds with the migration of H from one C atom to
+another, where a C = O bond is formed. These configuration properties at the two TSs are consistent across all
+TMs and metal oxide surfaces evaluated in this study. Experimental results indicate that the promoted and
+unpromoted catalysts produce significantly different amounts of EO. For instance, the activation energy barrier
+for EO formation is lower on an Ag surface that has been promoted with Cs-Re than a pristine Ag surface (see
+Fig. 5). Consequently, AA generation on a pristine Ag (111) surface is more efficient than on an Ag (111) surface
+enhanced with Cs-Re.
+Catalytic activity and selectivity toward EO product
+Figure 5 illustrates the use of the MEP diagram of both promoted and unpromoted Ag (111) surfaces to compute
+their theoretical selectivity (∆∆E Activation) for EO (see Fig. 6). The ∆∆E Activation on the promoted Ag (111)
+surface, as shown in Fig. 6, is lower than that of ∆∆E Activation on a pristine Ag (111) surface. Further details
+are provided in the text. Previous reports showed that EO selectivity is greater on promoted Ag (111) surfaces
+than on pristine Ag (111) surfaces99,100. The activation energy barriers of the OMC intermediate to EO are lower
+on promoted Ag (111) surfaces, indicating that this surface is more prone to isomerization. In contrast, the
+activation energy barrier for isomerization of OMC intermediate into AA is higher on prompted Ag (111) than
+a pristine Ag (111) surface. Thus, in terms of selectivity and catalytic activity, the promoted Ag (111) surface
+outperforms the pristine Ag (111) surface (see Fig. 6). As a result, the selectivity and catalytic activity for EO on
+the promoted Ag (111) surface are much higher than those on the pristine Ag (111) surface. In particular, the
+Ag/Cs Cu Re Au promoted Ag (111) surface may obtain the best selectivity for EO among various pristine
+22 24 24 30
+and mixed-promoted Ag (111) surfaces considered. The following order of EO selectivity would be expected
+between the promoted and unpromoted Ag (111) surfaces:
+pristine Ag < Ag/Cs-Mo < Ag/Cs Au Cu < Ag/Cs Cu Au Re < Ag/Cs-Cu < Ag/Cs-Zn < Ag/
+33.3 33.3 33.3 25 25 25 25
+Cs < Ag/Cs Re Au < Ag/Cs Rh Re Au < Ag/Cs-W < Ag/Cs Cu Re < Ag/Cs-Rh < Ag/Cs-
+33.3 33.3 33.3 22 24 24 30 33.3 33.3 33.3
+Au < Ag/Cs-Re < Ag/Cs Cu Re Au .
+22 24 24 30
+Figures 6 and 7 show that adding TM promoters can improve selectivity and activity, consistent with
+prior studies8,30,31,101. On an Ag/Cs 22 Cu 24 Re 24 Au 30 promoted Ag (111) surface, for instance, ∆∆E Activation
+increased from 1.29 to 2.71 eV compared to pristine Ag. A higher selectivity value indicates that the activation
+energy for acetaldehyde formation is greater than that for ethylene oxide formation. Consequently, the elevated
+activation energy (barrier energy) results in a slower formation rate of acetaldehyde compared to ethylene oxide.
+Compared with a Cs-promoted Ag (111) surface, the activation energy increased by only 0.69 eV, from 1.29
+to 1.98 eV. Notably, Cu as a lone promoter may not positively affect EO selectivity. Consequently, Cu plays an
+important role when combined with other promoters to achieve high EO selectivity. Indeed, Cu improves the EO
+selectivity when combined with promoters such as Cs, Au, and Re, among others29,30.
+Our findings indicate that the mixed TM-promoted Ag (111) surface exhibits better EO selectivity and
+activity than the common Cs-promoted Ag surfaces. That would imply mixed TM catalysts can act efficiently
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 11
+
+www.nature.com/scientificreports/
+Fig. 5. Minimum-energy pathway of the Ethylene epoxidation reaction over (a) Ag, (b) Ag/Cs, (c) Ag/
+Cs-Rh, (d) Ag/Cs-Au, (e) Ag/Cs-Re, (f) Ag/Cs-Cu, (g) Ag/Cs-W, (h) Ag/Cs-Zn, (i) Ag/Cs-Mo, (j) Ag/
+Cs Au Cu , (k) Ag/Cs Re Cu , (l) Ag/Cs Re Au , (m) Ag/Cs Cu Re Au , (n) Ag/
+33.3 33.3 33.3 33.3 33.3 33.3 33.3 33.3 33.3 25 25 25 25
+Cs Cu Re Au , (o) Ag/Cs Rh Re Au , catalysts.
+22 24 24 30 22 24 24 30
+to catalyze the ethylene epoxidation reaction, such as Ag with Ag/Cs Cu Re Au , for better performance of
+22 24 24 30
+ethylene oxide production.
+It was found that highly active sites, such as those present on Ag (111), can significantly influence the
+overall reaction kinetics49. However, practically speaking, Ag catalysts can be affected by various factors, such
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 12
+
+www.nature.com/scientificreports/
+Figure 5. (continued)
+as additional active sites and reaction conditions. Therefore, while the simulations in this study mainly focus
+on the intrinsic characteristics of different Ag facets under specific conditions, it is important to highlight that
+catalytic performance involves a combination of various facets, including Ag (111), Ag (100), Ag (110), as well
+as vacancies and defects. According to earlier investigations, Ag (111) surfaces show higher thermodynamic
+stability in comparison with both Ag(100) and Ag (110) surfaces. Such improved stability could slow down
+deactivation during reactions and longer catalyst lifetimes, rendering Ag (111) a preferred crystalline plane for
+a selective EO reaction. By contrast, Ag (100) and Ag (110) surfaces were characterized by lower stability and
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 13
+
+www.nature.com/scientificreports/
+Step Reaction Type
+1 O2(g)+
+∗→
+O2∗ Physisorption
+2 C2H4(g)+
+∗→
+C2H4∗ Physisorption
+3* O2∗(g)+2
+∗→
+2O
+∗
+Langmuir–Hinshelwood reaction
+3 O2(g)+2
+∗→
+2O
+∗
+Dissociative adsorption
+4* C2H4∗ +O ∗⇋OMC
+∗
++
+∗
+Langmuir–Hinshelwood reaction
+4 C2H4(g)+ O ∗⇋OMC
+∗
+Eley–Rideal reaction
+5 OMC ∗⇋EO
+∗
+Langmuir–Hinshelwood reaction
+6 OMC ∗⇋AA
+∗
+Langmuir–Hinshelwood reaction
+7 EO ∗⇋EO +
+∗
+Desorption
+8 AA ∗⇋AA +
+∗
+Desorption
+Table 3. List of elementary steps for partial and complete oxidation of ethylene on the developed catalysts12.
+Fig. 6. Comparison of ethylene oxide selectivity (in eV) obtained over the developed catalysts.
+may undergo deactivation/reconstruction under certain reaction conditions, adversely affecting their efficiency.
+Indeed, while Ag (110) surfaces may show distinct reactivity patterns and high selectivity, their overall activity
+(e.g., longevity and stability) may not compete with that of Ag (111)82.
+Moreover, the catalytic activity on the Ag (111) surfaces, especially when modified by the promoters, can be
+superior32,33. This is also due to the incorporation of promoters leading to improved adsorption of intermediates,
+which results in enhanced reaction rates.
+Conclusion
+The DFT method has provided valuable insights into how Cs and various transition metal(s)—specifically Re,
+Rh, Au, Cu, W, Zn, and Mo—enhance the performance of silver catalysts in the ethylene epoxidation process. The
+adsorption strengths of the oxygen atom and ethylene on mixed-promoted Ag (111) surfaces were significantly
+higher than those on pristine Ag (111). The following outlines the order of selectivity for EO on both promoted
+and unpromoted Ag (111) surfaces:
+pristine Ag < Ag/Cs-Mo < Ag/Cs Au Cu < Ag/Cs Cu Au Re < Ag/Cs-Cu < Ag/Cs-Zn < Ag/
+33.3 33.3 33.3 25 25 25 25
+Cs < Ag/Cs Re Au < Ag/Cs Rh Re Au < Ag/Cs-W < Ag/Cs Cu Re < Ag/Cs-Rh < Ag/Cs-
+33.3 33.3 33.3 22 24 24 30 33.3 33.3 33.3
+Au < Ag/Cs-Re < Ag/Cs Cu Re Au .
+22 24 24 30
+Among the catalysts of Cs Au Cu Re promoted-Ag (111) and Cs Au Re promoted-Ag (111), the
+22 24 24 30 22 24 30
+highest EO selectivity and activity were found, respectively. The lowest selectivity and activity were found in
+unpromoted Ag (111). Such high EO selectivity achieved through co-promotion with TM(s) is attributed to
+specific structural interactions involving geometric and electronic factors. When electron-withdrawing TM(s)
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 14
+
+www.nature.com/scientificreports/
+Fig. 7. Activation energy barriers (in eV) determine the activity for the epoxidation of ethylene on pristine
+or promoted Ag (111) catalysts. (1) Ag, (2) Ag/Cs, (3) Ag/Cs-Rh, (4) Ag/Cs-Au, (5) Ag/Cs-Re, (6) Ag/Cs-Cu,
+(7) Ag/Cs-W, (8) Ag/Cs-Zn, (9) Ag/Cs-Mo, (10) Ag/Cs Au Cu , (11) Ag/Cs Re Cu , (12) Ag/
+33.3 33.3 33.3 33.3 33.3 33.3
+Cs Re Au , (13) Ag/Cs Cu Re Au , (14) Ag/Cs Cu Re Au , (15) Ag/Cs Rh Re Au .
+33.3 33.3 33.3 25 25 25 25 22 24 24 30 22 24 24 30
+interact with electron-donating Cs, the charge transfer from the promoters to the catalyst is optimized. The
+effective combination of Cs and TM(s) helps prevent the Ag centers from becoming overly electrophilic,
+assisting in forming EO and nucleophilic O species while simultaneously suppressing ethylene combustion.
+The charge transferred by the promoters to the catalyst could be used to describe the EO selectivity. Further,
+this understanding of how TMs act as promoters towards Ag-based catalysts for ethylene epoxidation by the
+activation of atomic oxygen species would, in turn, enable future rational design of highly efficient Ag-based
+catalysts.
+Data availability
+The datasets used and/or analyzed during the current study are available from the corresponding author upon
+reasonable request.
+Received: 29 November 2024; Accepted: 24 March 2025
+References
+1. Lohr, T. L. et al. Ethylene oxide: A catalyst and process development success story. Ind. Eng. Chem. Res. 63(43), 18221–18240
+(2024).
+2. Jones, T. E. et al. The selective species in ethylene epoxidation on silver. ACS Catal. 8, 3844–3852 (2018).
+3. Jones, T. E. et al. Oxidation of ethylene on oxygen reconstructed silver surfaces. J. Phys. Chem. C 120, 28630–28638 (2016).
+4. Kestenbaum, H. et al. Silver-catalyzed oxidation of ethylene to ethylene oxide in a microreaction system. Ind. Eng. Chem. Res. 41,
+710–719 (2002).
+5. Impeng, S. et al. High selective catalyst for ethylene epoxidation to ethylene oxide: A DFT investigation. Appl. Surf. Sci. 513,
+145799 (2020).
+6. Kim, Y.-C. et al. Partial oxidation of ethylene to ethylene oxide over nanosized Ag/α-Al2O3 catalysts. Catal. Today 87, 153–162
+(2003).
+7. Burch, R., Squire, G. D. & Tsang, S. C. Role of chlorine in improving selectivity in the oxidative coupling of methane to ethylene.
+Appl. Catal. 46, 69–87 (1989).
+8. Jankowiak, J. T. & Barteau, M. A. Ethylene epoxidation over silver and copper–silver bimetallic catalysts: II. Cs and Cl promotion.
+J. Catal. 236, 379–386 (2005).
+9. Scharfenberg, L. & Horn, R. Temporal analysis of products experiments at atmospheric pressure: The epoxidation of ethylene on
+silver. Chem. Ing. Tec. 89, 1350–1359 (2017).
+10. Andryushechkin, B. V., Shevlyuga, V. M., Pavlova, T. V., Zhidomirov, G. M. & Eltsov, K. N. Adsorption of molecular oxygen on the
+Ag (111) surface: A combined temperature-programmed desorption and scanning tunneling microscopy study. J. Chem. Phys.
+148, 244702 (2018).
+11. Aho, A. et al. Ethylene epoxidation over supported silver catalysts–influence of catalyst pretreatment on conversion and selectivity.
+J. Chem. Technol. Biotechnol. 93, 1549–1557 (2018).
+12. Huš, M., Grilc, M., Pavlišič, A., Likozar, B. & Hellman, A. Multiscale modelling from quantum level to reactor scale: An example
+of ethylene epoxidation on silver catalysts. Catal. Today 338, 128–140 (2019).
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 15
+
+www.nature.com/scientificreports/
+13. Chen, B. W. J., Wang, B., Sullivan, M. B., Borgna, A. & Zhang, J. Unraveling the synergistic effect of Re and Cs promoters on
+ethylene epoxidation over silver catalysts with machine learning-accelerated first-principles simulations. ACS Catal. 12, 2540–
+2551 (2022).
+14. Xu, H., Zhu, L., Nan, Y., Xie, Y. & Cheng, D. Revisit the Role of metal dopants in enhancing the selectivity of Ag-catalyzed
+ethylene epoxidation: Optimizing oxophilicity of reaction site via cocatalytic mechanism. ACS Catal. 11, 3371–3383 (2021).
+15. Jones, T. E. et al. Thermodynamic and spectroscopic properties of oxygen on silver under an oxygen atmosphere. Phys. Chem.
+Chem. Phys. 17, 9288–9312 (2015).
+16. Derouin, J., Farber, R. G., Turano, M. E., Iski, E. V. & Killelea, D. R. Thermally selective formation of subsurface oxygen in Ag
+(111) and consequent surface structure. ACS Catal. 6, 4640–4646 (2016).
+17. Heine, C., Eren, B., Lechner, B. A. J. & Salmeron, M. A study of the O/Ag (111) system with scanning tunneling microscopy and
+x-ray photoelectron spectroscopy at ambient pressures. Surf. Sci. 652, 51–57 (2016).
+18. Ashkhotov, O. G., Khubezhov, S. A., Aleroev, M. A., Magkoev, T. T. & Grigorkina, G. S. Effect of bombardment with oxygen ions
+on the surface composition of polycrystalline silver. Russ. J. Phys. Chem. A 92, 1382–1385 (2018).
+19. Salaev, M. A., Salaeva, A. A. & Vodyankina, O. V. Towards the understanding of promoting effects of Re, Cs and Cl promoters for
+silver catalysts of ethylene epoxidation: A computational study. Catal. Today 375, 585–590 (2021).
+20. Wyrwich, R. et al. LEED-I (V) structure analysis of the (7×√ 3) rect SO4 phase on Ag (111): Precursor to the active species of the
+Ag-catalyzed ethylene epoxidation. J. Phys. Chem. C 122, 26998–27004 (2018).
+21. Saravanan, C., Salazar, M. R., Kress, J. D. & Redondo, A. Oxametallacycle intermediates on clean and Cs-promoted Ag (111)
+surfaces. J. Phys. Chem. B 104, 8685–8691 (2000).
+22. Linic, S. & Barteau, M. A. On the mechanism of Cs promotion in ethylene epoxidation on Ag. J. Am. Chem. Soc. 126, 8086–8087
+(2004).
+23. Ren, D., Xu, H., Li, J., Li, J. & Cheng, D. Origin of enhanced ethylene oxide selectivity by Cs-promoted silver catalyst. Mol. Catal.
+441, 92–99 (2017).
+24. Machocki, A. et al. Manganese–lanthanum oxides modified with silver for the catalytic combustion of methane. J. Catal. 227,
+282–296 (2004).
+25. Stegelmann, C., Schiødt, N. C., Campbell, C. T. & Stoltze, P. Microkinetic modeling of ethylene oxidation over silver. J. Catal. 221,
+630–649 (2004).
+26. Kokalj, A., Gava, P., de Gironcoli, S. & Baroni, S. What determines the catalyst’s selectivity in the ethylene epoxidation reaction. J.
+Catal. 254, 304–309 (2008).
+27. Jingfa, D., Jun, Y., Shi, Z. & Xiaohong, Y. Promoting effects of Re and Cs on silver catalyst in ethylene epoxidation. J. Catal. 138(1),
+395–399 (1992).
+28. Ren, D. et al. Effect of rhenium loading sequence on selectivity of Ag–Cs catalyst for ethylene epoxidation. Catal. Lett. 147,
+2920–2928 (2017).
+29. Zhu, L. et al. The synergistic effect between crystal planes and promoters on Ag-catalyzed ethylene epoxidation. Appl. Surf. Sci.
+476, 115–122 (2019).
+30. Diao, W., DiGiulio, C. D., Schaal, M. T., Ma, S. & Monnier, J. R. An investigation on the role of Re as a promoter in AgCsRe/α-
+Al2O3 high-selectivity, ethylene epoxidation catalysts. J. Catal. 322, 14–23 (2015).
+31. Dellamorte, J. C., Lauterbach, J. & Barteau, M. A. Rhenium promotion of Ag and Cu–Ag bimetallic catalysts for ethylene
+epoxidation. Catal. Today 120, 182–185 (2007).
+32. Dellamorte, J. C., Lauterbach, J. & Barteau, M. A. Promoter-induced morphological changes of Ag catalysts for ethylene
+epoxidation. Ind. Eng. Chem. Res. 48, 5943–5953 (2009).
+33. Li, Z., Zhu, L., Chen, J.-F. & Cheng, D. Enhanced ethylene oxide selectivity by Cu and Re dual-promoted Ag catalysts. Ind. Eng.
+Chem. Res. 57, 4180–4185 (2018).
+34. Özbek, M. O., Önal, I. & van Santen, R. A. Chlorine and caesium promotion of silver ethylene epoxidation catalysts. ChemCatChem
+5, 443–451 (2013).
+35. Chen, H.-T., Chang, J.-G., Ju, S.-P. & Chen, H.-L. Ethylene epoxidation on a Au nanoparticle versus a Au (111) surface: A DFT
+study. J. Phys. Chem. Lett. 1, 739–742 (2010).
+36. Lee, C.-C. & Chen, H.-T. Adsorption and reaction of C2H4 and O2 on a Nanosized gold cluster: A computational study. J. Phys.
+Chem. A 119, 8547–8555 (2015).
+37. Hwang, A., Klaucke, J., Lizandara-Pueyo, C., Karpov, A. & Iglesia, E. Roles of Re and Cs promoters and organochlorine moderators
+in the synthesis of ethylene oxide on Ag-based catalysts. ChemCatChem 16, e202301369 (2024).
+38. Salaev, M. A. Computational insights into promoting effects of alkali metals, Re, and Cl for silver catalysts of ethylene epoxidation.
+Mol. Catal. 507, 111574 (2021).
+39. Giannozzi, P. et al. QUANTUM ESPRESSO: A modular and open-source software project for quantum simulations of materials.
+J. Phys.: Condens. Matter 21, 395502 (2009).
+40. Grimme, S. Semiempirical GGA-type density functional constructed with a long-range dispersion correction. J. Comput. Chem.
+27, 1787–1799 (2006).
+41. Bende, D., Wagner, F. R., Sichevych, O. & Grin, Y. Chemical bonding analysis as a guide for the preparation of new compounds:
+The case of VIrGe and HfPtGe. Angew. Chem. 129, 1333–1338 (2017).
+42. Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and
+minimum energy paths. J. Chem. Phys. 113, 9901–9904 (2000).
+43. Clark, S. J. et al. First principles methods using CASTEP. Zeitschrift für Kristallographie Crystalline Materials. 220, 567–570
+(2005).
+44. Wu, S., Tatarchuk, B. J. & Adamczyk, A. J. Ethylene oxidation on unpromoted silver catalysts: Reaction pathway and selectivity
+analysis using DFT calculations. Surf. Sci. 708, 121834 (2021).
+45. Pu, T. et al. Nature and reactivity of oxygen species on/in silver catalysts during ethylene oxidation. ACS Catal. 12, 4375–4381
+(2022).
+46. Liu, C. et al. Computational and experimental insights into reactive forms of oxygen species on dynamic Ag surfaces under
+ethylene epoxidation conditions. J. Catal. 405, 445–461 (2022).
+47. Hayat, S. S., Ortigoza, M. A., Choudhry, M. A. & Rahman, T. S. Diffusion of the Cu monomer and dimer on Ag (111): Molecular
+dynamics simulations and density functional theory calculations. Phys. Rev. B 82, 85405 (2010).
+48. Li, W.-X., Stampfl, C. & Scheffler, M. Oxygen adsorption on Ag (111): A density-functional theory investigation. Phys. Rev. B 65,
+75407 (2002).
+49. Pu, T., Tian, H., Ford, M. E., Rangarajan, S. & Wachs, I. E. Overview of selective oxidation of ethylene to ethylene oxide by Ag
+catalysts. ACS Catal. 9, 10727–10750 (2019).
+50. Podgornov, E. A., Prosvirin, I. P. & Bukhtiyarov, V. I. XPS, TPD and TPR studies of Cs–O complexes on silver: Their role in
+ethylene epoxidation. J. Mol. Catal. A: Chem. 158, 337–343 (2000).
+51. Bal’zhinimaev, B. S. Ethylene epoxidation over silver catalysts. Kinet. Catal. 40, 795–810 (1999).
+52. Liu, X., Guo, H. & Meng, C. Oxygen adsorption and diffusion on NiTi alloy (100) surface: A theoretical study. The Journal of
+Physical Chemistry C 116, 21771–21779 (2012).
+53. Jones, T. E. et al. Insights into the electronic structure of the oxygen species active in alkene epoxidation on silver. ACS Catal. 5,
+5846–5850 (2015).
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 16
+
+www.nature.com/scientificreports/
+54. Keivanimehr, F. et al. Electrocatalytic hydrogen evolution on the noble metal-free MoS2/carbon nanotube heterostructure: A
+theoretical study. Sci. Rep. 11, 1–9 (2021).
+55. Alavijeh, M. M. et al. A selective and efficient precious metal-free electrocatalyst for chlorine evolution reaction: An experimental
+and computational study. Chem. Eng. J. 421, 127785 (2021).
+56. Kaichev, V. V. et al. The nature of electrophilic and nucleophilic oxygen adsorbed on silver. Kinet. Catal. 44, 432–440 (2003).
+57. Bukhtiyarov, V. I. et al. Combined application of XANES and XPS to study oxygen species adsorbed on Ag foil. Nucl. Instrum.
+Methods Phys. Res., Sect. A 470, 302–305 (2001).
+58. Bukhtiyarov, V. I. et al. Atomic oxygen species on silver: Photoelectron spectroscopy and x-ray absorption studies. Phys. Rev. B
+67, 235422 (2003).
+59. Choudhuri, D. et al. Exceptional increase in the creep life of magnesium rare-earth alloys due to localized bond stiffening. Nat.
+Commun. 8, 1–9 (2017).
+60. Jiang, C. & Srinivasan, S. G. Unexpected strain-stiffening in crystalline solids. Nature 496, 339–342 (2013).
+61. Huš, M. & Hellman, A. Dipole effect on ethylene epoxidation: Influence of alkali metals and chlorine. J. Catal. 363, 18–25 (2018).
+62. Kilty, P. A. & Sachtler, W. M. H. The mechanism of the selective oxidation of ethylene to ethylene oxide. Catal. Rev.: Sci. Eng. 10,
+1–16 (1974).
+63. Zhu, L., Zhang, W., Zhu, J. & Cheng, D. Mechanistic insight into the facet-dependent selectivity of ethylene epoxidation on Ag
+nanocatalysts. Appl Catal A Gen 538, 27–36 (2017).
+64. Reuter, K. & Scheffler, M. Composition and structure of the RuO 2 (110) surface in an O 2 and CO environment: Implications for
+the catalytic formation of CO 2. Phys Rev B 68, 45407 (2003).
+65. Kiejna, A. et al. Comparison of the full-potential and frozen-core approximation approaches to density-functional calculations of
+surfaces. Phys Rev B 73, 35404 (2006).
+66. Wang, H. & Schneider, W. F. Effects of coverage on the structures, energetics, and electronics of oxygen adsorption on Ru O 2
+(110). J Chem Phys 127, 64706 (2007).
+67. Yu, Y. et al. Dissociative adsorption of O2 on Ag3Au (111) surface: A density functional theory study. Crystals Basel 14, 504
+(2024).
+68. Boronat, M., Pulido, A., Concepción, P. & Corma, A. Propene epoxidation with O 2 or H 2–O 2 mixtures over silver catalysts:
+Theoretical insights into the role of the particle size. Phys. Chem. Chem. Phys. 16, 26600–26612 (2014).
+69. Dutta, S., Indra, A., Feng, Y., Han, H. & Song, T. Promoting electrocatalytic overall water splitting with nanohybrid of transition
+metal nitride-oxynitride. Appl. Catal. B 241, 521–527 (2019).
+70. Cheng, X. et al. NO reduction by CO over copper catalyst supported on mixed CeO2 and Fe2O3: Catalyst design and activity test.
+Appl. Catal. B 239, 485–501 (2018).
+71. Reddy, B. M., Rao, K. N. & Bharali, P. Copper promoted cobalt and nickel catalysts supported on ceria− alumina mixed oxide:
+Structural characterization and CO oxidation activity. Ind. Eng. Chem. Res. 48, 8478–8486 (2009).
+72. Keivanimehr, F., Habibzadeh, S. & Mokhtarian, M. Enhanced product quality through hydrodesulfurization of pyrolysis gasoline
+over a mixed metal oxide catalyst: An experimental and DFT study. Fuel 317, 123458 (2022).
+73. Linic, S., Medlin, J. W. & Barteau, M. A. Synthesis of oxametallacycles from 2-iodoethanol on Ag (111) and the structure
+dependence of their reactivity. Langmuir 18, 5197–5204 (2002).
+74. Linic, S. & Barteau, M. A. Construction of a reaction coordinate and a microkinetic model for ethylene epoxidation on silver from
+DFT calculations and surface science experiments. J. Catal. 214, 200–212 (2003).
+75. Bocquet, M.-L. & Loffreda, D. Ethene epoxidation selectivity inhibited by twisted oxametallacycle: A DFT study on Ag surface-
+oxide. J. Am. Chem. Soc. 127, 17207–17215 (2005).
+76. Li, M.M.-J. et al. The remarkable activity and stability of a highly dispersive beta-brass Cu-Zn catalyst for the production of
+ethylene glycol. Sci. Rep. 6, 1–8 (2016).
+77. Kim, Y. D. et al. Characterization of various oxygen species on an oxide surface: RuO2 (110). J. Phys. Chem. B 105, 3752–3758
+(2001).
+78. Paulus, U. A., Wang, Y., Bonzel, H. P., Jacobi, K. & Ertl, G. Adsorption and interaction of ethylene on RuO2 (110) surfaces. J. Phys.
+Chem. B 109, 2139–2148 (2005).
+79. Gao, W., Zhao, M. & Jiang, Q. A DFT study on electronic structures and catalysis of Ag12O6/Ag (111) for ethylene epoxidation.
+J. Phys. Chem. C 111, 4042–4046 (2007).
+80. Torres, D. & Illas, F. On the performance of Au (111) for ethylene epoxidation: A density functional study. J. Phys. Chem. B 110,
+13310–13313 (2006).
+81. Liu, X. et al. Defect stabilized gold atoms on graphene as potential catalysts for ethylene epoxidation: A first-principles
+investigation. Catal. Sci. Technol. 6, 1632–1641 (2016).
+82. Huš, M. & Hellman, A. Ethylene epoxidation on ag (100), ag (110), and ag (111): a joint ab initio and kinetic monte carlo study
+and comparison with experiments. ACS Catal. 9, 1183–1196 (2018).
+83. Jankowiak, J. T. & Barteau, M. A. Ethylene epoxidation over silver and copper–silver bimetallic catalysts: I. Kinetics and selectivity.
+J. Catal. 236, 366–378 (2005).
+84. Grant, R. B. & Lambert, R. M. Ethylene oxide isomerisation on single-crystal Ag (111) in atomically clean and Cs-moderated
+conditions. J. Catal. 93, 92–99 (1985).
+85. Verma, A. & Kaliaguine, S. Estimation of rate coefficients from pulsed microcatalytic reactors: Oxidation of ethylene over silver
+catalyst. J. Catal. 30, 430–437 (1973).
+86. Force, E. L. & Bell, A. T. The relationship of adsorbed species observed by infrared spectroscopy to the mechanism of ethylene
+oxidation over silver. J. Catal. 40, 356–371 (1975).
+87. Li, H. et al. Analysis of the limitations in the oxygen reduction activity of transition metal oxide surfaces. Nat. Catal. 4, 463–468
+(2021).
+88. Li, H. & Nørskov, J. K. Effects of a conductive support on the bonding of oxygen containing molecules to transition metal oxide
+surfaces. Phys. Chem. Chem. Phys. 22, 26216–26222 (2020).
+89. Li, W.-X., Stampfl, C. & Scheffler, M. Why is a noble metal catalytically active? The role of the O-Ag interaction in the function of
+silver as an oxidation catalyst. Phys. Rev. Lett. 90, 256102 (2003).
+90. Guo, X.-C. & Madix, R. J. Adsorption of oxygen and carbon dioxide on cesium-reconstructed Ag (1 1 0) surface. Surf. Sci. 550,
+81–92 (2004).
+91. Shi, H. & Stampfl, C. First-principles investigations of the structure and stability of oxygen adsorption and surface oxide formation
+at Au (111). Phys. Rev. B 76, 75327 (2007).
+92. Shumbera, R. B., Kan, H. H. & Weaver, J. F. Oxidation of Pt (1 0 0)-hex-R0. 7 by gas-phase oxygen atoms. Surf. Sci. 601, 235–246
+(2007).
+93. Soon, A., Todorova, M., Delley, B. & Stampfl, C. Surface oxides of the oxygen–copper system: Precursors to the bulk oxide phase?.
+Surf. Sci. 601, 5809–5813 (2007).
+94. Klikovits, J. et al. Surface oxides on Pd (111): STM and density functional calculations. Phys. Rev. B 76, 45405 (2007).
+95. Zhang, H., Soon, A., Delley, B. & Stampfl, C. Stability, structure, and electronic properties of chemisorbed oxygen and thin surface
+oxides on Ir (111). Phys. Rev. B 78, 45436 (2008).
+96. Zhang, W.-B. & Tang, B.-Y. Surface adsorption phase diagram of O/Ni (110) system: An ab initio atomistic thermodynamics
+investigation. Appl. Phys. Lett. 94, 91901 (2009).
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 17
+
+www.nature.com/scientificreports/
+97. Stampfl, C. Surface processes and phase transitions from ab initio atomistic thermodynamics and statistical mechanics. Catal.
+Today 105, 17–35 (2005).
+98. Gustafson, J. et al. Self-limited growth of a thin oxide layer on Rh (111). Phys. Rev. Lett. 92, 126102 (2004).
+99. Campbell, C. T. The selective epoxidation of ethylene catalyzed by Ag (111): A comparison with Ag (110). J. Catal. 94, 436–444
+(1985).
+100. Campbell, C. T. & Paffett, M. T. The role of chlorine promoters in catalytic ethylene epoxidation over the Ag (110) surface.
+Applications of Surface Science 19, 28–42 (1984).
+101. de Carvalho, M. C. N. A., Passos, F. B. & Schmal, M. Study of the active phase of silver catalysts for ethylene epoxidation. J. Catal.
+248, 124–129 (2007).
+Author contributions
+All authors collaborated in writing, software developing, conception, data gathering, and resources.
+Declarations
+Competing interest
+The authors declare no competing interests.
+Additional information
+Supplementary Information The online version contains supplementary material available at h t t p s :/ / d o i . o r g /1
+0 . 1 0 3 8 / s 41 5 9 8 - 0 2 5 - 95 6 4 2 - 2 .
+Correspondence and requests for materials should be addressed to S.H.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide
+a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have
+permission under this licence to share adapted material derived from this article or parts of it. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this licence, visit ht t p : / / c r e at i v e c o m m o
+ns . o r g / l i c en s e s / b y - n c - n d / 4 . 0 / .
+© The Author(s) 2025
+Scientific Reports | (2025) 15:13277 | https://doi.org/10.1038/s41598-025-95642-2 18
+

@@ -1,0 +1,668 @@
+JournalofCatalysis232(2005)85–95
+www.elsevier.com/locate/jcat
+In situ UV–vis studies of the effect of particle size on the epoxidation
+of ethylene and propylene on supported silver catalysts
+with molecular oxygen
+Jiqing Lua, Juan J. Bravo-Suáreza, Atsushi Takahashia, Masatake Harutab, S. Ted Oyamaa,c,∗
+aResearchInstituteforInnovationinSustainableChemistry,NationalInstituteofAdvancedIndustrialScienceandTechnology,AISTTsukubaWest,
+16-1Onogawa,Tsukuba,Ibaraki305-8569,Japan
+bDepartmentofEvaluation,NationalInstituteofAdvancedIndustrialScienceandTechnology,AISTTsukubaCentral2nd,1-1-1Umezono,Tsukuba,
+Ibaraki305-8568,Japan
+cEnvironmentalCatalysisandNanomaterialsLaboratory,DepartmentofChemicalEngineering(0211),VirginiaPolytechnicInstituteandStateUniversity,
+Blacksburg,VA24061,USA
+Received3December2004;revised9February2005;accepted15February2005
+Availableonline7April2005
+Abstract
+In this study the effect of particle size on ethylene and propylene epoxidation was studied on a series of silver catalysts supported on
+◦
+CaCO3 with loading levels of 0.5–56 wt%. Particle sizes determined from O2 chemisorption uptakes at 443 K (170 C) ranged from 50
+to660nm,andthiswasconfirmedbyfieldemissionscanningelectronmicroscopy,whichinadditionshowedcrystalliteagglomerationat
+highloadings.Reactionresultsshowthatlargeparticlesfavorethyleneepoxidationby3–5-foldat473–493K,whereasparticlesizedoes
+nothavealargeeffectonpropyleneepoxidation.X-Raydiffractionmeasurementsindicatethatthebulkoftheparticlesconsistofsilverina
+metallicstate,butinsituultraviolet–visible(UV–vis)spectroscopydistinctlyshowsthatinadditiontoametalliccomponent,smallparticles
++
+havesilverinAg state.ThesmallparticlesareprobablycoveredbyalayerofAg2O,whichresultsinlowerselectivityforepoxidationfor
+bothpropyleneandethyleneoxidationinthesmallsizeregime.Theapproachtosteadystateisfastinpropyleneoxidation(3–4h)andis
+accompaniedbychangesintheUV–visspectrathatindicateareductionintheAg2Ophase.Theapproachtosteadystateisslowinethylene
+oxidation(24–36h)andisassociatedwithchangesintheUV–visspectrathatareconsistentwiththeformationofapartiallyoxidizedsurface
+phase,whichmayinvolvesubsurfaceoradsorbedoxygen.
+2005ElsevierInc.Allrightsreserved.
+Keywords:Propylene;Ethylene;Epoxidation;Silver;UV–visspectroscopy
+1. Introduction by-product salts and chlorinated organic compounds, and
+thehydroperoxideprocessessimilarlyproducealargequan-
+Propyleneoxide(PO)isanimportantcommoditychemi- tity of coproducts (such as t-butylalcohol and styrene) [1].
+calusedintheproductionofpolyurethane,polyesterresins, Both processes suffer from plant complexity and market-
+andsurfactants,theproductionofwhichexceeded5million ing/productioninefficiencies.
+tons in 1999 [1]. The present major methods for PO pro- Several alternatives are being pursued to overcome the
+duction are the chlorohydrin process and variations of the drawbacks in the present processes. A route recently com-
+Halconprocessusingt-butylandethylbenzenehydroperox- mercialized by Sumitomo Chemical utilizes cumene hy-
+ides. The chlorohydrin process produces large amounts of droperoxideandrecyclesthealcoholformedintheepoxida-
+tionstepsothattherearenocoproducts[2].Otherprocesses
+* Correspondingauthor. being developed by Lyondell and Bayer [3], BASF, Solvay
+E-mailaddress:oyama@vt.edu(S.T.Oyama). and Dow [4], and Degussa and Krupp Uhde [5] use hy-
+0021-9517/$–seefrontmatter 2005ElsevierInc.Allrightsreserved.
+doi:10.1016/j.jcat.2005.02.013
+
+86 J.Luetal./JournalofCatalysis232(2005)85–95
+drogen peroxide (H O ) produced captively in a separate the UV–vis absorption bands of supported silver catalysts.
+2 2
+plant. The H O route was first demonstrated by Enichem Some of the most important spectral features include band
+2 2
+withtheuseofanovelTi-containingsiliceouszeolite,TS-1 transitionsofAg + at6.5–5.4eV(190–230nm),Ag0at5.0–
+[6], and is attractive because it does not yield any coprod- 3.8eV(250–330nm),andsmallAg clustersat3.8–3.4and
+n
+ucts.Currently,thecatalystforthisrouteistitaniumsilicate 2.8–2.3 eV (330–360 and 440–540 nm, respectively), and
+with the TS-1 structure [7]. However, the H O route is lightabsorptionbylargeclusters(>10nm),crystallites,and
+2 2
+expensive,andimprovementsintheprocessarebeingstud- aggregates mainly characterized by pronounced resonance
+ied, including in situ generation of H O from H and O linesduetocollectiveexcitationsofconductionelectronsat
+2 2 2 2
+mixtures. Catalysts that havebeen investigatedfor simulta- 3.1–2.4 eV (400–500 nm). These excitations are known as
+neous H O formation and propylene epoxidation include plasmonresonances,andtheirproperties(i.e.,spectralposi-
+2 2
+palladium- or palladium/platinum-supported titanium sili- tion,shape)canprovidevaluableinformationaboutthesize,
+calite [8–12], gold supported on titania [13], and gold sup- form, surrounding medium, and chemical interactions with
+portedontitaniumsilicates[14]. theenvironmentofthemetalnanoparticles[32,34–41].
+The discovery of a vapor-phase direct epoxidation cata- Inthisstudyweinvestigatetheroleofsilverparticlesize
+lystcapableofproducingpropyleneoxideinhigherselectiv- inAg/CaCO catalystsforethyleneandpropyleneepoxida-
+3
+ity than is currently attainable is most desirable. Silver is a tionandusescanningelectronmicroscopy(SEM)andinsitu
+well-knowncatalystforethyleneepoxidation.However,the UV–visspectroscopytoexaminethestructureofthecatalyst
+catalystsandreactionconditionsthatarebestsuitedforeth- andtheoxidationstateofthecatalystsurface.
+yleneoxideproductiondonotgivecomparableselectivities
+inthedirectepoxidationofpropylene.Therearevariousre-
+ports on the modification of silver catalysts to enhance the 2. Experimental
+POselectivity,inboththeopen[15–20]andpatent[21–26]
+literature.Mostofthesilvercatalystsforpropyleneepoxida- 2.1. Catalystpreparation
+tionresultinhighsilverloading,aswellasheavypromotion.
+Forexample,asilvercatalystreportedbyARCOcontains54 A typical Ag/CaCO catalyst was prepared as follows
+3
+wt%silvermixedwithCaCO andispromotedwith0.5wt% by a method similar to that reported by ARCO [21]. For
+3
+Moand2wt%K.Forafeedmixturecontaining10%propy- a 56 wt% metal loading sample, 15 g (250 mmol) of eth-
+lene, 5% oxygen, 200 ppm ethyl chloride, 75 ppm nitric ylene diamine (Wako, 99.0%) and 10.1 g (112 mmol) of
+oxide, 10% carbon dioxide, and the balance in nitrogen, at oxalic acid (Wako, 98.0%) were dissolved in 20 g of dis-
+a gas hourly space velocity (GHSV) of 1200 h
+−1,
+a total tilled, deionized H O, and 8.9 g (38.4 mmol) of Ag O
+2 2
+◦
+pressure of 0.21 MPa (30 psig), and 518 K (245 C), the (Wako,99.0%)wasslowlyaddedtothemixturewithmag-
+propylene conversion was 3.2% and the selectivity for PO neticstirringuntilitwascompletelydissolved.After1hof
+was58–59%[21].ItshouldbenotedthatadirectPOprocess stirring,1.8g(29.5mmol)ofethanolamine(Wako,99.0%)
+would probably aim at high selectivity (80–90%) with low was added to the mixture and stirred for another 1 h. Then
+conversion(<10%),asispracticedinEOproduction,sothe 6.4 g (64 mmol) of CaCO (Wako, 99.5%, specific area
+3
+resultsfromARCOarepromising.Lambertetal.[19]stud- 0.5m2g −1)wasaddedtothesolutiontoformaslurry.The
+ied the effect of Ag crystallite size in potassium-promoted slurrywastransferredintoastainless-steelmillingmachine
+Ag/CaCO catalysts and found that the best PO selectivity (Fritsch,modelpulverisette6)with30millingballsandwas
+3
+of 15% was obtained on a catalyst containing a large pro- milled for 4 h. The milled sample was then dried at 393 K
+◦ ◦
+portion of Ag particleswith sizes in the intermediaterange (120 C) for 2 h and calcined at 633 K (360 C) for 3 h.
+of20–40nm.Agparticlesthatwereeithermuchsmalleror Samples with 0.5, 1, 7, 14, 28, and 42 wt% were prepared
+muchlargerthanthisintermediaterangewerelessselective in a similar manner. In the designation Ag(56)/CaCO , the
+3
+towardepoxidation.However,almostalloftheinformation number in parentheses indicates the Ag loading in weight
+regardingthestructureandperformanceofARCO-typecat- percent.
+alysts(highsilvercontentloadedonCaCO withpromoters)
+3
+isfoundinpatents,andfewdetailedstudieshavebeenmade 2.2. Catalytictesting
+to help elucidate the nature of the active and selective sites
+forPOformation. Theepoxidationofpropylenewascarriedoutinaquartz
+Insitudiffusereflectancespectroscopyintheultraviolet– tubular microreactor with a diameter of 6 mm and a length
+visible(UV–vis)regionisusefulforstudyingtheelectronic of 180 mm, with 0.5 g catalyst of 20–40 mesh size diluted
+properties of heterogeneous catalysts and the nature of ad- withquartzsandofthesamemeshsizetoavolumeof1cm3.
+sorbedintermediatespeciesorsideproductsduringcatalytic Flow rates of He (Jorban Helium Supply, purity >99.9%),
+reactions [27–31]. More specifically, the optical properties O (Hitachi Sanso, purity >99.5%), and C H (Takachiho
+2 3 6
+of silver atoms, ions, and clusters have been well stud- Chemical, purity >99.8%) were 15, 10, and 5 cm3min −1
+iedandexhibitcharacteristicUV–visabsorptionbands[32]. eachandwerecontrolledbymassflowmeters;thereaction
+Pestryakov et al. [33] have presented an interpretation of pressure was set at 0.3 MPa. Before reaction the catalysts
+
+J.Luetal./JournalofCatalysis232(2005)85–95 87
+werepretreatedwithHe(15cm3min −1)at423K(150 ◦ C) stant and 1.14×1019 m −2 is the surface density of silver
+for 1 h. Reaction products were analyzed online by two atomsaveragedforthethreelowindexplanes(100),(110),
+gaschromatographs(ShimadzuGC-14).Onewasequipped and(111).
+with a flame ionization detector (FID) and a thermal con- Field emission scanning electron microscopy (FESEM)
+ductivity detector (TCD), which respectively included the imagesofthesampleswereobtainedinamicroscope(JEOL
+use of a FFAP capillary column (0.32 mm × 60 m) and JSM6500)operatedat15kV.Weobtainedparticlesizedis-
+a Porapak Q compact column (3 mm × 2 m). The other tributionsbymeasuringthediametersofatleast20particles
+had two TCDs attached to a MS-5A 60/80 compact col- inarepresentativeregion.
+umn (3 mm × 2 m) and a Gaskuropak 54 84/100 com- In situ UV–vis spectra were collected with a large-
+pact column (3 mm×2 m). The FFAP capillary column compartment spectrometer (Varian Cary 5000) equipped
+andPorapakQcolumnwereusedtodetectoxygenates(ac- with a reaction chamber (Harrick Scientific; model HVC-
+etaldehyde, PO, acetone, propionaldehyde, acrolein, acetic DRP) in conjunction with a praying mantis diffuse re-
+acid, and isopropanol) and CO , respectively, and the MS- flectance attachment (DRP-XXX). Initially, the catalysts
+2
+5A and Gaskuropak columns were used to detect CO and werepretreatedasforthereactionstudieswithHe(15cm3
+hydrocarbons (propane, propylene, ethylene, and ethane), min
+−1)
+at 423 K (150
+◦
+C) for 1 h and were then cooled to
+◦
+respectively. The compositions of the columns were as fol- 298K(25 C).Theflowwasthenswitchedtoreactiongases
+lows:FFAP,modifiedpolyethyleneglycolterephthalicacid; at the same flow rate (C H or C H = 5 cm3min −1, O
+3 6 2 4 2
+PoropakQ,ethylvinylbenzene–divinylbenzeneporouspoly- = 10 cm3min −1, He = 15 cm3min −1) and pressure (0.3
+mers; MS-5A, molecular sieve 5A, Gaskuropak 54 80/100, MPa) as in the reaction studies. Then the reaction temper-
+polystyrene-divinylbenzene porous polymer 80–100 mesh. ature was raised to 473 K (200
+◦
+C) at a rate of 0.17 Ks
+−1
+Carbon balances closed to 100±3%. The epoxidation of (10 Kmin −1), and spectra were recorded after 1 h over the
+ethylenewascarriedoutinanidenticalmanner,exceptthat rangeof200–800nmatascanrateof200nmmin
+−1,anav-
+ethylene(TakachihoChemical,purity99.5%)wasusedasa eragetimeof0.5s,andadataintervalof0.333nm.Spectra
+reactant. were referenced to CaCO under the same reaction condi-
+3
+tions(pretreatment,gasenvironment,pressure,andtemper-
+2.3. X-Raydiffraction,O chemisorption,FESEM,andin ature). Diffuse reflectance spectra were analyzed with the
+2
+situUV–vismeasurements useoftheKubelka–Munkfunction,F(R ),calculatedfrom
+α
+theabsorbancedata[48].
+The X-ray diffraction patterns of the samples were ob-
+tained with an X-ray diffractometer (Rigaku, RINT2000)
+operated at 40 kV and 40 mA, with Cu-K monochroma- 3. Results
+α
+tizedradiation(λ=0.154178nm).Crystallitesizes(D )of
+c
+the catalysts were determined from the line broadening of 3.1. XRD,SEM,andO chemisorptionmeasurements
+2
+the two most intense peaks at 2θ =64.4 ◦ and 2θ =77.4 ◦ ,
+with the use of the Scherrer equation, D =Kλ/βcos(θ), Fig.1showstheXRDpatternsoftheAg/CaCO catalysts
+c 3
+whereKisaconstanttakenas0.9,λisthewavelengthofthe with different silver loading. The main peaks at 23.1, 29.5,
+◦
+X-rayradiation,β isthewidthofthepeakathalf-maximum 31.8, 36.1, 39.6, 43.3, 47.6, 48.5, 57.5, and 60.9 (2θ) are
+◦
+corrected for instrumental broadening (0.1 ), and 2θ is the due to the CaCO support. With increasing silver loading,
+3
+Braggangle[42]. theintensitiesofpeaksduetocrystallinesilverat38.3,44.3,
+◦
+Surface areas and oxygen uptakes were measured in a 64.7, and 77.6 (2θ) grow from very faint and diffuse for
+volumetricadsorptionunit(MicromeriticsASAP2020).For the0.5wt%sampletoverystrongandsharpforthe56wt%
+thechemisorptionmeasurementsthesampleswereheatedin sample.
+flowing O for 1 h, evacuated for 0.5 h, reduced in flow- Fig.2presentstheFESEMimagesofsilvercatalystswith
+2
+ing H for 1 h, evacuated to < 1.3 mPa (10 µmHg) for 1, 14, and 56 wt% silver. The silver particle increases in
+2
+◦
+0.5h,anddosedwithO ,allat443K(170 C).Silverpar- size and the distribution becomes broader with silver load-
+2
+ticlesizeandmetallicsurfaceareawerecalculatedfromthe inglevel.Forthe1,14,and56wt%samplesthemaximain
+O chemisorption uptake (µmolg
+−1).
+Based on an adsorp- thedistributionsare50,170,and370nm,respectively,and
+2
+tionstoichiometryof O /Ag =1,whereAg representsa thebreadthsareapproximately20,50,and300nm.Within-
+ad s s
+surface Ag atom, dispersion for the silver samples can be creasingloadingthereisevidenceforparticleagglomeration
+calculatedbydividingthenumberofchemisorbedOatoms andirregularparticleshape.
+bythetotalnumberofAgatoms[43–45],andifsphericalAg Table 1 summarizes O chemisorption and surface area
+2
+crystallites are assumed, the relationship between crystal- results for the Ag catalysts. The O uptakes initially in-
+2
+litesizeanddispersion, D,is d (nm)=1.34/D [43,46,47]. creased rapidly with the Ag loading levels but then leveled
+The metallic surface area was calculated according to the off, reaching a maximum of 5.9 µmolg
+−1
+for a loading of
+equation S (m2g −1)=(O uptake × 2 × 10 −6 × 6.02 × 42wt%,andthendecreased.TheAgparticlesizecalculated
+2
+1023)/1.14 × 1019, where 6.02×1023 is Avogadro’s con- from the chemisorption values increased with Ag loading,
+
+88 J.Luetal./JournalofCatalysis232(2005)85–95
+sionincreasedwithtemperatureandsilverloading;alower
+temperature was required to obtain the same conversion at
+highersilvercontent.POselectivitydecreasedwithincreas-
+ingtemperature;thedeclinewasverypronouncedatconver-
+sions greater than 30% for all of catalysts. The highest PO
+selectivitywas onlyabout10%andwas obtainedwhenthe
+conversionwaslow.
+Fig. 4 shows the ethylene epoxidation results over 0.5-
+g samples of the Ag/CaCO catalysts. The trends in the
+3
+ethylene conversion were the same as for propylene, with
+conversionincreasingwithsilverloading.However,thecon-
+versions for the high loading catalysts were close to each
+otherandhigherthaninthecaseforpropylene.TheEOse-
+lectivity was much higher than the PO selectivity for each
+catalyst,withthehighestEOselectivityattaining70%.The
+selectivity results fell into two regions.For loadings higher
+than 7 wt%, the selectivities were close to each other but
+generally fell with increasing loading. Small discrepancies
+in order are due to experimental error. For the low loading
+of0.5and1wt%,theselectivitiesweresubstantiallyhigher
+andincreasedforthehigherloadings.
+Fig. 5a shows a typical time course for propylene epox-
+idation over a Ag/CaCO catalyst (14 wt%). After a short
+3
+inductionperiodof3–4h,thecatalystshowsstablereactiv-
+ityformorethan25hwithapropyleneconversionof15%
+andaPOselectivityofabout8%.However,theperformance
+isquitedifferentforethyleneepoxidation.Fig.5bshowsthat
+ethylene conversion gradually declined with reaction time,
+beforebecomingsteady,startingataround24–36h,whereas
+the EO selectivity went up. The catalyst stabilized with an
+ethyleneconversionof9%andanEOselectivityof53%.
+Fig.1.XRDpatternsofAg(x)/CaCO3catalystsandreferences.
+3.3. InsituUV–visspectroscopy
+from50to660nmforsilverloadingsof0.5to56wt%.The Figs.6and7presentinsituUV–visspectraforAg/CaCO
+3
+totalspecificsurfaceareadecreasedslightlywithloading. catalysts with different silver loadings for propylene and
+◦
+ethyleneepoxidationat 473K (200 C),respectively.From
+3.2. Catalytictesting a comparison of the two figures, it can be seen that there
+are no appreciable differences between the spectra for the
+Fig.3showsthepropyleneepoxidationresultsover0.5-g samesilverloadingafter1honstream.Threemainfeatures
+samples of the Ag(x)/CaCO catalysts. No products other couldbeidentified:silverplasmonresonances(2.4–3.7eV),
+3
+than PO, CO , and H O were found. Propylene conver- Ag0bandtransitions(3.8–4.6eV),andAg + bandtransitions
+2 2
+Table1
+ComparisonofsurfacepropertiesofAg(x)/CaCO3catalysts
+Agloading O2uptake Metallicsurfacearea Dchem a DSEM b XRDcrystallitesizec BETsurfacearea
+(wt%) (µmolg −1) (m2g −1) (nm) (nm) (nm) (m2g −1)
+0.5 0.663 0.070 49 – 7.85 –
+1 0.943 0.099 66 50 10.0 6.5
+7 2.916 0.307 149 – 13.2 –
+14 4.522 0.476 192 170 13.6 3.3
+28 4.633 0.488 375 – 13.6 –
+42 5.941 0.626 439 – 13.6 –
+56 5.297 0.558 656 370 14.2 3.0
+a Calculatedfromoxygenchemisorptionuptakes.
+b Calculatedfromscanningelectronmicroscopy.
+c CalculatedbytheScherrerequation.
+
+J.Luetal./JournalofCatalysis232(2005)85–95 89
+Fig. 2. Field emission scanning electron microscopy (FESEM) images (left) and particle size distribution (right) of Ag(x)/CaCO3 catalysts. Left: (a)
+Ag(1)/CaCO3,(b)Ag(14)/CaCO3,(c)Ag(56)/CaCO3.Right:(d)Ag(1)/CaCO3,(e)Ag(14)/CaCO3,(f)Ag(56)/CaCO3.
+(5.4–6.2eV).Figs.6and7showthattheplasmonresonance dependence on silver loading could not be ascertained ex-
+wasquitesymmetricandwascenteredataround3.0eVfor actly because of the change in background; however, there
+the catalysts up to 7 wt% silver loading. For silver load- isacleartrendofincreasingAg + /Ag0ratiowithdecreasing
+ings higher than 14 wt%, the plasmon resonance was no silverloading.
+longersymmetric,andtwochangescouldbenoticed:ashift Figs. 8 and 9 present in situ UV–vis spectra for Ag(14)/
+◦
+ofthemainplasmonresonancepeaktohigherenergies(blue CaCO catalystwithtimeonstreamat493K(200 C)and
+3
+shift)ataround3.2eV,andtheappearanceofashoulderat 0.3 MPa in C H /O /He and C H /O /He, respectively. In
+3 6 2 2 4 2
+about3.5eV.TheintensityofAg0bandtransitionsincreased thecaseofpropyleneepoxidation(Fig.8),themostremark-
+proportionallywiththesilverloadinginthecatalysts,asex- able change was the quick reduction of the feature due to
++ +
+pected. In the case of Ag band transitions, the intensity Ag bandtransitions,whichoccurredrapidlyupto4.5hon
+
+90 J.Luetal./JournalofCatalysis232(2005)85–95
+Fig.3.PropyleneepoxidationoverAg(x)/CaCO3 catalysts(a)propylene
+F
+ve
+ig
+rs
+.
+i
+4
+o
+.
+n
+E
+,(
+th
+b
+y
+)
+l
+E
+en
+O
+e
+s
+e
+e
+p
+le
+o
+c
+x
+t
+i
+i
+d
+v
+a
+it
+t
+y
+io
+.
+noverAg(x)/CaCO3catalysts(a)ethylenecon-
+conversion,(b)POselectivity.
+streamandwasfairlycompleteafter8.5h(seedashedarrow silver become stronger and sharper as the silver content is
+for extrapolated baseline). After 24 h, only a slight shift to increased, indicating that the silver particles grow with an
+lowerenergy(redshift)ofthemainplasmonresonancepo- increaseinloading.ThistrendissupportedbytheSEMob-
+sitionandotherminorchangeswereobserved(solidarrow). servations(Fig.2).TheAg(1)/CaCO 3 sampledisplayssmall
+Inthecaseofethyleneepoxidation(Fig.9)therewasagaina silver particles on the support, which grow in size for the
+decreaseintheintensityoftheAg + feature,butinthiscase Ag(14)/CaCO 3 sampleandbecomelargerandmorenumer-
+thereductionprocesswasslowerthanthatinthepropylene ous for the Ag(56)/CaCO 3 sample. The particle size distri-
+epoxidation.Evenafter24–36honstream,theAg + feature bution is narrow for the low loading sample and increases
+wasstillpresent(considerableintensityremainedabovethe in breadth for the high loading samples. Furthermore, the
+dashed arrow). On the other hand, the main plasmon res- micrographsshowthatthelowloadingsamplespresentsil-
+onance position was significantly shifted to lower energies verparticlesthatareclosetosphericalinshape,whereasthe
+(redshift)togetherwithotherchanges(solidarrow). highloadingsampleshavesilverparticlesofirregularmor-
+phology as the particles agglomerate and coalesce. These
+resultswillbequantifiedshortly.
+4. Discussion TheparticleshapetrendsarealsoindicatedbytheUV–vis
+results. The fact that the plasmon resonance is quite sym-
+In this work a series of Ag/CaCO catalysts with silver metricandiscenteredataround3.0eVforthesamplesupto
+3
+loadings from 0.5 to 56 wt% were used to study the effect 7wt%silverloadingindicatesthatthesilverparticleshavea
+ofparticlesizeontheepoxidationreactionsofethyleneand regularsphericalshapeofnarrowsizedistribution.Forsam-
+propylenewithmolecularoxygen.Thetotalsurfaceareaof pleswithhighersilverloading,thepresenceofanewpeakin
+the catalysts was low, 3–6 m2g −1 (Table 1), as is typical the plasmon feature (resonance of higher multipolar order)
+for this type of material. In the catalysts the silver parti- indicates the presence of oblate spheroids and large clus-
+clesizebecomeslargerwithincreasingloading,asindicated ters in which the optical field becomes non-uniform across
+by XRD, SEM, and O chemisorption data. The XRD pat- thecluster[32,36,40,49].Theseresonancesatabout3.2and
+2
+terns(Fig.1)showthatthepeakintensitiesduetocrystalline 3.5 eV are referred to as the (1, 1) and (1, 0) modes, re-
+
+J.Luetal./JournalofCatalysis232(2005)85–95 91
+Fig. 7. In situ UV–vis diffuse reflectance spectra of Ag/CaCO3 cata-
+◦
+lysts with different silver loadings at 473 K (200 C) and 0.3 MPa in
+C2H4/O2/He.Offsetsareusedforclarity.
+Fig. 5. Time course of propylene and ethylene epoxidation over the
+Ag(14)/CaCO3 catalyst:(a)propyleneepoxidation,(b)ethyleneepoxida-
+◦
+tion.Reactiontemperature,493K(220 C).
+Fig.8.InsituUV–visdiffusereflectancespectraofAg(14)/CaCO3catalyst
+◦
+withtimeonstreamat493K(220 C)and0.3MPainC3H6/O2/He.
+positions of these resonances depend on the ratio a/b (for
+completely spherical particles the ratio a/b is 1) and are a
+functionoftheparticleshape.Forinstance,thelargerthera-
+tioofthepeakpositions(ineV)ofthe(1,0)/(1,1)modes,
+the smaller the ratio a/b [36,49]. Therefore, it can be said
+that for Ag(x)/CaCO catalysts with silver loading higher
+3
+Fig. 6. In situ UV–vis diffuse reflectance spectra of Ag/CaCO3 cata- than14wt%,thesilverparticleshavelargersizesandareno
+lysts with different silver loadings at 473 K (200 ◦ C) and 0.3 MPa in longerspherical,tendingtoformoblatespheroids.
+C3H6/O2/He.Offsetsareusedforclarity. The results of O
+2
+chemisorption on Ag/CaCO
+3
+cata-
+lysts showthatforcatalystswithsilverloadinghigherthan
+spectively. The (1, 1) mode is due to excitation of plasmon 14 wt%, O uptake increased, but not proportionally to the
+2
+polaritronsinthedirectionoftheparticlelongaxis(b),and loading.Thisalsoindicatesthatthereiscrystalliteagglomer-
+the (1, 0) mode is due to the excitation of collective oscil- ationonthehighloadingsamples,resultinginapoorerdis-
+lations in the direction of the particle short axis (a). The persion of Ag particles, hence giving lower O chemisorp-
+2
+
+92 J.Luetal./JournalofCatalysis232(2005)85–95
+Table2
+POandEOselectivitiesforAg/CaCO3catalystsatpropyleneandethylene
+conversionsof10%
+Catalyst POformation EOformation
+Temperature Selectivity Temperature Selectivity
+(K) (%) (K) (%)
+Ag(56)/CaCO3 445 6.0 441 48.0
+Ag(42)/CaCO3 460 6.1 445 46.1
+Ag(28)/CaCO3 474 6.2 456 46.7
+Ag(14)/CaCO3 483 8.9 477 41.6
+Ag(7)/CaCO3 508 6.7 489 25.7
+Ag(1)/CaCO3 535 5.0 550 32.0
+Ag(0.5)/CaCO3 540 4.3 562 24.7
+cussed earlier, the features at intermediate energy (3.8–
+4.6eV)areduetobandtransitionsofmetallicAg0,andthe
+features at high energy (5.4–6.2 eV) are due to electronic
++
+transitioninvolvingtheAg ion.Itisclearfromtheresults
+Fig.9.InsituUV–visdiffusereflectancespectraofAg(14)/CaCO3catalyst inFigs.6and7thattheratioAg + /Ag0increasedwithlower
+◦
+withtimeonstreamat493K(220 C)and0.3MPainC2H4/O2/He.
+silver loading. The results indicate that all particles have
+someoxidepresentandthatthesmallersilverparticleshave
+tion.Suchsinteringofsilverparticlesiswellknown.Ruck- alargerproportionoftheoxide.Thisisinaccordancewitha
+ensteinandLee[50]reportedcrystallitemigrationandcoa- thermodynamicanalysisatatmosphericpressureofthefree
+lescencewhenAgsampleswereheatedinO 2 forsilverpar- energy of formation of Ag 2 O (in kJmol −1) from spherical
+ticlessupportedonnonporousalumina,whichwasfoundby silverparticles,whichresultedintheequationAg+O →
+2
+transmissionelectronmicroscopy.TheAg(14)/CaCO 3 sam- Ag 2 O,(cid:5)G0 298K =−11.25−115.0/D,whereD isthepar-
+pleshows4.5µmolg
+−1
+O 2 uptake,whichisconsistentwith ticlediameterinnanometers[54].Theequationpredictsthat
+previous results of Badani and Vannice [51]. Badani and smallersilverparticlesaremoreeasilyoxidized.Itislikely
+Vannice prepared an Ag/α-Al 2 O 3 catalyst with 15.1 wt% thattheoxideisintheformofathinlayeronthesurfaceof
+silver loading, which had an O uptake of 4.4 µmolg
+−1.
+ametalliccore,astheXRDresultsshowstrongmetalpeaks
+2
+The particle size in the Ag(14)/CaCO sample is in the butnooxidefeatures.
+3
+same range as that of their Ag(15)/α-Al O sample, which The different catalytic behaviors of the Ag/CaCO cata-
+2 3 3
+gives an average particle size of 213 nm, calculated by lystsforpropylene(Fig.3)andethylene(Fig.4)epoxidation
+O chemisorption uptake. Results for other loadings are are understandable. The low PO selectivity on the silver
+2
+summarized in Table 1. There is good agreement between catalysts is known to be due to the reaction between al-
+the particle size measured by O chemisorption and those lylic hydrogens and adsorbed nucleophilic oxygen species,
+2
+determined from the SEM pictures. For the 1, 14, and which results in total combustion[55–57]. Table 2 lists PO
+56 wt% samples the O chemisorption values are 66, 192, and EO selectivities for Ag/CaCO catalysts at propylene
+2 3
+and656nm,whereastheSEMvaluesare50,170,370nm. and ethylene conversions of 10% each. It can be seen that
+NotethattheparticlesizescalculatedwiththeScherrerequa- for propylene and ethylene the conversion behavior is sim-
+tionaremuchsmallerthanthoseobtainedbySEMandbyO ilar. Higher reaction temperatures are needed for catalysts
+2
+chemisorption.Thismaybeduetothelowsensitivityofthe with low silver loading to obtain the same conversion. The
+line-broadeningtechniquetolargecrystallitesandtostrains selectivity results show some differences, however. The se-
+in the large Ag particles [52], but most likely is due to the lectivity for PO is low and relatively constant, increasing
+presenceofpolycrystallineaggregates. slightly for catalysts with intermediate loading centered at
+ItshouldbenotedthatalthoughO chemisorptionisused Ag(14)/CaCO .TheselectivityforEOishighestforthecat-
+2 3
+in this study to estimate the number of surface sites, as alyst with the highest loading and decreases with loading.
+with all chemisorption techniques the results are approxi- ThedeclineinEOselectivityismorepronouncedthanthat
+mate.Thisisparticularlythecaseforsilverinwhichsubsur- inPO.Theseresultssuggestthatforbothpropyleneandeth-
+faceoxygenchemisorptionandbulkoxidationmayoccurat ylene epoxidation, large silver particles are favorable, and
+higheroxygencoverages[53].However,thegoodagreement ethylene epoxidation is more sensitive to the silver parti-
+between the chemisorption and SEM techniques gives cre- cle than propylene epoxidation is. This conclusion for EO
+dencetotheassumptionthatinthiscasetheapproximation is well known, as the best catalysts are recognized to have
+isreasonable. lowsurfaceareaandmassivesilvercrystallites[58,59].
+UV–visspectroscopycanalsoprovideinformationabout TocomparetheintrinsicactivitiesoftheAg/CaCO sam-
+3
+the surface oxidation state of the silver particles. As dis- pleswithdifferentAgloading,turnoverfrequencies(TOFs)
+
+J.Luetal./JournalofCatalysis232(2005)85–95 93
+in the present study. In addition, the occurrence of particle
+agglomerationatthelargerloadingsprobablyincreasessur-
+facedisorderinthosesamplesandoffsetstheexpectedgains
+in the proportion of smooth surfaces. This helps explain
+the limited changes in TOF in both reactions. Still another
+factor,andperhapsthemostimportant,isthechangeinox-
+idation state of the silver particles with size. The UV–vis
+measurementsatreactionconditionsclearlyindicatethatthe
++
+smaller particles have larger amounts of Ag species than
+the larger particles. The smaller particles are probably par-
+tiallycoveredwithalayerofAg O.Inthecaseofethylene
+2
+thiscompoundhasbeenreportedtoyieldlessEO[62].Thus,
+theobserveddeclineinEOTOF(Fig.10)withadecreasein
+particlesizeislikelytobeduetoachangeintheactivephase
+frommetallictooxidicratherthanapurelystructuralchange
+ingoingtosmallparticles.ThelackofchangeinPOselec-
+tivitymaybeduetothefactthatthetotaloxidationreaction
+occursreadilyinboththemetallicandoxidicphases.
+Another interesting finding in this study is the tran-
+sientbehaviorofpropyleneandethyleneepoxidationonthe
+Ag(14)/CaCO catalyst.Itwasfoundthatpropyleneepoxi-
+3
+dation reached steady state within 4–5 h, whereas ethylene
+epoxidationrequiredabout24–36htoreachaconstantstate.
+This is probably related to changes in the catalyst surface
+during reaction. For the propylene reaction the in situ UV–
+vis spectra showed a relatively fast reduction of the high-
++
+energy (5.2–6.4 eV) Ag peak, with the peak reaching a
+constantvalueafter4–5h.Incontrast,fortheethylenereac-
+Fig.10.Turnoverfrequencies(TOF)fortotalreaction(a)andPOandEO
++
+formation(b). tion the Ag peak was reduced and reached a steady value
+after24–36h.Clearly,thereisaverygoodcorrespondence
+betweenthereactivityresultsandtheUV–visdata.Thede-
+fortotalreactionandEOandPOformationwerecalculated crease in the intensity of the Ag + peaks during propylene
+at 473 and 493 K based on the oxygen chemisorption up- and ethylene epoxidation has a direct relationship with the
+takes(Fig.10).Reactionratesforbothethyleneandpropy- reactivity.Uponexposuretothereactivegasmixtureinboth
+lene increase with reaction temperature. For PO formation propyleneandethyleneoxidation,thesilverparticlesinteract
+the TOF increased slightly with silver loading at both tem- strongly with oxygen and, for the thermodynamic reasons
+peratures.ForEOformation,theTOFincreasedfivefoldfor discussedearlier,formasurfaceAg Olayer.Asthereaction
+2
+◦
+catalystswith1to28wt%silverloadingat493K(220 C) proceeds,thepropyleneandethylenereactwiththesurface
+(particle size ranging from 70 to 380 nm) and threefold at oxygen species and gradually reduce the surface. The to-
+◦
+473K(200 C).Classically,particlesizeeffectscanbeused tal rates of reaction in the two cases are similar (Fig. 10a).
+to determine the structure-sensitivity of reactions [60]. The For the Ag(14)/CaCO sample at 493 K the total turnover
+3
+present finding that the PO formation rate does not change frequenciesare,respectively,0.10s −1(forpropyleneoxida-
+with Ag particle size whereas the EO formation rate varies tion)and0.15s −1(forethyleneoxidation),withcorrespond-
+indicatesthatpropyleneepoxidationisstructure-insensitive, ingcharacteristictimes(t=1/TOF)of10sand6.7s.Thus,
+whereas ethylene epoxidation is structure-sensitive, at least changesinthecatalystsurfaceoccurovermanyturnovers.In
+withAgparticlesizesrangingfrom50to660nm.However, thecaseofpropylenethechangesoccurrapidly,probablybe-
+theseconclusions,especiallyforthecaseofPO,needtobe cause the selectivity for deep oxidation is much higher and
+qualifiedbecauseofvariouscomplicatingfactors.First,the much more surface oxygen is consumed in each catalytic
+epoxidation of propylene occurs with very low selectivity, cycle. It is evident that propylene has a stronger reducing
+and it is doubtful that a firm conclusion about the effect abilitythanethyleneandisabletoreducethesurfaceAg O
+2
+of structure can be reached when the reaction pathway be- faster during reaction. The Ag O is almost completely re-
+2
+ing examined is minor compared with others. Second, the duced during propylene epoxidation (Fig. 8), whereas it is
+changes in the structure of the catalysts are not as large partially reduced during ethylene epoxidation (Fig. 9). The
+as should be expected because their size range is limited, reducing capability of propylene has been investigated on
+especially on the low side. Normally, large changes are ex- silvercatalystsintheselectiveoxidationofNOtoNO .Bog-
+2
+pected in the range of 1–10 nm [61], which is not attained danchikovaetal.[63]foundthatinselectivecatalyticreduc-
+
+94 J.Luetal./JournalofCatalysis232(2005)85–95
+tion(SCR)afeedcontaining500ppmofpropyleneinalarge takes,assumingequalnumbersoflowindexplaneswereex-
+excess of O reduced part of the oxidized silver species. posed.Particlessizesobtainedfromfieldemissionscanning
+2
+They suggested that the high affinity of the π-electrons of electron microscopy gave good agreement with the calcu-
+propyleneformetalcationsprobablyfavoredtheadsorption lated particle sizes and showed the occurrence of particle
+ofthehydrocarbontothecatalystandallowedthereduction, agglomeration at high loadings. UV–vis reflectance spec-
+despitethepresenceofO . troscopyconfirmedtheseresults,indicatingthepresenceof
+2
+Another significant change revealed by the in situ UV– sphericalparticlesatlowloadingandlargerlesssymmetric
+vis spectra is the occurrence of a red shift of the main sil- shapesathighloadings.TheUV–visspectroscopyalsosup-
+verplasmonresonancepositionduringethyleneepoxidation ported the findings by X-ray diffraction that the silver was
+(Fig.9).Thisisnotobservedinpropyleneepoxidation.The mostly metallic, but also showed the presence of an oxide
++
+changefortheethylenereactionmayberelatedtoavariation phase with a Ag component that was more favored with
+in the shape of the silver particles from spherical to oblate lower particle sizes. Transient results indicated that propy-
+spheroids [37]. Ruckenstein and Lee [50] found that when lene oxidation reached steady state quickly (3–5 h), and
+silver particles were heated in C H the particles changed parallelUV–visspectrashowedsubstantialreductionofthe
+2 4
+theirshapefromcirculartoellipsoidal,andwhenheatedin oxidiccomponent.Inthecaseofethyleneoxidation,steady
+a mixture of C H and O the particles acquired more ir- statewasattainedslowly(24–36h),andUV–visspectraindi-
+2 4 2
+regular shapes. It is possible that during ethylene oxidation catedretentionoftheoxidiccomponent,withotherspectral
+theparticlesundergorestructuring[64]thatgivesrisetothe changesconsistentwiththepossiblepresenceofadsorbedor
+observed change in the silver plasmon resonance. This re- subsurfaceoxygen.
+structuringmaybeassociatedwiththeformationofaunique
+surfacephaseactivefortheEOreaction.Therearetwopos-
+sibilities for this phase. One of them is a phase containing Acknowledgments
+subsurface oxygen and the other is a phase with an opti-
+mal amount of adsorbed oxygen. Subsurface oxygen was The authors are grateful for financial support from the
+first suggested by van Santen and Kuipers [65] to explain Ministry of Economy, Trade and Industry (METI) (Mini-
+a variety of results in the EO literature and has been used mum energy chemistry project) and the National Science
+to explain other features of the reaction, such as isotopic FoundationundergrantCTS-0321979.
+exchange, effect of promoters, transient use of oxygen in-
+ventories,andmicrokineticanalysis[66–68].Aslowprocess
+would seem to be more consistent with the formation of a References
+subsurface oxygen phase. Adsorbed oxygen has been sug-
+gestedtogiveselectiveepoxidationofethylenebyKazanski [1]D.L.Trent,PropyleneOxide,in:KirkOthmerEncyclopediaofChem-
+et al. [69] and in more recent work detailing the existence icalTechnology,onlineed.,Wiley,NewYork,2001.
+[2]T.Seo,J.Tsuji,USPatent6,646,139(November11,2003),toSumi-
+of nucleophilic (nonselective) and electrophilic (selective)
+tomoChemicalCompany.
+adsorbed atomic oxygen [70,71]. Although the UV–vis re-
+[3]A.Wood,Chem.Week164(41)(2002)26.
+sults cannot give unequivocal evidence for the existence of [4]A.Tullo,Chem.Eng.News6(2004)15.
+either phase, it does demonstrate that during ethylene oxi- [5]P.Raleigh,UrethanesTechnology20(3)(2003)3.
+dation the catalyst achieves a state of partial oxidation in a [6]M.G.Clerici,G.Bellussi,U.Romano,J.Catal.129(1991)159.
+[7]J.H.Teles,A.Rehfinger,P.Bassler,A.Wenzel,N.Rieber,P.Rudolf,
+slowprocess,whereasduringpropyleneoxidationitreaches
+USPatent6,756,503(June29,2004),toBASFAktiengesellschaft.
+amorereducedconditioninafastprocess.
+[8]A.Sato,T.Miyake,JapanPatent4,352,771(December7,1992),to
+Tosoh.
+[9]A. Sato, M. Oguri, M. Tokumaru, T. Miyake, Japan Patent Appl.
+5. Conclusion 269,029(October15,1996),toTosoh.
+[10] A. Sato, M. Oguri, M. Tokumaru, T. Miyake, Japan Patent Appl.
+269,030(October15,1996),toTosoh.
+Thisworkhasexaminedtheeffectofparticlesizeonthe
+[11] M.Fisher, P. Lingelbach, U.Muller, N. Rieber, P. Bassler, J.Dem-
+reactivitybehaviorofAg/CaCO 3 catalystsintheepoxidation bowski,K.Eller,W.Harder,V.Kohl,GermanPatentAppl.DE4425
+ofpropyleneandethylene.Itwasfoundthatpropyleneepox- 672Al(January25,1996),toBASFAG.
+idation at 473–493 K was relatively insensitive to particle [12] R.Meiers,U.Dingerdissen,W.F.Hölderich,J.Catal.176(1998)376.
+[13] T.Hayashi,K.Tanaka,M.Haruta,J.Catal.178(1998)566.
+size.However,thismayhavebeenduetothelowintrinsicse-
+[14] A.K. Sinha, S. Seelan, S. Tsubota, M. Haruta, Angew. Chem. Int.
+lectivityofthesilvercatalystsforpropyleneoxide(<10%),
+Ed.43(2004)1546.
+with structural effects being dominated by the complete [15] G.Lu,X.Zuo,Catal.Lett.58(1999)67.
+combustion reaction. In contrast, it was found that ethyl- [16] J.Lu,M.Luo,H.Lei,C.Li,Appl.Catal.A237(2002)11.
+eneepoxidationexhibitedmildstructuresensitivity,withthe [17] M.Luo,J.Lu,C.Li,Catal.Lett.86(2003)43.
+[18] A.Palermo,A.Husain,M.Tikhov,R.Lambert,J.Catal.207(2002)
+turnover frequency decreasing by three- to fivefold as the
+331.
+particlesizedecreasedfrom660to50nm.Particlesizesin
+[19] F.Zemicheael,A.Palermo, M.Tikhov, R. Lambert, Catal. Lett.80
+this study were calculated from oxygen chemisorption up- (2002)93.
+
+J.Luetal./JournalofCatalysis232(2005)85–95 95
+[20] G.Jin,G.Lu,Y.Guo,J.Wang,X.Liu,Catal.Lett.87(2003)249. [44] K.M.Kholyavenko,M.Y.Rubanic,N.A.Cheryukhiva,Kinet.Catal.5
+[21] R.Pitchai,A.P.Kahn,A.M.Gaffney,USPatent5,625,084(April29, (1964)437.
+1997),toARCOChemicalTechnology,L.P. [45] J.F. Scholten, J.A. Konvalinka, F.W. Beeckman, J. Catal. 28 (1973)
+[22] R.Pitchai,A.P.Kahn,A.M.Gaffney,USPatent5,686,380(November 209.
+11,1997),toARCOChemicalTechnology,L.P. [46] R.Seyedmonir,D.E.Strohmayer,G.L.Geoffroy,M.A.Vannice,H.W.
+[23] A.M.Gaffney,C.A.Jones,R.Pitchai,A.P.Kahn,USPatent5,698,719 Young,J.W.Linowski,J.Catal.87(1984)424.
+(December16,1997),toARCOChemicalTechnology,L.P. [47] J.K.Plischke,M.A.Vannice,Appl.Catal.42(1988)255.
+[24] A.M.Gaffney,A.P.Kahn,R.Pitchai,USPatent5,703,254(December [48] G.Kortüm,ReflectanceSpectroscopy,Springer,Berlin,1969.
+30,1997),toARCOChemicalTechnology,L.P. [49] T.Wenzel,J.Bosbach,F.Stietz,F.Träger,Surf.Sci.432(1999)257.
+[25] B. Cooker, A.M. Gaffney, J.D. Jewson, A.P. Kahn, R. Pitchai, US [50] E.Ruckenstein,S.H.Lee,J.Catal.109(1988)100.
+Patent 5,770,746 (June 23, 1998), to ARCO Chemical Technology, [51] M.V.Badani,M.A.Vannice,Appl.Catal.A204(2000)129.
+L.P. [52] D.E.Strohmayer,G.L.Geoffroy,M.A.Vannice,Appl.Catal.7(1983)
+[26] B. Cooker, A.M. Gaffney, J.D. Jewson, W.H. Onimus, US Patent 189.
+5,780,657(July14,1998),toARCOChemicalTechnology,L.P. [53] M. Todorova, X.X. Li, M.V. Ganduglia-Pirovano, C. Stampfl, K.
+[27] B.M.Weckhuysen,R.A.Schoonheydt,Catal.Today49(1999)441. Reuter,M.Scheffler,Phys.Rev.Lett.89(2002)096103.
+[28] J.Melsheimer,M.Thiede,R.Ahmad,G.Tzolova-Müller,F.C.Jentoft, [54] W.Cai,H.Zhong,L.Zhang,J.Appl.Phys.83(1998)1705.
+Phys.Chem.Chem.Phys.5(2003)4366. [55] M.Akimoto,K.Ichikawa,E.Echigoya,J.Catal.76(1982)333.
+[29] X.Gao,J.-M.Jehng,I.E.Wachs,J.Catal.209(2002)43. [56] M.A.Barteau,R.J.Madix,J.Am.Chem.Soc.105(1983)344.
+[30] M.D. Argyle, K. Chen, C. Resini, C. Krebs, A.T. Bell, E. Iglesia, [57] J.T.Roberts,R.J.Madix,W.W.Crew,J.Catal.141(1993)300.
+J.Phys.Chem.B109(2004)2345. [58] S.R.Seyedmonir,J.K.Plischke,M.A.Vannice,H.W.Young,J.Ca-
+[31] R.Ahmad,J.Melsheimer,F.C.Jentoft,R.Schlögl,J.Catal.218(2003) tal.123(1990)534.
+365. [59] A.Ayame,Y.Uchida,H.Ono,M.Miyamoto,T.Sato,H.Hayasaka,
+[32] U.Kreibig,M.Vollmer,OpticalPropertiesofMetalClusters,Sprin- Appl.Catal.A244(2003)59.
+ger,Berlin,1995. [60] M.Boudart,Adv.Catal.20(1969)153.
+[33] A.N.Pestryakov, A.A.Davydov, J.Electron.Spectrosc.Relat.Phe- [61] R.vanHardeveld,F.Hartog,Surf.Sci.15(1969)189.
+nom.74(1995)195. [62] J.K.Lee,X.E.Verykios,R.Pitchai,Appl.Catal.50(1989)171.
+[34] K.L. Kelly, E. Coronado, L.L. Zhao, G.C. Schatz, J. Phys. Chem. [63] N. Bogdanchikova, F.C. Meunier, M. Avalos-Borja, J.P. Breen, A.
+B107(2003)668. Pestryakov,Appl.Catal.B36(2002)287.
+[35] C.Sönnichsen,T.Franzl,T.Wilk,G.vonPlessen,J.Feldmann,New [64] V.I.Bukhtiyarov,A.I.Boronin,V.I.Savchenko,J.Catal.150(1994)
+J.Phys.93(2002)1. 262.
+[36] F.Stietz,F.Träger,Philos.Mag.B79(1999)1281. [65] R.A.vanSanten,H.P.C.E.Kuipers,Adv.Catal.35(1987)265.
+[37] J.J.Mock,M.Barbic,D.R.Smith,D.A.Schultz,S.Schultz,J.Chem. [66] C.Backx,J.Moolhuysen,P.Geenen,R.A.vanSanten,J.Catal.72
+Phys.116(2002)6755. (1981)364.
+[38] P.Mulvaney,Langmuir12(1996)788. [67] C.J.Bertole,C.A.Mims,J.Catal.188(1999)58.
+[39] A.Hilger,M.Tenfelde,U.Kreibig,Appl.Phys.B73(2001)361. [68] C.Stegelmann,P.Stoltze,J.Catal.226(2004)129.
+[40] T.Jensen,L.Kelly,A.Lazarides,G.C.Schatz,J.ClusterSci.10(1999) [69] V.B.Kazansky,V.A.Shvets,M.Y.Kon,V.V.Nikisha,B.N.Shelimov,
+295. in:J.Hightower(Ed.),Catalysis,North-Holland,Amsterdam,1973,
+[41] U.Kreibig,L.Genzel,Surf.Sci.156(1985)678. p.1423.
+[42] B.D.Cullity,in:ElementsofX-RayDiffraction,seconded.,Addison– [70] V.I.Bukhtiyarov,M.Hävecker,V.V.Kaichev,A.Knop-Gericke,R.W.
+Wesley,MenloPark,CA,1978,p.102. Mayer,R.Schlögl,Phys.Rev.B67(2003)235422.
+[43] R.Seyedmonir,D.E.Strohmayer,G.L.Geoffroy,M.A.Vannice,Ad- [71] R.M.Lambert,F.J.Williams,R.L.Cropley,A.Palermo,J.Mol.Catal.
+sorpt.Sci.Technol.1(1984)253. A:Chem.228(2005)27.
+

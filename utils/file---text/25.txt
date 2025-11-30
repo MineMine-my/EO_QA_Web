@@ -1,0 +1,734 @@
+Molecular Catalysis 441 (2017) 92–99
+Contents lists available at ScienceDirect
+Molecular Catalysis
+j o ur nal ho me page: www.elsevier.com/locate/mcat
+Origin of enhanced ethylene oxide selectivity by Cs-promoted
+silver catalyst
+Dongmei Rena,c, Haoxiang Xub, Jianwei Lia,∗, Jinbing Lic, Daojian Chengb,∗
+aState Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, People’s Republic of China
+bBeijing Key Laboratory of Energy Environmental Catalysis, State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical
+Technology, Beijing 100029, People’s Republic of China
+cSINOPEC Yansan Branch, Beijing Research Institute of Chemical Industry, Beijing 102500, People’s Republic of China
+a r t i c l e i n f o
+Article history:
+Received 7 February 2017
+Received in revised form 4 August 2017
+Accepted 6 August 2017
+Available online 17 August 2017
+Keywords:
+Cs-promoted silver catalyst
+Ethylene
+a
+epoxidation
+Selectivity
+DFT
+b s t r a c t
+Cesium (Cs) is a key promoter to improve the selectivity of Ag catalyst for ethylene epoxidation. However,
+there is still no consensus in the literature about the origin of enhanced ethylene oxide (EO) electivity
+by Cs-promoted Ag catalysts. In this paper, the role of Cs as a promoter for ethylene epoxidation on
+Ag catalyst is studied by both experiments conducted under industrially relevant conditions as well as
+density functional theory (DFT) calculations. Ag/(cid:2)-Al2O3 and Ag-Cs/(cid:2)-Al2O3 catalyst are prepared by
+excessive impregnation and evaluated for ethylene epoxidation to determine the mechanism of selectiv-
+ity enhancement for Ag catalysts that contain Cs. With the optimal loading of Cs, Ag particles of uniform
+size are evenly distributed on the support and EO selectivity increases from approximately 72.5%–82.0%
+compared with the Ag/(cid:2)-Al2O3. O2-TPD results indicate that Cs decreases the adsorption strength of oxy-
+gen on Ag and XPS analyses show that Cs shifts the Ag 3d binding 5/2 energy to facilitate the desorption of
+the EO precursor to form gas EO. DFT calculations demonstrate that Cs-promotor can weaken the adsorp-
+tion of atomic oxygen. Electron density of atom oxygen absorbed on silver decreases with the addition of
+Cs on Ag(111) thereby enhancing the electrophilic attack by atomic oxygen at the electron-rich C C bond
+of C2H4. Therefore, Cs lowers the activation energy for the formation of the oxometallacycle (OMC) and
+EO, while increasing the barrier for acetaldehyde (AA) formation, thereby leading to higher EO selectivity.
+© 2017 Elsevier B.V. All rights reserved.
+1. Introduction
+Ethylene oxide (EO) serves as a key chemical intermediate which
+is produced more than 27 Mt/y on the world-wide by the year 2017
+[1] and about 70% of EO is converted to ethylene glycol (EG) by
+hydration. EG is one of the most important chemicals from which
+further products such as polyester, plastics, and engine antifreeze
+can be derived [2]. Direct oxidation of ethylene to EO in the pres-
+ence of supported Ag catalysts has emerged as the main route for
+EO production since Lefort discovered the process in 1931 [3]. The
+competing parallel reactions are as shown below [4], where r1
+represents the desired, mildly exothermic and selective pathway
+leading to the formation of EO. Alternatively, ethylene and/or EO
+can undergo combustion to CO and
+2
+H O
+2
+through one or both of two
+highly exothermic pathways including the parallel r2 and sequen-
+∗
+Corresponding authors.
+E-mail addresses: lijw@mail.buct.edu.cn (J. Li), chengdj@mail.buct.edu.cn
+(D.
+tial
+Cheng).
+routes r3. The heat release of side reaction is 12 times more than
+that of main reaction. Hence, it is of great significance for industrial
+production to increase EO selectivity to avoid thermal runaway, cut
+the cost and increase profit [5].
+main reaction: C H + 1 O →r1C H O
+2 4 2 2 2 4
+(cid:2)H1 = −105kJ/mol
+sidereaction: C H +
+2 4
+3O →r2 2CO +
+2 2
+2H O
+2
+(cid:2)H2 = −1327kJ/mol
+C H O
+2 4
++ 5 O →r3 2CO +
+2 2 2
+2H O
+2
+(cid:2)H3 = −1222kJ/mol
+So far, silver is the most efficient catalyst for ethylene epox-
+idation [6]. Numerous papers and patents have reported various
+of ways to increase ethylene oxide (EO) selectivity [7–11], includ-
+ing the usage of different silver precursors, different preparation
+techniques, and promoters. Among them, the use of Cs as a selectiv-
+ity promoter has been discussed at length. Lambert and coworkers
+argued that Cs can decrease the binding strength between EO and
+the catalyst surface [12], thereby minimizing sequential reaction
+to form carbon dioxide. It has been reported that the presence of
+http://dx.doi.org/10.1016/j.mcat.2017.08.007
+2468-8231/© 2017 Elsevier B.V. All rights reserved.
+
+D. Ren et al. / Molecular Catalysis 441 (2017) 92–99 93
+cesium would neutralize the acid sites on support, avoiding the
+isomerization of EO to form acetaldehyde (AA), which finally trans-
+form to CO and
+2
+H O
+2
+[13]. Cs has also been shown to favor the
+formation of strongly adsorbed electrophilic oxygen to form EO
+[14]. Moreover, it has been suggested that cesium plays a key role
+in binding and dispersing the silver particles on the support [15].
+Linic and Barteau [16] demonstrated that a surface intermediate
+oxometallacycle (OMC) could be formed through the ring-closure
+reaction of weakly absorbed ethylene with adsorbed oxygen, and
+then the OMC intermediate reacted through a transition state to
+form EO and AA [17,18]. Though the mechanism of ethylene epox-
+idation changes slightly with the coverage of oxygen [19,20], the
+OMC is an important intermediate in the process of ethylene epox-
+idation. Saravanan [21] found that Cs was an electron donor for
+the OMC and the presence of Cs atom repelled the OMC intermedi-
+ate. Linic et al. [22] suggested that Cs cations increase the selectivity
+by long-range electrostatic interactions that stabilize the transition
+state for the EO formation. Ozbek et al. [23] performed computa-
+tional studies on an Ag O(001) 2 and found that the presence of Cs
+resulted in the formation of CsOx complexes and introduced the
+surface oxygen vacancies, which could reduce the catalyst selec-
+tivity. It is also found that Cs and Cl co-existed on the surface can
+result in high EO selectivity. Though many theoretical studies about
+the ethylene epoxidation on different silver surfaces have been
+developed [24,25], investigations on the reaction mechanism on Cs
+promoted Ag catalysts using Density functional theory (DFT) cal-
+culations are still relatively little. Furthermore, the experimental
+results of most literature were concluded on single crystal silver
+catalysts or under rigor reaction conditions inconsistent with the
+industrial process. Therefore, the specific role of promoter Cs in the
+selective oxidation of ethylene is still the subject of considerable
+debate.
+In this work, we explored the role of Cs as a promoter for
+Ag catalyst through the analysis of ethylene epoxidation on un-
+promoted and optimal loading Cs-promoted Ag catalyst in both
+experiments conducted under industrially relevant conditions as
+well as DFT calculations. According to the previous experimen-
+tal studies [26,27], addition of ppm levels of 1,2-dichloroethane
+(DCE) can promote catalyst selectivity, therefore, all the experi-
+ments were concluded under 0.3 ppm DCE. It was demonstrated
+that Cs decreased the binding energy of Ag 3d ,
+5/2
+which facilitated
+desorption of the produced intermediate to form EO. With the com-
+bination of DFT calculations performed on pure and Cs-promoted
+Ag(111), we study the origin of enhanced ethylene epoxidation
+selectivity derived from Cs-promotor by analyzing the electronic
+distribution of the adsorbed oxygen and intermediate(OMC), and
+the activation energy along the reaction path. DFT calculations
+demonstrate that the presence of Cs increased the electrophilic
+oxygen adsorbed on Ag surface, which lowered the activation
+energy to form oxometallacycle (OMC) and EO, meanwhile increas-
+ing the barrier toward acetaldehyde (AA).
+2. Material and methods
+2.1. Catalyst preparation
+The Ag/(cid:2)-Al O and
+2 3
+Ag-Cs/(cid:2)-Al O catalysts
+2 3
+in this inves-
+tigation were prepared using excessive impregnation method
+according to the patent literature [28]. The Ag C O was
+2 2 4
+slowly
+dissolved into an aqueous solution containing a 3:1 M ratio
+of ethylene-diamine (EN) to Ag C O ,
+2 2 4
+and then the Ag C O -
+2 2 4
+containing impregnation solution was added to the support, then
+the sample was heated to 300–400◦C for thermal decomposition
+under air atmosphere for ten minutes. The Ag-Cs/(cid:2)-Al O catalyst
+2 3
+was prepared using the same procedure with
+lyst
+Ag/(cid:2)-Al O cata-
+2 3
+as mentioned above. Catalysts with different Cs contents were
+obtained by adding different amounts of CsOH solution into the
+Ag C O -containing
+2 2 4
+impregnation solution. Ag loadings of all these
+catalysts maintained 15 wt%.
+2.2. Catalyst evaluation
+Catalysts were evaluated in a stainless steel reactor with
+4 mm inner diameter. The catalysts were broken and sieved to
+0.9–1.4 mm, then 1 ml sample was loaded into the reactor. Quanti-
+tative analysis of inlet and outlet gas composition was performed
+on an online Prima dB mass spectrum produced by Thermo Scien-
+tific. The gas was ionized by bombardment of electron current in
+ion source. Stand Faraday detector was used to analyze the gas con-
+centration of 10 ppm–100%, and the concentration between 10 ppb
+to 10 ppm was detected by secondary electron multiplier. Gas feed
+composition was C H 30%,
+2 4
+O 7.5%,
+2
+CO 1.85%,
+2
+ethylene dichlo-
+ride (EDC) 0.1–0.5 ppm, balance N at
+2
+1.7 MPa total pressure, and
+the gas hourly space velocity (GHSV) of 5000 h−1. Temperature was
+recorded when EO concentration of outlet gas stream attained at
+2.5 mol%. The EO selectivity was expressed as the following equa-
+tion.
+EOsel.(%)
+(cid:2)EO
+=
+(cid:2)EO + 0.5 ×
+×
+(cid:2)CO2
+100%
+Since ethylene oxide molecules are easily converted to carbon
+dioxide and water in pores with such small diameters as nanometer
+order, it is realized that pore diameter of carriers should be as close
+as possible to a desired macropore size. The surface area of (cid:2)-Al O 2 3
+carrier is about 1.0 m2/g, and the average pore diameter of (cid:2)-Al O 2 3
+carrier is about 1.0 (cid:3)m [29]. We approximately calculated the effect
+of mass transfer according to the Weisz-Prater criterion (see details
+in the Supporting Information). It is noted that the value of Nw-pis
+0.0044, which is much less than 0.3. It indicates that pore diffu-
+sion can be excluded. So the value of catalyst effectiveness factor
+(cid:4) should be approximately to be 1.0. In addition, the experimen-
+tal results proved that no mass transfer effect exists for ethylene
+epoxidation with our evaluation conditions.
+2.3. Catalyst characterization
+O -TPD 2 was measured using a TPDRO 1100 automated
+chemisorption analyzer with a Pfeiffer Vacuum Quadrupole Mass
+Spectrometer. 2.0 g of catalysts was exposed to 30 ml/min He for
+1 h, then temperature was increased to 550◦C and kept for 1 h to
+remove the impurities on the sample. After the catalyst was cooled
+to 210◦C in He, O was 2 switched to chemisorb on catalyst for 1 h
+and then the sample was cooled to room temperature in He. As the
+baseline was stable, the catalyst was analyzed with temperature-
+programmed desorption from room to 550◦C.
+Scanning electron microscopy (SEM) micrographs were col-
+lected using a FEI Quanta200 Scanning Electron Microscope with
+a tungsten electron source and three imaging modes (high vac-
+uum, low vacuum and ESEM) to accommodate the widest range
+of samples for any SEM system. X-ray photoelectron spectra (XPS)
+was carried out with a Thermo Scientific 250 ESCALAB, the sys-
+tem is equipped with an X-ray source to produce Al K(cid:2) radiation
+for XPS measurements, and the A12p line being used with a bind-
+ing energy of 74.5 eV;XRD measurement was performed using a
+Empyrean X-ray diffractometer operated at 40 kV and 40 mA using
+Cu K(cid:2) radiation, scanning range: 8–100◦and Scanning rate: 0.65◦/s.
+2.4. DFT calculations
+DFT calculations were performed using the PWSCF (Plane-Wave
+Self-Consistent Field) code in the Quantum ESPRESSO package. Gra-
+
+94 D. Ren et al. / Molecular Catalysis 441 (2017) 92–99
+Fig. 1. The effect of promoter Cs on 15 wt% Ag/(cid:2)-Al2O3catalyst performance.
+dient corrections are included using the Perdew-Burke-Ernzerh
+form of the generalized gradient approximation (GGA). The kinetic
+energy cutoff for the selection of the plane-wave basis set is fixed to
+40 Ry. The regular Ag(111) surface was modeled with a five-layer
+slab, each layer contains either 9 Ag atoms (3 × 3cell), oxygen atom
+was absorbed on the upper Ag layer and the bottom three layers of
+the slab are kept fixed during structural optimizations. For calcula-
+tions of the electronic properties of Ag(111) slab, Monkhorst-Pack
+4 × 4 × 1 k-points with 16 k-points were used. The geometry opti-
+mizations stop when the maximum force on the atoms is less than
+10−4a.u. The climbing-image nudged elastic band (CI-NEB) method
+is used to determine the minimum-energy pathway for elementary
+reaction steps for ethylene epoxidation.
+3. Results and discussion
+3.1. Effect of promoter Cs on the performance of silver catalyst
+The results of evaluation shown in Fig. 1 indicated that the
+reaction temperature gradually enhance as increasing of the Cs
+loadings, and that elevated rapidly when cesium loading was
+above 1000 ppm. EO selectivity increased with Cs loadings rising
+to 800 ppm, while higher amount of Cs resulted in the decreasing
+of EO selectivity, Optimum alkali promotion was achieved when
+a little of Cs was used, and further increasing the alkali coverage
+reduced catalyst activity and selectivity, which is in good agree-
+ment with the previous work [30]. The optimal Cs loadings ranged
+from approximately 600–800 ppm, on which EO selectivity was
+about 82.0% and reaction temperature was approximately 220◦C.
+Reaction temperature on catalyst without Cs was 209◦C, and EO
+selectivity was 72.5%, enhancing approximately 10% because of the
+addition of proper amount of Cs.
+The addition of Cs has a negative influence on the activity of sil-
+ver catalyst, which is in good agreement with the study reported by
+Barteau [31] who demonstronted that the catalyst activity is sen-
+sitive to alkali metal loading, and it suppress all activity by adding
+larger amounts of alkalis. However, the optimal Cs loading was dif-
+ferent from the result reported by Diao et al. [4], who suggested
+that the best quantity of Cs is 300–450 ppm. The optimal loading
+of promoter Cs is influenced by varied (cid:2)-Al O carriers 2 3 used in the
+catatlyst and the silver concent loaded on
+3.2.
+them.
+Effect of Cs on size and distribution of silver particles
+Fig. 2 presents the SEM micrographs of 15%Ag/(cid:2)-Al O cata-
+2 3
+lyst and 15%Ag-600ppmCs/(cid:2)-Al O catalyst.
+2 3
+The massive and flat
+regions depicts the crystal plates of (cid:2)-Al O carrier,
+2 3
+and the smaller
+white particles are the supported Ag particles. It can be seen from
+picture (a) that the size of Ag particles in 15%Ag/(cid:2)-Al O catalyst
+2 3
+are not uniform. The diameter of the large grains are more than
+100 nm while the small ones are less than 50 nm. Large particles are
+mainly distributed on the margin of the carrier, while smaller par-
+ticles are distributed on the surface of the carrier. Crystal plates are
+partially exposed, which would result in the decrease of EO selectiv-
+ity because the weak acidity of (cid:2)-Al O led
+2 3
+to complete oxidation
+of ethylene [32]. However, in the presence of Cs, Ag appears to wet
+the (cid:2)-Al O surface
+2 3
+and Ag particles are evenly in size and dis-
+tribute uniformly on the crystal plate of the support [15,33], which
+benefits the catalytic performance of silver catalyst [34].
+3.3. O -TPD
+2
+characterization
+The oxygen species held on a 15%Ag/(cid:2)-Al O and
+2 3
+15%Ag-
+600ppmCs/(cid:2)-Al O catalysts
+2 3
+were studied by temperature pro-
+grammed desorption (O -TPD),
+2
+without considering of oxygen
+adsorbed on the (cid:2)-Al O support
+2 3
+[14], as presented in Fig. 3. There
+are two peaks for desorbed oxygen in both catalysts, corresponding
+to the Ag-O bonds of different bond strengths [35]. The tem-
+peratures for different oxygen species desorption are 275◦C and
+320◦C in Ag/(cid:2)-Al O ,
+2 3
+respectively. In contrast, the temperatures
+are 270◦C and 305◦C in Ag-Cs/(cid:2)-Al O ,
+2 3
+respectively. The results
+are consistent with the previous work by Couves [36]. Our results
+show that oxygen desorbs from the silver catalysts in two states
+with different desorption temperatures, corresponding to oxygen
+desorbing from Ag(111) and from a highly stepped or defected Ag
+surfaces, respectively, in which EO and CO produced
+2
+coincidently.
+From Fig. 3, we can also conclude that the maximum desorption
+temperature declines in different degree by the addition of Cs. The
+desorption temperature of strong Ag-O bond decreases about 15◦C
+while that of weak Ag-O bond reduces about 5◦C. The concentration
+of strongly adsorbed oxygen decreases and that of weakly adsorbed
+oxygen has no obvious change, resulting in the decreasing of total
+amounts of adsorbed oxygen. Addition of Cs decreases the intensity
+
+D. Ren et al. / Molecular Catalysis 441 (2017) 92–99 95
+Fig. 2. SEM micrographs demonstrating the size and distribution of Ag on (cid:2)-Al2O3carrier: (a) 15%Ag/(cid:2)-Al2O3, (b) 15%Ag-600ppmCs/(cid:2)-Al2O3.
+Fig. 3. Effect of Cs on the desorption of oxygen from silver catalyst.
+of Ag-O bond and the concentration of strongly adsorbed oxygen,
+which resulted in the increase of reaction temperature and higher
+selectivity for ethylene epoxidation reaction.
+3.4. XPS characterization
+In order to better explore possible electronic interactions
+between Ag and Cs, XPS studies were conducted on 15%Ag/(cid:2)-Al O
+2 3
+and 15%Ag–600 ppm Cs/(cid:2)-Al O catalysts.
+2 3
+The XPS results in Fig. 4
+show us the Ag 3d binding
+5/2
+energies of silver catalysts. The bind-
+ing energy (BE) of Ag 3d is
+5/2
+367.7 eV for Ag/(cid:2)-Al O ,
+2 3
+while it is
+367.6 eV for Ag-Cs/(cid:2)-Al O catalyst.
+2 3
+The addition of Cs lowers the
+BE value by 0.1 eV suggesting the transfer of e− from the highly
+polarizable Cs+to metallic Ag, which is consistent with earlier result
+from Monnier et al. [37]. Higher charge and lower binding energy
+of Ag would result in desorption of the EO precursor to form gas
+EO. The result is in good agreement with the view from Diao et al.
+[4], who suggested that promoter Cs reduced the binding energy of
+Ag and the activation energy from EO precursor to gas EO, avoding
+further oxidation to form CO ,
+2
+enhancing the selectivity of EO.
+3.5. XRD characterization for silver catalyst
+Fig. 5 shows the XRD results of (cid:2)-Al O carrier
+2 3
+and supported
+silver catalysts with different composition. The peaks assigned to
+Ag(111), Ag(100) and Ag (110) are in 38.1◦, 44.4◦ and 64.8◦ of 2(cid:5)
+angel, respectively, and the other peaks are attributed to the
+Fig.
+(cid:2)-
+4. Ag 3d5/2XPS spectra recorded on Ag/(cid:2)-Al2O3and Ag- Cs/(cid:2)-Al2O3catalysts.
+Fig. 5. XRD characterization of (cid:2)-Al2O3carrier and supported Ag catalyst.
+Al O .
+2 3
+The strength of the peak assigned to Ag(111) is maximum,
+the sequent is Ag(100) and the Ag(110) surface is minimum, as lit-
+erature has reported that major metallic Ag exists stably in the form
+of Ag(111) in silver catalysts [38]. Therefore, ethylene epoxidation
+was mainly calculated on the surface of Ag(111) in next section.
+
+96 D. Ren et al. / Molecular Catalysis 441 (2017) 92–99
+Fig. 6. Platform of optimized structure of (a) Ag(111), (b) optimal site of binding. oxygen on Ag(111), (c) absorbed molecular ethylene and atomic oxygen on Ag(111), (d)
+Cs-Ag(111), (e) optimal site of binding oxygen on Cs-Ag(111), (f) absorbed molecule ethylene and atomic oxygen on Cs-Ag(111). (Ag: gray, O: red, C2H4: dark red, H: light
+pink, Cs: green). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+3.6. DFT calculations
+In order to unveil the origin of Cs enhanced catalytic selec-
+tivity of silver catalyst for ethylene epoxidation, we employed
+density functional theory (DFT) calculations to investigate the
+differences of oxygen adsorption and the activation barrier for
+ethylene oxide formation between pure Ag(111) and Cs-promoted
+Ag(111) surface. According to the proposed mechanism, oxomet-
+allacycle (OMC) intermediate is formed through the reaction of
+weakly absorbed ethylene reacts with adsorbed oxygen and then
+it is converted into EO and AA through ethylene epoxidation and
+complete combustion, respectively, and the elementary reactions
+are shown below:
+O ∗
+2
+→ 2O∗
+R1: C H ∗
+2 4
++ O∗→ OMC∗
+R2: O MC∗→ C H O∗(EO)
+2 4
+R3: OMC∗→ CH CHO∗(AA) 3
+As molecular oxygen decomposed to form atomic oxygen
+rapidly on Ag surface [39,40], the O dissociation
+2
+is not considered
+in this paper. So the possible rate-determining steps may include
+weakly absorbed ethylene reacting with binding oxygen to form
+OMC (R1) and OMC reacting through ring closure or H-transfer to
+produce absorbed EO (R2) or AA (R3) [6,18,41].
+To search for the minimum energy profiles (MEP) for the ethy-
+lene epoxidation, we have optimized the adsorption configuration
+of reactant, intermediate and product on catalysis. Top, bridge,
+fcc and hcp hollow sites are the four sites for oxygen adsorbed
+on Ag(111) [21], which are shown in Fig. 6a and the fcc has the
+strongest oxygen adsorption energy [38]. Suljo [22] observed
+Table
+that
+1
+Adsorption energy, bond length with Ag and Low¨din charge analysis (positive
+values mean electron accumulation) of atomic oxygen adsorbed on Ag(111) and
+Cs-Ag(111).
+surface Ead(O)/eV d(Ag-O)/Å |(cid:3)(O)|/e
+Ag(111) −5.92 2.18 0.44
+Cs-Ag(111) −5.22 2.26 0.26
+the positive impact of Cs on the selectivity drops off with the dis-
+tance between Cs and the EO transition increasing. In general, the
+closer the distance of atomic Cs to oxygen adsorbed on Ag, the
+higher the selectivity of EO. So cationic Cs is located at the hol-
+low site of Ag(111) and is nearby the binding atomic oxygen at fcc
+sites in this work. Meanwhile, the preferred ethylene adsorption
+position is at the top site with a hexagonal empty space around
+[38]. Fig. 6 shows the platform of adsorbed atomic oxygen and
+co-adsorbed of O and C H on 2 4 Ag(111) and Cs-Ag(111).
+As shown in Table 1, the adsorption energy of oxygen is 5.92 eV
+on clean Ag(111), while it is 5.22 eV on Cs-Ag(111) surface. Addi-
+tion of Cs reduces the adsorption energy but increases the bond
+length of Ag-O from 2.18 to 2.26 Å. Saravanan et al. [21] using Ag
+10
+clusters model demonstrates that the binding energy of oxygen on
+Ag(111) is 3.21 eV, the length of Ag-O bond is 1.46 Å, and those are
+2.71 eV and 3.21 Å on Cs-Ag(111) surface, respectively. Though the
+changes are similar in binding energy of oxygen and bond length
+by Cs promotion, large differences exist in calculation results by
+different models. Meanwhile, the reduced electron number from
+0.44 to 0.26 |e| of adsorbed oxygen by the addition of Cs shows
+weakly adsorbed oxygen, which is benefit for the formation of the
+EO [16–18].
+
+D. Ren et al. / Molecular Catalysis 441 (2017) 92–99 97
+Fig. 7. Density of electron cloud in highest occupied molecular orbital (HOMO) for atomic oxygen adsorbed on (a) Ag(111) and (b) Cs-Ag(111).
+Table 2
+Activation energy (eV) of elementary steps R1-R3 and Adsorption energy of ethylene
+oxide (Ead(EO), eV) on Ag(111) and Cs-Ag(111).
+surface Activation Energy (eV) Ead(EO)(eV)
+R1 R2 R3
+Ag(111) 0.47 0.72 0.73 −0.46
+Cs − Ag(111) 0.39 0.57 0.78 −0.24
+In order to demonstrate the role of weakly adsorbed atomic
+oxygen played in the enhancement of catalytic selectivity of ethy-
+lene epoxidation, a series of detailed electronic structure analysis
+is performed. Fig. 7 shows the highest occupied molecular orbital
+(HOMO) of the studied structures around the atomic oxygens
+absorbed on surface, indicating that atomic oxygen is the electron
+donation center in reaction. Comparing Fig. 7a with b, it is found
+that region of HOMO of atomic oxygen shrinks with the addition of
+Cs, mutually corroborating the decreasing excess electron number
+of atomic oxygen in Table 1. Strongly binding oxygen with higher
+electron density on Ag(111) shows nucleophilic property relative to
+that on Cs-Ag(111), and tends to attach the C H bond in C H with
+2 4
+low electron density, facilitating the formation of AA. Oppositely,
+the weakly adsorbed oxygen with lower electron density on Cs-
+Ag(111) is regarded as electrophilic center, which prefers to react
+with ethylene to form EO by attacking C C bond, because of the
+high electron density located in (cid:6) bond of C C bond. Fig. 8 shows
+the local density of state (LDOS) for C C bond of OMC intermedi-
+ate formed in the reaction between ethylene and atomic oxygen
+(R1) on Ag(111) and Cs-Ag(111). As known to all, the difference in
+the bond strength derives from the anti-bonding states, that is, the
+antibonding states move to lower energy level and become higher
+occupancy, which leads to a weaker bond, and vice versa. In the
+process of the OMC formation, the antibonding orbital (cid:6)* in C C
+bond moves below the Fermi energy furtherly on Cs-Ag(111) com-
+pared with pure Ag(111), so the stability of C C bond is weaker on
+Cs-Ag(111) than that on pure Ag(111) surface, which makes atomic
+oxygen easily insert the C C bond to form the target product EO on
+Cs-Ag(111).
+Fig. 9 shows the optimized configurations along the minimum
+energy profiles and activation energies for all elementary steps.
+From Fig. 9 and Table 2, we can draw that the activation energy
+is 0.47 eV on Ag(111) surface while it is 0.39 eV on Cs-Ag(111)
+surface in the formation of the OMC intermediate. The activation
+energies are 0.72 and 0.73 eV from OMC to EO and AA on Ag(111)
+surface, respectively, and the same reactions occur on the surface
+Fig.
+of
+8. LDOS for C C bond of OMC formed on (a) pure Ag(111) and (b) Cs-Ag(111).
+Cs-Ag(111), in which the activation energies are 0.57 and 0.78 eV,
+respectively. The difference in the activation barrier for AA and EO
+formation calculated on Ag(111) is 0.1 eV, while the value is 0.21 eV
+on Cs-promoted Ag(111). The similar activation barriers result in
+the lower EO selectivity [42], but the lower activation energy to
+produce EO and the higher barrier to form AA can enhance the selec-
+tivity from the OMC intermediate to EO. The energy difference of
+the activation barrier from OMC to EO and AA is much more one on
+
+98 D. Ren et al. / Molecular Catalysis 441 (2017) 92–99
+Fig. 9. Ethylene epoxidation reaction pathway and corresponding structure on (a)
+Ag(111) and (b) Cs-Ag(111).
+Cs-Ag(111) (0.21 eV) than that on Ag(111) surface (0.01 eV), which
+implies a higher selectivity to EO [6,22].
+In addition, as shown in Table 2, the adsorption strength of EO
+on Cs-Ag(111) surface (-0.24 eV) is weaker than that on Ag(111)
+surface (−0.46 eV), indicating that the addition of promoter Cs
+promotes the desorption adsorbed EO to free EO and furtherly
+increases the selectivity toward EO.
+The DFT calculations demonstrate that Cs-promotor can weaken
+the adsorption strength of atomic oxygen, which is shown to be
+in good agreement with experimental observations of O -TPD. 2
+Weakly adsorbed atomic oxygen attributes to the introduction of
+Cs, which lowers the activation energy to form OMC and EO, mean-
+while increases the barrier toward acetaldehyde (AA). Besides, XPS
+analyses show that Cs shifts the Ag 3d binding 5/2 energy to facilitate
+desorption of the EO precursor to form gas EO, which is also con-
+sistent with DFT results that Cs decreases the adsorption energy
+of EO. Therefore, our combined experimental and computational
+studies uncover the origin of enhanced ethylene oxide selectivity
+on Cs-promoted Ag catalyst.
+4. Conclusions
+In this paper, the role of Cs as a promoter for ethylene epoxida-
+tion on Ag catalyst is studied by both experiments conducted under
+industrial conditions as well as density functional theory (DFT) cal-
+culations. Ag/(cid:2)-Al O and 2 3 Ag-Cs/(cid:2)-Al O catalyst 2 3 were prepared
+by excessive impregnation and evaluated for ethylene epoxida-
+tion to determine the mechanism of selectivity enhancement for
+Ag catalysts which contain Cs. The addition of Cs has a
+influence
+negative
+on the activity of silver catalyst, the reaction tempera-
+ture gradually enhanced as the increasing of Cs loadings. Optimal
+Cs loading ranged from 600 to 800 ppm in 15%Ag/(cid:2)-Al O ,
+2 3
+on
+which EO selectivity enhanced approximately 10% to reach 82.0%.
+Promoter Cs maintained the proper size of Ag particles which ben-
+efited the performance of silver catalysts and made Ag particles
+distribute uniformly on the carrier, which improved the EO selec-
+tivity by avoiding the complete combustion of ethylene. There are
+two peaks of oxygen desorption for silver catalysts, and the addition
+of Cs decreased the intensity of Ag-O bond and the concentration of
+strongly adsorbed oxygen, which resulted in higher selectivity for
+ethylene epoxidation reaction. Binding energy of Ag 3d reduced
+5/2
+from 367.7 to 367.6 eV when Cs promoter added to Ag/(cid:2)-Al O ,
+2 3
+which facilitated desorption of the EO precursor to form gas EO,
+increasing the EO selectivity. Major metallic silver exists stably
+in the form of Ag(111) in pure and Cs-promoted silver catalysts.
+DFT calculations demonstrated that the addition of Cs reduced the
+adsorption energy of oxygen and the electron numbers around oxy-
+gen adsorbed on Ag(111) surface, but increased the length of Ag-O
+bond. The low electron density of adsorbed oxygen on Cs-Ag(111)
+easily reacted with the C C bond in ethylene to form OMC interme-
+diate, which means that the activation energy for OMC formation
+decreased on the surface of Cs-Ag(111). The activation energies for
+OMC transforming to EO and AA were 0.72 and 0.73 eV on Ag(111)
+surface, while that on Cs-Ag(111) were 0.57 and 0.78 eV, respec-
+tively. The lower activation energy to produce EO and the higher
+energy to form AA that resulted in the enhancing selectivity to EO.
+Acknowledgements
+This work was financially supported by SINOPEC Group (414003,
+104602000132), the National Natural Science Foundation of China
+(21576008, 91634116, 91334203), the Fundamental Research
+Funds for the Central Universities (PYCC1705) and PetroChina Inno-
+vation Foundation (2016D-5007-0505).
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.mcat.2017.08.
+007.
+References
+[1] Ethylene Oxide (EO) (Complete Report), in, A Global Strategic Business Report
+Global Industry Analysts Inc., 2011, pp. 346.
+[2] X. Jing, J. Huang, H. Wang, M. Du, D. Sun, Q. Li, Preparation of Ag/(cid:2)-Al2O3 for
+ethylene epoxidation by an impregnation-bioreduction process with
+Cinnamomum camphora extract, Chem. Eng. J. 284 (2016) 149–157.
+[3] T.E. Lefort, Process for the production of ethylene oxide, 729952, 1931.
+[4] W.J. Diao, C.D. DiGiulio, M.T. Schaal, S.G. Ma, J.R. Monnier, An investigation on
+the role of Re as a promoter in Ag-Cs-Re/(cid:2)-Al2O3 high-selectivity, ethylene
+epoxidation catalysts, J. Catal. 322 (2015) 14–23.
+[5] H. Takada, M. Shima, Silver catalyst for production of ethylene oxide, method
+for production thereof, and method for production of ethylene oxide,
+01669834, 2000.
+[6] M.O. Ozbek, I. Onal, R.A. Van Santen, Why silver is the unique catalyst for
+ethylene epoxidation, J. Catal. 284 (2011) 230–235.
+[7] J.C. Dellamorte, J. Lauterbach, M.A. Barteau, Effect of preparation conditions
+on Ag catalysts for ethylene epoxidation, Top. Catal. 53 (2010) 13–18.
+[8] S. Anandhakumar, M. Sasidharan, C.W. Tsao, A.M. Raichur, Tailor-made hollow
+silver nanoparticle cages assembled with silver nanoparticles: an efficient
+catalyst for epoxidation, ACS Appl. Mat. Interfaces 6 (2014) 3275–3281.
+[9] Matusz, Marek, Epoxidation catalyst, a process for preparing the catalyst, and
+a process for the production of an olefin oxide, US9018126, 2011.
+[10] M. Rosendahl, D. Tobias, L. Torsten, K. Cornelia, W. Andreas Johanna, Process
+for producing a supported silver catalyst, US9, 199, 223, 2015.
+[11] R. Matusz, L. Marek, Michael Alan, B. John Robert, Silver-containing catalysts,
+the manufacture of such silver-containing catalysts, and the use thereof,
+US7259129, 2004.
+[12] S.A. Tan, R.B. Grant, R.M. Lambert, Secondary chemistry in the selective
+oxidation of ethylene effect of Cl and Cs promoters on the adsorption,
+
+D. Ren et al. / Molecular Catalysis 441 (2017) 92–99 99
+isomerisation, and combustion of ethylene oxide on Ag(111), J. Catal. 106
+(1987) 54–64.
+[13] W.S. Epling, Gar B. Hoflund, D.M. Minahany, Study of Cs-promoted,
+(cid:2)-alumina-supported silver, ethylene-epoxidation catalysts IV. model study,
+J. Catal. 171 (1997) 490–497.
+[14] M.C.N. Amorim de Carvalho, F.B. Passos, M. Schmal, Study of the active phase
+of silver catalysts for ethylene epoxidation, J. Catal. 248 (2007) 124–129.
+[15] David M. Minahan, Gar B. Hoflund, William S. Epling, D. Schoenfeld, Study of
+Cs-promoted, (cid:2)-alumina-supported silver, ethylene epoxidation catalysts III.
+Characterization of Cs-Promoted and nonpromoted catalysts, J. Catal. 168
+(1997) 393–399.
+[16] S. Linic, M.A. Barteau, Formation of a stable surface oxametallacycle that
+produces ethylene oxide, J. Am. Chem. Soc. 124 (2002) 310–317.
+[17] S. Linic, M.A. Barteau, Construction of a reaction coordinate and a
+microkinetic model for ethylene epoxidation on silver from DFT calculations
+and surface science experiments, J. Catal. 214 (2003) 200–212.
+[18] S. Linic, M.A. Barteau, Control of ethylene epoxidation selectivity by surface
+oxametallacycles, J. Am. Chem. Soc. 125 (2003) 4034–4035.
+[19] Vasilii I. Avdeev, G.M. Zhidomirov, Ethylene and oxygen species adsorbed on a
+defect oxidized surface Ag(1 1 1)- theoretical analysis by DFT method, Surf.
+sci. 492 (2001) 137–151.
+[20] M.G. White, Heterogeneous Catalysis, Prentice Hall, New Jersey, 1990.
+[21] C. Saravanan, M.R. Salazar, J.D. Kress, A. Redondo, Oxametallacycle
+intermediates on clean and Cs-promoted Ag(111) surfaces, J. Phys. Chem. B
+104 (2000) 8685–8691.
+[22] S. Linic, M.A. Barteau, On the mechanism of Cs promotion in ethylene
+epoxidation on Ag, J. Am. Chem. Soc. 126 (2004) 8086–8087.
+[23] M.O. Ozbek, I. Onal, R.A. van Santen, Chlorine and cesium promotion of silver
+ethylene epoxidation catalysts, ChemCatChem 5 (2013) 443–451.
+[24] N.L. Nguyen, S. Piccinin, S. De Gironcoli, Stability of intermediate states for
+ethylene epoxidation on Ag-Cu alloy catalyst: a first-principles investigation,
+J. Phys. Chem. C 115 (2011) 10073–10079.
+[25] P. Christopher, S. Linic, Shape- and size-specific chemistry of Ag
+nanostructures in catalytic ethylene epoxidation, ChemCatChem 2 (2010)
+78–83.
+[26] T.C.R. Rocha, M. Hävecker, A. Knop-Gericke, R. Schlögl, Promoters in
+heterogeneous catalysis: the role of Cl on ethylene epoxidation over Ag, J.
+Catal. 312 (2014) 12–16.
+[27] K.L. Yeung, A. Gavriilidis, A. Varma, M.M. Bhasiny, Effects of 1,2
+dichloroethane addition on the optimal silver catalyst distribution in pellets
+for epoxidation of ethylene, J. Catal. 174 (1998)
+[28]
+1–12.
+Z.X. Zhang, J.Q. Jin, Z. Gao, Silver catalyst for epoxy ethane production, its
+preparation method and application, CN1426836A, 2003-07-02.
+[29] A. Ayame, Y. Uchida, H. Ono, M. Miyamoto, T. Sato, H. Hayasaka, Epoxidation
+of ethylene over silver catalysts supported on (cid:2)-alumina crystal carriers,
+Appl. Catal. A-Gen. 244 (2003) 59–70.
+[30] C.T. Campbell, Cs-promoted Ag(11 1) model studies of selective ethylene
+oxidation catalysts, J. Phys. Chem. 89 (1985) 5189–5195.
+[31] J.T. Jankowiak, M.A. Barteau, Ethylene epoxidation over silver and
+copper-silver bimetallic catalysts: II. Cs and Cl promotion, J. Catal. 236 (2005)
+379–386.
+[32] W.S. Epling, Gar B. Hoflund, D.M. Minahany, Study of Cs-promoted,
+(cid:2)-alumina-supported silver, ethylene-epoxidation catalysts. IV model study,
+J. Catal. 171 (1997) 490–497.
+[33] S.S. Hassani, M.R. Ghasemi, M. Rashidzadeh, Z. Sobat, Nano-sized silver
+crystals and their dispersion over alpha-alumina for ethylene epoxidation,
+Cryst. Res. Technol. 44 (2009) 948–952.
+[34] S.N. Goncharova, E.A. Paukshtis, B.S. Bal’zhinimaev, Size effects in ethylene
+oxidation on silver catalysts. Influence of support and Cs promoter, Appl.
+Catal. A-Gen. 126 (1995) 67–84.
+[35] V.I. Bukhtiyarov, M. Havecker, V.V. Kaichev, A. Knop-Gericke, R.W. Mayer, R.
+Schlogl, Atomic oxygen species on silver: photoelectron spectroscopy and
+x-ray absorption studies, Phys. Rev. B 67 (2003).
+[36] J. Couves, M. Atkins, M. Hague, B.H. Sakakini, K.C. Waughc, The activity and
+selectivity of oxygen atoms adsorbed on a Ag/(cid:2)-Al2O3 catalyst in ethene
+epoxidation, Catal. Lett. 99 (2005) 45–53.
+[37] John R. Monnier, Jerome L. Stavinoha Jr., R.L. Minga, Stability and distribution
+of cesium in Cs-promoted silver catalysts used for butadiene epoxidation, J.
+Catal. 226 (2004) 401–409.
+[38] M.O. Ozbek, I. Onal, R.A. Van Santen, Effect of surface and oxygen coverage on
+ethylene epoxidation, Top. Catal. 55 (2012) 710–717.
+[39] A.I. Boronin, S.V. Koscheev, G.M. Zhidomirov, XPS and UPS study of oxygen
+states on silver, J. Electron. Spectrosc. Relat. Phenom. 96 (1998) 43–51.
+[40] A. Ayame, S. Eimaeda, L. Feng, H. Hayasaka, Oxygen adsorption on silver
+catalysts during the course of partial oxidation of ethylene, Appl. Catal. A-Gen.
+304 (2006) 93–108.
+[41] M.L. Bocquet, D. Loffreda, Ethene epoxidation selectivity inhibited by twisted
+oxametallacycle: a DFT study on Ag surface-oxide, J. Am. Chem. Soc. 127
+(2005) 17207–17215.
+[42] P. Christopher, S. Linic, Engineering selectivity in heterogeneous catalysis: Ag
+nanowires as selective ethylene epoxidation catalysts, J. Am. Chem. Soc. 130
+(2008) 11264–11265.
+

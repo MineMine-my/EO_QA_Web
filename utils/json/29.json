@@ -1,0 +1,247 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "氧吸附量"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "环氧乙烷产率"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "银分散度"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "晶格缺陷"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "形成",
+        "end_node": "银薄膜"
+    },
+    {
+        "start_node": "银薄膜",
+        "relationship": "减少",
+        "end_node": "载体影响"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "主要作用",
+        "end_node": "几何效应"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "次要作用",
+        "end_node": "电子效应"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应混合物",
+        "relationship": "改变",
+        "end_node": "银结构"
+    },
+    {
+        "start_node": "反应混合物",
+        "relationship": "形成",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "晶格缺陷",
+        "relationship": "定位",
+        "end_node": "电负性氧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "核负性氧"
+    },
+    {
+        "start_node": "核负性氧",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "酸位点"
+    },
+    {
+        "start_node": "酸位点",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "导致",
+        "end_node": "燃烧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "乙醛形成"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "稳定",
+        "end_node": "银粒径"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "氧扩散"
+    },
+    {
+        "start_node": "氧扩散",
+        "relationship": "形成",
+        "end_node": "亚表面氧"
+    },
+    {
+        "start_node": "亚表面氧",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "银表面积"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200-350°C"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-350°C"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "降低",
+        "end_node": "起始温度"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "最大产率"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "长时间反应",
+        "relationship": "增加",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "失活"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "副产物"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "羧酸盐"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "氧储存容量"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "改善",
+        "end_node": "银分布"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增强",
+        "end_node": "反应稳定性"
+    }
+]

@@ -1,0 +1,1166 @@
+Science and Technology of Advanced Materials
+ISSN: 1468-6996 (Print) 1878-5514 (Online) Journal homepage: www.tandfonline.com/journals/tsta20
+Ca–Ag compounds in ethylene epoxidation
+reaction
+Iryna Antonyshyn, Olga Sichevych, Alim Ormeci, Ulrich Burkhardt, Karsten
+Rasim, Sven Titlbach, Marc Armbrüster, Stephan A. Schunk & Yuri Grin
+To cite this article: Iryna Antonyshyn, Olga Sichevych, Alim Ormeci, Ulrich Burkhardt,
+Karsten Rasim, Sven Titlbach, Marc Armbrüster, Stephan A. Schunk & Yuri Grin (2019) Ca–Ag
+compounds in ethylene epoxidation reaction, Science and Technology of Advanced Materials,
+20:1, 902-916, DOI: 10.1080/14686996.2019.1655664
+To link to this article: https://doi.org/10.1080/14686996.2019.1655664
+© 2019 The Author(s). Published by National View supplementary material
+Institute for Materials Science in partnership
+with Taylor & Francis Group.
+Published online: 19 Sep 2019. Submit your article to this journal
+Article views: 2854 View related articles
+View Crossmark data Citing articles: 3 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tsta20
+
+SCIENCEANDTECHNOLOGYOFADVANCEDMATERIALS
+2019,VOL.20,NO.1,902–916
+https://doi.org/10.1080/14686996.2019.1655664
+FOCUS ISSUE ARTICLE
+Ca–Ag compounds in ethylene epoxidation reaction
+Iryna Antonyshyn a, Olga Sichevych a, Alim Ormeci a, Ulrich Burkhardta, Karsten Rasim a,
+Sven Titlbachb, Marc Armbrüster c, Stephan A. Schunkb and Yuri Grin a
+aChemicalMetalsScienceDepartment,Max-Planck-InstitutfürChemischePhysikfesterStoffe,Dresden,Germany;
+bhteGmbH, Heidelberg,Germany;
+cFacultyofNaturalSciences, InstituteofChemistry,MaterialsforInnovativeEnergyConcepts,ChemnitzUniversityofTechnology,
+Chemnitz,Germany
+ABSTRACT ARTICLEHISTORY
+The ethylene epoxidation is a challenging catalytic process, and development of active and Received19June2019
+selective catalyst requires profound understanding of its chemical behaviour under reaction Revised2August2019
+conditions. The systematic study on intermetallic compounds in the Ca–Ag system under Accepted10August2019
+ethylene epoxidation conditions clearly shows that the character of the oxidation processes KEYWORDS
+onthesurfaceoriginatesfromtheatomicinteractionsinthepristinecompound.TheAg-rich Intermetalliccompound;
+compounds Ca 2 Ag 7 and CaAg 2 undergo oxidation towards fcc Ag and a complex Ca-based crystalstructure;chemical
+support, whereas equiatomic CaAg and the Ca-rich compounds Ca Ag and Ca Ag in bulk bonding;reactivity;
+5 3 3
+remainstableunderharshethyleneepoxidationconditions.Forthelatterpresenceofwater heterogeneouscatalysis;
+vapour in the gas stream leads to noticeable corrosion. Combining the experimental results ethyleneepoxidation;
+withthechemicalbondinganalysisandfirst-principlescalculations,therelationshipsamong ethyleneoxide
+the chemical nature of the compounds, their reactivity and catalytic performance towards CLASSIFICATION
+epoxidationofethyleneareinvestigated. 60Newtopics/Others;106
+Metallicmaterials;205
+Catalyst/Photocatalyst/
+Photosynthesis;301
+Chemicalsyntheses/
+processing;4011stprinciple
+calculations;503TEM,STEM,
+SEM
+1. Introduction
+fundamentalpointofview[10,11].Thisreactionbelongs
+Every industrial chemical process is an extremely totheoxidationprocesses,andthepresenceofmolecular
+complex and dynamic system in terms of physical, oxygeninthegasstreamapriorimeanspossiblesurface
+chemicalandengineeringparameters.Inrecentyears, reconstructionorevenchangesinthebulkofthecatalyst
+tremendous attention is focused on the changes of material.Withoutknowingthemicro-andcrystalstruc-
+catalyst under dynamic reaction conditions [1]. tureandtheelectronicstateofthecatalyst,itisdifficultto
+Accordingly, the catalyst should be considered as definepossibleactivesitesorrecognizepotentialreaction
+a dynamic part of the catalytic system, and its com- pathways, which are parts necessary for a reaction
+pletely different behaviour under operation as mechanism. The complexity of the material increases
+opposed to under steady-state conditions needs to fromthesinglecrystalofelementalAgthroughpolycrys-
+be taken into account. These observations act as tallinematerialstowardssupportedandhighlypromoted
+driving forces for development of advanced in situ industrially used Ag/α-Al O catalysts. Insertion of
+2 3
+and operandotechniques[2–9],which givean insight asecond elementeither intheformof doping (e.g.,Cu
+into the crystal structure, surface morphology and [9,12–14],Pd[15])oralloys(Zn[16],Cd[17],Au[18])
+composition of the catalyst. leads to the preferential segregation to the surface and
+Epoxidation of ethylene is an important chemical formationofoxidicphasesduetothedifferentreactivity
+process from the industrial perspective and – simulta- of the components and random distribution of the ele-
+neously – a very complex catalytic reaction from the ments in the crystal structure. Contrary to alloys, in
+CONTACTIrynaAntonyshyn Iryna.Antonyshyn@cpfs.mpg.de Max-Planck-InstitutfürChemischePhysikfesterStoffe,Dresden,Germany
+Supplementaldataforthisarticlecanbeaccessedhere.
+©2019TheAuthor(s).PublishedbyNationalInstituteforMaterialsScienceinpartnershipwithTaylor&FrancisGroup.
+ThisisanOpenAccessarticledistributedunderthetermsoftheCreativeCommonsAttributionLicense(http://creativecommons.org/licenses/by/4.0/),whichpermits
+unrestricteduse,distribution,andreproductioninanymedium,providedtheoriginalworkisproperlycited.
+
+Sci.Technol.Adv.Mater.20(2019)903 I.ANTONYSHYNetal.
+(ordered) intermetallic compounds (IMCs) the atoms and dwelled at this temperature for 1 h, followed by
+(preferentially)occupycertaincrystallographicpositions coolingdowntocorrespondingannealingtemperature
+and chemical interactions can be properly described in and holding for 240 h. The annealing temperatures
+termsoflocalchemicalbonding.Asaresult,IMCscanbe were chosen based on the phase diagram [36] and
+usedeitherasstableandactivecatalyststhemselves[19– ownthermal analysis results:670°CforCa Ag ,570°C
+2 7
+21]orasprecursorsfortheformationofefficientcatalyst for CaAg , 640°C for CaAg, 540°C for Ca Ag and
+2 5 3
+underreactionconditions.Thelattervariantcanberea- 430°C for Ca Ag. After homogenization, the samples
+3
+lizedintwomodes:(i)viapreparationofactivecatalysts werequenchedinicewater.
+usingpre-treatmentofprecursorcompounds(e.g.leach- For sample characterization, the following bulk-
+ing,oxidation,etc.)[22–24],whichisaknownphenom- sensitivetechniqueswereapplied:powderX-raydiffrac-
+enon dating back to 1920s with the discovery of Raney tion(PXRD),scanningelectronmicroscopy(SEM),and
+catalyst[25],or(ii)throughformationofactivecatalystas differential thermal analysis combined with thermogra-
+aresultofthestructuralandcompositionalchangesofthe vimetry(DTA/TG).PXRDpatternswererecordedusing
+intermetallic compound under reaction conditions. Huber Imaging Plate Guinier Camera G670 (Huber
+Therearenumerousexampleswhereintermetalliccom- Diffractionstechnik GmbH, Rimsting, Germany);
+pounds were initially used as catalysts, but the actual CuKα radiation (λ = 1.54059 Å) and internal standard
+1
+catalytic performance had to be attributed to in situ LaB (a = 4.1569 Å). Ground powders were homoge-
+6
+formed metal particles supported on oxides [26,27], neously distributed on vaseline-wetted kapton foil and
+nitrides [28–30], hydrides [31], etc. To understand and fixedtightlybetweentwosuchfoils.Thesampleholders
+predict the behaviour of an intermetallic compound weretakenoutofAr-filledboxdirectlybeforethemea-
+undercertainreactionconditions,knowledgeoftheche- surement. Phase analysis was performed by comparing
+micalpropertiesandreactivityiscrucial,butsuchinfor- collectedpatternswiththecalculatedonesbasedonthe
+mationremainsscarceandhiddenintheliterature.The available crystallographic data (ICSD [37], CRYSTMET
+ordered crystal structures of IMCs open a possibility to [38]) using WinXPow software [39]. For indexing of
+use them as models for studying chemical reactivity PXRD patterns and refinement of crystal structures,
+[32,33]. WinCSDsoftwarepackage[40]wasapplied.
+In the context of ethylene epoxidation process, our Scanningelectronmicroscopy(JEOL7800Fwithan
+previousstudiesclearlyshowthatthereactivityofCaAg attached EDX/EBSD system: Quantax 400, Bruker,
+2
+and CaAg to oxygen strongly depends on the crystal Silicon-Drift-Detector; JEOL GmbH, Freising,
+structure and chemical bonding features [34,35]. Here, Germany)wasemployedfor:(i)semi-quantitativeesti-
+acomprehensiveoverviewofthereactivityofthebinary mation of composition via EDXS analysis and (ii) ele-
+compounds in the Ca–Ag system under ethylene epox- mental mapping and morphology imaging of small
+idationconditionsispresented.Thechemicalchangesof pieces of as-synthesized and as-processed samples.
+theseCa–Agcompoundswereconsideredfromdifferent Due to sample sensitivity to air and moisture, all pre-
+perspectives: (i) nature of the oxidant (not exclusively parationstepswerecarriedoutinanAr-filledglovebox,
+oxygen, but also carbon dioxide and water vapour), (ii) anda shuttlesystemwas usedfor sampletransfer into
+effect of the reaction temperature and (iii) addition of SEM. Specimens were cold fixed in silver containing
+ethyl chloride as a promoter. The observed changes in epoxy resin or mounted on graphite tabs. Silicon car-
+the catalyst material under reaction conditions were bidepaperanddiamondpowderwith3µmorsmaller
+linked to the catalytic performance. The experimental grainsizewereusedforsurfacepolishing.
+results, supported by chemical bonding analysis and Differential thermal analysis (Netzsch STA 449 F3
+first-principles calculations, strengthen experience on Jupiter;NETZSCH-GeraetebauGmbH,Germany) was
+intermetallic compounds as catalyst precursors for the accompanied by thermogravimetry and mass spectro-
+ethyleneepoxidationandcontributetothefundamental metry(PfeifferOmniStarGSD301O3;PfeifferVacuum
+understandingoftheirchemicalproperties. GmbH,Germany).Twosetsofconditionswereapplied:
+(i) ‘zero conversion’ mimicking conditions of ethylene
+epoxidation (O : C H : He = 7: 35: 58 vol. %, total
+2. Experimental 2 2 4
+flow –10mlmin −1)and(ii)‘fullconversion’assuming
+Single-phase samples of binary compounds were thatalloxygenisconsumedtoformCO andH O(CO
+2 2 2
+synthesized through the reaction of constituent ele- :H O:C H :He=4.7:4.7:32.6:58vol.%,totalflow–
+2 2 4
+ments (Ag shot, 1–6 mm in size, Alfa Aesar, 99.999%; 40mlmin −1);TableS1.
+Ca dendritic pieces, Alfa Aesar, 99.98%) at elevated Ethylene epoxidation experiments were performed
+temperatures.Thecomponentswereweighedincorre- using samples ground to two particle size fractions:
+spondingratios inagloveboxandsealedunderargon 315–500 μm and 500–1000 μm. These powders were
+into tantalum containers. The latter were positioned placed between two layers of inert corundum (Alodur
+into quartz tubes, which were sealed under vacuum.
+WSKF60,250–315μminsize)intubularstainlesssteel
+For initial reaction, samples were heated to 1000°C reactors(R0139,innerdiameter6mm).Afterpre-heating
+
+Sci.Technol.Adv.Mater.20(2019)904 I.ANTONYSHYNetal.
+to 160°C under nitrogen flow, further heating up to CN=12,(ii)theorthorhombicdeformationoftheunit
+230°Cwasaccompaniedwiththeswitchtoreactiongas cellleads totheformationofdistortedhexagonallayers
+mixture (35 vol. % C H , 7 vol. % O , 5 vol. % Ar as by Ag1 and Ag2, whereas Ag3 and Ca build trigonal
+2 4 2
+internal standard and 53 vol. % N as carrier gas). All layers, and (iii) the structure is formed via stacking of
+2
+experiments were performed at ambient pressure, [Ag Ca ],[Ag ]and[Ca Ag ]slabsalong[001].Further
+4 2 6 2 4
+whereas temperature (T), gas hourly space velocity dilution of Ag by Ca leads to the formation of CaAg
+2
+(GHSV) and amount of ethyl chloride (EC) promoter (KHg type)[59]witha3Dframeworkofplanarhoney-
+2
+inthegasfeedwerevaried(230–350°C,1000–2000h –1, comb nets of Ag atoms (Ag-Ag contacts in orange,
+0–4.5ppm,respectively).Gaschromatography(GC)and Figure 1), linked via longer Ag-Ag contacts (in green,
+massspectrometry(MS)wereusedforgasproductana- Figure1)along[010].Calciumatomsarelocatedinthe
+lysis[41]. cavities of this atomic arrangement [34]. In the equia-
+Twofirst-principlesfull-potentialall-electroncodes, tomiccompoundCaAg(α-TlItype),thezig-zagchainsof
+namelythefull-potentiallocalorbital(FPLO)[42]and Ag atoms along [001] are separated by Ca atoms
+the Fritz-Haber Institute ab initio molecular simula- [35,59,60]. The silver atoms are surrounded by seven
+tions(FHI-aims)[43],bothusingatom-centrednumer- calcium and two silver atoms in the form of trigonal
+ical orbitals were employed in the electronic structure prisms with three additional vertices in front of side
+calculations. The generalized gradient approximation faces (CN = 9). The trigonal prismatic environment of
+(GGA) as parametrized by Perdew, Burke and Ag atoms is preserved for Ag2 atoms in the tetragonal
+Ernzerhof [44] was applied. The fully optimized bulk Ca Ag structure (Cr B type) [61], whereas for Ag1
+5 3 5 3
+structures were used to generate surface models. atomsthenearestneighboursformatetragonalantiprism
+Pristine surfaces and surfaces with adsorbed species withtwoadditionalatoms(CN=10).Thecrystalstruc-
+were optimized by keeping the surface lattice vectors ture of the Ca-richest compound (Ca Ag) was not
+3
+andtheatomsofthebottomfewlayersfixed.Theforce reported in literature; only orthorhombic symmetry
+criterionforatomsinbothbulkandsurfacecalculations (spacegroupCmcm)wassuggestedfromfirst-principles
+was5meVÅ
+−1.Surfaceenergyandadsorptioncalcula-
+calculations[62].BasedonPXRDdata,thecrystalstruc-
+tionswere carriedout withinthe slabapproach by the ture of Ca Ag was determined and assigned to the Fe
+3 3
+FHI-aims package. The vacuum, separating the slabs, C structure type (the detailed information is presented
+had a thickness of about 20 Å. The electric dipole elsewhere).Inthiscrystalstructure,Agatomsareatthe
+corrections were included in the case of asymmetrical centresoftrigonalprismswiththreeadditionalatoms,all
+slabs [45,46]. The position-space chemical bonding beingCa(CN=9).Itisclearlyseen,thatwithincreasing
+analysisisbasedontheelectronlocalizabilityapproach Ca content, the coordination number of Ag atoms
+with the electron localizability indicator (ELI) being decreases (Figure1)from12(cuboctahedroninfccAg)
+computed in the ELI-D representation [47–49]. The to9(trigonalprismwiththreeadditionalatomsinCa Ag
+3
+electron density (ED) and ELI-D were calculated by case). Furthermore, the number of Ag-Ag contacts
+the help of modules implemented in FPLO [50] and reducesfrom12infccAgdowntotheircompleteabsence
+FHI-aims [51]. The program DGrid [52] was used for inCa Ag(TableS2).
+3
+thetopologicalanalysisoftheEDandELI-D. Among the Ca–Ag compounds mentioned in the
+literature,Ca Ag andCa Ag werenotobtainedinthis
+2 9 3 2
+study. Composition Ca Ag was assigned [53] for
+3. Binary Ca-Ag compounds: bulk properties 2 9
+a compound which was previously reported as ‘Ag Ca’
+4
+Before focusing on the chemical behaviour of binary [63].Itsexistencecannotbeexcludedduetothepresence
+Ca–Agcompoundsunderoxidativeethyleneepoxida- of tiny unindexed reflections in the PXRD patterns of
+tion conditions, a short overview of their bulk prop- Ca Ag ,butduetothehighductilityofthesamples,the
+2 7
+erties (crystal and electronic structure, nature of PXRD analysis as well as growth of single crystals are
+interatomic interactions) is presented. stronglyhampered.Aformationofanunknownphaseat
+59 at. % Ca (close to the composition Ca Ag ) through
+3 2
+asupposedperitecticreactionat589°Cwasreported[53],
+3.1. Crystallographic features
+but the formation temperature and composition of
+ThebinarysystemCa–Ag[36,53–55]ischaracterizedby Ca Ag areveryclosetothoseofCa Ag ,hinderingthe
+3 2 5 3
+at least five compounds. They crystallize with unique synthesisofCa Ag assingle-phasesample.
+3 2
+crystal structures (Figure 1, Table S2), are formed by
+differentreactionsandhavedistinctphysicalproperties.
+3.2. Thermodynamic stability
+ThecrystalstructureoftheAg-richestcompoundCa Ag
+2 7
+(Yb Ag typeofcrystalstructure)[56,57]iscloselyrelated The Ca–Ag binary system has been studied experi-
+2 7
+tothatofelementalfccAg[58]:(i)threetypesofcrystal- mentally and computationally [36,53–55,62–66]. An
+lographicallydistinctAgatomshavedistortedcuboocta- assessment of the Ca–Ag phase diagram was made
+hedral atomic environment with coordination number based on the first-principles calculations and
+
+Sci.Technol.Adv.Mater.20(2019)905 I.ANTONYSHYNetal.
+Figure 2. Calculated composition-dependent heats of forma-
+tion for the compounds in the binary system Ca–Ag.
+thesestudiesthelowestformationenergyisobservedfor
+theequiatomicCaAg.
+3.3. Tendencies in electronic structures
+The calculated electronic total and partial densities of
+states (DOS) for five Ca–Ag compounds are shown in
+theSupportingInformation(FigureS1).Thechangesin
+DOS moving from the Ag-richest Ca Ag to the Ag-
+2 7
+poorest Ca Ag reflect mainly the changes in
+3
+Figure 1. Crystal structures of elemental silver and Ca–Ag Agd-Agdhybridization,whichdependonthenumber
+compoundswithcoordinationpolyhedraofAgatoms(Aggrey; of Ag-Ag contacts. The d band width (W ) decreases
+d
+Cablue).
+with decreasing near neighbour numbers, and as the
+nature of d states start to become more localized
+(atomic) the whole d band moves further away from
+experimental data [62]. The Gibbs energies of forma-
+the Fermi energy (E ). This downward shift can be
+tion of four compounds in the Ca–Ag system were F
+quantified by the distance of the d band maximum to
+determined by potentiometric measurements at 830
+theE (topedget )andthedbandcentre(ε ).Figure3
+KasCa Ag :−15.7kJmol −1,Ca Ag :−18.9kJmol −1, F d d
+2 9 2 7 showsthevariationsofW ,t andε asafunctionofAg
+CaAg : −22.5 kJ mol −1 and CaAg: −25.0 kJ mol −1 d d d
+2 content.ThefccAg,whereeachAgatomhas12neigh-
+[64]. These values are in good agreement with the
+boursatadistanceof2.892Å(TableS2),hasthewidest
+results of thermodynamic modelling by the
+band(3.7eV)anditsbandtopedgelieshighestat−2.7
+CALPHAD approach [65] and with the standard for-
+eV,whereasinCa AghomonuclearCNofsilveratoms
+mation enthalpies measured by the solution calori- 3
+becomeszeroandcorrespondinglyW isreducedto0.2
+metric method: −18.8 kJ mol −1 for Ca Ag , d
+2 7
+−24.1 kJ mol −1 for CaAg , −28.0 kJ mol −1 for
+2
+CaAg [66].
+The crystal structures of Ca–Ag binary compounds
+used in the present study were optimized at the GGA
+level. According to the formation energies calculated
+from the electronic total energies, all five compounds
+areonthetie-lineoftheconvexhullandthereforether-
+modynamically stable (Figure 2). Calculated values
+(−23.54 kJ mol −1 for Ca Ag , −29.32 kJ mol −1 for
+2 7
+CaAg , −32.73 kJ mol −1 for CaAg, −27.95 kJ mol −1 for
+2
+Ca Ag and−19.34kJmol −1forCa Ag)agreewellwith
+5 3 3
+the previous results[62],which includephononcontri-
+butions to the Helmholtz free energy (−22.87, −28.63,
+Figure 3. Band centre, band top edge and band width ofAg
+−32.74, −28.16 kJ mol −1 at room temperature for 4d states versus Ag content in Ca–Ag binary compounds.
+Ca Ag , CaAg , CaAg and Ca Ag , respectively). In all
+2 7 2 5 3
+
+Sci.Technol.Adv.Mater.20(2019)906 I.ANTONYSHYNetal.
+eV. The d band centres, however, vary in a narrow
+rangeof−4.3to−4.7eV.
+3.4. Chemical bonding analysis
+The experimental average volumes per atom in the ele-
+mental structures and the Ca–Ag compounds are dis-
+played inFigure 4. The solid line joining fcc Ca and fcc
+Ag shows the linear behaviour expected from Vegard’s
+rule.However,thevaluesfortheCa–Agcompounds(red
+fullcircles,Figure4)indicateanegativedeviation(smal-
+ler volumes). This implies that the nature of chemical Figure 5. Distribution of bond electrons over different bond
+bondinginthecompoundsisdifferentfromthatinthe types for each Ca–Ag compound. The bond types are
+described in the text.
+elementalsolids[67,68].Oneobviousfeatureoriginating
+fromtheelectronegativitydifferencebetweenCaandAg
+is the charge transfer from Ca to Ag (Figure 4). The
+The 5a-Ag Ca bond is formed by two Ag and three
+average effective QTAIM charge of Ca increases as Ag 2 3
+Caatomsallhavingcomparablecontributions,which
+contentincreasesandreachesamaximumvalueofabout
+reduces its polar character. The cluster bond [73]
++1.3, characteristic for compounds with high bond
+with the participation of eight Ag and four Ca
+polarity:+1.20inCa SiIr [69],+[1.3,1.5]inCaSi [70],
+2 2 3 atoms (12 atomic) has a very large bond electron
++[1.28,1.42]inCa [Mn N ][71].Theaveragevolume
+12 19 23 population of 6.35 electrons. The polarity of this
+of the Ca species decreases and reaches asymptotically
+bond is further reduced with respect to previous
+a minimum value of 15 Å3/atom. With increasing Ag
+ones. The last two types are Ca-only bonds (3a-Ca
+content the negative charge of silver species decreases 3
+and4a-Ca )foundinfccCa.Foreachbondtype,the
+andtheaverageQTAIMvolumeofAgatomsdecreases 4
+total number of bond electrons is obtained and its
+at the same time reflecting the decreased number of
+ratio to the compound’s total number of bond elec-
+electronscontainedinAgQTAIMbasins.
+trons (i.e., the ELI-based valence region electron
+Theelectronlocalizabilityapproachenablesanalysis
+count) is calculated (Figure 5). The Ag-rich com-
+of the chemical bonding in position space. The com-
+pounds are characterized by multi-atomic Ag-
+pound-specificresultsofsuchanalysisarepresentedin
+dominated polar covalent bonds, whereas the Ca-
+theSupportingInformation(FiguresS2-4).Thefollow-
+richonesrevealmulti-atomicbondswithcomparable
+ingbondtypesarefound.Inthe(four-atomic[72])4a-
+AgandCacontributions.TheequiatomicCaAgwith
+Ag bondallormostoftheelectronsinthebondbasins
+4 its2a-Ag-Agbondsisin-betweenvariantofthesetwo
+are contributed by four Ag atoms. The individual Ca
+differentbondingscenarios.
+contributionstosuchbondsarelessthan5%.Similarly,
+the 3a-Ag and 2a-Ag-Ag bonds are defined. The Ag-
+3
+nCa interaction involve one Ag and two or three Ca 3.5. Surface energy calculations
+atoms. The Ag atom provides most of the bond elec-
+Surfaceenergiesofthepristinesurfaces(100),(010)and
+trons with individual Ca atoms contributing between
+(001) were calculated using the slab geometry. Since
+5% and 10%. The polarity of this bond type is high.
+a slab has two surfaces, it is necessary to have identical
+surfacesonbothsides.Inmostcases,thisrequiresnon-
+stoichiometric slabs, and the chemical potentials for Ca
+(µ ) and Ag (µ ) have to be introduced in order to
+Ca Ag
+accountfortheaddedorremovedatomswithrespectto
+thebulkcomposition.InFigureS5thesurfaceenergiesas
+afunctionofthechemicalpotentialofAgarepresented.
+Apart from CaAg, all Ca–Ag binaries have a Ca-
+terminated surface as the preferred surface in Ca-rich
+environments(coveringawiderrangeofµ values)and
+Ag
+either Ag- or mixed-terminated surfaces in Ag-rich
+environments.Thesurfaceswiththelowestsurfaceener-
+giescalculatedforCa Ag ,Ca Ag andCa Agareshown
+2 7 5 3 3
+in Figure 6, whereas such information for CaAg and
+2
+Figure 4. QTAIM volumes (top) and effective charges (bot- CaAgcompoundswaspresentedelsewhere[34,35].
+tom) of Ca and Ag atoms in different Ca–Ag binary In terms of cleavage energies, the Ag-rich com-
+compounds. poundsbehavedifferentlyfromothers(Table1).Two
+
+Sci.Technol.Adv.Mater.20(2019)907 I.ANTONYSHYNetal.
+4. Characterization of synthesized
+compounds
+The assessment of intermetallic compounds as catalysts
+requiresthecarefulcharacterizationoftheas-synthesized
+materialtorelatethecatalyticperformancetoeitherthe
+chemicalnatureofIMCsorthechangesoccurringunder
+reactive atmosphere. The as-prepared Ca–Ag samples
+were handled under inert atmosphere, preventing their
+possible oxidation by exposure to air. The Ag-richest
+compound Ca Ag is extremely ductile (similar to ele-
+2 7
+mental Ag), whereas CaAg and CaAg are brittle. The
+2
+PXRD data collection for Ca Ag is only possible after
+2 7
+mechanicalfilingofthesampleandsubsequentannealing
+ofthepowder.WithCacontentlargerthan50at.%,the
+samples(e.g.,Ca Ag andCa Ag)aresoft.Themechan-
+5 3 3
+icalpropertiesinfluencethequalityofthecollectedX-ray
+powderdiffractiondata(FigureS9).Thesynthesisproce-
+dure described in the Experimental part allows the pre-
+parationofsingle-phasebinarycompounds.Onlyafew
+unidentifiedbroadreflections,pointingoutthelowcrys-
+tallinity of the admixture phase, were observed in the
+PXRDpatternofthe Ca Ag sample(FigureS9).These
+2 7
+reflectionsmaycorrespondtotheCa Ag phase,whose
+2 9
+crystalstructureisstillunknown.ThesynthesisofCa Ag
+5 3
+resulted in the presence of the target phase and some
+Ca Ag , which is concentration- and temperature-wise
+3 2
+veryclosetoCa Ag .ThesensitivityoftheCa–Agsam-
+5 3
+ples to air was monitored via PXRD measurements:
+successive PXRD patterns (six measurements, each 20
+min, summed up for better statistics) do not show any
+changesforCa Ag andCaAg .FortheequiatomicCaAg
+2 7 2
+additionalbroadreflectionsappearalreadyatthesecond
+recordingandtheircontributionincreaseswithmeasure-
+menttime.Theformationofadditionalamorphous-like
+oxidationproductsisevenmorepronouncedforCa Ag
+5 3
+andCa Ag.
+3
+Figure 6. The most competitive surface terminations
+obtained for Ca Ag (a), Ca Ag (b) and Ca Ag (c).
+2 7 5 3 3
+5. Ca–Ag compounds under ethylene
+different cleavage planes each for the Ca Ag (001) epoxidation conditions
+2 7
+and(010) surfaceshavecomparablecleavage energies The catalytic performance of intermetallic Ca–Ag
+(within 0.5 meV Å
+−2).
+In CaAg 2 the best surfaces compounds towards production of ethylene oxide
+along the principal directions [100], [010] and [001] was investigated by varying different experimental
+have very close cleavage energies [34]. On the other conditions: (i) temperature (T), (ii) gas hourly space
+hand, in CaAg, Ca 5 Ag 3 , and Ca 3 Ag there are clearly velocity (GHSV), and (iii) concentration of ethyl
+preferred cleavage planes implying anisotropic beha- chloride (EC) promoter (Figure S10). The main mea-
+viour for these compounds. In particular, the sures for efficiency are selectivity towards ethylene
+favoured surface of CaAg is a Ca-terminated (010) oxide (S ) and conversion of ethylene (C ); the
+EO C2H4
+surface over the full range of µ Ag [35]. obtained values are summarized in Table 2.
+Table 1. Cleavage energies (in meV Å−2) computed for Ca–Ag binary compounds*.
+CaAg CaAg [34] CaAg[35] CaAg CaAg
+2 7 2 5 3 3
+(001)-I:46.48 (100)-I:49.00 (010)-III:32.00 (001)-II:32.11 (010)-I: 33.51
+(001)-III:46.58 (010)-I:49.80 (111):37.50 (100)-I:38.40 (100)-I:36.45
+(010)-I:46.60 (001)-I:49.70 (101):38.70 (001)-I:36.52
+(010)-II:47.00 (010)-II:36.78
+*ThecleavageplanesaredenotedaccordingtoFiguresS6–S8.
+
+Sci.Technol.Adv.Mater.20(2019)908 I.ANTONYSHYNetal.
+Table 2. Catalyticperformance ofCa–Agcompounds forethylene epoxidation:selectivity towardsethylene oxide(S , %)and
+EO
+conversionofethylene(C ,%)asresponsetovariedexperimentalconditions(temperature(T,°C),gashourlyspacevelocity
+C2H4
+(GHSV, h
+−1)
+and concentration of ethyl chloride promoter (EC, ppm)).
+Tincrease***: Tdecrease***: GHSVdecrease***: ECdecrease***:
+250→280°C 250→200°C 2000→1000h−1 2.5→0ppm
+Compound t *,h S **,% C ,% S ,% C ,% S ,% C ,% S ,% C ,% S ,% C ,%
+ind EO C2H4 EO C2H4 EO C2H4 EO C2H4 EO C2H4
+CaAg 250 56–58 1.5 ↑4 ↓40 ↓<1 ↑3 ↓28 ↑3
+2 7
+CaAg 30 64 3 ↓52 ↑6 ↓58 ↓<1 ↑68 ↑4 ↓36 ↑4
+2
+CaAg 100 35 <1 ↓6 ↑39 ... ↓22
+CaAg ... 8 <1 ↑12 ↓3 ↑12 ...
+5 3
+CaAg ... 4 <1 ... ... ... ... ↑8 ... ... ...
+3
+*Inductiontime(t ,h)representsthetimeforcatalyticactivitytoreachthequasisteadystate.
+ind
+**Selectivityvaluesaregivenatcorrespondinglevelofethyleneconversion;furthermore,thesevaluesrepresentthevaluesofselectivityatstandard
+temperatureof250°C.
+***Theresponseofselectivityandconversiontotemperature,GHSVandECconcentrationchangesarepresented:arrowup(down)correspondsto
+increase(decrease)ofselectivityorconversion;thenumbersrepresentthevalues,reachedatfinalT,GHSVorECconcentration;emptycellsmean
+unchangedcatalyticperformancecomparedtostandardconditions.
+5.1. Duration of the induction phase
+Theoxidativeconditionsofethyleneepoxidationprocess
+requiretimet forthecatalyticactivitytoreachthequasi
+ind
+steadystate.Thistimeframeisreferredtoastheinduc-
+tion phase. The attainment of the steady state can be
+inferredbynotingwhenthemonotonicchangesincata-
+lyticmeasuresreachstablevalues.ForAgcatalysts,these
+changes mainly correspond to the formation of surface
+oxidelayerand/orgrowthofbulkoxidedependingonthe
+reactionconditions[74].Incaseofthedopedoralloyed
+Ag catalysts, e.g. the Ag-Cu, Ag-Cd, Ag-Pd, Ag-Zn
+systems, the picture becomes even more complicated
+becauseofpossiblesegregationofoneofthecomponents
+tothesurfaceand/orbulktransformationofthematerial
+[9,14–17].
+TheinductionphaseforalmostallCa–Agcompounds
+can be identified by monitoring the selectivity towards
+ethylene oxide. In the case of Ca Ag , the selectivity
+2 7
+reachesthestablevaluesof56–58%atconversionaround
+1.5%onlyafter250hunderstream,whereasCaAg has
+2
+a significantly shorter induction phase (t = 30 h and
+ind
+S =64%atC =3%).Itwasshownpreviouslythat
+EO C2H4
+CaAg undergoes oxidation towards elemental Ag and
+2
+a complex CaO/Ca(OH) /CaCO support due to the
+2 3
+isotropic chemical bonding with no evidence of prefer-
+entialcleavageorformationofanyprotectivelayer[34].
+In this case, oxidation is mostly driven by thermody-
+namics,sincethereactionenthalpyofCaAg +½O →
+2 2
+2Ag + CaO is −252.8 kJ mol −1. In these terms, Ca Ag
+2 7
+behavessimilarlytoCaAg (Ca Ag +O →7Ag+2CaO,
+2 2 7 2
+ΔH=−104.2kJmol −1)andadditionalreflectionscorre-
+spondingtofccAgweredetectedinthePXRDpatterns
+after catalysis. The formation of elemental silver was
+additionallyevidencedviascanningelectronmicroscopy, Figure 7. Particle shape and surface morphology of the Ca–
+includingEDXSanalysis(Figure7).ContrarytoCaAg , Ag compounds after ethylene epoxidation (BSE images,
+2
+material contrast, 15 kV): general view of particles (left
+silver particles formed during the oxidation of Ca Ag
+2 7 panel) and magnification of selected areas (right panel). The
+tendtoaggregate,thusformingAg‘islands’.Mostlikely,
+identified phases are marked on the right panel figures. In
+the significantly slower oxidation rate of Ca 2 Ag 7 com- case of CaAg, oxidation happens only on mechanically
+paredtoCaAg (estimatedbycomparingt ),allowsfor damaged areas (for details, see [35]).
+2 ind
+
+Sci.Technol.Adv.Mater.20(2019)909 I.ANTONYSHYNetal.
+Ag aggregation and leads to the sintering of the Ag from 3% at 250°C up to 6% for CaAg and remains
+2
+particles. The formation of large Ag areas, which cover almost unchanged for the others.
+thenon-oxidizedpartofCa Ag ,hinderstheaccessofgas The effect on the selectivity of Ca Ag is unclear
+2 7 2 7
+reactants (particularly O ) for further bulk oxidation of because the T increase step overlaps with the induction
+2
+Ca Ag . The remaining core of Ca Ag particles after period.InthecaseofCaAg selectivitydropssignificantly
+2 7 2 7 2
+exposure to ethylene epoxidation conditions was evi- down to 52%. The increase of the conversion rates and
+denced via PXRD and SEM. The sintering of the Ag simultaneousdecreaseoftheselectivityatelevatedreac-
+particlesismostprobablyalsothereasonforthereduced tiontemperaturesareinherentfeaturesofelementalAg
+catalyticactivitycomparedtoinsituformedAgfromthe catalysts[79,80],confirmingtheformationofelemental
+CaAg precursor.Itiswellknownthattheparticlesinter- Ag upon oxidation of Ca Ag and CaAg and its con-
+2 2 7 2
+ing is the main deactivation mechanism of Ag-based tributiontothecatalyticactivity.Increasingthetempera-
+catalystswithtimeonstream[75–78]. ture does not affect the performance of CaAg and that
+IncaseofCaAg,selectivitieschangewithinthefirst100 differentiatesitfromtheAg-richercompounds.Aslight
+h and reach maximum values of S = 35% at C = increaseofselectivity(upto12%)isobservedforCa Ag ,
+EO C2H4 5 3
+0.5%,whicharerelativelylowcomparedtotheAg-richer however,errorbarsinselectivityestimationarelargedue
+compounds.ContrarytoCaAg ,CaAgremainsstablein toverylowconversionrates.
+2
+bulk under ethylene epoxidation conditions despite its At a reduced temperature of 200°C selectivity
+oxidation,CaAg+½O →Ag+CaO,isthermodynami- drops significantly in all cases, whereas ethylene con-
+2
+callyfavourablewithΔH=−508.5kJmol −1.Thestability version rate decreases dramatically for Ag-rich com-
+ofCaAgisduetotheformationofastableandorderedCa- pounds (Ca Ag and CaAg ) and remains almost
+2 7 2
+Opassivationlayeronthe(010)surface,whichisalsothe unchanged and low for CaAg, Ca Ag and Ca Ag.
+5 3 3
+preferredcleavagesurface[35].Theoxidationtakesplace
+onlyonstackingfaultsandmechanicallydamagedregions
+5.3. Influence of contact time and particle size
+(Figure7).ThepresenceoftheCa-Opassivatinglayeris
+mostprobablyalsothereasonforthesignificantlydimin- distribution (PSD)
+ishedcatalyticperformance.
+To enhance ethylene conversion, lower values of the
+The induction phase for the Ca-rich compounds
+gas hourly space velocity (GHSV) were applied and
+Ca Ag andCa Agisnotverypronouncedduetothe
+5 3 3 the samples with smaller particle size were used. The
+very poor performance of these catalysts towards for-
+impact of these factors was clear only for Ag-rich
+mationofethyleneoxide(S =8%atC =1%for
+EO C2H4 compounds (Ca Ag and CaAg ), where the conver-
+2 7 2
+Ca Ag and basically non-detectable for Ca Ag). The
+5 3 3 sion rates were slightly enhanced. Longer contact
+comparison of PXRD patterns taken before and after
+time of gas reactants with the catalyst and enlarged
+the catalytic experiments does not reveal any differ-
+surface area exposed to the gas stream increased the
+ence. More careful microscopic studies on Ca 5 Ag 3 oxidation rate of these compounds. For other Ca–Ag
+samples after catalysis clearly show randomly distrib- compounds, no significant enhancement of ethylene
+utedregions,whosecompositionsareenrichedinCa,
+conversion was observed.
+Cl and O with accompanying depletion of Ag (black
+volcano-likeareasinFigure7).Therearealsoplentyof
+homogeneously distributed regions, composed of 5.4. Promotion by ethyl chloride
+cores enriched in calcium and oxygen according to
+The use of chlorinated hydrocarbons as promoters for
+EDXS analysis (black in Figure 7) and shells of Ag-
+ethyleneepoxidationiswidelyappliedontheindustrial
+richer phases (Ca Ag according to EDXS analysis,
+3 2 scale and allows to enhance the selectivity towards the
+white in Figure 7). These regions correspond to the
+desiredethyleneoxide[11,81,82].Themainstreamopi-
+firststepofCa Ag oxidation. TheSEM characteriza-
+5 3 nionisthatthecombinationofelectronicandstructural
+tionofCa Ag(Figure7)doesnotshowanychangesof
+3 effects of chlorine allows to tailor the balance between
+the as-synthesized material and is in agreement with
+differentoxygenspecies(electrophilicandnucleophilic
+PXRDdata.
+in nature) and, correspondingly, the reaction rates of
+differentreactionpathways[83–87].Dependingonthe
+coverage, chlorine can: (i) adsorb on surface or pene-
+5.2. Influence of temperature
+trateintosubsurfaceatlowcoveragesor(ii)completely
+The standard epoxidation experiments were per- poison(viablockageofoxygenchemisorption)thecat-
+formed at 250°C, but variation of the temperature alyst in case of high-concentration co-feeding
+(T) was carried out to specify the response of the [81,86,88–90]. The scenario of formation of highly
+catalytic properties to this factor (Table 2). With mobileAgClspeciesleadingtotherestructuringandre-
+increasing temperature up to 280°C, the conversion dispersion of Ag particles was also considered in the
+of ethylene increases only slightly in case of Ca Ag , literature [91]. Interestingly, the replacement of the
+2 7
+
+Sci.Technol.Adv.Mater.20(2019)910 I.ANTONYSHYNetal.
+alumina support (industrially used) by CuO leads to following) is larger compared to the sample after
+CuO acting as a sponge for low concentrations of standard treatment, most probably due to the higher
+chlorine and is accompanied with formation of CuO/ temperature. The morphology of the particles after
+Clderivatives[92]. the experiment with increased EC amount is comple-
+For Ca–Ag compounds, the response of the cata- tely different from those of other experiments.
+lytic performance on the presence of ethyl chloride Almost the whole surface undergoes oxidation with
+(EC) in the gas stream is very pronounced. In the formation of ‘Ca Ag O ’ intermediate (fluffy dark
+x y z
+absence of EC, the selectivity drops drastically (more grey phase). Tiny nicely shaped particles of elemental
+than twice) in the case of Ag-rich compounds Ag are located along the dendritic framework of ‘Ca
+x
+(Ca Ag and CaAg ) and this finding provides addi- Ag O ’. The undermost layer is mainly CaO. The
+2 7 2 y z
+tional support for two claims: (i) the behaviour of formation of elemental silver as a result of Ca Ag
+5 3
+these two compounds under ethylene epoxidation oxidation was observed only at elevated T and high-
+conditions is similar, and (ii) their catalytic response concentration EC co-feeding. No chlorine signal was
+isduetotheinsituformedAgparticlesonacomplex detected in the microscopy studies, but its impact on
+Ca-based support. CaAg is not so sensitive to the the oxidation process is noticeable. The chemical
+amount of EC in the stream, whereas for Ca Ag and behaviour of Ca Ag under such conditions is similar
+5 3 3
+Ca Agitsinfluenceisdifficulttoestimatebasedsolely to that observed for Ca Ag : (i) without EC the oxi-
+3 5 3
+on catalytic properties (Table 2). dationisevenlesspronounced,and(ii)with4.5ppm
+The careful characterization of Ag-rich com- EC noticeable oxidation of Ca Ag takes place with
+3
+pounds as well as CaAg by bulk-sensitive techniques formation of a phase enriched in Ca, O and Cl and
+doesnotshowanysignofreactionproductswithEC. depleted in Ag (Figure S11).
+Most probably, the catalytic response of these com- ThenucleophilicchlorineatomoftheECmolecule
+pounds is mainly governed by the geometrical and tends to react with the cationic moieties of Ca in
+electronic structure changes of the in situ formed Ag Ca Ag and Ca Ag, but the presence of oxygen in
+5 3 3
+particles upon EC co-feeding. the stream makes the interaction of chlorine compli-
+The inability to judge the impact of EC on the cated due to the possible formation of Ca-Cl-O tern-
+chemicalpropertiesofCa Ag andCa Agatstandard ary intermediates, e.g. Ca OCl , Ca(ClO ) or
+5 3 3 4 6 2 2
+ethylene epoxidation conditions forced us to investi- Ca(ClO ) [93–97]. These types of compounds can
+4 2
+gate their reactivity at elevated T (up to 350°C) with- act as oxidation agents for Ag
+δ-
+oxidizing towards
+out EC promoter and with excess of it (up to 4.5 Ag0 and Ca δ+ to formal Ca2+ (in CaO). The reduced
+ppm). The results of the experiment without EC chlorine species are most probably volatile and may
+promoter resemble those of the standard ethylene be removed by the gas stream. As a result, elemental
+epoxidation test (2.5 ppm EC). The main feature is silver, intermediate ‘Ca Ag O ’ and CaO are formed,
+x y z
+the appearance of surface areas enriched in calcium whichisinagreementwithexperimentalobservations
+and oxygen with simultaneous depletion of Ag (dark (Figure 8). It should also be kept in mind that the
+areas,Figure8).Theamountofthisproductofpartial amountofEC(even4.5ppm)isverysmallcompared
+oxidation of Ca Ag (labelled ‘Ca Ag O ’ in the to the oxygen content in the gas stream (7 vol. %).
+5 3 x y z
+The reaction of EC with the surfaces of the Ca–Ag
+compounds was studied computationally, as an
+exemplary case, for the Ca-terminated (001) surface
+of Ca Ag . The 1 × 1 surface unit cell (~ 8 Å × 8 Å)
+5 3
+was employed. Three different surface scenarios were
+considered: (i) adsorption of one EC molecule on the
+pristine surface, (ii) adsorption of one EC molecule
+on an oxygenated surface, and (iii) adsorption of one
+EC molecule and 12 oxygen atoms on the pristine
+surface. The first scenario is of interest to gain basic
+knowledge. Because the gas feed used in the experi-
+ments contains only ppm levels of EC but 7 vol. %
+O , the second and third scenario are more relevant
+2
+for the ethylene epoxidation conditions.
+The outcome of the adsorption of EC on the pris-
+tine Ca-terminated (001) surface of Ca Ag depends
+Figure 8. Morphology of Ca Ag particles after ethylene 5 3
+5 3 on the initial geometry of EC. When the molecular
+epoxidation: without EC promoter (a) and with excess of it
+(b).Theoverviewofparticles(leftpanels)andenlargementon plane(theplanecontaining Cl,two C,and oneof the
+characteristic regions (right panels) are shown. The phases H atoms) is parallel to the surface, and when it is
+identified via EDXS analysis are marked in colours. perpendicular with the C–C axis still parallel to the
+
+Sci.Technol.Adv.Mater.20(2019)911 I.ANTONYSHYNetal.
+surface with the Cl atom further away from the sur- 6. Water as oxidant
+face, the adsorption energies are about −0.26 eV. In
+The divergent behaviour of Ca–Ag compounds under
+these cases, the EC molecule remains intact.
+exposuretoairandunderethyleneepoxidationcondi-
+However, when the molecular plane is initially per-
+tionsprovokedthinkingaboutothercomponentsofthe
+pendicular to the surface (regardless of whether the
+system,whichcanactasoxidants,namelywatervapour
+C–Caxisisparallelorperpendiculartoit)withtheCl
+andcarbondioxide(undesiredproductsofthecombus-
+atom placed towards the surface, the Cl atom
+tion of ethylene). To address this issue, systematic
+detaches from the molecule and forms bonds with
+DTA/TG-MS experiments were carried out in two
+three top surface Ca atoms. The adsorption energy
+modes: ‘zero conversion’ (the gas mixture is identical
+for these cases is around −3.14 eV.
+to the ethylene epoxidation test) and ‘full conversion’
+To investigate the adsorption of EC on an already
+(assuming that all available oxygen was used for ethy-
+oxygenated surface, the relaxed surface containing 11
+leneoxidationtowardsCO andH O).Theexperimen-
+oxygenatomswastakenassubstrate,andoneECmole- 2 2
+tal details are listed in Table S1. The oxidation of the
+culewasplacedatdifferentinitialpositions.Thelargest
+Ca–Agcompoundswasestimatedbasedonmassgains
+adsorption energies vary between −0.24 and −0.27 eV
+during the experiments (Figure 10). Afterwards, all
+withtheECmoleculeintactandminimalchangesinthe
+sampleswerecharacterizedbyPXRDandtheseresults
+substrate.ThisfindingmeansthatoncethetoplayerCa
+aresummarizedinTable3.
+atoms areboundtotheoxygenatoms,they showlittle
+Underreactionconditions(‘zeroconversion’mode),
+affinity to the Cl atoms andadsorptionprocesshas no
+CaAg is the most unstable compound among Ca–Ag
+strongeffectonthesubstrateandthemolecule. 2
+compoundsandthisisinagreementwithexperimental
+The third scenario is simultaneous adsorptionof the
+data (SEM, Figure 7) and the computational study of
+EC molecule and oxygen on the pristine surface. This
+the surface which indicated the spontaneous segrega-
+possibilityissimulatedbyconsideringoneECmolecule
+tionofelementalsilverinO -enrichedatmosphere[34].
+and12oxygenatomsabovethepristinesurface(Figure9 2
+Exclusively in the case of CaAg , the analysis of mass/
+(a)).Inthiscase,bothClandOatomsattacktheCaatoms 2
+charge curves shows the presence of ethylene oxide as
+disrupting the top two layers. The Cl atom penetrates
+wellascarbondioxideandwater.MassgainforCa Ag
+beneath the top surface forming bonds with three Ca 2 7
+is small but continuously increasing, which can be
+atoms,someoxygenatomsreachquitedeeplevelsasin
+explained by the higher availability of Ag atoms,
+the oxygen-only calculations. Two hydrogen atoms
+which are segregating to the surface and thereby hin-
+detach from theECandform OH groups.TheCatom
+dering access of oxygen to the Ca atoms. This
+thathaslostitsClandHbondsattractstwoOatomsinto
+its vicinity. Additionally, there are various Ca–O bonds
+formed. However, the subsurface Ag atoms are less
+affected,andtheyremainbelowthetoplayerofCa,Cl,
+OandHatoms(Figure9(b)).
+Figure 10. Mass gains as a result of the oxidation of Ca–Ag
+compounds: (i) calculated accordingtothescheme CaAg +
+x y
+O → X + CaO, where X = Ag, Ca Ag , CaAg , CaAg and Ca
+Figure 9. Initial (a) and relaxed (b) configurations of one EC Ag 2 (blue bars) and (ii) experimen 2 tally 7 obtain 2 ed during ‘zero 5
+3
+moleculeand12oxygenatomsabovethepristinesurfaceof conversion’ (orange bars) and ‘full conversion’ (yellow bars)
+Ca Ag . The length of the indicated Ca–Cl contact is 2.50 Å
+5 3 tests. The presence of H O vapour and CO in gas stream
+(a). TheindicatedCa–Cl(Ca–O)contactsvarybetween 2.88 2 2
+and possibility of Ca(OH) and CaCO formation was also
+2 3
+and 3.01 (2.22 and 2.68) Å (b).
+considered.
+
+Sci.Technol.Adv.Mater.20(2019)912 I.ANTONYSHYNetal.
+Table 3.ResultsofDTA/TG-MSexperiments onCa–Agsamples:mass gains(%)asa resultofmaterialchangesunder different
+oxidative conditions accompanied via the phase analysis using powder X-ray diffraction.
+‘Zeroconversion’ ‘Fullconversion’
+Compound Massgain,% Phases* Massgain,% Phases*
+CaAg 0.45 CaAg+Ag 2.20 Ag+CaAg**
+2 7 2 7 2 7
+CaAg 10.8*** Ag+CaAg**+CaO** 4.50 Ag+CaAg+CaO?
+2 2 7 2 7
+CaAg 0.90 CaAg+CaAg 10.2/11.5 Ag+CaAg+CaAg+CaAg**+CaO+Ca(OH)?
+2 2 2 7 2
+CaAg 0.63 CaAg+CaAg 1.5/2.1 CaAg+CaAg+CaAg+?**
+5 3 5 3 5 3 2
+CaAg 0.52 CaAg+CaAg 1.0 CaAg+CaAg+?**
+3 3 5 3 3 5 3
+*accordingtoPXRDdata;**onlytracesaredetected;***ethyleneoxide,CO andHOweredetectedfromMSoutput.
+2 2
+explanation is also supported by the relatively long stronglyboundoxygenatoms.Theseoxygenatomswill
+induction phase observed for Ca Ag during the cata- likelybemoremobileconcerningadiffusionintosubsur-
+2 7
+lytic experiments (Table 2). CaAg and Ca-rich com- face areas and thus enable and promote the bulk trans-
+pounds formation. Figure 12 illustrates this concept by
+(Ca Ag and Ca Ag) undergo oxidation only to comparingtheshortestdistancesbetweensurfaceoxygen
+5 3 3
+alimitedextentwithformationofmainlyneighbouring atoms and subsurface calcium atoms. In case of
+Ag-richerphasesandCaO. CaO@CaAg(010)surface,the shortest distance between
+The ‘full conversion’ experiments clearly show the anoxygenatomandasubsurfaceCaatomisoftheorder
+crucial effect of water on the stability of the Ca–Ag of5Å(Figure12(a)).UponadsorptiononCaO@CaAg
+compounds.Ingeneral,theoxidationofallCa–Agcom-
+pounds is more pronounced in the presence of
+H O in the stream (Figure 10). Only the oxidation of
+2
+CaAg is more obvious and quicker in O -enriched
+2 2
+atmosphere, whereas the presence of exclusively water
+vapourledtocontinuousandrelativelyslowoxidationof
+CaAg with formation of the intermediate product
+2
+Ca Ag and,finally,elementalAg.
+2 7
+The prominent example for the impact of water is
+the chemical behaviour of CaAg, which remains rela-
+tivelystableinthepresenceofO ,whereasthepresence
+2
+of H O in the gas stream led to immediate oxidation
+2
+with significant mass gain (Table 3, Figure 10). As
+mentioned above, its stability in the presence of O in
+2
+thestreamisexplainedbytheformationofaverystable
+Ca-Osurfacestructure,whichactsasapassivatinglayer
+protectingbulkagainstfurthercorrosion[35].
+Toshedlightontheimpactofwaterontheoxida-
+tion process of CaAg, the computational studies of
+water adsorption on (i) the favoured pristine CaAg
+Figure11.Therelaxedarrangementof8watermoleculeson
+(010) surface and (ii) already oxygenated and stable
+thepristine2×2CaAg(010)surface.TherearefourCaatoms
+CaO@CaAg(010) surfaces were carried out. Using
+in the surface unit cell. The indicated Ca–O distances are
+a2×2surfaceunitcell(9.38×8.12Å),variousinitial 2.47–2.48 Å. The remaining four water molecules are too
+geometrieswithdifferentnumbersofwatermolecules
+far from the surface to react.
+were relaxed. The best adsorption energies per water
+molecule obtained are ~ −0.75 eV for one molecule,
+and ~ −0.69 eV for 7 and 8 molecules. In all cases,
+both the surface and water molecule(s) remain intact
+(Figure 11). The pristine CaAg(010) surface is stable
+under water vapour.
+The instability of CaAg under ambient conditions,
+meaningsimultaneouspresenceofoxygenandwaterin
+theatmosphere,canbeinvestigatedtheoreticallybyper-
+forming adsorption calculations of water molecules on
+the CaO@CaAg(010) surface. These calculations show
+that in the presence of water molecules, the passivating
+Figure12.Structuraldetailsofthe(a)CaO-overlayerandthe
+layer becomes less ordered and gives rise to locally less (b) CaO+H O – overlayer on CaAg (010) surface.
+2
+
+Sci.Technol.Adv.Mater.20(2019)913 I.ANTONYSHYNetal.
+(010)layer,waterundergoesaspontaneousdissociation perpendicular to the [010] crystallographic direction.
+into H+ and OH − (Figure 12(b)). Moreover, the asso- This surface is also able to form stable, ordered and
+ciated energy of adsorption is −1.2 eV per water mole- denseCaO-basedlayerunderethyleneepoxidationcon-
+cule,implyingsizablesurfacecoveragesunderexposure ditions [35]. This layer hinders the further oxidation of
+toair.Structurally,thedissociatedhydrogenassociatesto CaAg,butsimultaneouslypreventstheaccessibilityofAg,
+−
+a structural oxygen atom whereas the OH group leading to reduced ethylene conversion and low
+adsorbs on a Ca-Ca bridge position. These changes are selectivity.
+accompaniedbythenotabledownwarddisplacementof The Ca-rich binary compounds Ca Ag and Ca Ag
+5 3 3
+astructuraloxygenatom,yieldingadistanceof~4Åto are characterized by a significant electron transfer from
+the nearest subsurface Ca atom (Figure 12(b)). This calciumtosilveratoms(Figure4),leadingtothereduced
+finding suggests that CaAg is unstable in air, because electrophilicityofAgatomsand,correspondingly,tothe
+the adsorption of water molecules on the CaO passiva- decreased selectivity towards desired EO. Furthermore,
+tion layer facilitates the downward movement of the the conversion of ethylene is very low due to the near-
+layer’s oxygen atoms leading to further decomposition complete coverage of the surface by oxygen-containing
+ofthebulk. layers leading to the absence of accessible Ag atoms on
+Concerning the Ca-rich binary compounds, the thesurface.
+larger mass gains for under ‘full conversion’ con- The reactivity and oxidation behaviour of the
+ditions compared to ‘zero conversion’ mode con- Ca–Ag compounds are strongly dependent on the
+firm the observation that they are unstable in air applied conditions and nature of the used oxidant.
+mainly due to the presence of moisture. Contrary to ethylene epoxidation conditions, the
+stability of Ca–Ag compounds in air decreases
+drastically with increasing Ca content. Here, the
+7. Conclusions
+differences between oxygen atmosphere and expo-
+Considering a catalyst for ethylene epoxidation, many sure to air are ascribed to the water vapour present
+factors need to be taken into account, and it is almost in air. Additionally, co-feeding of EC promoter has
+impossibletoattributethechemicalbehaviourandcata- a pronounced effect on the restructuring of the
+lyticperformanceexclusivelytooneparameter,sincethe surface and as a result on the corrosion of Ca-
+ongoing chemistry is very complex. Nevertheless, com- rich compounds.
+biningexperimentalobservations,catalyticperformance In general, the study on the reactivity of Ca–Ag
+data,detailedanalysisofthecompoundsconcerningthe
+binarycompoundsclearlyshowsthat:(i)thedifferent
+chemicalbondingandmodellingofmoleculeadsorption oxidation behaviour is not only determined by ther-
+on different surfaces allow to draw reasonable conclu- modynamic properties and the affinity of Ca towards
+sions about the reactivity and catalytic performance of oxygen, (ii) the chemical bonding mainly determines
+intermetallic Ca–Ag compounds under reaction thechemicalbehaviouroftheCa–Agcompoundsand
+conditions. (iii) each component of the system (composition of
+Based on experimental and computational results, the atmosphere, temperature, elemental composition
+the five Ca–Ag intermetallic compounds were divided of the compound, etc.) plays an important role in the
+into three groups: (i) Ag-rich Ca Ag and CaAg , (ii) oxidation of Ca–Ag compounds and thereby in their
+2 7 2
+equiatomicCaAg,and(iii)Ca-richCa Ag andCa Ag. catalytic properties.
+5 3 3
+The isotropy of the chemical bonding in Ag-rich
+binary compounds Ca Ag and CaAg and high affi-
+2 7 2 Acknowledgments
+nity of Ca towards oxygen favour the oxidation of
+those compounds under ethylene epoxidation condi- TheauthorsthankS.HückmannandH.BorrmannforPXRD
+tions.Asaresult,Agparticlesareformedoncomplex measurements,S.KostmannandP.ScheppanforSEMsample
+preparationandcharacterization,S.ScharsachandM.Schmidt
+CaO/Ca(OH) /CaCO support, providing reasonable
+2 3
+ethylene conversion rates (2–3%) and maximum for DSC analysis, T. Keilheuer for support in DTA/TG-MS
+experimentsandH.Kaiserforperformedcatalytictests.
+selectivities of 55–65% towards ethylene oxide. In
+terms of catalysis, these compounds are precursors
+for an active Ag catalyst with useful catalytic proper- Disclosure statement
+ties due to the complex morphology of the support
+No potential conflict of interest was reported by the
+and its interaction with Ag particles.
+authors.
+WithincreasingCacontent,thecontributionofionic
+Ca-Ag interactions to chemical bonding increases. In
+ORCID
+equiatomic CaAg compound there are preferentially
+ionicinteractionsbetweenCaandAgatomsandAg-Ag
+Iryna Antonyshyn http://orcid.org/0000-0002-7652-
+covalent bonds in (001) plane. Such anisotropy of che- 0630
+mical bonding leads to the preferential cleavage Olga Sichevych http://orcid.org/0000-0003-3981-5736
+
+Sci.Technol.Adv.Mater.20(2019)914 I.ANTONYSHYNetal.
+Alim Ormeci http://orcid.org/0000-0001-5468-3378 [18] RojluechaiS,ChavadejS,SchwankJW,etal.Activityof
+Karsten Rasim http://orcid.org/0000-0003-1431-7351 ethylene epoxidation over high surface area alumina
+MarcArmbrüster http://orcid.org/0000-0002-2914-0600 support Au-Ag catalysts. J Chem Eng Jpn.
+Yuri Grin http://orcid.org/0000-0003-3891-9584 2006;39:321–326.
+[19] Armbrüster M, Schlögl R, Grin Y. Intermetallic com-
+poundsinheterogeneouscatalysis–aquicklydevelop-
+ingfield.SciTechnolAdvMater.2014;15:034803–1–17.
+References
+[20] Furukawa S, Komatsu T. Intermetallic compounds:
+promising inorganic materials for well-structured
+[1] Kalz KF, Kraehnert R, Dvoyashkin M, et al. Future
+and electronically modified reaction environments
+challenges in heterogeneous catalysis: understanding
+for efficient catalysis. ACS Catal. 2017;7:735–765.
+catalysts under dynamic reaction conditions.
+ChemCatChem. 2017;9:17–29. [21] Tsai AP, Kameoka S, Nozawa K, et al. Intermetallic:
+a pseudoelement for catalysis. Acc Chem Res.
+[2] MeunierF,DaturiM.Recentadvancesininsituand
+2017;50:2879–2885.
+operando studies of catalytic reactions. Catal Today.
+2006;113:1–130. [22] ImamuraH,WallaceWE.Synthesisgasreactionsover
+catalysts formed by oxidation of thorium-containing
+[3] Su DS, Zhang B, Schlögl R. Electron microscopy of
+solid catalysts – transforming from a challenge to
+intermetalliccompounds.JCatal.1980;65:127–132.
+a toolbox. Chem Rev. 2015;115:2818–2882. [23] Kameoka S, Tsai AP. Oxidation behavior and cata-
+lytic property of intermetallic compound AuCu.
+[4] Jones TE, Rocha TCR, Knop-Gericke A, et al.
+Catal Today. 2008;132:88–92.
+Insights into the electronic structure of the oxygen
+[24] Wencka M, Kovač J, Dasireddy VDBC. The effect of
+species active in alkene epoxidation on silver. ACS
+Catal. 2015;5:5846–5850. surfaceoxidationonthecatalyticpropertiesofGa 3 Ni 2
+intermetalliccompoundforcarbondioxidereduction.
+[5] Dou J, Sun Z, Opalade AA, et al. Operando chem-
+J AnalSci Technol.2018;9:12–1–10.
+istry of catalyst surfaces during catalysis. Chem Soc
+Rev. 2017;46:2001–2027. [25] RaneyMinventor.Methodofproducingfinely-divided
+nickel.UnitedStatespatentUS1,628,190.1927May27.
+[6] Greiner MT, Jones TE, Klyushin A, et al. Ethylene
+[26] Elattar A, Takeshita T, Wallace WE, et al.
+epoxidationatthephasetransitionofcopperoxides.
+J Am Chem Soc. 2017;139:11825–11832. IntermetalliccompoundsofthetypeMNi 5 asmetha-
+nation catalysts. Science. 1977;196:1093–1094.
+[7] Carbonio EA, Tocha TCR, Klyushin A, et al. Are
+[27] Barrault J, Duprez D, Guilleminot A. Intermetallic
+multiple oxygen species selective in ethylene epoxi-
+dation on silver? Chem Sci. 2018;9:990–998. compounds as heterogeneous catalysts. Appl Catal.
+1983;5:99–107.
+[8] JonesTE,WyrwichR,BöckleinS,etal.Theselective
+[28] TakeshitaT,WallaceWE,CraigRS.Rareearthinter-
+speciesinethyleneepoxidationonsilver.ACSCatal.
+2018;8:3844–3852. metallics as synthetic ammonia catalysts. J Catal.
+1976;44:236–243.
+[9] GreinerMT,CaoJ,JonesTE,etal.Phasecoexistence
+[29] Schwab E, Wicke E. Nitrogen absorption by the
+of multiple copper oxides on AgCu catalysts during
+ethyeleneepoxidation.ACSCatal.2018;8:2286–2295. intermetallic compound TiFe and catalytic activity
+in ammonia synthesis. Z Phys Chem Neues Folge.
+[10] BukhtiyarovVI,Knop-Gericke A.Ethyleneepoxida-
+1984;122:217–224.
+tion over silver catalysts. In: Hess C, Schlögl R, edi-
+[30] Schwab E, Wicke E. Nitridation mechanisms of Ti
+tors. Nanostructured catalysts. Selective oxidations.
+Cambridge(UK):RSCPublishing;2011.p.214–247. alloys with Fe and Ru in regard to the formation of
+segregation catalysts. Z Phys Chem Neues Folge.
+[11] Rebsdat S, Mayer D. Ethylene oxide. In: Bellussi G,
+Bohnet M, Bus J, et al., editors. Ulmann’s encyclo-
+1984;142:13–27.
+[31] Soga K, Imamura H, Ikeda S. Hydrogenation of
+pediaofindustrialchemistry.Weinheim(Germany):
+Wiley-VCH; 2012. p. 547–572. ethylene over some intermetallic compounds.
+[12] Piccinin S, Zafeiratos S, Stampfl C, et al. Alloy cata- J Catal. 1979;56:119–126.
+[32] Friedrich M, Teschner D, Knop-Gericke A, et al.
+lystinareactiveenvironment:theexampleofAg-Cu
+Surfaceandsubsurfacedynamicsoftheintermetallic
+particles for ethylene epoxidation. Phys Rev Lett.
+2010;104:035503–1–4. compound ZnNi in methanol steam reforming.
+J Phys Chem C. 2012;116:14930–14935.
+[13] Nguyen NL, Piccinin S, de Gironcoli S. Stability of
+[33] Friedrich M, Penner S, Heggen M, et al. High CO
+intermediate states for ethylene epoxidation on 2
+Ag-Cu alloy catalyst: a first-principles investigation. selectivityinmethanolsteamreformingthroughZnPd/
+J Phys Chem C. 2011;115:10073–10079.
+ZnOteamwork.AngewChem.2013;125:4485–4488.
+[34] AntonyshynI,SichevychO,RasimK,etal.Chemical
+[14] Greiner MT, Jones TE, Beeg S, et al. Free-atom-like
+behaviour of CaAg under ethylene epoxidation
+d states in single-atom alloy catalysts. Nat Chem. 2
+2018;10:1008–1015.
+conditions.EurJInorgChem.2018;2018:3933–3941.
+[35] AntonyshynI,SichevychO,RasimK,etal.Anisotropic
+[15] Dellamorte JC, Lauterbach J, Barteau MA.
+reactivity of CaAg under ethylene epoxidation
+Palladium-silver bimetallic catalysts with improved
+conditions.InorgChem.2018;57:10821–10831.
+activityandselectivityforethyleneepoxidation.Appl
+Catal A. 2011;391:281–288. [36] Baren MR, Ag-Ca (Silver-Calcium) system. Bull
+Alloys Phase Diagrams. 1988;9:228–231.
+[16] ToreisN, VerykiosXE, Khalid SM,etal.The oxida-
+[37] ICSD – Inorganic crystal structure database
+tion of ethylene over silver-based alloy catalysts. 4.
+Silver-zinc alloys. J Catal. 1988;109:143–155. [Internet]. Version 4.1.0. FIZ Karsruhe. 2019.
+https://icsd.fiz-karlsruhe.de/
+[17] Bonin BK, Verykios XE. The oxidation of ethylene
+[38] CRYSTMET - The metals database. Version 5.8.0.
+over silver-based alloy catalysts. II. Silver-cadmium
+alloys. J Catal. 1985;91:36–43. Ottawa(Canada):TothInformationSystemInc.;2017.
+
+Sci.Technol.Adv.Mater.20(2019)915 I.ANTONYSHYNetal.
+[39] WinXPow.Version2.25.Darmstadt(DE):STOEand [59] Calvert LD, Dunsmore HS, Kuhi LV, et al. The
+Cie GmbH; 2009. crystal structure of AgCa and Ag Ca. Acta Cryst.
+2
+[40] Akselrud L, Grin Y. WinCSD: software package for 1957;10:775.
+crystallographic calculations (Version 4). J Appl [60] MerloF.CrystalstructuresofCaAg,CaAuandSrZn.
+Crystallogr. 2014;47:803–805. J Less-Common Met. 1982;86:241–246.
+[41] SchunkSA,DemuthD,CrossA,etal.Masteringthe [61] Rand RP, Calvert LD. The crystal structure of
+challenges of catalyst screening in high-throughput Ag Ca . Can J Chem. 1962;40:705–710.
+3 5
+experimentation for heterogeneously catalyzed gas- [62] Braga MH, Dębski A, Gąsior W. Optimization and
+phase reactions. In: Hagemeyer A, Strasser P, assessment of the Ag-Ca phase diagram. J Alloys
+Volpe AF, editors. High-throughput screening in Compd. 2014;612:280–286.
+heterogeneous catalysis. Weinheim (DE): Wiley- [63] Baar N. Über die Legierungen des Molybdäns mit
+VCH; 2004. p. 19–62. Nickel, Mangans mit Thallium und des Calciums
+[42] Koepernik K, Eschrig H. Full-potential nonothogo- mit Magnesium, Thallium, Blei, Kupfer und
+nal local-orbital minimum-basis band-structure Silber [About the alloys of molybdenum with
+scheme. Phys Rev B. 1999;59:1743–1757. nickel, manganese with thallium and calcium
+[43] BlumV,GehrkeR,HankeF,etal.Abinitiomolecular with magnesium, thallium, lead, copper and sil-
+simulations with numeric atom-centered orbitals. ver]. Z Anorg Chem. 1911;70: 352–394. German.
+ComputPhysCommun.2009;180:2175–2196. [64] Notin M, Hertz J. Thermodynamic data for calcium
+[44] Perdew JP, Burke K, Ernzerhof M. Generalized gra- based alloys from a new galvanic method.
+dient approximation made simple. Phys Rev Lett. CALPHAD. 1982;6:49–56.
+1996;77:3865–3868. [65] Huang GX, Liu LB, Jia BR, et al. Thermodynamic
+[45] Neugebauer J, Scheffler M. Adsorbate-substrate and modeling of the Ca–Ag binary system. J Alloys
+adsorbate-adsorbateinteractionsofNaandKadlayers Compd. 2008;460:375–378.
+onAl(111).PhysRevB.1992;46:16067–16080. [66] Dębski A, Dębski R, Gąsior W, et al. Formation
+[46] Bengtsson L. Dipole correction for surface supercell enthalpyof intermetallicphases fromAg-Casystem.
+calculations. Phys Rev B. 1999;59:12301–12304. Experiment vs. modeling. J Alloys Compd.
+[47] Kohout M. A measure of electron localizability. 2014;610:701–705.
+Int J Quantum Chem. 2004;97:651–658. [67] BaranovA,KohoutM,WagnerFR,etal.Spatialchem-
+[48] Kohout M, Wagner FR, Grin Y. Atomic shells from istryofthealuminium-platinumcompounds:aquantum
+the electron localizability in momentum space. chemicalapproach.ZKristallogr.2007;222:527–531.
+Int J Quantum Chem. 2006;106:1499–1507. [68] GrinY,FedorchukA,FariaRJ,etal.Atomiccharges
+[49] KohoutM.Bondingindicatorsfromelectronpairden- andchemicalbondinginY-Gacompounds.Crystals.
+sityfunctionals.FaradayDiscuss.2007;135:43–54. 2018;8:99:99-1-10.
+[50] OrmeciA,RosnerH,WagnerFR,etal.Electronlocali- [69] Pöttgen R, Borrmann H, Grin Y. Multi-center vs.
+zationfunctioninfull-potentialrepresentationforcrys- two-center bonding within the hetero-polyanion in
+tallinematerials.JPhysChemA.2006;110:1100–1105. Eu GaPt and its prototype Ca SiIr . Z Anorg Allg
+2 2 2 2
+[51] Villaseca SA, Ormeci A, Levchenko SV, et al. CO Chem[JInorgGeneralChem].2017;643:1338–1343.
+adsorptiononGaPd–unravelingthechemicalbond- [70] Schwarz U, Wosylus A, Rosner H, et al. Dumbbells
+inginrealspace.ChemPhysChem.2017;18:334–337. of five-connected silicon atoms and superconductiv-
+[52] Kohout M. Program DGRID. Version 4.6. Radebeul ityinthebinarysilicidesMSi (M=Ca,Y,Lu).JAm
+3
+(DE); 2011. Chem Soc. 2012;134:13558–13561.
+[53] AlexanderWA,CalvertLD,DesaulniersA,etal.The [71] OvchinnikovA,BobnarM,ProtsY,etal.Ca [Mn N ]
+12 19 23
+silver-calcium phase diagram. Can J Chem. and Ca [Mn N ]: structural complexity by 2D
+133 216 260
+1969;47:611–614. intergrowth.AngewChemIntEd.2018;57:11579–11583.
+[54] Pascal MMB, Allibert MCM. Étude du système [72] ZhengQ,WagnerFR,OrmeciA,etal.Interpenetration
+argent-calcium par analyse thermique différentielle of 3D icosahedral M@Ni (M = Al, Ga) framework
+12
+dans la partie riche en calcium [Study of the silver- with porphyrin-reminiscent boron layers in MNi B .
+9 8
+calciumsystembydifferentialthermalanalysisinthe ChemEurJ.2015;21:16532–16540.
+calcium-rich part]. CR Acad Sci Paris. 1970;270: [73] AmonA,OrmeciA,BobnarM,etal.Clusterforma-
+520–522. French. tion in the superconducting complex intermetallic
+[55] Campbell AN, Wood WHW. The silver-calcium compoundBe Pt .AccChemRes.2018;51:214–222.
+21 5
+system. Can J Chem. 1971;49:1315–1316. [74] Li W-X, Stampfl C, Scheffler M. Why is a noble
+[56] Snyder GJ, Simon A. Crystal structure of Ag Ca – metalcatalyticallyactive?TheroleoftheO-Aginter-
+7 2
+a new intermetallic structure type. J Alloys Compd. action in the function of silver as an oxidation
+1995;223:65–69. catalyst. Phys Rev Lett. 2003;90:256102–1–4.
+[57] FredricksonDC.Electronicpackingfrustrationincom- [75] Presland AEB, Price GL, Trimm DL. Particle size
+plexintermetallicstructures:theroleofchemicalpres- effects during the sintering of silver oxidation
+sureinCa Ag .JAmChemSoc.2011;133:10070–10073. catalysts. J Catal. 1972;26:313–317.
+2 7
+[58] StraumanisME.NeubestimmungderGitterparameter, [76] MontrasiGL,TauszikGR,SolariM,etal.Oxidation
+Dichten und thermischen Ausdehnungskoeffizienten ofethylenetoethyleneoxide:catalystdeactivationin
+von Silber und Gold, und Vollkommenheit der an industrial run. Appl Catal. 1983;5:359–369.
+Struktur[Re-determinationoflatticeparameters,den- [77] BoskovicG,WolfD,BrücknerA,etal.Deactivation
+sitiesandthermalexpansioncoefficientsofsilverand of a commercial catalyst in the epoxidation of ethy-
+gold,andtheirstructurerefinement].MonatshChem. lenetoethyleneoxide–basisforacceleratedtesting.
+1971;102:1377–1386.German. J Catal. 2004;224:187–196.
+
+Sci.Technol.Adv.Mater.20(2019)916 I.ANTONYSHYNetal.
+[78] Boskovic G, Dropka N, Wolf D, et al. Deactivation effects of product and chloride co-feeds on rates and
+kinetics of Ag/Al O catalyst for ethylene selectivity.ChemEurJ.2018;24:12405–12415.
+2 3
+epoxidation. J Catal. 2004;226:334–342. [88] Piao H, Adib K, Barteau MA. A temperature-pro-
+[79] GrantRB,LambertRM.Asinglecrystalstudyofthe grammed X-ray photoelectron spectroscopy (TPXPS)
+silver-catalysed selective oxidation and total oxida- studyofchlorineadsorptionanddiffusiononAg(111).
+tion of ethylene. J Catal. 1985;92:364–375. SurfSci.2004;557:13–20.
+[80] Ayame A, Uchida Y, Ono H, et al. Epoxidation of [89] Atkins M, Couves J, Hague M, et al. On the role of
+ethylene oversilvercatalystssupported on α-alumina Cs, Cl and subsurface O in promoting selectivity in
+crystalcarriers.ApplCatalA:General.2003;244:59–70. Ag/α-Al O catalysed oxidation of ethane to ethane
+2 3
+[81] Yeung KL, Gavriilidis A, Varma A, et al. Effects of epoxide. J Catal. 2005;235:103–113.
+1,2- dichloroethane addition on the optimal silver [90] Jankowiak JT, Barteau MA. Ethylene epoxidation
+catalyst distribution in pellets for epoxidation of over silver and copper-silver bimetallic catalysts: II.
+ethylene. J Catal. 1998;174:1–12. Cs and Cl promotion. J Catal. 2005;236:379–386.
+[82] LafargaD,VarmaA.Ethyleneepoxidationinacatalytic [91] VanHoofAJF,FilotIAW,FriedrichH,etal.Reversible
+packed-bedmembranereactor:effectsofreactorcon- restructuring of silver particles during ethylene
+figurationand1,2-dichloroethaneaddition.ChemEng epoxidation.ACSCatal.2018;8:11794–11800.
+Sci.2000;55:749–758. [92] RamirezA,HuesoJL,SuarezH,etal.Ananoarchitecture
+[83] Campbell CT. Chlorine promoters in selective ethy- based on silver and copper oxide with an exceptional
+lene epoxidation over Ag(111): a comparison with response in the chlorine-promoted epoxidation of
+Ag(110). J Catal. 1986;99:28–38. ethylene.AngewChemIntEd.2016;55:11158–11161.
+[84] Tan SA, Grant RB, Lambert RM. Secondary chem- [93] Meyer H-J, Meyer G, Simon M. Über ein
+istry in the selective oxidation of ethylene: effect of Oxidchlorid des Calciums: Ca OCl [About the cal-
+4 6
+Cl and Cs promoters on the adsorption, isomeriza- cium oxychloride, Ca OCl ]. Z Anorg Allg Chem.
+4 6
+tion, and combustion of ethylene oxide on Ag(111). 1991;596: 89–92. German.
+J Catal. 1987;106:54–64. [94] Smolentsev AI, Naumov D. Calcium chlorite,
+[85] Grant RB, Harbach CAJ, Lambert RM, et al. Alkali Ca(ClO ) , from X-ray powder diffraction data.
+2 2
+metal, chlorine and other promoters in the Acta Cryst. 2005;E61:i246–i248.
+silver-catalysed selective oxidation of ethylene. [95] HollemanAF,WibergN.LehrbuchderAnorganische
+J Chem Soc Faraday Trans. 1987;83:2035–2046. Chemie.Berlin:deGruyter;2007.
+[86] Rocha TCR, Hävecker M, Knop-Gericke A, et al. [96] ReckewegO,DiSalvoFJ.StructuresofSr OBr ,Ba OBr
+4 6 4 6
+Promoters in heterogeneous catalysis: the role of Cl andBa OI .ZNaturforsch.2008;63b:519–524.
+2 2
+on ethylene epoxidation over Ag. J Catal. [97] Lee D, Bu H, Kim D, et al. Crystal structure of
+2014;312:12–16. calcium perchlorate anhydrate, Ca(ClO ) , from
+4 2
+[87] Chen C-J, Harris JW, Bhan A. Kinetics of ethylene laboratory powder X-ray diffraction data. Acta
+epoxidationonapromotedAg/α-Al O catalyst–the Cryst. 2018;E74:514–517.
+2 3
+

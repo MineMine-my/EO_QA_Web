@@ -1,0 +1,207 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CeO2改性",
+        "relationship": "提高",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "CeO2改性",
+        "relationship": "维持",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "氧物种迁移"
+    },
+    {
+        "start_node": "氧物种迁移",
+        "relationship": "增强",
+        "end_node": "反应性能"
+    },
+    {
+        "start_node": "SiC载体",
+        "relationship": "吸附",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "SiC载体",
+        "relationship": "激活",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "Ag表面",
+        "relationship": "激活",
+        "end_node": "O2"
+    },
+    {
+        "start_node": "Ag表面",
+        "relationship": "生成",
+        "end_node": "单线态氧"
+    },
+    {
+        "start_node": "Ag表面",
+        "relationship": "生成",
+        "end_node": "超氧自由基"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "2 MPa"
+    },
+    {
+        "start_node": "空速GHSV",
+        "relationship": "范围",
+        "end_node": "3540 h-1"
+    },
+    {
+        "start_node": "乙烯进料",
+        "relationship": "比例",
+        "end_node": "28.3 vol%"
+    },
+    {
+        "start_node": "氧气进料",
+        "relationship": "比例",
+        "end_node": "7.6 vol%"
+    },
+    {
+        "start_node": "氮气进料",
+        "relationship": "比例",
+        "end_node": "64.1 vol%"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "CeO2改性量",
+        "relationship": "最优",
+        "end_node": "5 wt%"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "7.3-11.2 nm"
+    },
+    {
+        "start_node": "CeO2改性",
+        "relationship": "增加",
+        "end_node": "Ag粒径"
+    },
+    {
+        "start_node": "CeO2改性",
+        "relationship": "提高",
+        "end_node": "Ag分散度"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "氧吸附容量",
+        "relationship": "增强",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "SiC比表面积",
+        "relationship": "提高",
+        "end_node": "金属分散性"
+    },
+    {
+        "start_node": "SiC导热性",
+        "relationship": "改善",
+        "end_node": "热管理"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "数值",
+        "end_node": "5.4%"
+    },
+    {
+        "start_node": "EO选择性",
+        "relationship": "数值",
+        "end_node": "74.3%"
+    },
+    {
+        "start_node": "时空产率",
+        "relationship": "数值",
+        "end_node": "66 kg/(m3·h)"
+    },
+    {
+        "start_node": "过量CeO2",
+        "relationship": "降低",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "过量CeO2",
+        "relationship": "增加",
+        "end_node": "副产物"
+    },
+    {
+        "start_node": "SiC表面覆盖",
+        "relationship": "阻碍",
+        "end_node": "乙烯吸附"
+    },
+    {
+        "start_node": "电子转移",
+        "relationship": "增加",
+        "end_node": "Ce3+比例"
+    },
+    {
+        "start_node": "电子转移",
+        "relationship": "促进",
+        "end_node": "氧空位形成"
+    },
+    {
+        "start_node": "反应路径",
+        "relationship": "涉及",
+        "end_node": "SiC表面反应"
+    },
+    {
+        "start_node": "传统路径",
+        "relationship": "基于",
+        "end_node": "Ag表面反应"
+    }
+]

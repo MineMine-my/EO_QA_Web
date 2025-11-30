@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "适合",
+        "end_node": "动力学研究"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "具有",
+        "end_node": "优异传热"
+    },
+    {
+        "start_node": "薄催化剂层",
+        "relationship": "抑制",
+        "end_node": "传质阻力"
+    },
+    {
+        "start_node": "LHHW动力学",
+        "relationship": "描述",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "553 K"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "银板反应器",
+        "relationship": "具有",
+        "end_node": "更高活性"
+    },
+    {
+        "start_node": "预处理",
+        "relationship": "影响",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "催化剂层厚度",
+        "relationship": "范围",
+        "end_node": "15-20 um"
+    },
+    {
+        "start_node": "孔隙率",
+        "relationship": "范围",
+        "end_node": "0.3-0.4"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "1 bar"
+    },
+    {
+        "start_node": "银催化剂",
+        "relationship": "用于",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "二氧化碳"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "参与",
+        "end_node": "环氧化反应"
+    },
+    {
+        "start_node": "氧",
+        "relationship": "参与",
+        "end_node": "环氧化反应"
+    }
+]

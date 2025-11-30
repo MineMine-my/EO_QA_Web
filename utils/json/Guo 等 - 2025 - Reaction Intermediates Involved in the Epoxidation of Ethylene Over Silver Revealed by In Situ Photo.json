@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "OMC机制",
+        "relationship": "被挑战",
+        "end_node": "实验证据"
+    },
+    {
+        "start_node": "C2Hx物种",
+        "relationship": "是",
+        "end_node": "反应中间体"
+    },
+    {
+        "start_node": "吸附EO",
+        "relationship": "检测到",
+        "end_node": "直接产物"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "脱氢",
+        "end_node": "C2Hx物种"
+    },
+    {
+        "start_node": "C2Hx物种",
+        "relationship": "是",
+        "end_node": "CO2前体"
+    },
+    {
+        "start_node": "CO",
+        "relationship": "是",
+        "end_node": "CO2前体"
+    },
+    {
+        "start_node": "碳酸盐",
+        "relationship": "是",
+        "end_node": "CO2前体"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "100-400°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "1 mbar"
+    },
+    {
+        "start_node": "DOI",
+        "relationship": "标识",
+        "end_node": "10.1002/smll.202408432"
+    },
+    {
+        "start_node": "发表年份",
+        "relationship": "是",
+        "end_node": "2024"
+    },
+    {
+        "start_node": "原位XPS",
+        "relationship": "揭示",
+        "end_node": "反应中间体"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "支持",
+        "end_node": "实验数据"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "氧化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "完全氧化",
+        "end_node": "CO2"
+    }
+]

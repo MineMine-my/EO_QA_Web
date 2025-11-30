@@ -1,0 +1,157 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50-660 nm"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "0.5-56 wt%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "473-493 K"
+    },
+    {
+        "start_node": "Ag2O层",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "促进",
+        "end_node": "Ag2O形成"
+    },
+    {
+        "start_node": "Ag2O形成",
+        "relationship": "降低",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "环氧乙烷活性"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "结构敏感",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "丙烯环氧化",
+        "relationship": "结构不敏感",
+        "end_node": "反应"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "0.3 MPa"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "CaCO3"
+    },
+    {
+        "start_node": "Ag/CaCO3",
+        "relationship": "用于",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "Ag/CaCO3",
+        "relationship": "用于",
+        "end_node": "丙烯环氧化"
+    },
+    {
+        "start_node": "UV-vis光谱",
+        "relationship": "表征",
+        "end_node": "Ag氧化态"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "增加",
+        "end_node": "Ag+比例"
+    },
+    {
+        "start_node": "Ag+比例",
+        "relationship": "降低",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "达到稳态",
+        "end_node": "24-36 h"
+    },
+    {
+        "start_node": "丙烯环氧化",
+        "relationship": "达到稳态",
+        "end_node": "3-4 h"
+    },
+    {
+        "start_node": "丙烯",
+        "relationship": "强还原性",
+        "end_node": "烃"
+    },
+    {
+        "start_node": "强还原性",
+        "relationship": "快速还原",
+        "end_node": "Ag2O"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "弱还原性",
+        "end_node": "烃"
+    },
+    {
+        "start_node": "弱还原性",
+        "relationship": "缓慢还原",
+        "end_node": "Ag2O"
+    },
+    {
+        "start_node": "Ag2O还原",
+        "relationship": "影响",
+        "end_node": "反应稳态"
+    }
+]

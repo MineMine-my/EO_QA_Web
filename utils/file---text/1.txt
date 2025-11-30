@@ -1,0 +1,836 @@
+JournalofCatalysis236(2005)366–378
+www.elsevier.com/locate/jcat
+Ethylene epoxidation over silver and copper–silver bimetallic catalysts:
+I. Kinetics and selectivity
+Jerome T. Jankowiak, Mark A. Barteau∗
+CenterforCatalyticScienceandTechnology(CCST),DepartmentofChemicalEngineering,UniversityofDelaware,Newark,DE19716,USA
+Received1July2005;revised8October2005;accepted11October2005
+Availableonline11November2005
+Abstract
+Copper–silverbimetalliccatalystsofferimprovedselectivitiescomparedwithsilveraloneinthedirectepoxidationofethylene.Thisbimetallic
+combinationwaspreviouslyidentifiedbydensityfunctionaltheorycalculations,anditsperformanceadvantagewasverifiedinpreliminarycat-
+alyticreactorexperiments.Wereporthereamoredetailedinvestigationoftheperformanceofmonolith-supportedsilverandCu–Agbimetallic
+catalystsatdifferentfeedcompositionsandreactiontemperatures.Fromthesestudies,informationaboutactivationenergiesandreactionorders
+for ethylene epoxidation was obtained. The superior performance of the Cu–Ag bimetallic catalysts prepared by sequential impregnation was
+demonstratedoverawiderangeoffeedcompositions.
+2005ElsevierInc.Allrightsreserved.
+Keywords:Ethyleneepoxidation;Silvercatalysts;Bimetalliccatalyst;Oxametallacycle;Monolithcatalysts
+1. Introduction tionswasusedtoisolateandidentifyasurfaceoxametallacycle
+asthecommonintermediateparticipatinginboththeselective
+Thesilver-catalyzedepoxidationofethylenewithoxygenis
+and nonselective pathways [4]. This intermediate can react to
+one of the most important and successful examples of hetero-
+form EO or acetaldehyde, with both processes having similar
+geneous catalysis to date. Ethylene oxide (EO) has long been
+activationenergies.Ithasbeenshownpreviouslythatacetalde-
+one of the highest volume chemicals produced by the chemi-
+hydeisrapidlyoxidizedonsilvertoformcarbondioxide[5,6],
+calindustry,accountingforapproximately40–50%ofthetotal
+value of organic chemicals produced by heterogeneous oxida- and thus it has been postulated that acetaldehyde is the gate-
+tion [1,2]. In 1998, >8 billion pounds of ethylene oxide were way for the production of CO 2 . The transition state structures
+producedworldwide[3].Theprocessusesasilvercatalystsup- and energy barriers for the formation of EO and acetaldehyde
+portedonα-Al O ,promotedbyalkalisandhalides.Theprin- from the oxametallacycleintermediate have been obtained us-
+2 3
+cipalnonselectiveproductiscarbondioxide.Theformationof ingquantumchemicalcalculations[4].
+carbon dioxide is highly exothermic, and the process is run at Thedevelopmentofamechanisticunderstandingforthefor-
+low conversions (<15%) to achieve high selectivities and to mation of EO and carbon dioxide led to the design of a more
+control the heat released by combustion. More selective cata- selective catalyst from first principles [7]. Quantum chemical
+lystscanimproveoperabilitybyreducingtheheatgeneratedby calculationssuggestedthataCu–Agbimetalliccatalystshould
+theprocess. be more selective than pure silver toward EO. This prediction
+Previous work from this laboratory has provided new in- was verified by conducting a series of steady-state reactor ex-
+sightsintothemechanismofethyleneepoxidation.Acombina- perimentsexploringtheperformanceofmonolith-supportedsil-
+tion of surface science studies and quantum chemical calcula- verandCu–Agbimetalliccatalystsforafeedstreamcontaining
+10%oxygenand10%ethyleneat1.34atm(5psig).TheCu–Ag
+* Correspondingauthor.Fax:+13028318201. bimetallic catalysts were approximately 1.5 times more selec-
+E-mailaddress:barteau@che.udel.edu(M.A.Barteau). tive than the pure silver catalysts at optimal copper loadings.
+0021-9517/$–seefrontmatter 2005ElsevierInc.Allrightsreserved.
+doi:10.1016/j.jcat.2005.10.018
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 367
+Besides being more selective, the Cu–Ag bimetallic catalysts Thesimilarityofthecalculatedactivationbarriersfordisso-
+werealsomoreactive. ciative oxygen adsorption and surface reaction makes it diffi-
+The purpose of the present work was to explore the per- cult to identify the rate-determiningstep of the process on the
+formance of Cu–Ag bimetalliccatalysts over a wider range of basisofthesebarriersalone[8].Nonetheless,determiningreac-
+feed compositions and reaction temperatures. From these ex- tionordersforoxygenandethylenecanhelpidentifytherate-
+periments, the performance of the Cu–Ag catalysts relative to determining step of the process. For conditions in which the
+thatofpuresilverwithrespecttoEOselectivitywasevaluated, dissociative adsorption of oxygen is rate-determining, the rate
+andkineticsinformationabouttheprocessoverthesecatalysts ofreactionwouldbeexpectedtobeenhancedbyanincreasein
+wasobtained. oxygenpressureandtodisplaylittleornodependenceoneth-
+Toputtheseresultsincontext,itisusefultoconsiderrecent ylenepressure.Inthiscase,thereactionorderinoxygenwould
+modelsforthekineticsandmechanismofthisprocess.Thees- bepositive,whereasthereactionorderinethylenewouldbeap-
+sential features of the mechanism of ethylene epoxidation can proximatelyzero.Forconditionsinwhichthesurfacereaction
+berepresentedbyaminimumoffourelementarysteps[8]: israte-determining,therateofreactionshouldbeinfluencedby
+O (g)+2*(cid:1)2O(a), (1) changesinbothoxygenpressureandethylenepressure, yield-
+2
+ingpositivereactionordersforbothcomponents.
+C 2 H 4 (g)+*(cid:1)C 2 H 4 (a), (2) As shown in Table 1, the reaction orders reported for the
+C H (a)+O(a)(cid:1)CH CH O(a)+*, (3) formation of EO from oxygen and ethylene vary significantly.
+2 4 2 2 Reactionordersof0–1.5foroxygenand−0.03–1forethylene
+CH 2 CH 2 O(a)(cid:1)C 2 H 4 O(g)+*, (4) have been reported. These variations can likely be attributed
+where(g)representsgas-phasespecies,(a)representsadsorbed to variations in reaction conditions used to study the kinetics,
+species,and*representsunoccupiedsurfacesites.Themecha- andhighlightthepresenceofmultiplekineticallyrelevantsteps
+nism involvestwo adsorptionsteps, oneof whichinvolvesthe in the process. Apparent activation energies for EO formation
+dissociativeadsorptionofoxygen,onesurfacereactionstepin reportedly range from 9 to 22 kcal/mol, with an average of
+which adsorbed ethylene and oxygen react to form the pro- approximately16kcal/mol.ForCO 2 formation,themeasured
+posed oxametallacycle intermediate, labeled as CH CH O(a), reaction orders of oxygen and ethylene have been reported in
+2 2
+and one reaction/desorptionstep in which the intermediatere-
+rangesof−0.3–1.5and−0.2–1,respectively.Measuredappar-
+actstoreleasegas-phaseEO. ent activation energies for CO 2 formation have been reported
+Linicetal.[8]andStegelmannetal.[9,10]havedeveloped tobeeithercomparabletoorslightlyhigherthanthoseforEO
+microkineticmodelsforthisprocess.Theprocessactuallyhas formation,withreportedvaluesintherangeof8–33kcal/mol.
+twokineticallyrelevantsteps:dissociativeadsorptionofoxygen Asweshowbelow,ourresultsformonolith-supportedsilver
+andreactionofadsorbedethylenewithadsorbedoxygenatoms. and copper–silver bimetallic catalysts at 1.34 atm show acti-
+Therate-determiningstepoftheprocessisthereforegoverned vation energies and reaction orders near the median values of
+bythereactionconditionsused.Theidentificationofmorethan therangesreportedintheliterature.Undertheseconditions,the
+one kinetically relevant step has been supported by catalytic bimetalliccatalystsexhibithigheractivitiesandepoxidationse-
+studies. Table 1 gives the results of some studies that investi- lectivitiesoverawiderangeofethylene/oxygenratios.
+gated the kinetics of ethylene epoxidation [11–23]. Listed are
+the measured apparent activation energies and reaction orders 2. Experimental
+fortheformationofEOandCO forstudiesconductedovera
+2
+rangeofreactionconditionsandfittedwithpower-lawkinetics. The methods used for catalyst preparation and reactor op-
+eration have been described previously [7]. Catalyst supports
+were ceramic foam monoliths (99.5% α-Al O ) from Vesu-
+Table1 2 3
+viusHi-TechCeramics.Themonolithsusedforthisstudyhad
+Activationenergies(Ea,kcal/mol)andreactionorders(n)forepoxidation(1)
+andtotaloxidation(2)ofethyleneoversilvercatalysts 45 pores per linear inch (ppi), corresponding to a porosity of
+approximately 80%, and measured 18 mm diameter ×10 mm
+Epoxidation Totaloxidation Refer-
+Ea1 nC2H4 nO2 Ea2 nC2H4 nO2 ence l
+B
+o
+E
+n
+T
+g.
+a
+T
+n
+h
+a
+e
+lys
+s
+i
+u
+s
+rf
+a
+a
+s
+c
+a
+e
+p
+a
+p
+r
+r
+e
+o
+a
+xi
+o
+m
+f
+a
+t
+t
+h
+el
+e
+y
+se
+0.
+m
+3
+o
+m
+n
+2
+o
+/
+li
+g
+t
+.
+hs
+Su
+w
+rf
+a
+a
+s
+ce
+m
+a
+e
+r
+a
+e
+s
+a
+u
+s
+re
+o
+d
+ft
+b
+h
+y
+e
+16 1 0 16 1 0 [11]
+finished,metal-loadedmonolithscontaining11–13wt%metal
+12 0 1 15 0 1 [12]
+werewithin10%ofthisvalue.Becauseofsomebatch-to-batch
+19 0.3 0.7 – – – [13]
+15 – – 20 – – [14] variability, direct performance comparisons between catalysts
+20 0 1 33 – – [15] with different metals content are made only for catalysts pre-
+9 0.5 0 8 0.5 0 [16] paredfromthesamemonolithbatch.
+– 0 1 – 0 1 [17]
+Before use, all monoliths were cleaned by boiling in dis-
+– 1 1.5 – 1 2 [18]
+◦
+– 1 −0.3–1.5 – 1 −0.3–1.5 [19] tilledwaterfor1h,followedbybakinginairat80 Cuntildry
+– −0.03 0.91 – −0.2 1.1 [20] (typically 2 h). Catalysts were prepared by wet impregnation
+Ea1 =Ea2 1 0.5 Ea1 =Ea2 1 0.5 [21] techniques. Monoliths were contacted with an aqueous solu-
+25 1 0.5 24 1 0.5 [22] tionofsilvernitrate(AgNO )slightlyinexcessoftheamount
+3
+18 0.7 1 15 0.7 1 [23] ◦
+required for incipient wetness, then dried in air at 80 C. The
+
+368 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+Fig.1.Scanningelectronmicrographsofanα-Al2O3monolithbeforeandaftersilverdeposition.
+◦
+monolith catalyst was then calcined at 400 C for 12 h in an (25 at% Cu at the Ag surface) for the density functional the-
+open-air furnace, and reduced in flowing H /He (20% H by ory (DFT) calculations that predicted superior performance of
+2 2
+◦
+volume)at300 Cforanadditional12hinsitubeforethestart Cu–Agbimetallics[7].
+of the reaction. Catalyst samples contained silver loadings of Scanning electron microscopy (SEM) was used to image
+approximately 11–13 wt% of active catalyst. For the copper- supported silver and Cu–Ag bimetallic catalysts. Experiments
+promoted catalysts, copper was added in the form of aqueous were conducted using a JEOL 7400 scanning electron micro-
+cupricnitrate[Cu(II)(NO ) ]tothereducedsilvercatalystvia scope equipped with a cold field emission source operated at
+3 2
+wetimpregnation,usingasolutionwithacopperconcentration 2–3 kV with a limit of resolution of ∼1.5 nm. The acceler-
+of1g/L.Afteradditionofthecupricnitrate,thecatalystswere ating voltage was kept low to prevent beam damage and po-
+◦
+exposedtoaflowingstreamofH /Hefor12hat300 Ctore- tential charging effects. The working distance (objective lens
+2
+ducethecupricnitratetometalliccopper. to specimen) was 8 mm. Fig. 1 shows SEM images of the
+WehavepreviouslyreportedXPSresultsforbimetalliccat- bare α-alumina and supported silver catalysts prepared in this
+alysts prepared by this sequential impregnation and reduction study.Thesilvercrystallitesweretablet-shapedand10–20µm
+process [7]. These results demonstrated that catalysts contain- insize,andtheycoveredtheα-aluminasurface.WhenaCu–Ag
+ingCu/Agatomratiosof0.001–0.01exhibitedsurfaceCu/Ag bimetalliccatalystwaspreparedbysequentialimpregnationof
+ratios of 0.1–0.75. For a catalyst with a Cu/Ag atom ratio of Cu at the levels used here, there was no evidence in the mi-
+0.002, which we estimate from XPS to have a surface Cu/Ag crographsoftheformationofparticlesorsurfacefeaturesofa
+ratio of 0.25, the total Cu loading represents a maximumcov- different size or shape than those illustrated for the supported
+erage of 0.5 monolayers on a total catalyst area of 0.3 m2/g. silver catalyst. SEM elemental analysis of the silver and Cu–
+Thus it is clear that Cu is highly dispersed. Although we can- Agbimetallicsurfacesconfirmedthepresenceofsilverinthese
+not rule out the possibility that some copper is located on the particles.However,theelementdetectionsystemwasnotsensi-
+support rather than on the silver surface, electron microscopy tiveenoughtodetectcopperattheloadingsused(65–650ppm
+data (shown below) demonstrate that the monolith surface is withrespecttototalcatalystmass).
+nearlycompletelycoveredbysilverattheAgloadingsused.In AschematicofthereactorapparatusisshowninFig.2.The
+theabsenceofanyevidencetothecontrary,itisreasonableto reactorcomprisedan18-inch-longquartztubewithanouterdi-
+conclude that the sequential impregnation technique produces ameter of 25.4 mm and an inner diameter of 22 mm, slightly
+significant enrichment of Cu on the silver surface, generating largerthanthediameterofthefoammonolithcatalyst.Thecir-
+materials that correspond reasonably well to the design basis cumferenceofthemonolithwaswrappedwithalayerofquartz
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 369
+Fig.2.Reactorschematic.
+wooltopreventbypassingofthereactantgasaroundthecata- theair-basedprocessistypicallyrunatanethylene-to-oxygen
+lyst. The monolith was then placed at the center of the quartz ratio of 1:2. The catalysts discussed here were tested over a
+tube, which was enclosed in a tube furnace. The reactor tube wide range of feed conditions ranging from 6:1 ethylene to
+was connected to the gas handling system by metal compres- oxygento6:1oxygentoethylene,tostudytheperformanceof
+sionfittingswithVitono-rings. Cu–Agbimetalliccatalystscomparedwithpuresilvercatalysts.
+Gas flow to the reactor was controlled by electronic mass Two batches of catalysts were studied. Batches are defined as
+flow controllers. Reactor pressure was controlled by a nee- catalysts prepared from the same batch of monoliths and the
+dle valve, the outlet of which was vented to the atmosphere, same lots of silver and copper precursor. The two batches are
+placed just before the inlet of the on-line gas chromatograph. denotedasbatchAandbatchB.(Notethatthesebatchesdonot
+Theproductgaseswerefedthroughheatedstainlesssteellines correspondtothesimilarlylabeledbatchesdescribedinprevi-
+ouswork[7].)
+to an automated gas chromatograph (Hewlett Packard model
+6890) for analysis. The gas chromatograph contained a cap-
+3. Results
+illary column (Supelco Plot-Q) for separation of hydrocarbon
+species,C H andEO,whichweredetectedbyaflameioniza-
+2 4 Allcatalystswerelinedoutforaninitial24-hperiodofoper-
+tion detector. A second set of columns, consisting of a pair of
+ation under the same feed and temperature conditions. During
+packedHaysepcolumns(typesNandQ),whichseparateheav-
+this period, the feed contained 10 mol% each of oxygen and
+ier hydrocarbons (C 3+) from lighter hydrocarbons and gases,
+ethylene,andthereactortemperaturewasmaintainedat540K.
+and a molecularsieve, whichseparates the atmosphericgases,
+Once a catalyst had been lined out, composition and tempera-
+such as H , N and O , led to a thermal conductivity detector
+2 2 2 turevariationexperimentswerecarriedouttoprobethekinetics
+(TCD). The TCD was used for quantification of CO , C H ,
+2 2 4 and selectivity of the reaction. After each change of tempera-
+N ,andO .
+2 2 tureorcomposition,thereactorwasoperatedatsteadystatefor
+ThecatalysttemperaturewasmeasuredusingatypeKfine-
+aminimumof1hbeforetheresultswererecorded.Figs.3and4
+gauge bare-wire thermocouple inserted from the rear of the
+illustratetheconversionandselectivitytransientsforsilverand
+reactor and placed on the front face of the catalyst. The tem-
+copper–silver bimetallic catalysts during the initial lining-out
+peratureofthecatalystwascontrolledwithanexternalpropor- period, demonstrating that steady state was reached with this
+tionalcontroller.Thecontrollermaintainedthedesiredset-point procedure.
+temperaturetowithin±1 ◦ C. Figs. 5 and 6 show reaction rate data collected at 540 K
+All experiments were conducted at a reactor pressure of for silver and Cu–Ag bimetallic catalysts from batch A for
+1.34 atm with a total feed rate of 100 sccm (at STP), giving a both ethylene-rich and oxygen-rich feed streams. In these ex-
+contacttimeontheorderof0.5s.Industrialethyleneepoxida- periments the minor feed component was held at 0.13 atm
+tionprocessesarecarriedoutbothwithethylene-richconditions (10 mol%), whereas the major feed component was increased
+(oxygen-based process) and equimolar to slightly oxygen-rich from 0.13 to 0.8 atm (from 10 to 60 mol%), with a balance
+conditions (air-based process). For the oxygen-based process, of nitrogen. The rate of ethylene consumption was not signif-
+typicalethylene-to-oxygenratiosof3:1to4:1areused,whereas icantly affected by an increase in ethylene feed pressure, but
+
+370 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+Fig. 5. Measured rates of ethylene reaction at 540 K for silver and Cu–Ag
+Fig. 3. Measured ethylene conversion as function of time on stream for Ag bimetallic catalysts from batch A with ethylene-rich feed streams. The feed
+andCu–AgbimetalliccatalystsfrombatchA.Thefeedstreamcontained10% streamcontained10%oxygenand10–60%ethylene.
+ethylene,10%oxygen,and80%nitrogenatatotalreactorpressureof1.34atm
+andatemperatureof540K.
+Fig. 6. Measured rates of ethylene reaction at 540 K for silver and Cu–Ag
+bimetallic catalysts from batch A with oxygen-rich feed streams. The feed
+Fig.4.MeasuredethyleneoxideselectivityasfunctionoftimeonstreamforAg streamcontained10%ethyleneand10–60%oxygen.
+andCu–AgbimetalliccatalystsfrombatchA.Thefeedstreamcontained10%
+ethylene,10%oxygen,and80%nitrogenatatotalreactorpressureof1.34atm
+of 500 to 540 K and ethylene and oxygen feed compositions
+andatemperatureof540K.
+ranging from 10 to 60% (from 0.13 to 0.8 atm). It is evident
+that the inherent activities of the two batches of catalysts are
+was measurably affected by an increase in oxygen feed pres-
+quitedifferent,withcatalystsfrombatchAbeingsignificantly
+sure. In agreement with our previous report [7], the Cu–Ag
+moreactive.Thisfurtheremphasizestheproblemofbatchvari-
+bimetallic catalysts were more active than the pure silver cat-
+ability discussed previously [7]. Nonetheless, the comparison
+alyst for all feed conditions used. Similar rate measurements
+ofsilverandCu–Agbimetalliccatalystsofdifferentbasesilver
+wereconductedat500and520K,inadditionto540K.From
+activitiesprovidedagoodmeasureoftheperformanceenhance-
+these measurements, apparent activation energies and reaction mentsattainedwithcoppermodificationfordifferentbasecases
+orders were obtained for the consumption of ethylene and the ofcatalystperformance.ItisevidentfromthedatainTables2
+formationofEOandcarbondioxideoverawiderangeoffeed and 3 that, regardless of the base silver catalyst performance,
+conditions.Thesestudiesaredescribedbelow. the activity of the catalyst was significantly enhanced by the
+Activationenergydeterminationswereconductedforsilver additionofcopper.
+and Cu–Ag bimetallic catalysts from batches A and B for re- Representativeactivationenergydeterminationsforasilver
+actortemperaturesof500–540K.Summariesofthemeasured catalyst from batch A for ethylene-rich and oxygen-rich feed
+ethylene conversions for catalysts from batches A and B are conditions are shown in Figs. 7 and 8, respectively. It is evi-
+represented in Tables 2 and 3, respectively, for temperatures dent that the activation energy for ethylene consumption was
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 371
+Table2 Table3
+MeasuredethyleneconversionsforsilverandCu–Agbimetalliccatalystsfrom MeasuredethyleneconversionsforsilverandCu–Agbimetalliccatalystsfrom
+batchAat500–540Kandethyleneandoxygenfeedconcentrationsof10–60% batchBat500–540Kandethyleneandoxygenfeedconcentrationsof10–60%
+Ag 0.2%Cu–Ag 0.5%Cu–Ag 1.0%Cu–Ag Ag 0.2%Cu–Ag 1.0%Cu–Ag
+540K,10%O2 540K,10%O2
+C2H4 C2H4
+10% 6.37 7.73 12.69 14.45 10% 1.66 4.72 6.64
+20% 3.57 4.37 7.20 8.27 20% 0.94 2.69 3.84
+40% 1.82 2.27 3.51 4.06 40% 0.50 1.39 2.06
+60% 1.12 1.45 2.13 2.52 60% 0.33 0.88 1.34
+540K,10%C2H4 540K,10%C2H4
+O2 O2
+10% 6.37 7.73 12.69 14.45 10% 1.66 4.72 6.64
+20% 7.73 9.33 15.14 16.70 20% 2.25 5.71 8.18
+40% 9.98 12.13 19.19 21.54 40% 2.68 7.12 10.20
+60% 11.78 14.06 21.71 23.82 60% 2.96 8.15 11.59
+520K,10%O2 520K,10%O2
+C2H4 C2H4
+10% 4.33 5.62 8.6 9.45 10% 1.02 2.93 4.16
+20% 2.29 6.21 4.87 5.46 20% 0.57 1.62 2.37
+40% 1.04 7.86 2.24 2.54 40% 0.29 0.81 1.22
+60% 0.64 8.92 1.29 1.55 60% 0.18 0.49 0.76
+520K,10%C2H4 520K,10%C2H4
+O2 O2
+10% 4.33 5.62 8.6 9.45 10% 1.02 2.93 4.16
+20% 5.01 6.21 9.97 11.43 20% 1.29 3.49 5.32
+40% 6.55 7.86 12.47 14.00 40% 1.63 4.32 6.45
+60% 7.56 8.92 14.02 15.82 60% 1.85 5.03 7.33
+500K,10%O2 500K,10%O2
+C2H4 C2H4
+10% 2.42 3.10 5.06 5.89 10% 0.57 1.70 2.64
+20% 1.24 1.67 2.65 3.13 20% 0.30 0.92 1.46
+40% 0.54 0.76 1.10 1.37 40% 0.15 0.44 0.72
+60% 0.31 0.43 0.63 0.76 60% 0.09 0.25 0.42
+500K,10%C2H4 500K,10%C2H4
+O2 O2
+10% 2.42 3.10 5.06 5.89 10% 0.57 1.70 2.64
+20% 3.06 3.79 6.04 6.88 20% 0.74 2.13 3.13
+40% 3.87 4.80 7.56 8.79 40% 0.93 2.55 3.90
+60% 4.59 5.31 8.33 9.84 60% 1.06 2.83 4.34
+adverselyaffectedbyanincreaseinethylenefeedpressure,with tionenergyvariationswithethyleneandoxygenfeedpressures
+the activation energy increasing from 13.4 to 17.7 kcal/mol. to the silver catalyst from batch A. The activation energy in-
+Forincreasingoxygenfeedpressure,theactivationenergydid creased from 14.3 to 17.9 kcal/mol with increasing ethylene
+not appear to be affected significantly, with measured activa- feed pressure while showing no measurable dependence on
+tionenergiesrangingfrom12.8to13.4kcal/mol.Theobserved oxygenfeedpressure;theactivationenergiesobtainedatdiffer-
+increaseinactivationenergywithincreasingethylenefeedpres- entoxygenfeedpressuresrangedfrom13.7to14.2kcal/mol.
+sure can be rationalized as either site blockage by ethylene, ActivationenergiesforEOandcarbondioxideformationmea-
+which is temperature dependent, or by an increased activation suredforthesilvercatalystsfrombatchesAandBrangedfrom
+barrierfordissociativeoxygenadsorptiononmorereducedsur- 10.9to14.5kcal/molandfrom14.3to20.7kcal/mol,respec-
+faces. In either case, one would expect a shift toward oxygen tively. These values are in good agreement with the literature
+dissociation becoming rate-determining at lower temperatures valuesoutlinedinTable1.
+andhigherethylenepressure. TheactivationenergiesmeasuredforCu–Agbimetalliccat-
+Table 4 summarizes the activation energies measured for alysts from batches A and B are also given in Table 4. It is
+bothsilverandCu–AgbimetalliccatalystsfrombatchesAand evidentthatthebimetalliccatalystsexhibitedsimilaractivation
+BforethyleneconsumptionandEOandcarbondioxideforma- energytrendsforethyleneconsumption,withthemeasuredval-
+tion.ThesilvercatalystfrombatchBdisplayedsimilaractiva- ues increasing with increasing ethylene feed pressure, while
+
+372 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+showing no significant dependence on oxygen feed pressure. Thedataarepresentedasafunctionofreactiontemperaturefor
+In addition, the bimetallic catalysts were characterized by ac- bothethylene-richandoxygen-richconditions.Reactionorders
+tivation energies for ethylene consumption of the order of 1– weredeterminedbasedonthefeedpressuresofthereactantsby
+2 kcal/mol lower than those for the silver catalysts, in good assumingpowerlawkineticsasdiscussedpreviously.Asshown
+agreement with the enhanced activity of these catalysts dis- in Fig. 5, the effect of ethylene feed pressure on the reaction
+playedinFigs.3,5,and6. rate was not significant. This can be seen in Fig. 9, in which
+Representativereactionorderdataforethyleneconsumption theethylenereactionordersrangedfrom0thorderat540Kto
+forasilvercatalyst(frombatchA)areshowninFigs.9and10.
+approximately−0.3thorderat500Kforafeedstreamconsist-
+Fig.7.Activationenergymeasurementsforethyleneconsumptionoverasilver Fig.8.Activationenergymeasurementsforethyleneconsumptionoverasilver
+catalystfrombatchAasafunctionofethylenefeedconcentration.Thereaction catalystfrombatchAasafunctionofoxygenfeedconcentration.Thereaction
+ratesweremeasuredforafeedstreamconsistingof10%oxygenat500–540K. ratesweremeasuredforafeedstreamconsistingof10%ethyleneat500–540K.
+Table4
+Measuredactivationenergiesfortheconsumptionofethylene(RC2H4 )andtheformationofethyleneoxide(REO)andcarbondioxide(RCO2 )forcatalystsfrom
+batchesAandBasafunctionoffeedcomposition.Activationenergiesweremeasuredat500–540Kandarereportedinkcal/mol
+BatchA
+10%O2 Ag 0.2%Cu–Ag 0.5%Cu–Ag 1.0%Cu–Ag
+C2H4 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2
+10% 13.0 10.6 13.9 12.3 9.8 13.8 12.4 10.0 13.9 12.0 9.4 13.7
+20% 14.2 10.8 15.7 13.0 10.3 14.9 13.4 10.6 15.4 13.0 10.0 15.1
+40% 16.3 12.7 18.2 14.6 11.8 17.1 15.6 12.5 18.1 14.6 11.1 17.2
+60% 17.2 14.1 19.3 16.4 13.9 18.8 16.4 14.0 18.6 16.1 12.5 19.0
+10%C2H4 Ag 0.2%Cu–Ag 0.5%Cu–Ag 1.0%Cu–Ag
+O2 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2
+10% 13.4 10.9 14.3 12.3 9.8 13.8 12.4 10.0 13.9 12.0 9.4 13.7
+20% 12.8 10.9 13.7 12.1 10.0 13.7 12.3 10.6 13.8 11.9 9.9 13.5
+40% 13.1 12.3 13.6 12.4 11.2 13.6 12.5 11.2 13.7 12.0 10.4 13.5
+60% 13.4 13.0 13.0 13.1 11.9 14.3 12.9 11.8 13.9 11.9 10.3 13.5
+BatchB
+10%O2 Ag 0.2%Cu–Ag 1.0%Cu–Ag
+C2H4 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2
+10% 14.3 11.6 15.5 13.7 11.5 14.8 12.4 9.8 13.4
+20% 15.4 11.8 16.9 14.3 11.4 15.9 12.9 9.9 14.2
+40% 16.1 12.0 18.2 15.4 11.1 18.0 14.2 10.2 15.8
+60% 17.5 12.4 20.2 16.8 11.9 19.9 15.6 10.8 17.7
+10%C2H4 Ag 0.2%Cu–Ag 1.0%Cu–Ag
+O2 RC2H4 REO RCO2 RC2H4 REO RCO2 RC2H4 REO RCO2
+10% 14.3 11.6 15.5 13.7 11.4 14.8 12.4 9.8 13.4
+20% 14.9 12.2 16.2 13.2 11.2 14.3 12.9 10.4 12.2
+40% 14.2 12.4 15.3 13.8 12.0 14.9 12.9 10.7 14.2
+60% 13.8 12.2 14.9 14.2 12.4 15.4 13.2 11.1 14.5
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 373
+Table5
+EthyleneandoxygenreactionordersmeasuredforsilverandCu–Agbimetallic
+catalystsfrombatchAfortheconsumptionofethylene(RC2H4 )andthefor-
+mationofethyleneoxide(REO)andcarbondioxide(RCO2 )asafunctionof
+ethylenepressure(PC2 )andoxygenpressure(PO2 )forreactiontemperatures
+of500–540Kassumingpowerlawkinetics
+500K 520K 540K
+PC2 PO2 PC2 PO2 PC2 PO2
+Ag
+RC2H4 −0.26 0.37 −0.16 0.38 −0.05 0.38
+REO −0.03 0.52 0.09 0.58 0.19 0.65
+RCO2 −0.4 0.27 −0.29 0.26 −0.15 0.23
+0.2%Cu–Ag
+RC2H4 −0.23 0.31 −0.16 0.33 0 0.37
+Fig.9.Measuredethylenereactionordersforethyleneconsumptionforfeed REO −0.09 0.44 0.1 0.51 0.14 0.57
+streamscontaining10–60%(0.27–0.80atm)ethyleneand10%(0.13atm)oxy- RCO2 −0.36 0.19 −0.31 0.16 −0.09 0.22
+genasafunctionofreactiontemperature.
+0.5%Cu–Ag
+RC2H4 −0.31 0.3 −0.2 0.31 −0.1 0.33
+REO −0.2 0.4 −0.05 0.45 0.2 0.48
+RCO2 −0.41 0.2 −0.32 0.18 −0.18 0.21
+1%Cu–Ag
+RC2H4 −0.28 0.33 −0.14 0.3 −0.08 0.33
+REO −0.14 0.44 −0.02 0.43 0.02 0.47
+RCO2 −0.4 0.21 −0.24 0.17 −0.13 0.22
+Table6
+EthyleneandoxygenreactionordersmeasuredforsilverandCu–Agbimetallic
+catalystsfrombatchBfortheconsumptionofethylene(RC2H4 )andthefor-
+mationofethyleneoxide(REO)andcarbondioxide(RCO2 )asafunctionof
+ethylenepressure(PC2 )andoxygenpressure(PO2 )forreactiontemperatures
+of500–540Kassumingpowerlawkinetics
+500K 520K 540K
+Fig.10.Measuredoxygenreactionordersforethyleneconsumptionforfeed PC2 PO2 PC2 PO2 PC2 PO2
+streamscontaining10–60%(0.27–0.80atm)oxygenand10%(0.13atm)eth- Ag
+yleneasafunctionofreactiontemperature. RC2H4 −0.09 0.33 −0.04 0.33 0.03 0.29
+REO 0.08 0.47 0.08 0.5 0.09 0.51
+ingof0.13atmofoxygenand0.27–0.8atmofethylene.Fig.10 RCO2 −0.18 0.24 −0.1 0.23 0.01 0.18
+confirmstheresultsofFig.6,showingthattherateofconsump- 0.2%Cu–Ag
+tion increased with increasing oxygen feed pressure. Oxygen RC2H4 −0.17 0.26 −0.08 0.33 −0.01 0.32
+reaction orders were approximately 0.4 at all temperatures in- REO 0.01 0.42 0.02 0.46 0.04 0.5
+vestigated. Similar trends were observed for a silver catalyst
+RCO2 −0.3 0.15 −0.13 0.25 −0.03 0.23
+frombatchB,forwhichtheethylenereactionorderdecreased 1%Cu–Ag
+slightlywithdecreasingtemperature,withvaluesrangingfrom RC2H4 −0.13 0.3 −0.03 0.29 0.05 0.32
+0.03 to −0.1, whereas the oxygen reaction order was approx- REO −0.01 0.41 0.05 0.45 0.05 0.46
+imately 0.3 at all temperatures. Tables 5 and 6 summarize the
+RCO2 −0.19 0.23 −0.06 0.2 0.05 0.24
+measuredreactionordersfortheconsumptionofethyleneover
+silver and Cu–Ag bimetallic catalysts from batches A and B. tion could be either dissociative adsorption of oxygen or the
+Although the ethylene reaction orders varied slightly for the surface reaction of adsorbed ethylene with adsorbed oxygen.
+catalystsinvestigated,therewasaconsistenttransitionfromthe To determine which of these two steps was rate-determining,
+0thtonegativeorderasthecatalysttemperaturewasdecreased the ethylene reaction order was measured for oxygen-rich
+from540to500K.Theoxygenreactionordersweremeasured streamscontaining10–30%(0.13–0.34atm)ethyleneand60%
+in the range of 0.3–0.4 for all samples investigated, with little (0.8atm)oxygen.ThesevaluesarelistedinTable7forasilver
+ornodependenceonreactiontemperature. catalyst and a 0.2% Cu–Ag bimetallic catalyst from batch A.
+The presence of 0th to negative ethylene reaction or- As can be seen, the ethylene reaction orders varied from 0.3
+ders indicates that for ethylene-rich feed conditions, the rate- to 0.5 for temperatures of 500–540 K. The positive ethylene
+determining step of the reaction is dissociative adsorption of reaction orders indicate that the rate-determining step under
+oxygen. Positive oxygen reaction orders indicate that under oxygen-rich conditions is the surface reaction step. Therefore,
+oxygen-rich conditions, the rate-determining step of the reac- the rate-determining step of the reaction is governed by the
+
+374 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+Table7 mation for all catalysts examined, whereas reaction orders for
+EthylenereactionordersmeasuredforsilverandCu–Agbimetalliccatalysts carbondioxideformationwereapproximately0.2.
+from batch A for the consumption of ethylene (RC2H4 ) and the formation Themeasuredethyleneandoxygenreactionordersprovidea
+of ethylene oxide (REO) and carbon dioxide (RCO2 ) for ethylene pressures
+meanstoexaminehowthereactantsinfluencetheformationof
+(PC2H4 )of0.27–0.8atmand0.13–0.4atmandoxygenpressuresof0.13and
+productsand,ingeneral,provideanindirectwaytodetermine
+0.8atm,respectively,asafunctionofreactiontemperatureassumingpowerlaw
+kinetics changes in product distribution with changing feed composi-
+tion. From the ethylene reaction order data, it appears that for
+500K 520K 540K
+ethylene-richconditions,increasingtheethylenefeedpressure
+PO2 =0.13atm,PC2H4 =0.27–0.8atm
+lowerstheactivityofthecatalyst.Inaddition,itisevidentthat
+Ag
+RC2H4 −0.26 −0.16 −0.05 carbon dioxide formation is characterized by a more negative
+REO −0.03 0.09 0.19 dependenceonethylenefeedpressurethanEOformationforall
+RCO2 −0.4 −0.29 −0.15 catalysts and conditions examined. This finding demonstrates
+0.2%Cu–Ag that ethylene can serve to promote the selectivity of the cata-
+RC2H4 −0.23 −0.16 0 lystattheexpenseofsomeactivity.PreviousworkbyMonnier
+REO −0.09 0 0.05 et al. [24] has shown a similar beneficial effect on selectivity
+RCO2 −0.33 −0.26 −0.02
+from increasingolefinconcentrationinbutadieneepoxidation.
+PO2 =0.8atm,PC2H4 =0.13–0.4atm Incontrasttotheeffectofethyleneinourexperiments,oxygen
+Ag significantly increased the activity of the catalyst. In addition,
+RC2H4 0.26 0.28 0.38
+themeasuredoxygenreactionordersforindividualproductsin-
+REO 0.31 0.31 0.39
+dicate that EO formation has a more positive dependence on
+RCO2 0.21 0.25 0.37
+oxygen than does carbon dioxide formation. Therefore, oxy-
+0.2%Cu–Ag
+gen promotes both the activity and selectivity of the catalyst
+RC2H4 0.26 0.38 0.48
+by increasing the formation of EO relative to that of carbon
+REO 0.22 0.36 0.48
+RCO2 0.3 0.39 0.46 dioxide.Thisresultissomewhatcounterintuitive,basedonthe
+concept that more oxygen-rich conditions should drive up the
+rate of formation of combustion products relative to selective
+feedcompositionsandtemperaturesused,withmoreethylene-
+oxidationproducts.However,althoughitisclearthatcombus-
+richconditionsbeingrate-controlledbyoxygenadsorptionand
+tionratesdoincreasewithincreasingoxygenfeedpressure,as
+more oxygen-rich conditions being rate-controlled by the sur- evidencedbythepositivereactionordermeasurementsforcar-
+facereactionofadsorbedethyleneandoxygen. bondioxideformation,theseratesdonotincreasetothesame
+Tables5and6alsogivethemeasuredethylenereactionor- extentasthoseforepoxideformation.Theobservedtrendsfor
+dersforEOandcarbondioxideformationforsilverandCu–Ag increasingethyleneandoxygenfeedpressuressuggestthatthe
+bimetallic catalysts from batches A and B. Ethylene reaction selectivitytoEOshouldincreasewithincreasingtotalreactant
+orders for EO formation varied from 0.2 to −0.2 for cata- pressures.
+lysts from batch A, with the reaction orders decreasing with Feed variations were also studied to examine the efficacy
+decreasingreactiontemperature.Asimilartrendwasobserved of the Cu–Ag bimetallic catalysts relative to pure silver with
+for carbon dioxide formation, with values varying from −0.2 respect to EO selectivity at similar ethylene conversions. The
+to−0.4.CatalystsfrombatchBshowedalmostnotemperature major purpose was to determine whether the selectivity en-
+dependence of the ethylene reaction order with respect to EO hancementsofthebimetalliccatalystsweresustainedforboth
+ethylene-rich and oxygen-rich feed stoichiometries, as well as
+formation. The measured ethylene reaction orders appeared to
+forequimolarfeedsathigherpressure.Thesedataarepresented
+be approximately 0th order for all catalysts examined. A dif-
+inFigs.11and12forcatalystsfrombatchA.Thecorrespond-
+ferent trend was observed for carbon dioxide formation, with
+ethylene reaction orders varying from 0th order to −0.3th or- ingethyleneconversiondataaregiveninTable8.Fig.11shows
+selectivitydataforsilverandCu–Agbimetalliccatalystsfrom
+derfor thecatalystsexamined.As observedfor catalystsfrom
+batch A for feed streams containing ethylene-to-oxygen ratios
+batchA,theethylenereactionorderdecreasedwithdecreasing
+ranging from 1:1 to 6:1 at similar ethylene conversions. Feed
+reactiontemperature.
+variationswereconductedbymaintainingtheoxygenfeedcon-
+Also reported in Tables 5 and 6 are the oxygen reaction
+centration at 10% (0.13 atm) and increasing the ethylene feed
+orders for EO and carbon dioxide formation. Catalysts from
+concentrationfrom10to60%(0.13–0.8atm).Thedataforeach
+batchAshowedoxygenreactionordersforEOformationrang-
+catalyst shown in Fig. 11 were collected at constant tempera-
+ing from 0.4 to 0.7, with only minor variations with reaction
+ture, with the temperature of each catalyst sample adjusted to
+temperatureobserved.Oxygenreactionordersforcarbondiox- give an ethylene conversion of approximately 1.8% for a 1:1
+ideformationrangedfrom0.2to0.3forallcatalystsexamined. feed stoichiometry (0.13 atm each of ethylene and oxygen).
+As was observed for ethylene reaction, carbon dioxide for- Thistemperaturewasthenmaintainedastheethylenepressure
+mation exhibited no measurable temperature dependence with was increased. The similar kinetic dependences observed for
+respect to the oxygen reaction order. Catalysts from batch B both the silver and Cu–Ag bimetallic catalysts with respect to
+hadanoxygenreactionorderofapproximately0.5forEOfor- ethylene pressure led to comparable ethylene conversions for
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 375
+The maximum selectivity to EO observed for the supported
+silver catalyst was approximately 45% and occurred with an
+ethylene-to-oxygenfeedratioof6:1.TheCu–Agbimetalliccat-
+alysts were shown to perform extremely well relative to pure
+silver for ethylene-rich conditions, a result that was consis-
+tent for both batches A and B. Maximum EO selectivities of
+58–59%wereobservedforthe0.2–1.0%Cu–Agbimetalliccat-
+alysts from batch A at a feed composition of 6:1 ethylene to
+oxygen.
+Similarstudieswereconductedforoxygen-richfeedcondi-
+tions.Feedvariationswereconductedbymaintainingtheethyl-
+enefeedconcentrationat10%andincreasingtheoxygenfeed
+concentration from 10 to 60%. The similar kinetic dependen-
+ciesobservedforboththesilverandCu–Agbimetalliccatalysts
+with respect to oxygen pressure led to comparable ethylene
+Fig.11.EOselectivityforsilverandCu–AgbimetalliccatalystsfrombatchA conversions for each set of feed conditions. For these studies,
+asafunctionoffeedstoichiometryforethylene-richfeedconditions.
+theethyleneconversionvariedfromapproximately1.8%foran
+oxygen-to-ethyleneratioof1:1toapproximately3.5%forara-
+tio of 6:1. These data are shown in Fig. 12 for catalysts from
+batch A. The selectivity to EO increased with increasing oxy-
+genfeedpressure,withamaximumobservedEOselectivityof
+44%forasilvercatalystfrombatchAatafeedcompositionof
+6:1 oxygen to ethylene. It is evident that the Cu–Ag bimetal-
+lic catalysts outperformed the pure silver catalysts even under
+the most oxygen-rich conditions, in which the propensity for
+combustion should be enhanced. The ability of copper to act
+as a total oxidation catalyst may lead to the potential for di-
+minished performance of the bimetallic catalysts under severe
+oxidizing conditions. However, there did not appear to be any
+significant loss of performance relative to pure silver for the
+conditions studied. Maximum selectivities to EO of 55–56%
+were observed for the 0.2–1.0% Cu–Ag bimetallic catalysts
+Fig.12.EOselectivityforsilverandCu–AgbimetalliccatalystsfrombatchA from batch A at a feed composition of 6:1 oxygen to ethyl-
+asafunctionoffeedstoichiometryforoxygen-richfeedconditions. ene.
+The performance of silver and Cu–Ag bimetallic catalysts
+Table8
+was also examined by simultaneously varying both the ethyl-
+Ethyleneconversion dataobtainedforsilverandCu–Agbimetalliccatalysts
+frombatchAforethyleneandoxygenfeedpressuresof0.13–0.8atmcollected ene and oxygen feed pressures in a range of 0.13–0.54 atm.
+atconstanttemperature.Thetemperaturesusedtoconductthemeasurements From these data, three-dimensional selectivity contours were
+wereselectedtogiveaconversionofapproximately1.8%forafeedstream generated at constant temperature to examine the effects of
+consistingof0.13atmeachofethyleneandoxygen.Thesetemperaturesare
+feed pressure and stoichiometry on EO selectivity. These re-
+listedinparenthesesnexttoeachcatalyst
+sults are shown in Fig. 13 for both silver and 0.2% Cu–Ag
+PC2H4 PO2 Ag 0.1%Cu–Ag 0.2%Cu–Ag 0.5%Cu–Ag 1.0%Cu–Ag
+bimetallic catalysts at similar ethylene conversions. It appears
+(490K)(475K) (481K) (470K) (459K)
+that selectivity to EO increased in the direction of increasing
+0.13 0.13 1.81 1.82 1.80 1.81 1.83
+ethylene and oxygen pressure, with the highest measured se-
+0.27 0.13 0.90 0.76 0.78 0.72 0.71
+lectivityobservedforafeedconsistingof0.54atmofethylene
+0.54 0.13 0.38 0.33 0.30 0.30 0.28
+0.8 0.13 0.22 0.19 0.18 0.17 0.17 and oxygen. In addition, it is apparent that the bimetallic cat-
+0.13 0.27 2.18 2.57 2.46 2.47 2.54 alysts outperformed pure silver over the entire range of feed
+0.13 0.54 2.97 3.40 3.26 3.40 3.54 compositions investigated, with maximum observed selectiv-
+0.13 0.8 3.58 3.79 3.72 3.80 3.87
+ity to EO of 49% for the silver catalyst and 60% for the 0.2%
+0.27 0.27 1.30 1.25 1.21 1.15 1.14
+Cu–Ag bimetallic catalyst from batch A. Additional measure-
+0.54 0.27 0.55 0.51 0.51 0.47 0.46
+0.27 0.54 1.62 1.73 1.65 1.70 1.71 mentswereconductedfor0.1,0.5,and1.0%Cu–Agbimetallic
+0.54 0.54 0.88 0.84 0.85 0.79 0.78 catalysts from batch A as well as for a 1.0% Cu–Ag catalyst
+from batch B. The selectivity data for these catalysts and for
+each set of feed conditions. The observed conversions varied thesilverand0.2%Cu–AgcatalystsaresummarizedinTable9,
+from approximately 1.8% at a 1:1 stoichiometry to approxi- alongwiththetemperaturesusedtoconductthemeasurements.
+mately 0.2% at a 6:1 stoichiometry. As shown in Fig. 11, the As expected, the bimetallic catalysts afforded lower operating
+selectivity to EO increased with increasing ethylene pressure. temperaturesthansilver,byasmuchas30and55Kfor1.0%
+
+376 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+Fig.13.3DcontoursofEOselectivityforasilveranda0.2%Cu–AgbimetalliccatalystfrombatchAforethyleneandoxygenpressuresranging0.13–0.54atm.
+Table9 4. Discussion
+EO selectivity data obtained for silver and Cu–Ag bimetallic catalysts from
+batches A and B for ethylene and oxygen feed pressures of 0.13–0.54 atm
+TheresultsofkineticstudiesconductedonsilverandCu–Ag
+collectedatconstanttemperature.Thetemperaturesusedtoconductthemea-
+bimetallic catalysts showed that the performance of these cat-
+surementswereselectedtogiveaconversionofapproximately1.6–1.8%fora
+feedstreamconsistingof0.13atmeachofethyleneandoxygen.Thesetemper- alysts, in terms of both activity and selectivity as well as the
+aturesarelistedinparenthesesnexttoeachcatalyst identityoftherate-determiningstep,wasdependentonthere-
+BatchA actant feed stoichiometry. For ethylene-rich feeds, the rate of
+PC2H4 PO2 Ag 0.1%Cu–Ag 0.2%Cu–Ag 0.5%Cu–Ag 1.0%Cu–Ag reaction was controlled by the dissociative adsorption of oxy-
+(490K)(475K) (480K) (470K) (459K) gen.Astheethylenepressurewasincreased(atconstantoxygen
+0.13 0.13 31.5 40.3 45.8 48.8 49.7 pressure), the rate of reaction remained constant or decreased
+0.27 0.13 35.1 44.5 50.9 53.1 54.4 slightly, while the selectivity to EO increased slightly. The in-
+0.54 0.13 40.3 51.4 57.9 56.8 57.7 crease in EO selectivity resulted from a larger decrease in the
+0.13 0.27 37.7 43.7 51.1 52.2 52.1
+formation rate of carbon dioxide relative to EO. In addition,
+0.13 0.54 40.7 46.6 53.8 54.4 54.6
+the measured activation energy for ethylene consumption in-
+0.27 0.27 40.5 46.7 53.4 55.0 55.9
+0.54 0.27 45.8 51.8 58.2 58.3 59.5 creased as the ethylene pressure increased. This activity and
+0.27 0.54 45.9 49.0 56.4 56.1 57.4 selectivitybehaviorcanbeexplainedbytheactionofethylene
+0.54 0.54 49.3 52.5 59.8 59.1 60.4
+as a site blocker, especially if ethylene also blocks sites that
+maybeactiveforethyleneorEOcombustionorisomerization.
+BatchB
+This explanation is supported by the temperature dependence
+PC2H4 PO2 A
+(4
+g
+90K)
+0
+(4
+.2
+8
+%
+0K
+C
+)
+u–Ag 1
+(4
+.0
+5
+%
+9K
+C
+)
+u–Ag
+observedfortheethylenereactionorders,whichbecomemore
+negative with decreasing reaction temperature. The observed
+0.13 0.13 25.9 35.2 34.9
+0.27 0.13 26.4 37.8 37.6 increase in apparent activation energy can be explained by a
+0.54 0.13 27.5 43 42.0 largerethylenesurfacecoverageatlowertemperatures,theef-
+0.13 0.27 29.7 37.1 37.5 fectofwhichbecomesmoresignificantathigherethylenepres-
+0.13 0.54 35.2 41.8 40.9
+sures.
+0.27 0.27 32.7 41.4 39.6
+A different trend was observed when the ethylene pres-
+0.54 0.27 34.5 44.7 42.8
+0.27 0.54 35.5 44.1 42.5 sure was increased under oxygen-rich conditions, in which
+0.54 0.54 36.6 45.8 44.3 case an increase in ethylene feed pressure was accompanied
+by an increase in reaction rate. This behavior indicates that
+Cu–AgcatalystsfrombatchesAandB,toachievecomparable under oxygen-rich conditions, the reaction rate is controlled
+ethyleneconversions.ThedatainTable9alsoindicatethatall by the surface reaction of adsorbed ethylene and oxygen. Al-
+ofthebimetalliccatalystsexaminedweremoreselectivetoEO though the exact stoichiometric point of transition (between
+compared with silver for the entire range of conditions exam- adsorption-controlled and surface reaction-controlled) in the
+ined. rate-determiningstepisnotknown,thedatapresentedinFig.5
+
+J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378 377
+Table10 ityoftheprocesswithincreasingfeedpressure.Thisdramatic
+EthylenereactionordersmeasuredforsilverandCu–Agbimetalliccatalysts increase in the rate of epoxidation relative to the rate of com-
+frombatchAfortheconsumptionofethyleneatanoxygenpressureof0.13atm bustioncanbeattributedtoanincreaseintheconcentrationof
+and ethylene pressures of 0.13–0.27 atm, 0.27–0.54 atm, and 0.54–0.8 atm,
+subsurface oxygen. The role of subsurface oxygen has been
+respectively,asafunctionofreactiontemperatureassumingpowerlawkinetics
+studied extensively. Recent DFT studies by Mavrikakis et al.
+PO2 =0.13atm 500K 520K 540K
+[25] indicate that subsurface oxygen decreases the barrier to
+PC2H4 (atm)
+and increases the rate constant for dissociative adsorption of
+Ag
+oxygen on Ag(111). It has also been suggested that the sub-
+0.13–0.27 0.04 0.08 0.16 surface oxygen modifies the electronic properties of the sur-
+0.27–0.54 −0.2 −0.14 0.03 face oxygen atoms in its vicinity, so that they become more
+0.54–0.8 −0.37 −0.2 −0.2 vulnerable to attack by the C=C bond in ethylene [26,27].
+0.2%Cu–Ag It has even been proposed that subsurface oxygen is the cat-
+alytically active phase [28]. Our design of Cu–Ag bimetallic
+0.13–0.27 0.1 0.18 0.18
+0.27–0.54 −0.12 0.01 0.05 catalystsispredicatedontheinvolvementoftheoxametallacy-
+0.54–0.8 −0.44 −0.12 −0.1 cleintermediateinboththeselectiveandnonselectivereaction
+pathways [7]. The nonselective pathway involves the forma-
+0.5%Cu–Ag
+tion of acetaldehyde, which then quickly combusts to form
+0.13–0.27 0.07 0.18 0.18
+carbon dioxide. The formation of acetaldehyde occurs via an
+0.27–0.54 −0.27 −0.12 −0.04
+0.54–0.8 −0.39 −0.36 −0.23 H-atomshiftfromthecentralcarbontotheterminalcarbonof
+the oxametallacycle. In general, any selectivity enhancement
+1.0%Cu–Ag
+would involve a decreased rate of H-atom shift, and hence
+0.13–0.27 0.09 0.21 0.19 acetaldehyde formation, relative to epoxide formation. There-
+0.27–0.54 −0.19 −0.1 −0.03 fore, one possible role of subsurface oxygen is to inhibit the
+0.54–0.8 −0.45 −0.22 −0.18
+H-atomshiftoftheoxametallacycle.Thisisconsistentwiththe
+rolesofadsorbedcationsandsubsurfaceanionsininfluencing
+the competing transition states for oxametallacycle reactions
+indicate that at 540 K, the transition occurs at an ethylene-to-
+through alteration of the surface electric field suggested pre-
+oxygen ratio of approximately 2:1. Fig. 5 shows an increase
+viously[29].
+in the measured rate of reaction from a 1:1 to a 2:1 ethylene-
+Inadditiontobeingmoreselectiveforethyleneepoxidation,
+to-oxygen stoichiometry, followed by leveling or a decreasing
+theCu–Agbimetalliccatalystsweremoreactivethanpuresil-
+rateforhigherstoichiometricratios.Tofurtherstudythistran-
+verforallcopperloadingsinvestigated.Thisincreasedactivity
+sitionintherate-determiningstep,theethylenereactionorders
+wasillustratedbytheactivationenergymeasurements,inwhich
+weremeasuredforsilverandCu–Agbimetalliccatalystsfrom
+thebimetallicsampleshadactivationenergiesforethylenecon-
+batchAforanoxygenpressureof0.13atmandethylenepres-
+sumption on the order of 1–2 kcal/mol lower than those for
+surerangesof0.13–0.27atm,0.27–0.54atm,and0.54–0.8atm;
+pure silver. This is an uncommon phenomenon for ethylene
+the results are given in Table 10. The measured reaction or-
+epoxidation, because the typical promoters (e.g., cesium and
+dersdecreasedfromapproximately0.2inanethylenepressure chlorine) tend to increase EO selectivity at the expense of ac-
+range of 0.13–0.27 atm to approximately −0.2 for an ethyl- tivity[6].Theincreaseinactivitycanmostlikelybeattributed
+ene pressure range of 0.54–0.8 atm at 540 K. This indicates toanincreaseintherateofoxygendissociationonthecatalyst
+that the rate-determining step of the reaction transitions from surface.
+surface reaction-controlled to adsorption-controlled with this An interesting result of the kinetic studies is the similari-
+increaseinethylenepressure.Asimilardecreasewasobserved ties of the silver and Cu–Ag bimetallic catalysts. In addition
+for the reaction orders at 500 and 520 K. This observed tran- tohavingsimilaractivationenergiesforethyleneconsumption
+sition in rate control between oxygen adsorption and surface and product formation, the silver and Cu–Ag bimetallic cata-
+reactionhasbeenpresentedinamicrokineticmodeldeveloped lysts showed very similar trends with respect to the ethylene
+by Stegelmannet al. [9]. These authors showed that the effect andoxygenreactionorders,forbothethyleneconsumptionand
+ofethyleneonthecatalystactivityisdependentonthereactant productformation.Thisindicatesthatmodifyingthesilversur-
+stoichiometry.Themodelshowedatransitionfromaslightpos- facewithsmallamountsofcopperdoesnotsignificantlyaffect
+itive dependence to slight negative dependence of the activity themechanismorunderlyingkineticsoftheprocess,andthere-
+atanoxygenpressureof0.13atmandincreasingethylenepres- forejustifiestheassumptionsbehindourcomputationalmodel
+suresof0.27–0.8atmandshowedapositivedependenceatan [7]. As noted above, copper’s major effect on reaction kinet-
+oxygenpressureof0.8atmandincreasingethylenepressuresof icsistolowertheactivationbarrierforoxygenadsorption.The
+0.13–0.40 atm, both of which are in excellent agreement with kinetic studies also showed that, independent of which of the
+observationspresentedhere. stepsleadingtooxametallacycleformationisrate-determining
+The effect of oxygenfeed pressure on reaction rate and se- underagivensetofconditions,theCu–Agbimetalliccatalysts
+lectivity was different than that for ethylene. Unlike ethylene, aremoreeffectiveforethyleneepoxidationthanpuresilvercat-
+oxygen was shown to enhance both the activity and selectiv- alystsunderallconditions.
+
+378 J.T.Jankowiak,M.A.Barteau/JournalofCatalysis236(2005)366–378
+5. Conclusion [5] E.M.Cordi,J.L.Falconer,Appl.Catal.A:Gen.151(1997)179.
+[6] R.A.vanSanten,H.Kuipers,Adv.Catal.35(1987)265.
+AseriesofsilverandCu–Agbimetalliccatalystswerestud- [7] S.Linic,J.T.Jankowiak,M.A.Barteau,J.Catal.224(2004)489.
+[8] S.Linic,M.A.Barteau,J.Catal.214(2003)200.
+ied over a wide range of temperatures and reactant feed pres-
+[9] C. Stegelmann, N.C. Schiødt, C.T. Campbell, P. Stoltze, J. Catal. 221
+sures.Analysisofthekineticsshowedthattherate-determining
+(2004)630.
+step of the reaction was dependent on the feed compositions [10] C.Stegelmann,P.Stoltze,J.Catal.226(2004)129.
+used. Similar kinetic dependences were observed for both the [11] G.H.Twigg,Trans.FaradaySoc.42(1946)284.
+silverandbimetallicsamples.Activationenergymeasurements [12] K.Murray,Aust.J.Sci.Res.A3(1950)433.
+[13] W.Shen-Wu,I&ECRes.45(1953)234.
+showed a 1–2 kcal/mol decrease in ethylene consumption for
+[14] A.I.Kurilenko,N.V.Kul’kowa,N.A.Rybakowa,M.I.Temkin,Zh.Fiz.
+the Cu–Ag bimetallic catalysts relative to pure silver. In addi-
+Khim.32(1958)797.
+tion, the Cu–Ag bimetallic catalysts were shown to be more [15] F.Fognani,R.Montarnal,Rev.Inst.Fr.Pet.14(1959)191.
+selective for EO formation over a wide range of reactant feed [16] F.Alfani,J.J.Carberry,Chim.Ind.(Milan)52(1970)1192.
+stoichiometries than pure silver catalysts at similar ethylene [17] R.E.Kenson,M.Lapkin,J.Phys.Chem.74(1970)1493.
+[18] P.D.Klugherz,P.Harriot,AIChEJ.17(1971)856.
+conversions.
+[19] P.L.Metcalf,P.Harriott,Ind.Eng.Chem.,Prod.Res.Dev.11(1972)478.
+[20] A.Verma,S.Kaliaguine,J.Catal.30(1973)430.
+Acknowledgments
+[21] E.L.Force,A.T.Bell,J.Catal.40(1975)356.
+[22] R.H.Dettwiler,A.Baker,W.Richarz,Helv.Chim.Acta62(1979)1680.
+We gratefully acknowledge the support of the U.S. Depart- [23] P.Kripylo,L.Mogling,H.Ehrchen,I.Harkanyi,D.Klose,L.Beck,Chem.
+ment of Energy, Division of Chemical Sciences (grant FG02- Tech.(Leipzig)31(1979)82.
+[24] J.R.Monnier,K.T.Peters,G.W.Hartley,J.Catal.225(2004)374.
+84ER13290).
+[25] Y.Xu,J.Greeley,M.Mavrikakis,J.Am.Chem.Soc.127(2005)12823.
+[26] P.J. van den Hoek, E.J. Baerends, R.A. van Santen, J. Phys. Chem. 93
+References (1989)6469.
+[27] J.A. Moulijn, V. Ponec, Catalysis: An Integrated Approach to Homo-
+[1] D.Denton,S.Falling,J.Monnier,J.Stavinoha,W.Watkins,Chim.Oggi— geneous, Heterogeneous and Industrial Catalysis, Elsevier, Amsterdam,
+Chem.Today14(1996)17. 1993.
+[2] R.K.Grasselli,J.D.Burrington,Adv.Catal.30(1981)133. [28] W.-X. Li, C. Stampfl, M. Scheffler, Phys. Rev. Lett. 90 (2003), Art.
+[3] Chem.Eng.News77(2001)19. No.256102.
+[4] S.Linic,M.A.Barteau,J.Am.Chem.Soc.125(2003)4034. [29] S.Linic,M.A.Barteau,J.Am.Chem.Soc.126(2004)8086.
+

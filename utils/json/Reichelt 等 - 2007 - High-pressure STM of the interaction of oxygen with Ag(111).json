@@ -1,0 +1,122 @@
+[
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "10-20 bar"
+    },
+    {
+        "start_node": "工业温度",
+        "relationship": "范围",
+        "end_node": "500-550 K"
+    },
+    {
+        "start_node": "O2压力",
+        "relationship": "范围",
+        "end_node": "1-20 mbar"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "450-480 K"
+    },
+    {
+        "start_node": "(4×4)O结构",
+        "relationship": "形成",
+        "end_node": "清洁条件"
+    },
+    {
+        "start_node": "O2压力",
+        "relationship": "促进",
+        "end_node": "(4×4)O结构"
+    },
+    {
+        "start_node": "污染",
+        "relationship": "抑制",
+        "end_node": "(4×4)O结构"
+    },
+    {
+        "start_node": "污染",
+        "relationship": "导致",
+        "end_node": "无序结构"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "降低",
+        "end_node": "氧覆盖度"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "氧物种迁移"
+    },
+    {
+        "start_node": "STM",
+        "relationship": "观测",
+        "end_node": "表面结构"
+    },
+    {
+        "start_node": "XPS",
+        "relationship": "分析",
+        "end_node": "表面物种"
+    },
+    {
+        "start_node": "DOI 10.1039/b700432j",
+        "relationship": "发表年份",
+        "end_node": "2007"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "形成",
+        "end_node": "(4×4)O结构"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "形成",
+        "end_node": "(4×5√3)rect结构"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "影响",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "生成",
+        "end_node": "CO2"
+    }
+]

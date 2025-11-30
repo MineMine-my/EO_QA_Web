@@ -1,0 +1,934 @@
+JournalofCatalysis436(2024)115583
+Contents lists available at ScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+The role of chlorine promoters in mediating particle size effects in
+silver-catalyzed ethylene epoxidation
+Krishna R. Iyer, Aditya Bhan*
+Department of Chemical Engineering and Materials Science, University of Minnesota, Minneapolis, MN 55455, USA
+A R T I C L E I N F O A B S T R A C T
+Keywords: Measured chlorine coverages over Ag/α-Al2O3 catalysts with varying Ag weight loadings (1.3–35 wt%) and
+Ethylene epoxidation different Ag particle size distributions when parsed in terms of Cl coverages over particles of varying size
+Chlorine constituted in the distribution reveal that Ag particles of size below ~30 nm are covered in more than 1
+Particle size
+Silver m po o s n si o b l l a e y e b r y ( c M or L r ) e l o a f t in c g h l t o h r e in c e u m in u p la r t e i s v e e n C ce l c o o f v e 3 r .5 ag p e p t m o th C e 2 H lo 5 g C n l. o r T m he a s l e s u a r s f s a e c s e s m ar e e n a t s d i o s f t ri C b l u c ti o o v n e r o a f g 2 e 2 s A w g e / r α e -A m l2 a O de 3
+samples using a single exponential decay function. Fully chlorided small Ag particles exhibit low rates of
+epoxidation and only large Ag particles which exhibit sub-monolayer Cl coverages catalyze ethylene epoxidation
+with high ethylene oxide (EO) rates and selectivity. The Ag particle size dependence of Cl coverages plausibly
+explains why ≥100 nm Ag particles are typical in promoted Ag/α-Al2O3 ethylene epoxidation catalysts.
+1. Introduction correlating measured Cl coverages with the silver particle size distri-
+bution over 9 Ag/α-Al2O3 catalysts with Ag weight loadings ranging
+Silver-catalyzed ethylene epoxidation is a large-scale selective from 1.3 to 35 wt% at varying chloriding conditions (1.5 to 8 ppm
+oxidation chemistry [1] that relies on the unique ability of large Ag C2H5Cl). The key finding from this model is that small silver particles are
+clusters to activate molecular O2 [2]. High selectivity (~90%) to the covered in multiple monolayers of chlorine at 1.5–8 ppm ethyl chloride
+desired product, ethylene oxide (EO), over promoted Ag/α-Al2O3 cata- promoter concentrations in the gas phase that are typical of ethylene
+lysts is enabled by a continuous cofeed of ppm levels of organochloride epoxidation catalysis leading to low epoxidation rates on these small Ag
+promoters (primarily ethyl chloride or vinyl chloride) that deposit particles. Only when large Ag particles (>100 nm) are present and
+chlorine adatoms on the catalyst surface [3,4]. Typical Ag weight organochloride promoter concentrations are carefully moderated
+loadings for Ag/α-Al2O3 catalyst formulations are ~35 wt% [5,6]; these [3,5,13] can ethylene epoxidation catalysis be enabled at high EO rates
+formulations contain large Ag clusters that expose 0.5–1% of Ag atoms and high EO selectivity.
+on the surface because large silver particles (~100–150 nm) have been
+found to exhibit high EO rates and high EO selectivity [7]. The large Ag 2. Materials and methods
+particle sizes of ethylene epoxidation catalysts defy conventional argu-
+ments based on structural factors like specific geometric configuration of 2.1. Catalyst synthesis and characterization
+atoms [8] or electronic effects related to binding energy of an adsorbate
+[9] to nanometer-sized metal clusters [10] or charge transfer between The procedure to synthesize Ag/α-Al2O3 catalysts by incipient-
+metal and the support [10,11] that are typically associated with sub-10 wetness impregnation of Ag2C2O4 over α-Al2O3 was described in detail
+nm metal clusters [12]. A key parameter known to systematically in- in a previous publication [7]. Briefly, 1.5 g of oxalic acid (Fisher Sci-
+fluence ethylene epoxidation rates and ethylene oxide selectivity over entific, 99.6 %) and 2.04 g silver nitrate (Thermo Scientific, 99.7 %)
+silver single crystal [8] and promoted Ag/α-Al2O3 catalysts [3] is the were added to 50 cm3 of deionized water at ambient temperature and
+chlorine coverage. We inquire whether variations in EO rates and EO stirred for 10 min resulting in the formation of a white precipitate (silver
+selectivity with Ag particle size can be explained by changes in the oxalate, Ag2C2O4) that was then washed in deionized water and vacuum
+chlorine coverage with particle size. We address this question by filtered for ~ 12 h at ambient temperature. The α-Al2O3 support was
+* Corresponding author.
+E-mail addresses: iyer0040@umn.edu (K.R. Iyer), abhan@umn.edu (A. Bhan).
+https://doi.org/10.1016/j.jcat.2024.115583
+Received 30 November 2023; Received in revised form 7 April 2024; Accepted 1 June 2024
+Availableonline2June2024
+0021-9517/©2024ElsevierInc.Allrightsarereserved,includingthosefortextanddatamining,AItraining,andsimilartechnologies.
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+i o m f 1 p : r 1 e g v n o a l t r e a d ti o w o it f h w a a s te o r lu : e ti t o h n y l c e o n n e t d ai i n am in i g n A e g (S 2C ig 2 m O a 4 - d A i l s d s r o i l c v h e , d R i e n a g a e m nt i x P t l u u r s e , Agdispersion = ρ Agsurf * ∑ ∑ n i=1 2π(s 2 i)2 (3)
+w >9 as 9 t % re ) a f t o e l d lo i w n e 0 d . 8 b 3 y d cm ry 3 in s g (cid:0) i 1 n H st e a t f i o c r a 2 ir h a t a 3 t 3 4 3 9 K 8 . K T h to e d d e e p c o o s m it p e o d s A e g t 2 h C e 2 A O g 4 ρ Ag * n i=1 2 3 π(s 2 i)3
+precursor to form Ag/α-Al2O3. The molarity of Ag2C2O4 solution was where: si is the diameter of particle ‘i’, n is the total number of particles,
+varied between 0.07 M to 2.5 M to obtain Ag/α-Al2O3 formulations with ρ
+Agsurf
+is the surface silver density, and ρ
+Ag
+is the silver bulk density.
+different Ag weight loadings varying between 1.3 wt% and 35 wt% as
+characterized using Scanning Electron Microscopy with energy disper- 2.2. Measurement of ethylene epoxidation rates
+sive X-ray spectroscopy (SEM-EDX) analysis. The Ag/α-Al2O3 formula-
+tions were treated in different gas atmospheres (He (Matheson, Research Ethylene epoxidation rates were assessed in a stainless-steel packed-
+grade), zero-grade air, H2 (Airgas, UHP 99.999 %), and O2 (Matheson, bed reactor (McMaster-Carr, OD = 6.36 mm, ID = 4.57 mm) with
+99.9 %)) at different gas flowrates and temperatures as detailed in 20–100 mg of Ag/α-Al2O3 catalyst supported between two plugs of
+Table 1. Ag nanoparticle sizes were measured after reaction by Scanning quartz wool (CE Elantech). The reactor was embedded between two
+Electron Microscopy (SEM, Hitachi SU8230 Field emission gun, 5 or 10 split-tube copper sleeves and heated by two cartridge heaters (Omega
+kV electron beam accelerating voltage). The spent catalyst was prepared Engineering Inc., CIR-2100, 600 W) to the reaction temperature (513 K)
+for SEM imaging by coating it on a thin film of amorphous carbon. Three using a Watlow temperature controller (96 Series) and a K-type ther-
+SEM images representing different regions over the catalyst and ~1600 mocouple (Omega Engineering Inc.) placed in the center of the catalyst
+Ag particles were analyzed for each catalyst sample using ImageJ to bed with pressure maintained at 530 kPa using a backpressure regulator
+evaluate the Ag particle size distribution. Ag particles were approxi- (Tescom). The reactor feed comprised of 30 mol% C2H4 (Airgas
+mated to be perfect hemispheres and their diameters are referred to as 99.99%), 0.17–0.4 mol% C2H6 (Matheson 10% diluted in He), 7.7 mol%
+size. This assumption limits assessment of whether rates are dependent O2 (Matheson 99.99%), 1.5–8 ppm C2H5Cl (Airgas 160 ppm diluted in
+of different Ag facets [14] and whether edge or corner sites play a role in He), and 1 mol% CO2 (Matheson 10% diluted in He), and the respective
+catalysis. The sampling error introduced by approximating the total gases were supplied to the reactor through mass flow controllers (MKS
+population of silver particles using a sample of size ~1600 was quan- G-series) at a total flowrate of 2.78 cm3 s (cid:0) 1. The measured EO rates were
+tified to be less than 2% (Supporting Information Section S.1). A sum- free from external heat and mass-transfer limitations as confirmed by
+mary of the total surface area per gram, the surface area weighted calculations using GradientCheck [15] as reported in Supporting Infor-
+particle diameter (DS.A.), and silver dispersion determined after reaction, mation Section S.2. The reactor effluent flowed through a 0.5 cm3
+calculated using Eqs. 1–3, for the 9 Ag/α-Al2O3 formulations used as stainless steel sample loop which was injected into a gas chromatograph
+catalysts is given in Table 1. (GC, Agilent 7890A) equipped with an HP-Plot Q column (30 m ×320
+Totalsurfaceareapergram(m2g (cid:0)1) =∑
+∑ n
+i=1
+2π(s
+2
+i)2
+(1)
+μ
+fl
+m
+am
+×
+e
+2
+io
+0
+n
+μ
+i
+m
+za
+)
+t i
+a
+o
+n
+n
+d
+d
+a
+e
+t
+t
+h
+e
+e
+c
+r
+to
+m
+r
+a
+(
+l
+F
+c
+I
+o
+D
+n
+)
+d
+b
+u
+e
+c
+f
+t
+o
+iv
+r
+i
+e
+t y
+d
+d
+is
+e
+c
+t
+h
+e
+a
+ct
+r
+o
+g
+r
+in
+(
+g
+T C
+th
+D
+e
+) i
+e
+n
+f fl
+se
+u
+r
+e
+i
+n
+e
+t
+s w
+in
+i
+t
+t
+o
+h a
+a
+Ag n
+i=1
+2
+3
+π(s
+2
+i)3*ρ
+Ag bubbler containing 0.5 M H2SO4 (BeanTown Chemical). The gas lines
+∑ ( ) 3 upstream of the reactor were heated to 393 K using heat tapes (W.W.
+Surface(cid:0) area(cid:0) weightedparticlediameter(DS.A. )= 6 ∑ * n i=1 2 3 ( π ) s 2 i 2 G ca r t a a i l n y g s e t r t ) y p t i o c a p ll r y e r v e e s n t t r u c c o tu n r d e e s n u s n a d ti e o r n r e o a f c t t i h o e n c e o f n fl d u i e t n io t n s g a [ s 1 6 s ] t r t e h a u m s i . t w Th a e s
+n i=1 2π s 2 i exposed to the reaction mixture for ~18 h on stream wherein during the
+last 10 h on stream, no significant changes were observed either in EO
+(2)
+rates or EO selectivity as shown in Figure S.5 of a prior publication [7].
+Thus, EO rates at 18 h on stream are reported as the catalyst reaches a
+steady state rate by averaging rates enumerated from 3 GC injections.
+Table 1
+Surface area weighted particle diameter (DS.A.), total surface area per gram, and silver dispersion for different Ag/α-Al2O3 samples. These observables change
+depending on the C2H5Cl chloride concentration in the feed (1.5–8 ppm); the data tabulated are recorded for samples after reaction. The Ag weight loading of the
+sample has been mentioned as a prefix in the sample name. All samples were initially treated in 1.25 cm3 s (cid:0)1 flowing He at 498 K with a ramp rate of 0.17 K s (cid:0)1 and
+dwell time of 2 h. The suffix label for each sample corresponds to a specific heat treatment post synthesis detailed in the footnote. Reaction conditions: 30 mol% C2H4,
+7.7 mol% O2, 1 mol% CO2, 1.5–8 ppm C2H5Cl, 0.17–0.4 mol% C2H6, balance He; 5.3 bar; 513 K; catalyst mass =0.02–0.1 g of unpromoted 1.3–35 wt% Ag/α-Al2O3 and
+the C2H5Cl concentration used is specified in the column header. Histograms depicting the surface area per gram as a function of particle size for all samples are shown
+in Supporting Information Section S.10.
+Sample name DS.A. / nm Total area per gram /m2 Agg(cid:0) Ag 1 Silver dispersion / %
+C2H5Cl concentration / ppm
+1.5 3.5 8 1.5 3.5 8 1.5 3.5 8
+1.3S-1 80.4 ±23.4 64 ±20.6 55.2 ±18.0 7.1 8.6 10.1 1.80 2.24 2.62
+2.2S-1 64.1 ±20.6 66.5 ±20.9 64.1 ±20.7 8.9 7.5 8.9 2.23 2.25 2.22
+6.9S-1 82.3 ±27.2 73.1 ±23.4 84.3 ±25.6 6.8 7.6 6.9 1.74 2.07 1.71
+9.9S-2 97.2 ±31.5 80 ±25.4 82.9 ±26.9 5.8 6.4 7.0 1.49 1.73 2.13
+16.9S-2 107.2 ±35.6 93.6 ±31.5 92.7 ±30.0 5.3 5.4 5.6 1.34 1.37 1.57
+35S-2 201.4 ±67.5 176.1 ±54.1 163.7 ±58.2 2.8 3.2 3.4 0.75 0.81 0.89
+35S-3 264 ±87.2 261.6 ±82.6 255 ±91.9 2.1 2.1 2.2 0.49 0.51 0.56
+35S-4 (cid:0) 203 ±70.3 (cid:0) (cid:0) 2.4 (cid:0) (cid:0) 0.71 (cid:0)
+35S-5 (cid:0) 272 ±89.3 (cid:0) 2.1 (cid:0) (cid:0) 0.59 (cid:0)
+Heat treatment conditions:
+S-1–––1.25 cm3 s (cid:0)1 H2, ramp at 0.17 K s (cid:0)1, hold at 498 K for 2 h.
+S-2 – no further heat treatment.
+S-3–––0.83 cm3 s (cid:0)1 air, ramp at 0.17 K s (cid:0)1, hold at 598 K for 4 h.
+S-4–––0.83 cm3 s (cid:0)1 O2, ramp at 0.17 K s (cid:0)1, hold at 848 K for 4 h.
+S-5–––0.83 cm3 s (cid:0)1 He, ramp at 0.17 K s (cid:0)1, hold at 943 K for 4 h.
+2
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+Ethylene conversions varied between 0.1–1% and oxygen conversions 3. Results and discussion
+were less than 6%, and the carbon mole balance (total carbon moles in/
+total carbon moles out) closed within 2.5%. Product selectivities (Sj) 3.1. Effect of promoter chlorine on the Ag particle size distribution
+reported in the study are defined as moles of carbon in the product
+divided by moles of carbon in all products (Eqs. (4)–(5)). Ag/α-Al2O3 catalysts have been noted previously to undergo struc-
+tural changes upon exposure to reactive gas environments leading to
+rj = (Fou
+m
+t (cid:0)
+cat
+Fin ) j (4) b
+sy
+r
+n
+oa
+th
+d
+e
+e
+s
+n
+iz
+in
+e
+g
+d s
+o
+a
+f
+m
+t
+p
+h
+l
+e
+e
+A
+[7
+g
+] .
+p
+T
+a
+h
+rt
+e
+i c
+d
+le
+is t
+s
+r
+i
+i
+z
+b
+e
+u t
+d
+io
+is
+n
+t r
+o
+ib
+f
+u
+e
+t
+x
+i
+p
+on
+os e
+c
+d
+o m
+A
+p
+g
+a
+s
+r
+u
+e
+r
+d
+f a
+t
+c
+o
+e
+t
+a
+h
+re
+e
+a
+a
+a
+s
+s
+-
+Sj =∑rj
+r
+n
+j
+j
+nj
+x100 (5) a p
+p
+l
+o
+f e
+r
+u s
+t
+n
+i
+c
+n
+c a
+g
+ti n o
+I n
+n b
+f
+e
+o
+o
+r
+f r
+m
+e p p
+a
+a r
+t
+r e
+i
+t
+o
+i s c
+n
+e l n e
+S
+t
+e
+e s
+c
+i d z
+t
+e
+i
+a
+o
+s o
+n
+f a
+S
+a
+.
+l l
+1
+o l
+0
+g p
+.
+n o
+T
+o s
+h
+r t- m
+e
+r e
+s
+a a
+i
+l
+l
+c
+v
+d t
+e
+i i o
+r
+s t n
+d
+r i
+i
+A b
+sp
+g u
+e
+/ ti
+r
+α o
+s
+-
+i
+n A
+o
+l
+n
+a 2 s O
+o f
+3 s h
+7
+c o a
+A
+w ta
+g
+n l
+/
+y
+α
+i s n
+-
+t
+A
+s S
+l
+a
+2
+u m
+O
+p
+3
+- -
+Where: (Fout )
+j
+, (Fin )
+j
+are molar flowrate of product “j”, mcat is the mass of catalysts determined after reaction by examining ~1600 Ag particles
+catalyst, rj is the rate of product “j’, nj is the number of C atoms in using SEM increased with increasing ethyl chloride concentration in the
+product “j”. feedstream (Supporting Information Figure S.2) suggesting that chlorine
+helps redisperse Ag particles. The fractional surface area exposed by
+2.3. Measurement of chlorine coverage in a recycle reactor particles <40 nm over a 1.3 wt% Ag/α-Al2O3 catalyst increased from
+0.27 to 0.35 as the ethyl chloride concentration was increased from 1.5
+The chlorine coverage was measured over the catalyst after reaction ppm to 8 ppm (Fig. 2) resembling the increase in the fraction of <100 nm
+in an external recycle reactor with high recycle ratio (>20) to enumerate particles from 47% to 70% post reaction over an as-synthesized 10 wt%
+chlorine content of the sample by flowing 0.1 cm3 s (cid:0) 1 of a mixture of 5 Ag/α-Al2O3 catalyst in presence of 1 ppm vinyl chloride at 20 bar and
+mol% ethane and 2.5 mol% oxygen. Molecules with weak C–H homo- 498 K observed by van Hoof et al. [18] Redispersal of Ag particles from
+lytic bond enthalpies such as ethane have been shown to remove chlo- an average size of 172 nm for an 8.2 wt% Ag/α-Al2O3 catalyst on-stream
+rine from the Ag surface [17]. Most of the chlorine (>95 %) is removed for 60 h to an average size of 127 nm upon addition of 1 ppm vinyl
+in a single such experiment in the form of ethyl chloride as seen in Fig. 1. chloride to the reaction mixture (5 mol% C2H4, 10 mol% O2, 498 K, 20
+The area under the curve in Fig. 1 can be integrated to find the total bar) also evidences that chlorine induces changes in the size of Ag
+chlorine content of the catalyst. Chlorine coverage was then calculated clusters [16]. An underlying and unanswered question is whether
+as the moles of chlorine divided by the moles of surface silver (Eq. (3) chlorine is uniformly distributed over these clusters of different sizes.
+shows how Ag dispersion was calculated).
+A control experiment was done to determine whether chlorine could 3.2. Ethylene epoxidation rates and selectivity as a function of average
+be taken up by the α-Al2O3 support. In this experiment the α-Al2O3 particle size at different chlorinating conditions
+support was exposed to 15 ppm C2H5Cl in presence of O2 at 513 K and
+atmospheric pressure and thereafter the sample was exposed to C2H6/O2 EO rates measured at different chlorinating conditions over 7
+mixtures following protocols similar to the ones described above. No Cl* different Ag/α-Al2O3 catalysts with weight loadings ranging from 1.3-
+uptake was noted on the α-Al2O3 support (Supporting Information 35 wt% are shown in Fig. 3 (a). EO rates increase with increasing
+Section S.11). average particle size up to a certain size before starting to decrease with
+Ag particle size at all ethyl chloride concentrations tested. The optimum
+average particle size that maximizes the EO rate changes depending on
+the concentration of ethyl chloride in the feedstream. Catalysts with low
+Fig. 2. Fractional surface area exposed by Ag particles of different sizes over a
+Fig. 1. Molar flowrate of ethyl chloride measured as a function of time in a 1.3 wt% Ag/α-Al2O3 sample exposed to different chloriding conditions during
+recycle flow reactor. Reaction conditions: 30 mol% C2H4, 7.7 mol% O2, 1 mol% ethylene epoxidation. Reaction conditions: 30 mol% C2H4, 7.7 mol% O2, 1 mol
+CO2, 8 ppm C2H5Cl, 0.17 mol% C2H6, balance He; 5.3 bar; 513 K; catalyst mass % CO2, 1.5–8 ppm C2H5Cl, 0.17–0.4 mol% C2H6, balance He; 5.3 bar; 513 K;
+=0.04 g unpromoted 35 wt% Ag/α-Al2O3; followed by chlorine counting in a catalyst mass = 0.05–0.092 g unpromoted 1.3 wt% Ag/α-Al2O3, ethylene
+recycle reactor using 0.1 cm3 s (cid:0)1 of 5 mol% C2H6, 2.5 mol% O2 mixture at 513 conversions ranging from 0.01 to 0.03 % and EO selectivities ranging from 41
+K and 110 kPa. Dashed line is a guide to the eye. and 63 %.
+3
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+Fig. 3. (a) EO rates (b) EO selectivity measured as a function of surface area averaged particle size at different chloriding conditions. Reaction conditions: 30 mol%
+C2H4, 7.7 mol% O2, 1 mol% CO2, 1.5–8 ppm C2H5Cl, 0.17–0.4 mol% C2H6, balance He; 5.3 bar; 513 K; catalyst mass =0.02–0.1 g unpromoted 1.3–35 wt% Ag/
+α-Al2O3. Each datapoint was acquired at 18 h on-stream after steady state rates were obtained. Dashed lines are a guide to the eye.
+average particle size have low EO selectivity (Fig. 3 (b)) whereas, par- suggest a sensitive dependence of chlorine coverages on the Ag particle
+ticle size has little effect on EO selectivity for large Ag particles (>100 size, a functional relationship between chlorine coverage and particle
+nm). size can be established only by correlating particle size distributions
+Chlorine coverage was assessed over these catalysts after reaction by with coverages. Catalysts with similar average size (~64–66 nm) high-
+feeding 0.1 cm3 s (cid:0) 1 of 5 mol% C2H6 and 2.5 mol% O2 in an external lighted in Fig. 4 (b) have chlorine coverages ranging from 15 % to 45 %
+recycle flow reactor (CSTR) by measuring the flowrate of C2H5Cl formed at 3.5 ppm C2H5Cl and 0.4 mol% ethane in the feed, thus average size is
+upon removal of Cl by C2H6 over time, the area under the curve was incomplete as a descriptor in relation to chlorine coverage. Instead, we
+integrated (Fig. 1) to find the total chlorine content of the catalyst. posit that chlorine coverage for different sized Ag particles within the
+Chlorine coverage was then calculated as the moles of chlorine divided distribution must be disambiguated to develop a more complete
+by the moles of surface silver (silver dispersion reported in Table 1). At description of particle size effects in ethylene epoxidation catalysis.
+identical process conditions, the 1.3 wt% Ag/α-Al2O3 sample with the Additional context for particle-size-dependent chlorine coverages
+lowest average size exhibits the highest chlorine coverage (Fig. 4 (a)). being relevant in ethylene epoxidation catalysis is provided by re-
+Notably, chlorine coverage increases from 45% at 3.5 ppm C2H5Cl to examining the trends in EO selectivity with average particle size
+75% at 8 ppm C2H5Cl over the 1.3 wt% Ag/α-Al2O3 highlighting that Cl (Fig. 3 (b)) based on measured chlorine coverages. Chlorine coverage is
+coverages depend sensitively on the chlorinating conditions. The chlo- known to improve EO selectivity over promoted Ag/α-Al2O3 catalysts
+rine coverages measured over different catalysts can be replotted as a [4,19] as observed over the 35 wt% Ag/α-Al2O3 sample with a large
+function of surface area averaged particle size as shown in Fig. 4 (b). average particle size (Supporting Information Figure S.3). However,
+Chlorine coverage decreases with average silver particle size before over the low Ag weight loading samples (1.3, 2.2 wt% Ag) with small
+becoming nearly invariant with average size which was verified by average particle sizes (<100 nm), EO selectivity appears to be inversely
+measuring chlorine coverages at 3.5 ppm C2H5Cl over two additional 35 correlated with chlorine coverage (Supporting Information Section S.4).
+wt% Ag samples with average diameter >200 nm (labelled as 35S-4 and This disparity among samples with large- and small- average Ag particle
+35S-5 in Fig. 4 (b)). Although trends based on average particle size size can be explained by examining how chlorine coverage changes with
+Fig. 4. (a) Chlorine coverage measured at different chloriding conditions over Ag/α-Al2O3 catalysts with varying Ag loadings (1.3–35 wt%) subjected to different
+post synthetic heat treatment conditions (Catalyst nomenclature detailed in Table 1). (b) Chlorine coverage measured as a function of surface area averaged particle
+size for different Ag/α-Al2O3 catalysts. Reaction conditions: 30 mol% C2H4, 7.7 mol% O2, 1 mol% CO2, 1.5–8 ppm C2H5Cl, 0.17–0.4 mol% C2H6, balance He; 5.3 bar;
+513 K; catalyst mass =0.02–0.1 g unpromoted 1.3–35 wt% Ag/α-Al2O3; followed by chlorine counting in a recycle reactor using 0.1 cm3 s (cid:0)1 of 5 mol% C2H6, 2.5 mol
+% O2 mixture at 513 K and 110 kPa. Dashed rectangular area includes all catalyst samples with similar average particle size.
+4
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+Ag particle size. the mole ratio of Cl to bulk Ag (calculated by multiplying the chlorine
+coverage by silver dispersion) exceeds 1 for certain small particle sizes
+3.3. Chlorine coverage as a function of Ag particle size which is physically infeasible (Figure S.6). Consequently, we restricted
+the maximum mole ratio of Cl to bulk Ag to 1, giving rise to a constraint
+Ag/α-Al2O3 catalysts exhibit a broad distribution of particle sizes (Eq. (10)) detailed in Section S.7 with the updated model equation
+under reaction conditions (Supporting Information Section S.10), and shown in Eq. (9).
+t
+q
+h
+u
+e
+a n
+m
+ti
+e
+ty
+a s
+r
+u
+e
+r
+fl
+e
+e
+d
+c t
+c
+i
+h
+n
+l
+g
+o r
+t
+i
+h
+n
+e
+e
+s
+c
+u
+o
+m
+n t
+o
+e
+f
+n t
+c h
+(
+l
+T
+o
+C
+r
+l
+i
+)
+n e
+o f
+a d
+th
+so
+e
+r b
+c
+e
+a
+d
+ta l
+o
+y
+v
+s
+e
+t
+r
+is
+a ll
+a
+A
+c
+g
+u m
+pa
+u
+r
+l
+t
+a
+i
+t
+c
+i
+l
+v
+e
+e
+s
+F(s)=Fmax (s)e (cid:0)b×s+c(1(cid:0) e (cid:0)b×s) (9)
+comprising the distribution. In an effort to determine chlorine coverages Fmax (s)=23.29s (10)
+over Ag particles of varying size, we formulate a model (Eq. (6)),
+wherein the chlorine content (TCl) is defined as an integral of the
+where the constraint in Eq. (10) ensures that the mole ratio of Cl to bulk
+product of two terms: (i) a chlorine-coverage dependent function F(s) Ag is below 1 at every particle size “s”. A parity plot showing the close
+that gives the chlorine content per unit surface area for a particle of size
+agreement between the experimentally measured chlorine content and
+‘s’ and (ii) the surface area exposed per gram A(s) of particles of size ‘s’ that predicted by the model (Eqs. (9) and (10) over 7 Ag/α-Al2O3 sam-
+represented by a lognormal distribution (Eq. (8)).
+ples at 3 different chlorinating conditions (two additional samples at 3.5
+∫
+TCl (μmolClg (cid:0) Ag 1) =
+Rmax
+F(s)×A(s)ds (6)
+ppm
+C h
+C
+l
+2
+o
+H
+ri
+5
+n
+C
+e
+l
+c
+a
+o
+ls
+v
+o
+e r
+r
+a
+e
+g
+p
+e
+o r
+c
+t
+a
+e
+l
+d
+c
+)
+u l
+i
+a
+s
+t
+s
+e
+h
+d
+o
+a
+w
+s
+n
+a
+i
+f
+n
+u n
+F
+c
+ig
+ti
+.
+o
+5
+n
+(
+o
+a
+f
+) .
+p article size as per the
+Rmin updated model (Eqs. 9–10) is shown in Fig. 5 (b). At 3.5 ppm C2H5Cl,
+F(s)(μmolClm (cid:0)
+Ag
+2) =ae (cid:0)bs+c (7) p
+th
+a
+a
+r
+n
+ti c
+4
+l
+%
+es
+o
+b
+f
+e l
+t
+o
+h
+w
+e t
+2
+o
+8
+ta l
+n m
+m a
+a
+s
+r
+s
+e
+o
+c
+f
+o
+s
+v
+il
+e
+v
+r
+e
+e
+r
+d
+i n
+in
+a n
+>
+y
+1
+o
+m
+f t
+o
+h
+n
+e
+o l
+A
+a
+g
+y
+/
+e
+α
+r
+-A
+of
+l 2
+c
+O
+h
+3
+l o
+s
+r
+a
+i
+m
+ne
+p
+.
+le
+L
+s
+e s
+i
+s
+s
+A(s)(m2 g (cid:0)1)= A √̅̅̅̅̅̅e (cid:0) (lo 2 g * ( σ μ s 2 ))2 (8) c [1 o 6 ve ,1 r 8 ed ] h in a v > e 1 n o M te L d c h p l r o e r v i i n o e u s a ly s s t h h o a w t n A g i n r e S s e tr c u ti c o t n u r S e . s 9 . u p v o a n n a H d o d o i f t io e n t a o l f .
+Ag Ag (binsize)σ 2πs organochloride promoters. The nature of Ag facets exposed has also
+been reported to impact ethylene epoxidation rates and selectivity [14].
+The cumulative chlorine content was enumerated for each of the 7 However, no functional or mechanistic relationship between Ag particle
+catalyst samples (2 additional samples at 3.5 ppm C2H5Cl) across size or topology and chlorine coverages has been reported for supported
+different process conditions (1.5, 3.5, 8 ppm C2H5Cl). The surface area Ag olefin epoxidation catalysts. Affirming whether a monolayer
+distribution A(s) term, represented by a lognormal distribution as in Eq. coverage exists on small Ag particles is challenging given that these
+(8), was determined using SEM of post-reaction samples as shown in particles may not have a bulk stoichiometry of AgCl. Advanced char-
+Supporting Information Section S.10. Subsequently, these datasets at acterization studies involving electron diffraction and identical location
+each chlorinating condition were fitted to Eq. (6) using Athena Visual imaging TEM may help affirm these postulates in future studies. Excess
+Studio with various functional forms of F(s). An exponential function for chlorine likely diffuses into the bulk as indicated previously in ultra-high
+F(s) shown in Eq. (7) fitted the experimental data across a wide range of vacuum single crystal studies [20]. The strong affinity of small particles
+particle sizes and chlorinating conditions as shown in Figure S.4 except to adsorb chlorine strongly is akin to their tendency to adsorb oxygen
+for the 1.3 wt% Ag/α-Al2O3 at 8 ppm C2H5Cl which was an outlier strongly in comparison to large particles as indicated previously by
+(Supporting Information Section S.5). An exponential function for F(s) thermal desorption studies of dioxygen [21] and by reactive molecular
+was chosen simply based on its ability to describe the observed chlorine dynamics simulations [22]. Ethylene epoxidation rates can be
+coverage dependency on particle size as reported in Section 3.2. The completely poisoned over silver catalysts at high gas phase dichloro-
+fitted chlorine function F(s) can be divided by the areal atomic density of ethane concentrations [23] likely due to high Cl coverages. This plau-
+the Ag surface calculated by considering that it contains an equal frac- sibly explains why small Ag particles have low EO rates in presence of
+tion of Ag(111), Ag(110), and Ag(100) crystal facets to obtain the 1.5–8 ppm organochloride promoter concentrations typical of EO
+chlorine coverage as a function of particle size. The model predicts that
+Fig. 5. (a) Parity plot comparing the measured chlorine content with values predicted by the updated exponential Fmax model (Eqs. 9–10). Reaction conditions: 30
+mol% C2H4, 7.7 mol% O2, 1 mol% CO2, 1.5–8 ppm C2H5Cl, 0.17–0.4 mol% C2H6, balance He; 5.3 bar; 513 K; catalyst mass =0.02–0.1 g unpromoted 1.3–35 wt% Ag/
+α-Al2O3; followed by chlorine counting in a recycle reactor using 0.1 cm3 s (cid:0)1 of 5 mol% C2H6, 2.5 mol% O2 mixture at 513 K and 110 kPa. (b) Chlorine coverage as a
+function of particle size as predicted by the model Eq. (9) at the following process conditions: 30 mol% C2H4, 7.7 mol% O2, 1 mol% CO2, 3.5 ppm C2H5Cl, 0.4 mol%
+C2H6, balance He; 5.3 bar; 513 K.
+5
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+catalysis [7] as these particles are likely fully covered in chlorine. The Appendix A. Supplementary material
+model predicts sub-monolayer chlorine coverages for particles larger
+than 28 nm that decrease monotonically with size up to a silver particle Supplementary data to this article can be found online at https://doi.
+size of 100 nm and thereafter become invariant with size (Fig. 5 (b)). In org/10.1016/j.jcat.2024.115583.
+prior studies over promoted Ag/Al2O3 catalysts, it has been demon-
+strated that the optimal enhancement in EO rate occurs at low chlorine References
+coverages, approximately 0.1 ML [3,4], similar to the coverage pre-
+dicted by the model (Fig. 5 (b)) over large particles (>100 nm) which [1] T. Pu, H. Tian, M.E. Ford, S. Rangarajan, I.E. Wachs, Overview of selective
+could account for the high EO rates observed over 100–150 nm Ag o 1 x 0 i 7 d 2 a 7 ti – o 1 n 0 7 o 5 f 0 e , t h h y t l t e p n s: e / / to d o e i t . h or y g le / n 1 e 0 . o 1 x 0 i 2 d 1 e / b a y cs A ca g t a c l a .9 ta b l 0 y 3 st 4 s 4 , 3 A . C S Catal. 9 (2019)
+particles [7]. The invariance of chlorine coverage with size over large Ag [2] M.O. Ozbek, I. Onal, R.A. Van Santen, Why silver is the unique catalyst for ethylene
+particles explains why EO selectivity is unchanged with particle size epoxidation, J. Catal. 284 (2011) 230–235, https://doi.org/10.1016/j.
+jcat.2011.08.004.
+above 100 nm (Fig. 3 (b)). While the chlorine coverage constitutes a
+[3] J.W. Harris, A. Bhan, Moderation of chlorine coverage and ethylene epoxidation
+prominent parameter contributing to particle size effects in ethylene kinetics via ethane oxychlorination over promoted Ag/α-Al2O3, J. Catal. 367
+epoxidation catalysis, prior investigations [9,10,24] have demonstrated (2018) 62–71, https://doi.org/10.1016/j.jcat.2018.08.021.
+[4] K.R. Iyer, A. Bhan, Interdependencies among ethylene oxidation and chlorine
+variations in parameters such as oxygen binding energies implying that
+moderation catalytic cycles over promoted Ag/α-Al2O3 catalysts, ACS Catal. 11
+electronic characteristics of silver can change in response to changing (2021) 14864–14876, https://doi.org/10.1021/acscatal.1c03493.
+silver particle size and thus, it is plausible that more than one factor [5] C.-J. Chen, J.W. Harris, A. Bhan, Kinetics of ethylene epoxidation on a promoted
+underlies the observed effects of particle size in ethylene epoxidation. Ag/α-Al2O3 catalyst-the effects of product and chloride co-feeds on rates and
+selectivity, Chem. Eur. J. 24 (2018) 12405–12415, https://doi.org/10.1002/
+chem.201801356.
+4. Conclusions [6] H. Shibata, A.G. Basrur, S. Gopal, M.H. McAdon, A.C.Y. Liu, L. Zhang, E.R. Frank,
+Method of formulating alkylene oxide catalyst in relation to catalyst reference
+properties, US9908861B2, (2018).
+Particle size effects in Cl-promoted ethylene epoxidation over Ag/
+[7] K.R. Iyer, A. Bhan, Particle size dependence of ethylene epoxidation rates on Ag/
+α-Al2O3 catalysts reflect in part the underlying changes in chlorine α-Al2O3 catalysts: why particle size distributions matter, J. Catal. 420 (2023)
+coverage with particle size. Small particles are completely chlorided and 99–109, https://doi.org/10.1016/j.jcat.2023.02.008.
+[8] C. Campbell, The selective epoxidation of ethylene catalyzed by Ag(111): A
+plausibly act as Cl reservoirs resulting in low ethylene epoxidation rates comparison with Ag(110), J. Catal. 94 (1985) 436–444, https://doi.org/10.1016/
+over these particles while large particles have sub-monolayer Cl cover- 0021-9517(85)90208-8.
+ages, and it is these particles that catalyze ethylene epoxidation with [9] D.V. Demidov, I.P. Prosvirin, A.M. Sorokin, T. Rocha, A. Knop-Gericke, V.
+I. Bukhtiyarov, Preparation of Ag/HOPG model catalysts with a variable particle
+high rates and high EO selectivity. Changes in chlorine coverage with
+size and an in situ xps study of their catalytic properties in ethylene oxidation,
+particle size explain the shift in optimum average particle size that Kinet. Catal. 52 (2011) 855–861, https://doi.org/10.1134/S002315841106005X.
+maximizes EO rates at different chlorinating conditions. These findings [10] V.I. Bukhtiyarov, I.P. Prosvirin, R.I. Kvon, S.N. Goncharova, B.S. Bal’zhinimaev,
+XPS study of the size effect in ethene epoxidation on supported silver catalysts,
+and their implications for EO catalysis were made possible by
+J. Chem. Soc Faraday Trans. 93 (1997) 2323–2329, https://doi.org/10.1039/
+acknowledging the role of Cl content on the catalyst surface eschewing a608414a.
+descriptions of Cl promotion only in terms of concentration of organo- [11] G.N. Vayssilov, Y. Lykhach, A. Migani, T. Staudt, G.P. Petrova, N. Tsud, T. Ska´la,
+chloride promoters in the gas phase. A. Bruix, F. Illas, K.C. Prince, V. Matolıń , K.M. Neyman, J. Libuda, Support
+nanostructure boosts oxygen transfer to catalytically active platinum
+nanoparticles, Nat. Mater. 10 (2011) 310–315, https://doi.org/10.1038/
+CRediT authorship contribution statement nmat2976.
+[12] L. Liu, A. Corma, Metal catalysts for heterogeneous catalysis: from single atoms to
+Krishna R. Iyer: Writing – review & editing, Writing – original draft, nanoclusters and nanoparticles, Chem. Rev. 118 (2018) 4981–5079, https://doi.
+org/10.1021/acs.chemrev.7b00776.
+Investigation, Conceptualization. Aditya Bhan: Writing – review & [13] W.S. Epling, G.B. Hoflund, D.M. Minahan, Study of Cs-promoted, α-alumina-
+editing, Supervision, Funding acquisition, Conceptualization. supported silver, ethylene-epoxidation catalysts, J. Catal. 171 (1997) 490–497,
+https://doi.org/10.1006/jcat.1997.1831.
+[14] P. Christopher, S. Linic, Shape- and size-specific chemistry of Ag nanostructures in
+Declaration of competing interest catalytic ethylene epoxidation, ChemCatChem 2 (2010) 78–83, https://doi.org/
+10.1002/cctc.200900231.
+[15] D.A. Hickman, J.C. Degenstein, F.H. Ribeiro, Fundamental principles of laboratory
+The authors declare that they have no known competing financial
+fixed bed reactor design, Curr. Opin. Chem. Eng. 13 (2016) 1–9, https://doi.org/
+interests or personal relationships that could have appeared to influence 10.1016/j.coche.2016.07.002.
+the work reported in this paper. [16] A.J.F. van Hoof, I.A.W. Filot, H. Friedrich, E.J.M. Hensen, Reversible restructuring
+of silver particles during ethylene epoxidation, ACS Catal. 8 (2018) 11794–11800,
+https://doi.org/10.1021/acscatal.8b03331.
+Data availability [17] J.W. Harris, J.A. Herron, J.F. DeWilde, A. Bhan, Molecular characteristics
+governing chlorine deposition and removal on promoted Ag catalysts during
+Data will be made available on request. ethylene epoxidation, J. Catal. 377 (2019) 378–388, https://doi.org/10.1016/j.
+jcat.2019.07.043.
+[18] A.J.F. van Hoof, R.C.J. van der Poll, H. Friedrich, E.J.M. Hensen, Dynamics of
+Acknowledgements silver particles during ethylene epoxidation, Appl. Catal. b: Env. 272 (2020)
+118983, https://doi.org/10.1016/j.apcatb.2020.118983.
+[19] C.T. Campbell, M.T. Paffett, The role of chlorine promoters in catalytic ethylene
+Parts of this work were carried out in the Characterization Facility, epoxidation over the Ag(110) surface, Appl. Surf. Sci. 19 (1984) 28–42, https://
+University of Minnesota, which receives partial support from the NSF doi.org/10.1016/0378-5963(84)90051-5.
+through the MRSEC and the NNCI programs. The authors acknowledge [20] M. Bowker, K.C. Waugh, Chlorine adsorption and chloridation of Ag(110), Surf.
+Sci. 155 (1985) 1–14, https://doi.org/10.1016/0039-6028(85)90399-1.
+Mr. Michael Gresh-Sill and Mr. Joseph Esposito for acquiring chlorine [21] M. Lamoth, T. Jones, M. Plodinec, A. Machoke, S. Wrabetz, M. Kr¨amer, A. Karpov,
+uptake data on the α-Al2O3 sample and for helpful technical discussions. F. Rosowski, S. Piccinin, R. Schlo¨gl, E. Frei, Nanocatalysts unravel the selective
+We also acknowledge Drs. Christopher Ho, Victor Sussman, and Daniel state of Ag, ChemCatChem 12 (2020) 2977–2988, https://doi.org/10.1002/
+cctc.202000035.
+Hickman at Dow Inc., for assistance with parameter estimation in
+Athena Visual and for helpful technical discussions. The authors grate-
+fully acknowledge funding support from Dow through the University
+Partnership Initiative.
+6
+
+K.R. Iyer and A. Bhan J o u r n a l o f C a t a l y s i s 436(2024)115583
+[22] D. Chaparro, E. Goudeli, Oxidation rate and crystallinity dynamics of silver [24] V.I. Bukhtiyarov, A.F. Carley, L.A. Dollard, M.W. Roberts, XPS study of oxygen
+nanoparticles at high temperatures, J. Phys. Chem. C 127 (2023) 13389–13397, adsorption on supported silver: effect of particle size, Surf. Sci. 381 (1997)
+https://doi.org/10.1021/acs.jpcc.3c03163. L605–L608, https://doi.org/10.1016/S0039-6028(97)00057-5.
+[23] L. Petrov, A. Eliyas, D. Shopov, Kinetics of ethylene oxidation over a silver catalyst
+in the presence of dichloroethane, Appl. Catal. 24 (1986) 145–161, https://doi.
+org/10.1016/S0166-9834(00)81264-6.
+7
+

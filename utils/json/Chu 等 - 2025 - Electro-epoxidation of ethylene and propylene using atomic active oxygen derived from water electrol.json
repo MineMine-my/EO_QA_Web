@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "DOI",
+        "end_node": "10.1039/d5ta03347k"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "发表年份",
+        "end_node": "2025"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "催化",
+        "end_node": "环氧丙烷"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "电催化",
+        "relationship": "替代",
+        "end_node": "热催化"
+    },
+    {
+        "start_node": "水电解",
+        "relationship": "生成",
+        "end_node": "活性氧"
+    },
+    {
+        "start_node": "活性氧",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "IrN4@graphene",
+        "relationship": "稳定",
+        "end_node": "活性氧"
+    },
+    {
+        "start_node": "活性氧",
+        "relationship": "范围",
+        "end_node": "1.16–2.08 V"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "电子转移",
+        "relationship": "削弱",
+        "end_node": "Ir-O键"
+    },
+    {
+        "start_node": "Ir-O键削弱",
+        "relationship": "促进",
+        "end_node": "氧迁移"
+    },
+    {
+        "start_node": "丙烯吸附",
+        "relationship": "增强",
+        "end_node": "Ir-O键削弱"
+    },
+    {
+        "start_node": "丙烯环氧化",
+        "relationship": "能垒",
+        "end_node": "1.24 eV"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "能垒",
+        "end_node": "1.31 eV"
+    },
+    {
+        "start_node": "丙烯环氧化",
+        "relationship": "优于",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "230–270°C"
+    },
+    {
+        "start_node": "工业条件",
+        "relationship": "范围",
+        "end_node": "1–3 MPa"
+    }
+]

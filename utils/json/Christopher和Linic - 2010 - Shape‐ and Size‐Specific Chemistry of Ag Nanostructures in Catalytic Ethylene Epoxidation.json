@@ -1,0 +1,102 @@
+[
+    {
+        "start_node": "Ag纳米立方体",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag纳米线",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag纳米球",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "小粒径",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高O2分压",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低配位位点",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "抑制",
+        "end_node": "低配位位点"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(111)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "510 K"
+    },
+    {
+        "start_node": "乙烯转化率",
+        "relationship": "范围",
+        "end_node": "2-4%"
+    },
+    {
+        "start_node": "O2/C2H4比",
+        "relationship": "范围",
+        "end_node": "3:1"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "高选择性催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1002/cctc.200900231"
+    },
+    {
+        "start_node": "高选择性催化剂",
+        "relationship": "发表年份",
+        "end_node": "2009"
+    }
+]

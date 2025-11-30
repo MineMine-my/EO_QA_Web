@@ -1,0 +1,157 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "纯银微板",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "纯银微板",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯预处理",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯预处理",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "氧预处理",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高氧浓度",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高氧浓度",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高乙烯浓度",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "高流速",
+        "relationship": "降低",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "220-300°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "260°C"
+    },
+    {
+        "start_node": "总流速",
+        "relationship": "范围",
+        "end_node": "5.4-10.5 cm3/min"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "5-25 vol%"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "5-25 vol%"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "催化剂层厚度",
+        "relationship": "范围",
+        "end_node": "15-20 μm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "3.7 m2/g"
+    },
+    {
+        "start_node": "Langmuir-Hinshelwood",
+        "relationship": "描述",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "分子氧吸附",
+        "relationship": "参与",
+        "end_node": "竞争吸附"
+    },
+    {
+        "start_node": "乙烯吸附",
+        "relationship": "参与",
+        "end_node": "竞争吸附"
+    },
+    {
+        "start_node": "表面反应",
+        "relationship": "是",
+        "end_node": "速率控制步骤"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "传热效率"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提高",
+        "end_node": "安全性"
+    }
+]

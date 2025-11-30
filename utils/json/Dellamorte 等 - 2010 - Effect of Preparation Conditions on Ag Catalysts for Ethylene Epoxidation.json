@@ -1,0 +1,162 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "范围",
+        "end_node": "2-3 h"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "673 K"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "减少",
+        "end_node": "表面积"
+    },
+    {
+        "start_node": "表面积",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "导致",
+        "end_node": "Ag迁移"
+    },
+    {
+        "start_node": "Ag迁移",
+        "relationship": "形成",
+        "end_node": "Ag膜"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "100-400 nm"
+    },
+    {
+        "start_node": "粒径增加",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "540 K"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "6-10%"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "10%"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "是",
+        "end_node": "α-Al2O3"
+    },
+    {
+        "start_node": "Ag前驱体",
+        "relationship": "影响",
+        "end_node": "性能"
+    },
+    {
+        "start_node": "烧结",
+        "relationship": "减少",
+        "end_node": "颗粒数量"
+    },
+    {
+        "start_node": "颗粒数量",
+        "relationship": "影响",
+        "end_node": "活性面积"
+    },
+    {
+        "start_node": "活性面积",
+        "relationship": "决定",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "O2 TPD",
+        "relationship": "显示",
+        "end_node": "Ag平台位"
+    },
+    {
+        "start_node": "Ag平台位",
+        "relationship": "吸附",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "大颗粒",
+        "relationship": "暴露",
+        "end_node": "平台区域"
+    },
+    {
+        "start_node": "TOF",
+        "relationship": "随粒径增加",
+        "end_node": "提高"
+    },
+    {
+        "start_node": "最优负载量",
+        "relationship": "范围",
+        "end_node": "1 wt%"
+    },
+    {
+        "start_node": "短煅烧",
+        "relationship": "减少",
+        "end_node": "烧结"
+    },
+    {
+        "start_node": "短煅烧",
+        "relationship": "提高",
+        "end_node": "转化率"
+    }
+]

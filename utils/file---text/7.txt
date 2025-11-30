@@ -1,0 +1,246 @@
+CatalysisToday120(2007)182–185
+www.elsevier.com/locate/cattod
+Rhenium promotion of Ag and Cu–Ag bimetallic catalysts
+for ethylene epoxidation
+J.C. Dellamorte, J. Lauterbach, M.A. Barteau*
+CenterforCatalyticScienceandTechnology,DepartmentofChemicalEngineering,
+UniversityofDelaware,Newark,DE19716,USA
+Availableonline28August2006
+Abstract
+Rheniumremainstheleastunderstoodpromoterofsilvercatalystsfortheepoxidationofethylene.Whilealargenumberofpatentscanbefound
+claimingtheuseofrheniumtoyieldethyleneoxideselectivitiesover80%,verylittleispresentintheopenliteraturetoexplaintheseresults.Inthis
+workwereportinitialstudiesofrheniumpromotedAgandCu–Agbimetalliccatalystsunderchlorine-freeoperatingconditions.Rheniumaddition
+improvestheselectivityofboththemonometallicandbimetalliccatalysts,whiledecreasingactivityineachcase.Optimizationofpreparation
+proceduresshowsmaximumethyleneoxideselectivitiesareobtainedwithrheniumloadingsof25ppmforthemonometalliccatalystsandbetween
+50and100ppmforCu–Agbimetalliccatalysts.Thereactionkineticsforrhenium-promotedAgandunpromotedAgcatalystssuggestthatthe
+catalystscontainingrheniumpresentamoreuniformdistributionofsitesforoxygenadsorptionthandounpromotedcatalysts,thusenhancingthe
+ethylene oxideselectivity.
+#2006Elsevier B.V.All rightsreserved.
+Keywords: Ethyleneepoxidation;Silvercatalyst;Rheniumpromotion;Copperpromotion
+1. Introduction progressiveincreasesinselectivitywithinthisrange[6].Wehave
+proposedthattheprincipalroleofCsistoinfluencethetransition
+Since the original patent by Lefort [1], improvement of statesforringclosure(toethyleneoxide),versusisomerization
+supportedcatalystsforethyleneepoxidationhasbeenanactive (to acetaldehyde), of a common oxametallacycle intermediate
+areaofresearchanddevelopment.Numerouspapersandpatents via long range ion–dipole interactions [4]. In contrast to Cs,
+havereportedwaysofincreasingethyleneoxide(EO)selectivity; additionofsmallamountsofCldecreasesactivitydramatically
+these include the use of different silver precursors, use of butproducesalargeincreaseinselectivity[6].Thisbehaviorhas
+different preparation techniques, and the use of promoters. beenexplainedbyearlierworkersintermsofthepoisoningof
+Typical industrial catalysts comprise an a-Al O support combustionsites[7]andtuningoftheelectronicstateofsurface
+2 3
+impregnated with 10–30wt.% silver oxalate, which is then oxygen [8]. It is also consistent with the dipole mechanism
+reducedtosilvermetalthroughcalcinationandreductionsteps.It proposedforCspromotion,asClhasbeenshowntolocateinthe
+hasbeenfoundthatpromotersaddedduringcatalystpreparation, subsurface region of silver [9,10], altering the surface electric
+such as Cs and Re, as well as co-feed of organic chlorides to field in the same direction as cationic species on top of the
+maintain Cl on the catalyst during operation, increase the surface.
+selectivityfurther[2–5].BothCsandClhavebeenthetargetsof VerylittleinformationisavailabletoexplaintheeffectofRe
+modelcatalyststudiesinordertounderstandtheireffectsonkey on silver catalysts for ethylene epoxidation. In the patent
+reactionstepsandtoexplaintheirroleinpromotion.Inprevious literature, Lauritzen has claimed that Re has a promotional
+studiesfromourlaboratory,Cswasfoundtohaverelativelysmall effect if Cl is present, but provides no data without Cl [11].
+effectsoncatalystactivityatlevelsupto80ppm,buttoproduce PatentexampleshaveshownapparentinteractionsbetweenRe
+and other promoting metals including cesium [11], molybde-
+num[11],potassium[12],aswellasmanyothers.Thesepatents
+teach optimized preparation techniques, but few studies shed
+* Correspondingauthor.Tel.:+13028318905;fax:+13028318201.
+E-mailaddress:barteau@che.udel.edu(M.A.Barteau). lightonthemechanismofRepromotion.Inthisworkwereport
+0920-5861/$–seefrontmatter#2006ElsevierB.V.Allrightsreserved.
+doi:10.1016/j.cattod.2006.07.051
+
+J.C.Dellamorteetal./CatalysisToday120(2007)182–185 183
+initial studies of Re promotion of monolith-supported Ag and catalystofAgandCswhichwassequentiallyimpregnatedwith
+Cu–Ag bimetallic catalysts under chlorine-free operating Re is denoted Re–(Cs–Ag).
+conditions.Performancevariationsasafunctionofpreparation
+techniques and catalyst composition provide insights into 3. Results and discussion
+possiblelocationsandrolesofRepromotersforthesecatalysts.
+Previous studies have shown that optimum preparation
+2. Experimental methods procedures of Cu–Ag bimetallic catalysts for ethylene
+epoxidation involve the addition of Cu sequentially to Ag
+AgandCu–Agbimetalliccatalystswerepreparedusingthe [13,14]. Following this direction, Re–Ag catalysts were first
+methods outlined by Jankowiak and Barteau [13]. Foam prepared by the sequential impregnation method in order to
+monoliths composed of 99.5% a-Al O , obtained from examinetheinfluenceofRecontentonethyleneconversionand
+2 3
+VesuviusHi-TechCeramics,wereusedasthecatalystsupport. EO selectivity. For steady-state operation at 540K with an
+The monoliths were 18mm(cid:2)10mm cylinders (diame- equimolar feed of ethylene and oxygen (10mol% each), the
+ter(cid:2)length) and had 45 pores per linear inch. The monoliths ethylene conversion of Re–Ag catalysts passed through a
+were impregnated using silver nitrate (AgNO ) as the silver maximum at 25ppm Re, as shown in Fig. 1. Ethylene
+3
+precursor.Rewasaddedviaastandardsolutionof1000mg/ml conversionandEOselectivityversusReloadingforRe–Agon
+Re in 5% HNO . Two different impregnation methods were a-alumina monolith with (cid:3)11wt.% Ag. Selectivity and
+3
+used for catalyst preparation. The first method, a co- conversion data without individual temperatures indicated
+impregnation method, involved the addition of both the were obtained at 540K. Selectivity results labeled by
+AgNO /distilled water and the Re solution to the catalyst in temperature were obtained at 1.8% ethylene conversion.
+3
+onestep.Thesecatalystswerethendriedat353K,calcinedat The EO selectivities, determined concurrently, followed a
+673K in an open air furnace and reduced at 573K under the similartrend,exhibitingamaximumbetween25and50ppm.
+flow of 20% H in He. In the second method, a sequential Comparingcatalystperformanceatconstanttemperaturecan
+2
+impregnation method, the monolith was first immersed in be problematic, since theyield depends on both the ethylene
+AgNO /distilled water. The catalyst was dried and calcined conversion and EO selectivity. In order to compare catalysts
+3
+under the conditions listed above before the Re solution was moreeasily,afterreachingsteady-stateat540Ktheethylene
+applied to the catalyst. After the catalyst was dried, it was conversionassociatedwiththeRe–Agcatalysts(andallother
+exposed to the reduction conditions listed earlier. catalysts that will be discussed) was tuned to 1.8% by
+Using these methods, catalysts with 10–11wt.% Ag and adjustingthetemperature,thusallowingtheselectivitiestobe
+nominalReloadingsof25,50,100and200ppmwereprepared comparedatconstantconversion.Theseresults,alsoinFig.1,
+andthentested.Duringimpregnation,alltheRewasassumed show a clear maximum of 42% EO selectivity at 25ppm Re
+to adsorb on the catalyst for purposes of estimating loading. loading. After passing through a maximum at 25ppm, the
+Afterimpregnation, the catalystwas reduced under aflowof activity and selectivity decreased dramatically as Re loading
+35sccm of 20% H in He at 573K. Finally, the catalyst was was increased. The catalysts became almost completely
+2
+placed under reaction conditions (100sccm feed of 10% inactive and non-selective at Re loadings of 200ppm. This
+ethylene, 10% oxygen, and 80% nitrogen at 540K) and performance decrease at higher Re loadings was similar to
+allowed to reach steady-state (typically 36–48h) before
+temperature and/or reactant partial pressures were altered.
+After reaching steady-state, the temperature of each catalyst
+was changed as necessary to give 1.8% ethylene conversion.
+This allowed for comparison of the EO selectivities at fixed
+conversion of all catalysts. Reactor effluents were analyzed
+and quantified using an HP6890 gas chromatograph with a
+flame ionization detector (FID) and thermal conductivity
+detector (TCD).
+CatalystscontainingadditionalcomponentssuchasCsand
+Cu were also prepared and tested. Details are provided below
+for each. In cases where more than two impregnations were
+carried out, the first two impregnations were performed as
+described previously and the catalyst was dried and reduced
+under the conditions listed above after each subsequent
+impregnation. For ease of comparison, these catalysts will be
+labeledwith the reverseorder inwhich the impregnationtook
+place. For example, a catalyst produced by the sequential
+Fig.1. EthyleneconversionandEOselectivityvs.ReloadingforRe–Agona-
+impregnationofAg,followedbyRe,followedbyCu,islabeled
+aluminamonolithwith(cid:3)11wt.%Ag.Selectivityandconversiondatawithout
+Cu–Re–Ag. All components added by co-impregnation are
+individualtemperaturesindicatedwereobtainedat540K.Selectivityresults
+included within parentheses. For example, a co-impregnated labeledbytemperaturewereobtainedat1.8%ethyleneconversion.
+
+184 J.C.Dellamorteetal./CatalysisToday120(2007)182–185
+Table1 oxygen adsorption than the unpromoted catalyst, as these
+EOselectivityvs.orderofRe-and/orCu-impregnationforRe–AgandRe–Cu– catalystsexhibitlesssensitivityinthekineticswithvariations
+Agcatalystsat1.8%ethyleneconversion
+in oxygen coverage. The Re on the surface of the catalyst is
+Ag Re Cu Orderof EOselectivity Temperature mostlikelypresentasRe O [5].Suchoxidicspecieswouldbe
+2 7
+loading loading loading impregnation at1.8% (K) expected to bind at sites on the Ag surface with the highest
+(wt.%) (ppm) (ppm) conversion(%)
+oxygen affinities, i.e. step and defect sites, consequently
+11 0 0 Ag 30.25 490 makingthesurfacemoreuniform.Atkinsetal.determinedthat
+11 25 0 Re–Ag 18.40 571
+theEOselectivityontheAg(111)terracesis57%versus33%
+11 25 0 Re–Ag 44.70 516
+forAgstepordefectsites[15],basedonTPDresults.Thus,Re-
+11 25 270 Cu–Re–Ag 49.30 513
+11 25 270 Re–Cu–Ag 38.20 524 containing catalysts may produce higher selectivities via
+rheniumoxidesblockinglessselectiveAgsites.Whilesuchan
+effectcannotexplaintheinitialincreaseinconversionat540K
+previous results for Cs-promoted catalysts [6]; however, Re- with the addition of small amounts of Re in Fig. 1, it is
+containing catalysts were more sensitive to changes in consistentwithactivitytrendsmeasuredatlowertemperatures
+composition. in constantconversion experiments. Itisalsoconsistentwith
+The effects of impregnation order were examined for the higher selectivities and smaller variation of oxygen
+catalysts containing the optimal Re loading of 25ppm. These reaction orders on the Re-promoted catalyst.
+resultsareshowninTable1.ThecatalystpreparedbyAgand MostpatentswhichfocusonthepromotionofAgcatalysts
+Re co-impregnation was less active, giving rise to 1.8% with Re claim the use of co-promoters to further enhance EO
+conversionat571K,thanitscounterpartpreparedbysequential selectivity [11,12,16]. As mentioned earlier, these promoters
+impregnation, with 1.8% conversion at 516K. Both catalysts includealkalimetals,othertransitionmetals,andCl.Theuseof
+were less active than an unpromoted Ag catalyst, which anorganicchlorideisoutsidethescopeofthepresentstudy,but
+achieved 1.8% conversion at 490K. the incorporation of Cs and Cu in Re-promoted catalysts was
+Similar to the activity results, the co-impregnated catalyst examined to investigate the synergies, if any, between these
+withReandAgwaslessselectivethantheunpromotedAgand components.
+sequentially promoted Re–Ag catalysts as well. The sequen- SimilartotheapproachfortheRe–Agcatalysts,preparation
+tially prepared Re–Ag catalysts, however, produced higher procedures for the Re–Cs–Ag and Re–Cu–Ag catalysts were
+selectivitiesthanunpromotedAgcatalysts,andthesecatalysts firstoptimized.JankowiakandBarteau[6],Minahanetal.[2],
+were chosen for further investigation. andAtkinsetal.[15]havereportedCs–Agcatalystpreparation
+SomeinsightintothefunctioningofRe-promotedcatalysts viaaco-impregnationtechnique.SinceincorporationofCsat
+was obtained from consideration of the effect that ethylene thisstageshouldnotinterferewiththesequentialadditionof
+partial pressure had on the variation of the oxygen reaction Re,Re–(Cs–Ag)catalystswerepreparedbyco-impregnation
+orderforpromotedandunpromotedcatalysts.Oxygenreaction ofCsandAgfollowedbythesequentialimpregnationofRe.
+orders, shown in Table 2, were measured at several constant The strategy for preparation of Re–Cu–Ag catalysts was less
+partialpressuresofethyleneforbothaAgand25ppmRe–Ag obvious from prior work. As stated earlier, Cu must be
+catalyst. The oxygen reaction orders for the unpromoted Ag impregnatedsequentiallywithAg[13,14],whichmayconflict
+catalystincreasedfrom0.34to0.85asthepartialpressureof with the sequential addition of Re. Therefore, in order to
+ethylene was increased. The Re–Ag catalyst exhibited determine how the sequence of Cu, Re and Ag impregnation
+different behavior. The oxygen reaction order remained at should progress, the following catalysts were prepared by
+approximately 0.7 for all partial pressures of ethylene sequential impregnation: (1) Ag followed by 25ppm Re and
+examined. Only a slight increase was seen at high partial then270ppmCuand(2)Agfollowedby270ppmCuandthen
+pressures of ethylene. This suggests that the Re-promoted 25ppm Re. The results in Table 1 show that the catalyst for
+catalysts present a more uniform distribution of sites for which Cu was added last exhibited similar activity and
+improved selectivity relative to the Cu-free, Re-promoted
+Ag catalyst. The catalyst with Re added last showed no
+Table2 promotionaleffectfromtheCu,andgavepoorerperformance
+Oxygen reaction orders based on ethylene conversion measured at constant
+than a Cu-free catalyst. The lack of promotion by Cu in this
+partialpressuresofethylenelisted
+case may be attributed to masking of the Cu by Rewhen not
+Ethylenepartialpressure(atm) Oxygenreactionorder impregnated on the silver surface in the correct order, since
+Ag Cu–O bond energies are greater than that of Ag–O, though
+P C2H4 ¼0:13 0.34 further investigation will be needed to understand this
+P C2H4 ¼0:27 0.46 phenomenon.
+P
+C2H4
+¼0:54 0.85
+Using the optimized impregnation sequence, the co-
+Re–Ag promoted catalysts were analyzed by varying the Re loadings
+P C2H4 ¼0:13 0.65 from0to200ppmforthe(Cs–Ag)andCu–Agcatalysts.Fig.2
+P
+C2H4
+¼0:27 0.73
+shows that the Re–(Cs–Ag) catalysts exhibited higher activity
+P
+C2H4
+¼0:54 0.79
+at small Re loadings requiring temperatures 50 and 35K less
+
+J.C.Dellamorteetal./CatalysisToday120(2007)182–185 185
+4. Conclusions
+ReremainstheleastunderstoodpromoterofAgepoxidation
+catalysts. This work has shown that Re can promote the
+epoxidationofethylenewithoutthepresenceofCl,althougha
+sequential impregnation method must be employed instead of
+the co-impregnation technique often cited in the patent
+literature. Re only promotes EO selectivity at very small
+loadings, with a large decrease in catalyst activity seen as
+loadings are increased above 50ppm. The selectivity trends
+wereattributedtostepanddefectsiteblocking,shiftingoxygen
+adsorptionandreactiontomoreuniformAgterraces,suggested
+tobemoreselectivetowardEO.TheadditionofCsandCuto
+the Re–Ag system showed that the catalyst activity and
+selectivitycanbemodifiedbytheactionofco-promoterswith
+Re. However, further investigations will be required to
+understand the how these promoters interact.
+Fig.2. EOselectivityvs.ReloadingforRe–Ag,Re–(Cs–Ag)andCu–Re–Ag
+Acknowledgment
+catalysts.AllEOselectivitiesarereportedat1.8%ethyleneconversionatthe
+temperatureslistedintheinsettable.
+We gratefully acknowledge the support of the US
+Department of Energy, Office of Basic Energy Sciences,
+than the Re–Ag catalysts for 1.8% ethylene conversion. Division of Chemical Sciences, Geosciences and Biosciences
+However,theactivityenhancementwasdampenedathigherRe Grant FG02-03ER15468.
+loadings,withonlya10Kdifferenceinoperatingtemperature
+for 100ppmRe loading. Themaximum inEO selectivitywas References
+notasnarrowfortheCs-containingRe–Agcatalysts,spanning
+loadings between 25 and 100ppm Re. In any event, Cs [1] T.E.Lefort,FR729952,1931.
+improves the performance of Re-promoted Ag catalysts, as it [2] D.M.Minahan,G.B.Hoflund,W.S.Epling,D.W.Schoenfeld,J.Catal.168
+does for unpromoted Ag and Cu–Ag bimetallic catalysts [6]. (1997)393.
+[3] R.A.vanSanten,H.P.C.E.Kuipers,Adv.Catal.35(1987)265.
+UnlikeCs,theadditionofCutoRe–Agcatalystshadamore
+[4] S.Linic,M.A.Barteau,J.Am.Chem.Soc.126(2004)8086.
+pronounced effect on selectivity than on activity. Operating
+[5] Y.Jun,D.Jingfa,Y.Xiaohong,Z.Shi,Appl.Catal.A:Gen.92(1992)73.
+temperatures to achieve 1.8% ethylene conversions were [6] J.Jankowiak,M.A.Barteau,J.Catal.236(2005)379.
+similar for Cu–Re–Ag and Re–Ag catalysts at comparable Re [7] C.T.Campbell,B.E.Koel,J.Catal.92(1985)272.
+loadings. However, a definite shift of the EO selectivity [8] R.B.Grant,C.A.J.Harbach,R.M.Lambert,J.Tan,J.Chem.Soc.,Faraday
+Trans.I83(1987)2035.
+maximumfrom25ppmforRe–Agtobetween50and100ppm
+[9] M.Bowker,K.C.Waugh,Surf.Sci.134(1983)639.
+for the Cu–Re–Ag was observed. We have previously shown
+[10] H.Piao,K.Adib,M.A.Barteau,Surf.Sci.557(2004)13.
+that Cu–Ag bimetallic catalysts are more active and selective [11] A.M.Lauritzen,EP0266015,1988.
+thanAgalone.Readditionimprovestheselectivityofboththe [12] G.Boxhoorn,A.H.Klazinga,EP0266852,1988.
+monometallic and bimetallic catalysts, while decreasing [13] J.Jankowiak,M.A.Barteau,J.Catal.236(2005)366.
+[14] S.Linic,J.Jankowiak,M.A.Barteau,J.Catal.224(2004)489.
+activity in each case. This observation is consistent with the
+[15] M.Atkins,J.Couves,M.Hague,B.H.Sakakini,K.C.Waugh,J.Catal.235
+proposal that rhenium oxides may block low selectivity, high
+(2005)103.
+binding energy sites for oxygen adsorption on Ag. [16] A.M.Lauritzen,USPatent4,833,261(1989).
+

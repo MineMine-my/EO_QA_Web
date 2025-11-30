@@ -1,0 +1,142 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "S-1105",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "S-1105",
+        "relationship": "降低",
+        "end_node": "反应温度"
+    },
+    {
+        "start_node": "S-879",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "S-879",
+        "relationship": "范围",
+        "end_node": "86.0–86.7%"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Li",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Mo",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "抑制",
+        "end_node": "原子氧"
+    },
+    {
+        "start_node": "Cl",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "促进",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "分子氧",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "空时收率",
+        "relationship": "范围",
+        "end_node": "200–225kg/m³·h"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "243–251°C"
+    },
+    {
+        "start_node": "催化剂寿命",
+        "relationship": "范围",
+        "end_node": "4–5年"
+    },
+    {
+        "start_node": "银含量",
+        "relationship": "范围",
+        "end_node": "8.25wt%"
+    },
+    {
+        "start_node": "多组分催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "催化水合",
+        "relationship": "提高",
+        "end_node": "乙二醇浓度"
+    },
+    {
+        "start_node": "催化水合",
+        "relationship": "范围",
+        "end_node": "80%"
+    },
+    {
+        "start_node": "水合比",
+        "relationship": "降低",
+        "end_node": "能耗"
+    }
+]

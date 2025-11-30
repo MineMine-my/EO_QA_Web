@@ -1,0 +1,182 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化物抑制剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化物抑制剂",
+        "relationship": "降低",
+        "end_node": "乙烯单耗"
+    },
+    {
+        "start_node": "氯化物抑制剂",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "1,2-二氯乙烷",
+        "relationship": "分解",
+        "end_node": "氯"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "抑制",
+        "end_node": "β-O吸附"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "促进",
+        "end_node": "EO脱附"
+    },
+    {
+        "start_node": "EO脱附",
+        "relationship": "降低",
+        "end_node": "EO异构化"
+    },
+    {
+        "start_node": "EO异构化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "1,2-二氯乙烷",
+        "relationship": "催化分解",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "吸附",
+        "end_node": "银催化剂"
+    },
+    {
+        "start_node": "氯吸附",
+        "relationship": "降低",
+        "end_node": "Ag-O键能"
+    },
+    {
+        "start_node": "Ag-O键能降低",
+        "relationship": "促进",
+        "end_node": "EO生成"
+    },
+    {
+        "start_node": "氯化物浓度",
+        "relationship": "影响",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "低氯化物浓度",
+        "relationship": "抑制",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "高氯化物浓度",
+        "relationship": "促进",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "氯化物浓度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化物最佳值",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化物过量",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯化物优化",
+        "relationship": "延长",
+        "end_node": "催化剂寿命"
+    },
+    {
+        "start_node": "氯化物优化",
+        "relationship": "降低",
+        "end_node": "生产成本"
+    },
+    {
+        "start_node": "氯化物调节量",
+        "relationship": "范围",
+        "end_node": "2%-5%"
+    },
+    {
+        "start_node": "氯化物优化周期",
+        "relationship": "范围",
+        "end_node": "每两周"
+    },
+    {
+        "start_node": "氯化物浓度提升",
+        "relationship": "缓解",
+        "end_node": "活性损失"
+    },
+    {
+        "start_node": "催化剂老化",
+        "relationship": "需要",
+        "end_node": "氯化物提升"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "增加",
+        "end_node": "乙烯单耗"
+    },
+    {
+        "start_node": "副反应",
+        "relationship": "导致",
+        "end_node": "飞温"
+    },
+    {
+        "start_node": "飞温",
+        "relationship": "加速",
+        "end_node": "活性下降"
+    }
+]

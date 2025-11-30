@@ -1,0 +1,997 @@
+Volume 15
+Number 2
+21 January 2025
+C atalysis
+Pages 223–606
+S cience &
+T echnology
+rsc.li/catalysis
+ISSN 2044-4761
+PAPER
+Petra E. de Jongh et al.
+Insight into the influence of Re and Cl on Ag catalysts in
+ethylene epoxidation
+
+Catalysis
+Science &
+Technology
+PAPER
+Insight into the influence of Re and Cl on Ag
+†
+catalysts in ethylene epoxidation
+Citethis:Catal.Sci.Technol.,2025,
+15,323
+ClaudiaJ. Keijzer, a Pim T. Weide,aKristiaan H.Helfferich,a Justyna Zieciak,b
+Marco deRidder,b RemcoDalebout, aTracy L.Lohr, cJohn R.Lockemeyer,d
+Peter van den Brinkband Petra E.de Jongh *a
+Commercialethyleneepoxidationcatalystsconsistofα-aluminasupportedAgparticlesandusuallycontain
+amixtureofpromoters.Highselectivitycatalyststypicallyincludeasmallamountofrheniumspecies.We
+studiedaseriesofAgcatalystspromotedwithReloadingsupto4at%(Re/(Re+Ag)),whichisintentionally
+higherthaninoptimizedcommercialcatalyststofacilitatecharacterizationandtoamplifytheinfluenceon
+catalysis. Sequential impregnation brought Re and Ag in such close contact that they formed a new
+characterizedphaseofAgReO 4 .ChemisorptionexperimentsshowedthatbothReOxandAgReO 4 species
+act as areversible reservoir forO . Ethyleneepoxidationwasperformedwithout andwiththeindustrially
+2
+crucial ethyl chloride promoter in the feed. Without the chloride (Cl), the ethylene oxide selectivity
+Received11thJuly2024, increased when Re was present, whereas the combination of Re and Cl decreased the ethylene oxide
+Accepted9thOctober2024
+selectivityathigherReloadings.SystematicethyleneoxideisomerizationexperimentsrevealedthatReand
+Cl individually inhibit the isomerization on the Ag surface. However, Re and Cl combined increased the
+DOI:10.1039/d4cy00858h
+isomerization,whichcanbeexplainedbythesurfacebecomingoverlyelectrophilic.Thishenceshowsthe
+rsc.li/catalysis importanceofstudyingpromotersbothindividuallyandcombined.
+1. Introduction Acetaldehyde subsequently oxidizes to CO and water on the
+2
+Agsurface. Theselectivitytowardsethylene oxide dependson
+Ethylene oxide (EO) is the primary building block for the ratio between the various reaction rates and the ratio
+poly(ethylene glycol), which is used for making a myriad of betweenactivesurfaceandsupportsites.11,13
+chemicalssuchasantifreezeagents,insulatingmaterials,and WithCO asmainside-product(0.2–0.3MtperMtEO),2it
+2
+pharmaceuticals.1–3
+EO is produced by epoxidation of isofgreatimportancetounderstandhowtheEOselectivityis
+ethylene, which is catalyzed by Ag particles on α-Al O .4,5 Ag influenced, and hence optimized. In industry, ethylene
+2 3
+displaysuniqueactivityand selectivitytowardsethylene oxide epoxidation runs at relatively low ethylene conversions (7–
+compared to other metals due to its moderate oxidizing 15%),3 since the EO selectivity inversely depends on the
+behavior.6 During ethylene epoxidation conditions, the Ag ethylene conversion due to subsequent side reactions.14
+surface is partially oxidized with either electrophilic (weakly Another approach to increase selectivity is to introduce
+bound) or nucleophilic (strongly bound) oxygen.7 It is promoters to the catalyst. Gaseous organochlorides such as
+generally believed that electrophilic oxygen promotes the ethyl or vinyl chloride decompose to Cl species on the Ag
+selective oxidation of ethylene to ethylene oxide, whereas surface, blocking oxygen vacant sites which suppresses the
+nucleophilic oxygen results in total combustion.8–10 Ethylene overall activity.15 In addition, Cl was found to increase the
+oxide can isomerize to acetaldehyde, which is catalyzed by ratio between the concentration of electrophilic oxygen and
+support hydroxyl groups, hence an inert support material nucleophilicoxygenontheAgsurface,whichisbeneficialfor
+suchasα-aluminaisusedtosuppressthisside-reaction.11Ag theselectiveoxidationpathway.7
+itself was also found to isomerize EO to acetaldehyde.12 Besides gaseous chloride compounds, a variety of solid
+promoters are typically used.16,17 In general, catalysts
+aMaterialsChemistryandCatalysis,DebyeInstituteforNanomaterialsScience, classified as “high activity” in industrial terminology contain
+UtrechtUniversity,TheNetherlands.E-mail:P.E.deJongh@uu.nl alkali promoters and so-called “high selectivity” catalysts
+bShellGlobalSolutionsInternational,Amsterdam,TheNetherlands contain a mixture of rhenium and alkali species.3 The
+cShellCatalysts&Technologies,Houston,Texas,USA
+mechanism behind Re promotion in ethylene oxide catalysts
+dShellGlobalSolutionsUSInc.Houston,Texas,USA
+†Electronicsupplementaryinformation(ESI)available.SeeDOI:https://doi.org/
+hasbeenatopicofdebate,18–22butliteratureaddressesRein
+10.1039/d4cy00858h combination with Cs and chloride,18,19,22 or only Re without
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 323
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a
+rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+View Journal | View Issue
+
+Paper CatalysisScience&Technology
+theindustriallyusedchloridepromoter.21Inthelatter,itwas wassynthesizedbyaddinganaqueoussilvernitrate(≥99.0%,
+found that Re O species block Ag sites with high oxygen Sigma-Aldrich) to an aqueous solution of oxalic acid
+2 7
+affinities, inhibiting the formation of nucleophilic oxygen (≥99.0%, Sigma-Aldrich) in a 2:1 mol ratio. Silver oxalate
+and increasing the EO selectivity.21 In another study with precipitated immediately and was washed three times in
+chloride in the feed, Re–Ag catalysts were found to be less MilliQ® water and once in ethanol, after which it was dried
+active and less selective,18 while Re O increased the amount in air at room temperature. Please note that silver oxalate is
+2 7
+of electrophilic oxygen. Dellamorte et al. described shock-sensitive, and should therefore be handled with great
+morphological changes within Ag catalysts with 25 ppm Re care.
+and mentioned the use of vinyl chloride in the feed.23 For the deposition of Ag, the (Re-promoted) α-alumina
+However, catalytic data and a clear understanding of the samples were dried in vacuum at 200 °C for 2 h. Silver
+effectofReislimited. oxalate was dissolved in a MilliQ®/ethylene diamine (99%,
+In addition, “high selectivity” catalysts contain low Re Sigma-Aldrich) solution (4:1 mol ratio). The dried powder
+loadings (35–900 ppm of the total catalyst weight5,17). As a was impregnated up to 90% of its pore volume with the
+consequence, the effect of Re on (structural) properties of Ag Ag C O /MilliQ®/ethylene diamine solution, aiming for a Ag
+2 2 4
+catalysts is difficult to investigate. An intermediate [Ag(μ- loading of 15 wt%. The pore volume of the Re-promoted
+ethylenediamine)][ReO ]phase,precipitatedfrom aprecursor α-alumina powder was assumed to be similar as the pure
+4
+solution, has been investigated in an earlier study which α-alumina. After impregnation, the material was subjected
+demonstrated that Re and Ag species can have a close to a similar drying and calcination procedure as described
+proximity during the preparation of commercial catalysts.20 for the Re-impregnation, except that the heating
+Inthis work, we studyAg catalystswith 0–4 at% Reloadings. temperature was 215 °C.
+Using X-ray diffraction (XRD), the formation of AgReO is AgReO was deposited on α-alumina via co-impregnation.
+4 4
+studied, confirming the presence of Re7+ species, but not as Silveroxalateandammoniumperrhenate(Ag:Remolratioof
+the earlier believed Re O . Re-promoted Ag catalysts were 1:1) were dissolved in a MilliQ®/ethylene diamine solution
+2 7
+tested without and with varying amounts of ethyl chloride in (4:1 mol ratio). Dried α-alumina powder was impregnated
+the feed to compare with literature. Re in absence of Cl withthissolution,upto90%ofitsporevolume,aimingfora
+inhibited the ethylene conversion and hence indirectly AgReO loading of 15 wt%. A similar drying and calcination
+4
+increased the EO selectivity, whereas Re and Cl together at procedure as for the Ag deposition was performed after
+high concentrations resulted in an overall decrease in impregnation. Afterwards, a second heating step was
+selectivity. In addition to ethylene epoxidation experiments, performed for 2 h at 500 °C (5 °C min −1 ramp) in 25% O in
+2
+we separately investigated EO isomerization behavior with N (GHSVof7000h
+−1).
+2
+and without chloride, which is crucial to understand EO
+selectivity. 2.2Characterization
+Scanning electron microscopy (SEM) was used to determine
+2. Materials and methods
+the Ag particle size of the samples. A FEI Helios G3 UC
+microscope was operated at 5–10 kV in immersion mode.
+2.1Catalystpreparation
+Double-sided carbon adhesive tabs (Electron Microscopy
+Re-promoted Ag catalysts supported on α-alumina were
+Sciences) were used to attach the sample powder to the SEM
+prepared with sequential incipient wetness impregnation.
+holder, upon which a 7.5 nm PdPt layer was sputtered to
+Priortothefirstimpregnation,8m2g −1α-aluminaextrudates
+create conductivity. For each sample, the diameter of at least
+(BASF, Al-4196, pore volume of 0.45 cm3 g −1) were crushed
+200AgparticleswasmeasuredusingImageJsoftware.Surface
+and sieved to a fraction <212 μm and dried in vacuum at
+averaged particle diameters (d ) with corresponding
+200 °C for 2 h. Ammonium perrhenate (NH 4 ReO 4 , ≥99%, standard deviations (σ ) were calc p u ,s lated using eqn (1), with
+Aldrich Chemistry and Fisher) was dissolved in MilliQ® p,s
+n the number of counted silver particles and d the diameter
+i
+water, obtaining solutions of 0.016, 0.08 and 0.16 M. The
+ofparticlei.
+dried α-alumina was impregnated with one of these
+s l ( s o R o ta a e lu g d /( n t i A i n a o g g n n s t s + o a u i f p r R 0 e a t . ) o t 4 ). , 6 9 0 2 0 T % h ° a e C n o d f f i o m i 4 r t p s 2 a r p e 0 t% g o n h re a . c t o v A e o m d ft l e u p r m m ar 1 e a e 5 , t d e , a r 3 t i i m o a 0 l i t a n h w n g e d a f s A o 4 g r 5 d f r l i m o i n e a a i d d n l in R i o n g e f d p;s ±σ p;s ¼ i i P P ¼ ¼ n n 1 1 d d i i 3 2 ± s n ffi 1 ffiffiffi · ffi X ffi i ffi ¼ ffi n ffiffi 1 ffiffiffi (cid:3) ffiffi d ffiffi p ffiffi ; ffi s ffiffiffi − ffiffiffiffi d ffiffiffi i ffi (cid:4) ffiffi 2 ffiffi (1)
+drying, all materials were mixed thoroughly to promote a
+homogeneous distribution. The dried samples were Scanning transmission electron microscopy with energy
+transferred to a U-shaped borosilicate reactor and calcined dispersive X-ray spectroscopy (STEM-EDX) was performed on
+for 2 h at 500 °C (5 °C min −1 ramp) in 25% O in N (gas a Talos F200x microscope equipped with a Super-X G1 EDX
+2 2
+hourly space velocity (GHSV) of 7000 h
+−1).
+spectrometer, which was operated at 200 kV and 160 mm
+The Ag deposition was based on a procedure described cameralength.EDXmapswereacquiredusingaspotsizeof6
+elsewhere.24 Silver oxalate was used as Ag precursor, which and2.5gunlens,operatingthemicroscopeatca.300nAwith
+324 | Catal.Sci.Technol.,2025,15,323–333 Thisjournalis©TheRoyalSocietyofChemistry2025
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+CatalysisScience&Technology Paper
+anacquisitiontimeof5min.IdentificationoftheEDXsignal fraction.Inatypicalcatalyticrun,100mgcatalystwasdiluted
+was performed using Velox™ software. A subtraction of the with 500 mg SiC (212–425 μm), which had been washed in
+background EDX counts was performed using the net nitric acid (65%, AnalaR Normapur®, 10 mL g −1) and
+SiC
+intensity. The image quality was increased by averaging the calcined at 800 °C to remove organic and inorganic
+spectrum profiles per pixel over 3 × 3 pixels to enhance the impurities.Thedilutedcatalystwasloadedinaquartzreactor
+possibility to detect low intensity features. Sample powders (4 mm internal diameter) between two layers of quartz wool.
+were dispersed in isopropanol and drop-casted on a holey The experiments were performed at 215 °C, with 7.5 vol%
+carbonCugrid(300mesh). ethylene, 7.5 vol% oxygen, and ethyl chloride concentrations
+Crystalline phases within the samples were determined of 0–3 ppm in balance helium, with total gas flows ranging
+with X-ray diffraction (XRD) using a Bruker D2 Phaser from 16–66 mL min −1. A fixed ratio was chosen, not
+equipped with a Co Kα source (λ = 0.1789 nm) and operated optimizingtheprocessconditionsforeachexperiment,asthe
+at 30 kV and 10 mA, under constant rotation of 15 rpm. exact ratioisnotcriticalfor theselectivityas shownearlier.26
+Diffractogramsweremeasuredbetween20–80°2θwithastep Reaction products were analyzed with an online Interscience
+size of 0.020° 2θ and 1 s per step. The measured Compact GC, equipped with a Porabond Q column and
+diffractograms were analyzed with Bruker TOPAS V5 software Molsieve 5 Å column. At room temperature, the reactant
+and fitted with theoretical diffractograms from the PDF-4+ concentrations in the feed were evaluated to guarantee the
+2016 database. The following PDF cards were used: 04-004- feedcomposition.
+2852 (α-Al O ), 04-003-5319 (Ag), 04-014-4906 (AgReO ) and Ethylene conversion and ethylene oxide selectivity were
+2 3 4
+04-004-1280(ReO ).25 determined using eqn (2) and (3), respectively. Average
+2
+O chemisorption was usedto determinethe O uptake of conversions and selectivities were calculated after the
+2 2
+the catalysts, using a Micromeritics ASAP 2020 apparatus. catalysts had equilibrated at each EC concentration for 15–
+100–200 mg of sample was loaded in a U-shaped quartz 20 h. The carbon mass balance was calculated using eqn
+reactor between two layers of quartz wool. The sample was (4), and was 100 ± 3% for each datapoint.
+evacuated at 100 °C for 30 min with a heating ramp of 1 1 0 0m °C in m a i t n 1 − 0 1. 0 T ° h C e , r b e e a f f o te r r e , i t n h c e re s a a s m in p g le th w e a t s em flu p s e h ra e t d ur w e i t t o h 2 O 1 2 5 f ° o C r Conversion ethylene ¼ p ethylen p e e 0 th − yl p en e e thylene out ×100% (2)
+0
+(10 °C min −1). This step was followed by an evacuation step
+and a treatment with H 2 for 60 min, in order to clean the Selectivity ethyleneoxide (3)
+surface. After another evacuation step of 30 min, the O 2 p
+chemisorption experiment was performed with an
+¼
+p þ
+e
+0
+th
+:5
+yle
+×
+ne
+p
+oxide
+þp
+×100%
+equilibrationtimeof10s.
+ethyleneoxide CO2 acetaldehyde
+X-ray photoelectron spectroscopy (XPS) analysis was
+conducted utilizing the advanced Nexsa G2 Surface Analysis Carbonmassbalance
+System, featuring an X-ray photoelectron spectrometer p þp þ0:5×p þp
+¼ ethylene out ethyleneoxide CO2 acetaldehyde ×100%
+equipped with a hemispherical energy analyzer and a p
+ethylene
+monochromatic Al Kα source. Operating at 12 keV, the 0
+(4)
+monochromatic Al Kα source underwent optimization,
+employing a pass energy of 250 eV for the survey scan and
+50 eV for the subsequent high-resolution scan. The X-ray For ethylene oxide isomerization experiments, 100 mg of
+spot size was set at 400 μm during the analyses. In catalyst (90–150 μm) was loaded in a quartz reactor (4 mm
+preparation for XPS measurements, all samples were internal diameter) between two layers of quartz wool.
+processed into pressed powders and affixed to a stainless Isomerization tests were performed (without heat treatment
+steel stub using 3 M 666 double-sided tape. A charge or equilibration time) at 215 °C with 33 mL min −1 total gas
+neutralizer was used to minimize charging of the sample flow of 0.15 vol% ethylene oxide, 0.075 vol% acetaldehyde
+surfaces. The spectra referenced to the Al 2p peak with a (Linde HiQ), and 7.5 vol% oxygen in balance helium. To
+binding energy of 74.4 eV. Further details on the XPS evaluate the influence of ethyl chloride (EC) on ethylene
+interpretation are listed in section A of the ESI.† oxide isomerization, catalysts were first tested in the
+Inductively coupled plasma (ICP) analysis was performed ethylene epoxidation reaction and stabilized with EC for ca.
+at Mikroanalytisches Laboratorium Kolbe to determine the 50 h, prior to isomerization experiments with 1 ppm EC.
+weightloadingofReandAgwithinthecatalysts. Ethylene oxide conversion was calculated using eqn (5).
+p − p
+Conversion ¼ ethyleneoxide0 ethyleneoxideout ×100%
+2.3Ethyleneepoxidationandethyleneoxideisomerization ethyleneoxide p
+ethyleneoxide0
+experiments
+(5)
+Prior to testing the catalysts in the ethylene epoxidation
+reaction, the catalysts were sieved to a 90–150 μm sieve Selectivities towards isomerization products (acetaldehyde,
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 325
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu desnecil
+si
+elcitra
+sihT
+View Article Online
+
+Paper CatalysisScience&Technology
+CO and ethylene) were calculated with eqn (6)–(8). The deposition in at% (Re/(Re + Ag)). For all samples, the most
+2
+outlet acetaldehyde was corrected for the amount of dominant Re 4f and 4f peaks are around 49 and 46 eV,
+5/2 7/2
+acetaldehyde in the reactant gas mixture. which is typical for an oxidation state of +7. A minor
+mismatch between the Re7+ fits and the spectra at lower
+Selectivity acetaldehyde ¼ p þ p ac 0 e : t 5 ald × eh p yde þp ×100% 4 b f i 7 n /2 din p g ea e k n s er a g r i o e u s n s d ugg 4 e 7 st a s n t d he 4 p 4 re e s V en , c r e es o p f e R c e ti 6 v + e , l w y. it Z h o 4 o f m 5/2 ed an -in d
+acetaldehyde CO2 ethylene spectra are shown in Fig. S1.† The Re6+/Re7+ ratio increases
+(6)
+from 0.08 to 0.23 when the Re loading decreases from 4 to
+0.4 at% (Table S1†), which might be explained by an
+0:5×p increasing surface-to-bulk ratio. Nevertheless, Re7+ remains
+Selectivity ¼ CO2 ×100% (7)
+CO2 p þ0:5×p þp the predominant phase in these samples. Re7+ corresponds
+acetaldehyde CO2 ethylene
+to the Re O stoichiometry, which is also reported in
+2 7
+literatureaftercalcinationofReO above500°C.28
+p x Selectivity ¼ ethylene ×100% Once Ag particles were deposited on the (Re-promoted) ethylene p acetaldehyde þ0:5×p CO2 þp ethylene α-alumina, SEM was performed. Fig. 2 shows the alumina-
+(8) supported silver catalysts with rhenium loadings of 0 to 4
+at% compared to silver. The silver particles are depicted
+Stacked-bed experiments were performed at 295 °C with 20 as white to light grey spheres on the darker grey
+mg γ-Al O (Engelhard, 250 m2 g −1, 90–150 μm) positioned α-alumina support. Re at such low loadings could not be
+2 3
+on top of 100 mg catalyst, with similar concentrations as distinguished from the Ag. The surface averaged particle
+for the isomerization experiments. diameters of the (Re-promoted) Ag catalysts are
+summarized in Table 1, together with the theoretical silver
+3. Results and discussion and rhenium loadings and the experimental loadings
+measured with ICP and XPS. The particle diameters of all
+3.1Catalyststructure catalysts are 70–80 nm, but increasing the Re loading
+TheoxidationstateofReonα-aluminapriortoAgdeposition (above 0.4Re–Ag) slightly narrowed the particle diameter
+was determined with XPS, as no crystalline ReO phases distributions. In literature, Re was reported to cause a
+x
+withinthe4ResamplecouldbedetectedwithXRD(Fig.S3†). trimodal Ag particle size distribution, or to have no effect
+Rheniumcanhaveseveraloxidationstatesvaryingfrom−3to on particle size at all.18,22,23 In our present study,
++7.27Fig.1showsthespectraofRe-promotedα-alumina.The relatively high loadings of Re were deposited prior to the
+sample names refer to the final Re loading after silver Ag, which might have increased the concentration of
+anchoring sites for the Ag precursor. Since the Ag loading
+and particle sizes are similar, differences in catalyst
+performance can be ascribed to the influence of Re rather
+than to Ag particle size effects or a different surface ratio
+between Ag and α-alumina.13 The experimental loadings
+determined with ICP were as expected, whereas the Re
+loading determined with XPS was higher than the ICP
+measurements. As XPS is a surface sensitive technique,
+this means that the Re is preferentially located at the
+surface rather than in the bulk of the material.
+To determine the crystalline phases in the samples, X-ray
+diffractionwasperformed.Fig.3showsthediffractogramsof
+the unpromoted and Re-promoted Ag catalysts, with
+reference diffractograms of α-Al O and Ag at the bottom of
+2 3
+the Figure. The diffractograms of the Ag and 0.4Re–Ag
+catalysts only show Ag and α-Al O peaks. For 2Re–Ag and
+2 3
+4Re–Ag, however, a small diffraction line around 32° 2θ was
+detected, which belongs to AgReO which is a
+4
+thermodynamically stable phase under these conditions (Fig.
+S14†). Previously, an intermediate phase [Ag(μ-
+ethylenediamine)][ReO ] had been identified during the
+4
+preparationofethyleneepoxidationcatalysts,20whereAgand
+Fig. 1 X-ray photoelectron spectra of the Re 4f region of re on
+Reprecursorsweredissolvedinthesamesolution.Inanother
+α-aluminaaftercalcinationat500°C.Samplenamesrefertothefinal
+Re loading after Ag deposition in at% (Re/(Re + Ag)). Light grey fits study, AgReO 4 colloids were synthesized in solution.29 We
+correspondtoRe7+anddarkgreyfitscorrespondtoRe6+. show that also sequential impregnation can bring Re and Ag
+326 | Catal.Sci.Technol.,2025,15,323–333 Thisjournalis©TheRoyalSocietyofChemistry2025
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+CatalysisScience&Technology Paper
+Fig.2 SEMimagesofAg(A)andRe-promotedAgcatalysts,with0.4at%Re(B),2at%Re(C),and4at%Re(D).Histogramsofparticlediameters
+areshownasinsets.Foreachcatalystmorethan200Agparticlesweremeasured.
+Table1 Overviewof(Re-promoted)silvercatalysts.Agsurfaceaveragedparticlediameters(d )weredeterminedwithSEM.TheoreticalAgandRe
+p,s
+loadingsarecomparedwithICPandXPSdata.Catalystsarelabelledas[at%]Re–Ag
+Agloading(wt%) Re/(Re+Ag)(at%)
+Agparticle
+Catalyst diameterd (nm) Theoretical ICP Theoretical Bulk,ICP Surface,XPS
+p,s
+Ag 79±26 14.8 14.5 0 0 0
+0.4Re–Ag 80±27 14.6 14.6 0.39 0.37 3.07
+2Re–Ag 71±23 15.9 14.8 2.08 2.22 9.67
+4Re–Ag 72±15 14.7 14.3 3.87 3.55 15.27
+insuchclosecontactthattheyformasinglecrystallinephase IndustrialAgcatalystscontainlowReloadings(35–900ppm
+uponcalcination. of the total catalyst weight5,17), and consequently the
+The Re in the samples containing Ag (and thus AgReO ) influence of Re on structural properties is difficult to
+4
+has a predominant oxidation state of +7 according to XPS investigate. By increasing the Re loading, characterization
+(Fig.S1andTableS1†).Inliterature,asimilaroxidationstate becomes feasible, and effects on catalysis are amplified,
+has been reported, but it was attributed to Re O rather than whichcangiveinsightintotheworkingmechanismofReasa
+2 7
+to AgReO .18 Prolonging the calcination time from 2 to 12 h promoter. Therefore, once AgReO was detected in the Re-
+4 4
+increased the amount of crystalline AgReO from 0.5 to 0.8 promoted Ag catalysts, 15 wt% AgReO was deposited on
+4 4
+wt% in the sample (Fig. S4 and Table S3†). Re O has a α-alumina to further investigate the properties of this phase.
+2 7
+relatively low melting temperature of 297 °C,30 which might After calcination treatments at 215 °C and 500 °C, X-ray
+explain its mobility on the α-Al O support and contact with diffractograms, SEM, and STEM-EDX images were collected
+2 3
+the Ag surface during calcination. In patent literature, Re- (Fig.4).At215°CnocrystallineAgReO hadformed,whereas
+4
+promotedAgcatalystsareconditionedforseveralhoursinan at 500 °C intense diffraction lines due to AgReO are visible.
+4
+O -containing feed without ethylene.31,32 It is hence expected Calculatedcrystallitesizesareca.70nm,whichisalsointhe
+2
+that AgReO species also form in commercial catalysts with upper limit of the XRD due to experimental line broadening,
+4
+less Re, although in a lower concentration and hence more whereas the AgReO particles visible in SEM are 100–500 nm
+4
+difficulttodetect. and are shaped irregularly (Fig. 4B) which implies that these
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 327
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a
+rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+Paper CatalysisScience&Technology
+between −3 to +7,27 and in the case of pure rhenium oxides
+this corresponds toanoxygen/rheniumratiovaryingbetween
+0 and 3.5. The effect of Re on O uptake was investigated
+2
+using O chemisorption at 215 °C, which is the same
+2
+temperature used for catalytic testing. Table 2 summarizes
+the O uptake of the (Re-promoted) catalysts, prior to and
+2
+afterAgdeposition.Itshouldbenotedthatthesampleswere
+reduced at 215 °C in H for 60 min prior to the O
+2 2
+chemisorption analysis to clean the surface, following a
+protocol developed to characterize the active silver surface.36
+O isotherms are shown in Fig. S6 and S7.† For comparison,
+2
+the fraction of crystalline AgReO in the samples determined
+4
+withXRDisalsolisted.
+The 2Re and 4Re samples both contain Re O and show
+2 7
+significant O uptake, which can be explained by the
+2
+reoxidation of the Re-containing samples after the treatment
+Fig.3 X-ray diffractograms oftheAgand Re-promoted Agcatalysts. inH tocleanthesurface.Incaseof2Re–Agand4Re–Ag,the
+Theoretical stick diffraction patterns of α-Al O (grey) and Ag (black) 2
+2 3 O uptakeishigherthanoftheindividualAgandResamples
+are depicted below the diffractograms as reference. The asterisk (*) 2
+indicatesAgReO 4 . combined.Theformationand/orpresenceofAgReO 4 inthese
+samplesmightexplaintheincreasedO uptake.0.4Re–Aghas
+2
+a similar uptake as the Ag sample (Fig. S7†) and no
+particles contain multiple crystalline domains. STEM-EDX detectableAgReO withXRD.TheAgReO sampleshowedthe
+4 4
+maps of Al–Re (Fig. 4C) and Al–Ag (Fig. 4D) confirm that Ag highest O uptake of 172 μmol g −1 with a
+2 O sample
+2 and Re are in close proximity, but also small Ag particles are corresponding 10.78 wt% crystalline AgReO . It is clear from 4
+present on the α-Al O support. In contrast, XRD does not these experiments that both ReO and AgReO species are a
+2 3 x 4
+showcrystallineAgpeaks,possiblyduetothedetectionlimit, reversiblereservoirforO.
+which suggests that the bulk is mostly AgReO . AgReO Repeating the measurement on the AgReO sample
+4 4 4
+colloids have been reported earlier,29 but to our knowledge resultedinalowerO uptakeof107μmolg −1(Fig.S8†).
+2 sample
+haveneverbeendepositedonasupportmaterial. During the chemisorption experiments the samples are
+treatedinH at215°Ctocleanthesurface,andaccordingto 2
+XRD this resulted in a decrease of crystalline AgReO from
+4
+3.2EffectofReonO uptake
+2 10.8to6.6wt%andtheformationof1.3wt%Ag(Fig.S6and
+During ethylene epoxidation, both the adsorption of oxygen Table S3†), which explains the lower O uptake. XPS
+2
+on the silver surface and the subsequent reaction of ethylene measurements were conducted after subjecting the AgReO ,
+4
+with the adsorbed oxygen can be rate-limiting steps.33,34 4Re–Ag and 4Re samples to similar gas treatments used for
+Hencetheadsorptionofoxygenisanimportantparameterto the chemisorption experiments. After reduction, the Re was
+consider.35 Re is a redox-active element with oxidation states reduced, containing Re in oxidation states down to 0, but
+Fig. 4 X-ray diffractograms of the AgReO samples calcined at 215 and 500 °C, with theoretical stick diffraction patterns of α-Al O , Ag and
+4 2 3
+AgReO below(A),SEMimageofAgReO /α-Al O calcinedat500°C(B)andSTEM-EDXmapsofazoomedinAgReO /α-Al O particle(CandD).
+4 4 2 3 4 2 3
+328 | Catal.Sci.Technol.,2025,15,323–333 Thisjournalis©TheRoyalSocietyofChemistry2025
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+CatalysisScience&Technology Paper
+Table2 XRDresultstogetherwithO chemisorptiondataperformedat215°CoftheAgandRe-promotedAgcatalysts
+2
+Sample CrystallineAgReO a(wt%) TotalO uptake(μmol g −1) TotalO uptake–O uptakebyAgb(μmol g −1)
+4 2 O2 sample 2 2 O2 sample
+2Re 0 18.6 18.6
+4Re 0 37.6 37.6
+Ag 0 16.3 0
+0.4Re–Ag 0 17.0 0.7
+2Re–Ag 0.28±0.02 45.5 29.2
+4Re–Ag 0.48±0.03 74.5 58.2
+AgReO 10.78±0.05 171.8 171.8
+4
+a Crystalline fraction of the sample, determined withXRD after 2 h calcinationat 215 °C except for sample AgReO which was subsequently 4
+calcinedat500°C.b TheO uptakeofAgwassubtractedfromthetotalO uptakeoftheRe–Agcatalysts,assumingtheO uptakebyAgwas
+2 2 2
+similarinthesecatalysts.FortheReandAgReO samplesnocrystallineAgwaspresent,hencenosubtractionwasperformed. 4
+afterre-oxidationalmostallRe7+wasregainedfortheAgReO amounts of Re (and no Cl) also have a decreased activity
+4
+and 4Re–Ag samples (Fig. S2 and Table S2†). AgReO shows compared to Ag-only catalysts.21 Possibly, certain Ag sites are
+4 −
+interesting behavior in these reduction and oxidation cycles, blocked by dispersed [ReO ] species. In the AgReO sample
+4 4
+which might be relevant for other reactions that require with crystalline AgReO it might be that no metallic Ag
+4
+redox-activesites,andfortheroleofReasapromoterforthe remains due to the 1:1 ratio between Ag and Re. The
+Ag-catalyzedethyleneepoxidation. crystallineAgReO loadingisunalteredaftercatalysiswithEC
+4
+(TableS3†),whichshowsthatthisphaseisstableinethylene
+epoxidation reaction conditions. The particle diameters for
+3.3Ethyleneepoxidation all Re-promoted Ag catalysts increased from 70–80 nm to
+The Re-promoted Ag catalysts were tested in the ethylene approximately 90 nm after ethylene epoxidation (Fig. S18†),
+epoxidation reaction. In this reaction, a chloride promotor is which implies that Re promotion did not significantly affect
+typically co-fed in the reactant gas feed to increase the thestabilityoftheAgparticles.
+ethylene oxide selectivity by modifying the nature of the Ethylene conversion decreases for all catalysts upon
+active silver sites.3,7 Depending on the composition of solid increasing the chloride concentration. In literature, catalysts
+promotors (alkali only or rhenium with alkali), different promoted with both Re and Cs are reported to show an
+chloride concentrations show optimal activity and selectivity increase in activity with increasing chloride concentrations.3
+results, which is often not taken into account in academic The origin of this increase in activity with both Cs and Re
+−
+studies but essential to compare different promoter is still under debate: it is speculated that [ReO ] serves as
+4
+compositions.3 Therefore, the catalysts were evaluated with molecular spacer for Cs-species and thereby preventing the
+varyingchloridelevels.Fig.5Ashowstheethyleneconversion formation of CsCl.38 The Re loadings in our study are
+versus ethyl chloride concentration. The effect of rhenium is intentionally higher than in industrial catalysts to study the
+most pronounced without ethyl chloride, which is in line influence of Re and Cl on ethylene epoxidation, without Cs.
+with literature:37 the conversion decreases with an order of Catalytic tests between 0–1 ppm ethyl chloride (EC) were
+magnitude upon increasing Re,and AgReO does not show a performed to investigate if the conversion would show an
+4
+significant catalytic activity. Raw catalytic data are shown in increase within this lower EC range (Fig. S9–S11†). The Re–
+Fig. S9.† In literature, Ag catalysts promoted with small Ag catalysts did not show an increase in conversion between
+Fig.5 Ethyleneconversion(A)andEOselectivity(B)asafunctionoftheethylchlorideconcentration,at215°Candinatotalgasflowof66mL
+min−1.(C)EOselectivityasafunctionofethyleneconversionatdifferentECconcentrations,assignedwithdifferentsymbols.
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 329
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+Paper CatalysisScience&Technology
+0–1 ppm EC (Fig. S12†), and hence with such high Re EC. Without oxygen the Ag, 0.4Re–Ag and 4Re–Ag catalysts
+loadings and without Cs behave differently than the earlier have similar EO conversions, whereas 4Re and AgReO show
+4
+reported Re–Cs promoted Ag catalysts. remarkably high EO conversions of 50 to 100%, respectively.
+Fig. 5B shows the EO selectivity as a function of EC Re O is a Lewis acid,39 which might explain the high
+2 7
+concentration. Rhenium increases the ethylene oxide isomerization activity of 4Re. Calculations of equilibrium
+selectivity at 0 ppm EC (albeit, at a lower conversion). For concentrations show that AgReO and Re O reduce to Ag,
+4 2 7
+ethylene epoxidation, a decrease in conversion typically ReO and ReO during EO isomerization without O , but are
+2 3 2
+causes an increase in selectivity due to the limitation of thermodynamically stable in the presence of O (Fig. S14†).
+2
+secondary reactions.24 This effect is illustrated in Fig. 5C XRDindeedshowedthattheamountofcrystallineAgReO in 4
+which displays EO selectivity vs. conversion plots of the the AgReO sample decreased from ca. 10 to 5 wt% during 4
+catalysts. Interestingly, without the chloride the Re-promoted EO isomerization and that Ag and ReO species formed (Fig.
+2 catalystsshowsimilarselectivitiesofca.35%,while0.4Re–Ag S6andTableS3†).
+shows a much higher conversion compared to 2Re–Ag and Strikingly, introducing O in the feed did not change the
+2
+4Re–Ag. Upon increasing the chloride concentration the Ag EO conversions of the 0.4Re–Ag and 4Re–Ag catalysts. As
+and 0.4Re–Ag catalysts show similar selectivities at relatively these conversions are similar to the α-Al O (ca. 20%), this
+2 3
+similarconversions,whichisinlinewithliterature,37butthe suggeststhattheonlysitesactiveinEOisomerizationarethe
+selectivity decreases with increasing Re loading (Fig. 5C). In support surface groups. Moreover, it seems that no separate
+this research, we deliberately chose higher Re loadings ReO species are present in the 0.4Re–Ag and 4Re–Ag
+x
+comparedtotheoptimizedReloadingsusedinindustry(35– samples,asthesewouldhaveincreasedtheEOconversionas
+900 ppm of the total catalyst weight),5,17 and 0.4Re–Ag is the shown for the 4Re sample. In contrast, the unpromoted Ag
+only catalyst that reaches the upper limit of these low Re catalyst now has an EO conversion of ca. 70%. These EO
+loadings(ca.900ppm).Therefore,itshouldbenotedthatthe conversion trends are inversely related with the selectivity
+influence of Re on catalysis is intentionally magnified to trends from Fig. 5 at 0 ppm EC, where 0.4Re–Ag and 4Re–g
+provide insights into the mechanism of Re promoted silver have similarly increased EO selectivities compared to the Ag
+catalysts, but does not represent the optimum composition catalyst (albeit, at lower conversions). A small amount of Re
+foreffectivecatalysts. thus inhibits all EO isomerization on the Ag surface without
+chloride in the feed, which shows the value of Re in
+commercialcatalysts.
+3.4Ethyleneoxideisomerizationasmeasurefortotal Product selectivities during EO isomerization experiments
+selectivity
+give further insight into the mechanism of Re-promoted Ag
+EO isomerization is an important factor influencing EO catalysts. Without O in the feed, mostly acetaldehyde is
+2
+selectivity.11,14 Inert supportslimit isomerization, butEOcan formed(Fig.6B),whichisthedirectproductofisomerization
+also isomerize and combust on the Ag surface.12 We and its formation does not require oxygen. Strikingly,
+performed dedicated EO isomerization experiments to ethylene was detected during tests with 4Re, 4Re–Ag and
+understandtheoriginofthechangesinEOselectivityduring AgReO . Stacked-bed experiments confirmed that ethylene
+4
+ethylene epoxidation by Re and EC. Fig. 6 shows the EO was formed from ethylene oxide and not from acetaldehyde
+isomerization data without O , and additionally with O in in the gas feed (Fig. S15†). It is known that Re7+ species
+2 2
+the feed to approach catalytic reaction conditions at 0 ppm catalyze the deoxygenation of epoxides to alkenes.40 Trace
+Fig. 6 Ethylene oxide (EO) conversion without and with oxygen (A), and corresponding product selectivities without (B) and with oxygen (C).
+Experimentswereperformedwith0.15vol%ethyleneoxide(EO),0.075vol%acetaldehyde(AA),7.5vol%O inHeat215°C.Noethylchloridehas
+2
+beenaddedintheseexperiments.
+330 | Catal.Sci.Technol.,2025,15,323–333 Thisjournalis©TheRoyalSocietyofChemistry2025
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+CatalysisScience&Technology Paper
+amountsofO andCO weredetectedinthefeed(Fig.S16†). Ag(111) crystals were stabilized with Cl during ethylene
+2 2 2
+In the case of the Ag catalyst this might be caused by the epoxidation for a prolonged period, which is required for a
+release of weakly adsorbed O , resulting in EO combustion. meaningful evaluation of the catalysts' performance and can
+2
+4Re, 4Re–Ag and AgReO form slightly more O , but these take up at least 10–20 h.3,13 To our knowledge, this is the
+4 2
+samples also display high O uptakes at 215 °C as first time that (Re-promoted) Ag catalysts have been
+2
+determined with O chemisorption (Table 2), which systematically studied under industrially relevant
+2
+underestimatesthereleaseofO uponethyleneformation. isomerization conditions including the gaseous chloride
+2
+With oxygen in the feed (Fig. 6C), CO is formed by most promoter.
+2
+of the catalysts, which is the result of the total oxidation of During ethylene epoxidation, the Ag surface is partially
+acetaldehyde and/or EO. Compared to the isomerization oxidized with either electrophilic or nucleophilic oxygen.7
+without oxygen, less ethylene is formed for the 4Re and Electrophilic oxygen promotes the formation of ethylene
+AgReO samples.WhenincreasingtheReloadingfrom0.4to oxide, whereas nucleophilic oxygen results in total
+4
+4at%theCO selectivitydecreasesdrasticallyto8%.Notonly
+combustion.8–10
+EC is known to increase the concentration
+2
+does a small amount of Re inhibit the EO conversion to of electrophilic oxygen species on the silver surface and
+acetaldehyde, but it also inhibits acetaldehyde (or EO) decrease the nucleophilic oxygen.7 As nucleophilic oxygen is
+combustion on the Ag surface and decreases the amount of more prone to attack the C–H bond of EO and hence to
+CO emitted. catalyze its combustion, a reduction in nucleophilic oxygen
+2
+The EO isomerization results are in line with the species explains a decrease in EO conversion. In contrast,
+selectivity trends without ethyl chloride (EC) in the feed. the 4Re–Ag catalyst shows an increased EO conversion,
+With EC, the ethylene oxide selectivity decreases with which is in line with the decreased EO selectivity from
+increased Re loading (Fig. 5). As EC is an industrially used Fig. 5 with EC. Possibly, electrophilic O species are
+promotor, EO isomerization tests were also performed after promoted by the chloride, while a surplus of AgReO make
+4
+stabilizing the Ag and 4Re–Ag catalysts with the chloride the O species overly electrophilic. This can activate the C–O
+during catalysis (Fig. 7). In earlier EO isomerization studies bond from ethylene oxide which hence increases the EO
+no ethyl chloride was co-fed and only (alkali promoted) Ag conversion. It is clear that by studying AgReO separately, it
+4
+catalysts or supports were investigated.41–43 Interestingly, EC is not merely a spectator phase but influences pathways of
+decreases the EO conversion of the Ag catalyst from 75 to the ethylene epoxidation mechanism. In addition, we show
+10%. We tested another Ag catalyst supported on α-alumina that for both the unmodified and EC-modified experiments,
+from a different batch, which displayed similarly low EO the degree of EO isomerization accounts for the difference
+conversions after stabilization with EC (Fig. S17†). This in EO selectivity for all catalysts which emphasizes the
+contradicts an earlier study on Cl -promoted Ag(111) crystals importance of separately understanding isomerization
+2
+where Cl was reported to promote EO isomerization.44 It is behavior and investigating catalysts after stabilization with
+2
+unclear, however, whether in these previous studies these the chloride.
+4. Conclusions
+Crystalline AgReO formed in Re–Ag catalysts, which has
+4
+not been identified before. Previously reported Re7+ species
+likely originate from this AgReO phase, rather than from
+4
+separate Re O species, as was assumed so far. Both ReO
+2 7 x
+and AgReO species are reservoirs for O . The catalysts were
+4 2
+tested without and with the industrially relevant ethyl
+chloride promoter in the feed and in all cases, Re decreased
+−
+the activity due to [ReO ] blocking active silver sites.
+4
+Without chloride, Re increased the EO selectivity while
+lowering the conversion. The combination of chloride and
+Re resulted in similar conversions and selectivities for
+0.4Re–Ag and Ag, but the 2Re–Ag and 4Re–Ag showed a
+decreased EO selectivity compared to Ag at equivalent
+conversions. Including the industrially relevant ethyl
+chloride, we show for the first time that these changes in
+selectivity relate to the catalysts' EO isomerization behavior.
+This shows that the effects of chloride and Re are not
+Fig.7 EOisomerizationactivityoftheAgcatalyst(black)and4Re–Ag
+limited to the selective oxidation pathway, but should also
+catalyst(blue),without(closedsymbols)andwithethylchloride(open
+symbols)inthefeedafterethyleneepoxidationhadtakenplaceforca. be considered for the subsequent isomerization reaction
+50hat215°C. which influences the EO selectivity.
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 331
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+Paper CatalysisScience&Technology
+Data availability
+10 T. E. Jones, R. Wyrwich, S. Böcklein, E. A. Carbonio, M. T.
+Greiner and A. Y. Klyushin, et al., The Selective Species in
+The data supporting this article have been included as part
+Ethylene Epoxidation on Silver, ACS Catal., 2018, 8(5),
+oftheESI.†
+3844–3852,DOI:10.1021/acscatal.8b00660.
+11 J. E. van den Reijen, W. C. Versluis, S. Kanungo, M. F.
+Conflicts of interest
+D'Angelo, K. P. de Jong and P. E. de Jongh, From
+qualitative to quantitative understanding of support effects
+Therearenoconflictstodeclare.
+on the selectivity in silver catalyzed ethylene epoxidation,
+Acknowledgements Catal. Today, 2019, 338, 31–39, DOI: 10.1016/j.
+cattod.2019.04.049.
+CJK was funded at the Advanced Research Center for 12 J. H. Miller, A. Joshi, X. Li and A. Bhan, Catalytic
+Chemical Building Blocks consortium (project number degradation of ethylene oxide over Ag/α-Al2O3, J. Catal.,
+2021.032.A.UU), which is co-founded and co-financed by the
+2020,389,714–720,DOI:10.1016/j.jcat.2020.07.008.
+DutchResearchCouncil(NWO)andtheNetherlandsMinistry 13 C. J. Keijzer, L. C. J. Smulders, D. Wezendonk, J. W. de Rijk
+of Economic Affairs and Climate Policy. SEM and STEM-EDX and P. E. de Jongh, Influence of Ag particle size and Ag :
+measurements were performed at the Electron Microscopy Al 2 O 3 surface ratio in catalysts for the chloride-promoted
+Centre at Utrecht University. The authors would like to thank ethylene epoxidation, Catal. Today, 2024, 428, 114447, DOI:
+EricHellebrandandChrisSchneijdenberg(SEM)fortechnical 10.1016/j.cattod.2023.114447.
+support. Dennis Becker (Bruker AXS) is acknowledged for his 14 T. Pu, H. Tian, M. E. Ford, S. Rangarajan and I. E. Wachs,
+help with resolving an error in the PDF+ database. Julie Cao Overview of Selective Oxidation of Ethylene to Ethylene
+and Litao Bai (Shell) are acknowledged for setting up and Oxide by Ag Catalysts, ACS Catal., 2019, 10727–10750, DOI:
+conductingtheXPSmeasurements. 10.1021/acscatal.9b03443.
+15 M. O. Özbek, I. Önal and R. A. Van Santen, Chlorine and
+References Caesium Promotion of Silver Ethylene Epoxidation Catalysts,
+ChemCatChem,2013,5(2),443–451,DOI:10.1002/cctc.201200690.
+1 J. Herzberger, K. Niederer, H. Pohlit, J. Seiwert, M. Worm 16 J. R. Lockemeyer, Process for preparing a catalyst, the
+and F. R. Wurm, et al., Polymerization of ethylene oxide, catalyst,andauseofthecatalyst,US2005/0222442A1,2005.
+propylene oxide, and other alkylene oxides: Synthesis, novel 17 M. Matusz, Process for the production of an olefin oxide, a
+polymer architectures, and bioconjugation, Chem. Rev., 1,2-diol, a 1,2-diol ether, a 1,2-carbonate, or an
+2016,116(4),2170–2243,DOI:10.1021/acs.chemrev.5b00441. alkanolamine,US2009/0281345A1,2009.
+2 W.H.Faveere,S.VanPraet,B.Vermeeren,K.N.R.Dumoleijn, 18 W.Diao,C.D.Digiulio,M.T.Schaal,S.MaandJ.R.Monnier,
+K.MoonenandE.Taarning,etal.,TowardReplacingEthylene AninvestigationontheroleofReasapromoterinAg-Cs-Re/
+Oxide in a Sustainable World: Glycolaldehyde as a Bio-Based α-Al2O3 high-selectivity, ethylene epoxidation catalysts,
+C2 Platform Molecule, Angew. Chem., Int. Ed., 2021, 60(22), J.Catal.,2015,322,14–23,DOI:10.1016/j.jcat.2014.11.007.
+12204–12223,DOI:10.1002/anie.202009811. 19 M. A. Salaev, Computational insights into promoting effects
+3 J.R.LockemeyerandT.L.Lohr,EthyleneOxideCatalysisUnder of alkali metals, Re, and Cl for silver catalysts of ethylene
+CommercialConditions–AGuideforResearchers,ChemCatChem, epoxidation, Mol. Catal., 2021, 507, 111574, DOI: 10.1016/j.
+2023,15,e202201511,DOI:10.1002/cctc.202201511. mcat.2021.111574.
+4 G. H. Law and H. C. Chitwood, Process of making olefin 20 D. Badea, A. Karpov, M. Jansen and J. Bruns, [Ag(μ-en)]
+oxides,US2279469,1942. [ReO ]: An Intermediate during Preparation of the Ethylene
+4
+5 A. M. Lauritzen, Ethylene oxide catalyst and process for Epoxidation Catalyst, Z. Anorg. Allg. Chem., 2022, 648,
+preparingthecatalyst,US4761394,1988. e202200267,DOI:10.1002/zaac.202200267.
+6 M.O.Özbek,I.OnalandR.A.VanSanten,Whysilveristhe 21 J. C. Dellamorte, J. Lauterbach and M. A. Barteau, Rhenium
+unique catalyst for ethylene epoxidation, J. Catal., promotion of Ag and Cu-Ag bimetallic catalysts for ethylene
+2011,284(2),230–235,DOI:10.1016/j.jcat.2011.08.004. epoxidation, Catal. Today, 2007, 120(2), 182–185, DOI:
+7 T.C.R.Rocha,M.Hävecker,A.Knop-GerickeandR.Schlögl, 10.1016/j.cattod.2006.07.051.
+Promoters in heterogeneous catalysis: The role of Cl on 22 D. Ren, G. Cheng, J. Li, J. Li, W. Dai and X. X. Sun, et al.
+ethylene epoxidation over Ag, J. Catal., 2014, 312, 12–16, Effectof RheniumLoadingSequence onSelectivityof Ag–Cs
+DOI:10.1016/j.jcat.2014.01.002. Catalystfor EthyleneEpoxidation, Catal.Lett.,2017,147(12),
+8 V. I. Bukhtiyarov, A. I. Nizovskii, H. Bluhm, M. Hävecker, E. 2920–2928,DOI:10.1007/s10562-017-2211-5.
+KleimenovandA.Knop-Gericke,etal.,Combinedin-situXPS 23 J.C.Dellamorte,J.LauterbachandM.A.Barteau,Promoter-
+andPTRMSstudyofethyleneepoxidationoversilver,J.Catal., induced morphological changes of Ag catalysts for ethylene
+2006,238(2),260–269,DOI:10.1016/j.jcat.2005.11.043. epoxidation, Ind. Eng. Chem. Res., 2009, 48(13), 5943–5953,
+9 M. O. Özbek and R. A. Van Santen, The mechanism of DOI:10.1021/ie801627k.
+ethylene epoxidation catalysis, Catal. Lett., 2013, 143, 24 J. E. van den Reijen, S. Kanungo, T. A. J. Welling, M.
+131–141,DOI:10.1007/s10562-012-0957-3. Versluijs-Helder, T. A. Nijhuis and K. P. de Jong, et al.,
+332 | Catal.Sci.Technol.,2025,15,323–333 Thisjournalis©TheRoyalSocietyofChemistry2025
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+
+CatalysisScience&Technology Paper
+Preparation and particle size effects of Ag/a-Al2O3 catalysts 36 S. R. Seyedmonir, D. Strohmayer, G. Geoffroy and A.
+for ethylene epoxidation, J. Catal., 2017, 356, 65–74, DOI: Vannice, Characterization of Supported Silver Catalysts,
+10.1016/j.jcat.2017.10.001. J.Catal.,1984,436,424–436.
+25 S. Gates-Rector and T. Blanton, The Powder Diffraction File: 37 A. Hwang, J. Klaucke, C. Lizandara-Pueyo, A. Karpov and E.
+a quality materials characterization database, Powder Diffr., Iglesia, Roles of Re and Cs Promoters and Organochlorine
+2019,34(4),352–360. Moderators in the Synthesis of Ethylene Oxide on Ag-based
+26 J.T.JankowiakandM.A.Barteau,Ethyleneepoxidationover Catalysts, ChemCatChem, 2023, 202301369, DOI: 10.1002/
+silver and copper-silver bimetallic catalysts: II. Cs and Cl cctc.202301369.
+promotion, J. Catal., 2005, 236(2), 379–386, DOI: 10.1016/j. 38 B. W. J. Chen, B. Wang, M. B. Sullivan, A. Borgna and J.
+jcat.2005.10.017. Zhang, Unraveling the Synergistic Effect of Re and Cs
+27 H. Jin, X. Liu, P. An, C. Tang, H. Yu and Q. Zhang, et al., PromotersonEthyleneEpoxidationoverSilverCatalystswith
+Dynamic rhenium dopant boosts ruthenium oxide for Machine Learning-Accelerated First-Principles Simulations,
+durable oxygen evolution, Nat. Commun., 2023, 14, 354, ACS Catal., 2022, 12(4), 2540–2551, DOI: 10.1021/
+DOI: 10.1038/s41467-023-35913-6. acscatal.1c05419.
+28 J.Okal,L.Kępiński,L.KrajczykandW.Tylus,Oxidationand 39 T. J. Korstanje, E. F. De Waard, J. T. B. H. Jastrzebski and
+redispersion of a low-loaded Re/γ-Al2O3 catalyst, J. Catal., R. J. M. Klein Gebbink, Rhenium-catalyzed dehydration of
+2003,219(2),362–371,DOI:10.1016/S0021-9517(03)00165-9. nonbenzylic and terpene alcohols to olefins, ACS Catal.,
+29 L. Brütsch and C. Feldmann, Synthesis and Morphology of 2012,2(10),2173–2181,DOI:10.1021/cs300455w.
+AgReO Plates, Rods, and Stars, Z. Anorg. Allg. Chem., 40 T. Nakagiri, M. Murai and K. Takai, Stereospecific
+4
+2017,643(12),789–792,DOI:10.1002/zaac.201700072. Deoxygenation of Aliphatic Epoxides to Alkenes under
+30 S. Lwin and I. E. Wachs, Olefin metathesis by supported Rhenium Catalysis, Org. Lett., 2015, 17(13), 3346–3349, DOI:
+metaloxidecatalysts,ACSCatal.,2014,4(8),2505–2520,DOI: 10.1021/acs.orglett.5b01583.
+10.1021/cs500528h. 41 B. T. Egelske, W. Xiong, H. Zhou and J. R. Monnier, Effects
+31 M. Matusz, R. L. Paddock and R. C. Yeates, Methods for of the method of active site characterization for
+conditioninganethyleneepoxidationcatalystandassociated determining structure-sensitivity in Ag-catalyzed ethylene
+methods for the production of ethylene oxide, WO 2018/ epoxidation, J. Catal., 2022, 410, 221–235, DOI: 10.1016/j.
+102377A1,2018. jcat.2022.03.021.
+32 M.Matusz,R.L.Paddock,R.C.YeatesandJ.R.Lockemeyer, 42 N. Macleod, J. M. Keel and R. M. Lambert, The effects of
+Methods for conditioning an ethylene epoxidation catalyst catalyst aging under industrial conditions: ethylene oxide
+and associated methods for the production of ethylene conversion over Ag-Cs/α-Al O catalysts, Catal. Lett., 2 3
+oxide,EP3548471B1,2021. 2003,86(1–3),51–56,DOI:10.1023/A:1022602807322.
+33 S. Linic and M. A. Barteau, Control of ethylene epoxidation 43 D. A. Bulushev, E. A. Paukshtis, Y. N. Nogin and B. S.
+selectivity by surface oxametallacycles, J. Am. Chem. Soc., Bal'zhinimaev, Transient response and infrared studies of
+2003,125(14),4034–4035,DOI:10.1021/ja029076g. ethylene oxide reactions on silver catalysts and supports,
+34 C. Stegelmann, N. C. Schiødt, C. T. Campbell and P. Stoltze, Appl. Catal., A, 1995, 123(2), 301–322, DOI: 10.1016/0926-
+Microkinetic modeling of ethylene oxidation over silver, 860X(94)00221-5.
+J. Catal., 2004, 221(2), 630–649, DOI: 10.1016/j. 44 S. A. Tan, R. B. Grant and R. M. Lambert, Secondary
+jcat.2003.10.004. ChemistryintheSelectiveOxidationofEthylene:EffectofCl
+35 M. Huš and A. Hellman, Dipole effect on ethylene and Cs Promoters on the Adsorption, Isomerisation, and
+epoxidation: Influence of alkali metals and chlorine, Combustion of Ethylene Oxide on Ag(111), J. Catal.,
+J.Catal.,2018,363,18–25,DOI:10.1016/j.jcat.2018.04.008. 1987,106,54–64.
+Thisjournalis©TheRoyalSocietyofChemistry2025 Catal.Sci.Technol.,2025,15,323–333 | 333
+.MA
+50:84:7
+5202/3/11
+no
+dedaolnwoD
+.4202
+rebmevoN
+60
+no
+dehsilbuP
+.elcitrA
+sseccA
+nepO
+.ecneciL
+detropnU
+0.3
+noitubirttA
+snommoC
+evitaerC
+a rednu
+desnecil
+si
+elcitra
+sihT
+View Article Online
+

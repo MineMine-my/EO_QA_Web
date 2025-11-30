@@ -1,0 +1,202 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "原子氧",
+        "relationship": "是",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "表面氧金属环",
+        "relationship": "是",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "表面氧金属环",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "与",
+        "end_node": "吸附氧"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "形成",
+        "end_node": "表面氧金属环"
+    },
+    {
+        "start_node": "DFT计算",
+        "relationship": "构建",
+        "end_node": "反应坐标"
+    },
+    {
+        "start_node": "反应坐标",
+        "relationship": "包含",
+        "end_node": "过渡态"
+    },
+    {
+        "start_node": "反应坐标",
+        "relationship": "包含",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "氧解离",
+        "relationship": "是",
+        "end_node": "动力学相关步骤"
+    },
+    {
+        "start_node": "乙烯加氧",
+        "relationship": "是",
+        "end_node": "动力学相关步骤"
+    },
+    {
+        "start_node": "表面氧金属环",
+        "relationship": "环闭合",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "表面氧金属环",
+        "relationship": "旋转",
+        "end_node": "C-C键"
+    },
+    {
+        "start_node": "C-C键旋转",
+        "relationship": "导致",
+        "end_node": "构型损失"
+    },
+    {
+        "start_node": "银",
+        "relationship": "提供",
+        "end_node": "最佳结合环境"
+    },
+    {
+        "start_node": "银",
+        "relationship": "促进",
+        "end_node": "氧解离"
+    },
+    {
+        "start_node": "银",
+        "relationship": "允许",
+        "end_node": "表面反应"
+    },
+    {
+        "start_node": "银",
+        "relationship": "允许",
+        "end_node": "环氧乙烷脱附"
+    },
+    {
+        "start_node": "微动力学模型",
+        "relationship": "预测",
+        "end_node": "表观活化能"
+    },
+    {
+        "start_node": "表观活化能",
+        "relationship": "范围",
+        "end_node": "15 kcal/mol"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "490-560 K"
+    },
+    {
+        "start_node": "氧分压",
+        "relationship": "范围",
+        "end_node": "1-5 atm"
+    },
+    {
+        "start_node": "乙烯分压",
+        "relationship": "范围",
+        "end_node": "0.1-1 atm"
+    },
+    {
+        "start_node": "氧解离活化能",
+        "relationship": "影响",
+        "end_node": "速率决定步骤"
+    },
+    {
+        "start_node": "低氧覆盖率",
+        "relationship": "降低",
+        "end_node": "氧解离活化能"
+    },
+    {
+        "start_node": "高氧覆盖率",
+        "relationship": "增加",
+        "end_node": "氧解离活化能"
+    },
+    {
+        "start_node": "乙烯富集",
+        "relationship": "导致",
+        "end_node": "表面反应决定"
+    },
+    {
+        "start_node": "氧富集",
+        "relationship": "导致",
+        "end_node": "氧解离决定"
+    },
+    {
+        "start_node": "银",
+        "relationship": "弱结合",
+        "end_node": "表面氧金属环"
+    },
+    {
+        "start_node": "弱结合",
+        "relationship": "促进",
+        "end_node": "环氧乙烷形成"
+    },
+    {
+        "start_node": "VIII族金属",
+        "relationship": "强结合",
+        "end_node": "表面氧金属环"
+    },
+    {
+        "start_node": "强结合",
+        "relationship": "降低",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "氯",
+        "relationship": "增加",
+        "end_node": "氧亲电性"
+    },
+    {
+        "start_node": "氧亲电性",
+        "relationship": "促进",
+        "end_node": "乙烯反应"
+    },
+    {
+        "start_node": "铯",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    }
+]

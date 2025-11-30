@@ -1,0 +1,177 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "提供",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "提高",
+        "end_node": "安全性"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "消除",
+        "end_node": "O2需求"
+    },
+    {
+        "start_node": "生物乙醇",
+        "relationship": "脱水",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "HZSM-5",
+        "relationship": "催化",
+        "end_node": "脱水反应"
+    },
+    {
+        "start_node": "γ-Al2O3",
+        "relationship": "催化",
+        "end_node": "脱水反应"
+    },
+    {
+        "start_node": "脱水温度",
+        "relationship": "范围",
+        "end_node": "280-350°C"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "270°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200-350°C"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "110 nm"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "9600 h-1"
+    },
+    {
+        "start_node": "水存在",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "水去除",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "SrCO3",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "SrCO3",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "高GHSV",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低GHSV",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "Ag/SrFeO3",
+        "relationship": "耐受",
+        "end_node": "杂质"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "实现",
+        "end_node": "按需生产"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "选择性",
+        "end_node": "57%"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "转化率",
+        "end_node": "15%"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "Ag沉积"
+    },
+    {
+        "start_node": "球磨",
+        "relationship": "用于",
+        "end_node": "SrFeO3合成"
+    },
+    {
+        "start_node": "煅烧",
+        "relationship": "用于",
+        "end_node": "催化剂活化"
+    }
+]

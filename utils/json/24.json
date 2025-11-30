@@ -1,0 +1,182 @@
+[
+    {
+        "start_node": "AgNiO2",
+        "relationship": "制备方法",
+        "end_node": "共沉淀法"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "结构",
+        "end_node": "铜铁矿结构"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "堆垛层错"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "银空位"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "Ag/Ni比",
+        "end_node": "<1"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "比表面积",
+        "end_node": "80-100 m²/g"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "催化",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "活性温度",
+        "end_node": "室温"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "选择性",
+        "end_node": "70%"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "转化率",
+        "end_node": "5%"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "亲核氧"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "具有",
+        "end_node": "亲电氧"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "结合能",
+        "end_node": "529.0 eV"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "结合能",
+        "end_node": "530.5 eV"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "类型",
+        "end_node": "晶格氧"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "类型",
+        "end_node": "弱结合氧"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "参与",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "银状态",
+        "end_node": "Agδ+"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "镍状态",
+        "end_node": "Ni2+/Ni3+"
+    },
+    {
+        "start_node": "AgNiO2",
+        "relationship": "Ag-O键",
+        "end_node": "共价性更强"
+    },
+    {
+        "start_node": "温度升高",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "温度升高",
+        "relationship": "增加",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "150℃",
+        "relationship": "选择性",
+        "end_node": "20%"
+    },
+    {
+        "start_node": "200℃",
+        "relationship": "形成",
+        "end_node": "Ag0颗粒"
+    },
+    {
+        "start_node": "Ag0颗粒",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "250℃",
+        "relationship": "破坏",
+        "end_node": "铜铁矿结构"
+    },
+    {
+        "start_node": "弱结合氧",
+        "relationship": "相对含量",
+        "end_node": "8.5%"
+    },
+    {
+        "start_node": "室温反应",
+        "relationship": "消耗氧",
+        "end_node": "3%"
+    },
+    {
+        "start_node": "O2处理",
+        "relationship": "减少",
+        "end_node": "弱结合氧"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]

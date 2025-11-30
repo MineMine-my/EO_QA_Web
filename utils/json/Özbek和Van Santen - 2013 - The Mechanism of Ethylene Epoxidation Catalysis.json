@@ -1,0 +1,232 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "工业催化剂",
+        "relationship": "选择性范围",
+        "end_node": "90%"
+    },
+    {
+        "start_node": "未促进银",
+        "relationship": "选择性",
+        "end_node": "50%"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "生成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "生成",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "高氧覆盖",
+        "relationship": "开启",
+        "end_node": "直接环氧化"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "降低",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "选择性环氧化"
+    },
+    {
+        "start_node": "电正性氧",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "形成",
+        "end_node": "OMC中间体"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "导致",
+        "end_node": "非选择性反应"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "阻塞",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "增加",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "Cs+Cl",
+        "relationship": "稳定",
+        "end_node": "氧化表面"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200–300°C"
+    },
+    {
+        "start_node": "Ag2O",
+        "relationship": "不稳定",
+        "end_node": "反应温度"
+    },
+    {
+        "start_node": "直接环氧化",
+        "relationship": "无中间体",
+        "end_node": "OMC"
+    },
+    {
+        "start_node": "Eley-Rideal",
+        "relationship": "机制",
+        "end_node": "直接环氧化"
+    },
+    {
+        "start_node": "Langmuir-Hinshelwood",
+        "relationship": "机制",
+        "end_node": "OMC形成"
+    },
+    {
+        "start_node": "高氧覆盖",
+        "relationship": "改变",
+        "end_node": "OMC机制"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "形成",
+        "end_node": "CsOx复合物"
+    },
+    {
+        "start_node": "CsOx复合物",
+        "relationship": "增强",
+        "end_node": "热稳定性"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "竞争",
+        "end_node": "电子电荷"
+    },
+    {
+        "start_node": "Cl促进剂",
+        "relationship": "减少",
+        "end_node": "氧电荷"
+    },
+    {
+        "start_node": "表面氧",
+        "relationship": "变为",
+        "end_node": "电负性"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "Ag-O键强度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "弱Ag-O键",
+        "relationship": "增加",
+        "end_node": "环氧化活性"
+    },
+    {
+        "start_node": "强Ag-O键",
+        "relationship": "增加",
+        "end_node": "活化能垒"
+    },
+    {
+        "start_node": "Cu表面",
+        "relationship": "强氧结合",
+        "end_node": "低选择性"
+    },
+    {
+        "start_node": "Au表面",
+        "relationship": "弱氧结合",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Au",
+        "relationship": "不能解离",
+        "end_node": "O2分子"
+    },
+    {
+        "start_node": "Ag2O表面",
+        "relationship": "直接路径",
+        "end_node": "无势垒"
+    },
+    {
+        "start_node": "Cu2O表面",
+        "relationship": "EO形成",
+        "end_node": "吸热"
+    },
+    {
+        "start_node": "Au2O结构",
+        "relationship": "不稳定",
+        "end_node": "氧化物"
+    }
+]

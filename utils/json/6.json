@@ -1,0 +1,212 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "乙烯燃烧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "改变",
+        "end_node": "氧物种电子态"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "OMC异构化"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "增强",
+        "end_node": "协同效应"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "优化",
+        "end_node": "电荷平衡"
+    },
+    {
+        "start_node": "电子受体TM",
+        "relationship": "结合",
+        "end_node": "电子给体Cs"
+    },
+    {
+        "start_node": "电荷平衡",
+        "relationship": "抑制",
+        "end_node": "亲核氧物种"
+    },
+    {
+        "start_node": "亲核氧物种",
+        "relationship": "促进",
+        "end_node": "乙烯燃烧"
+    },
+    {
+        "start_node": "电荷平衡",
+        "relationship": "减轻",
+        "end_node": "Ag电负性"
+    },
+    {
+        "start_node": "Ag电负性",
+        "relationship": "促进",
+        "end_node": "EO异构化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增加",
+        "end_node": "氧亲核性"
+    },
+    {
+        "start_node": "过渡金属",
+        "relationship": "增加",
+        "end_node": "氧亲电性"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "提高",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "降低",
+        "end_node": "EO活化能"
+    },
+    {
+        "start_node": "Cs-Re",
+        "relationship": "提高",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "EO活性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "增强",
+        "end_node": "氧亲电性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230°C"
+    },
+    {
+        "start_node": "O2压力",
+        "relationship": "范围",
+        "end_node": "0.1 bar"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:1"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "吸附能"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "增强",
+        "end_node": "Ag-O键强度"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "C2H4吸附"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "O2吸附"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "EO产率"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "抑制",
+        "end_node": "AA生成"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "△△EActivation"
+    },
+    {
+        "start_node": "△△EActivation",
+        "relationship": "决定",
+        "end_node": "EO选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs-Cu-Re-Au",
+        "relationship": "提高",
+        "end_node": "活性"
+    }
+]

@@ -1,0 +1,1036 @@
+Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13
+Contents lists available at ScienceDirect
+Journal of Molecular Catalysis A: Chemical
+jou rn al hom epage: www.elsevier.com/locate/molcata
+Effect of diluent gas on ethylene epoxidation activity over various
+Ag-based catalysts on selective oxide supports
+Atiporn Chongterdtoonskula, Thitiporn Suttikula,b, Malee Santikunapornc,
+Johannes W. Schwankd, Sumaeth Chavadeja,e,∗
+aThe Petroleum and Petrochemical College, Chulalongkorn University, Soi Chula 12, Phyathai Road, Pathumwan, Bangkok 10330, Thailand
+bDepartment of Chemical Process Engineering Technology, King Monngkut’s University of Technology North Bangkok, Tambon Nonglalok, Amphur
+Bankhai, Rayong 21120, Thailand
+cDepartment of Chemical Engineering, Thammasat University, 99 Moo 18 Phaholyothin Road, Khlongluang, Pathumthani 12121, Thailand
+dDepartment of Chemical Engineering, University of Michigan, Ann Arbor, MI 48109, USA
+eCenter of Excellence on Petrochemical and Materials Technology, Chulalongkorn University, Bangkok 10330, Thailand
+a r t i c l e i n f o
+Article history:
+Received 6 December 2013
+Received in revised form 1 February 2014
+Accepted 4 February 2014
+Available online 15 February 2014
+Keywords:
+Diluent gases
+CH4balanced He
+SrTiO3
+Cu–Ag
+Ethylene
+a
+epoxidation
+b s t r a c t
+The influence of different diluent gases (He, Ar, N2, CH4, and CH4balanced with He) on the epoxidation
+of ethylene was comparatively studied over three different catalysts, including a commercial 14.86 wt.%
+Ag/(cid:2)-Al2O3, a bimetallic 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO3, and a 0.32 wt.% Sn-promoted on 1.39 wt.%
+Cu–17.16 wt.% Ag/SrTiO3catalyst. The best diluent gas for ethylene epoxidation was CH4balanced with
+He over all catalysts. CH4 enhanced C2H4 conversion while He provided both high EO selectivity and
+yield. Thus, the 35% CH4balanced with 53% He diluent gas provided the highest synergistic effect toward
+the ethylene epoxidation reaction, while also leading to the lowest level of coke formation.
+© 2014 Elsevier B.V. All rights reserved.
+1. Introduction
+Ethylene oxide (EO) is an important intermediate in the
+manufacture of several petrochemical products–ethylene glycol,
+surfactants, anti-freezes, adhesives, explosives, lubricants, plasti-
+cizers, and solvents [1–3]. EO is commercially produced through
+the partial oxidation of ethylene using either air or oxygen over
+Ag catalysts loaded on a low surface area (cid:2)-Al O support,
+2 3
+based
+on the original work by Lefort in 1931 [4,5]. A generalized reaction
+stoichiometry of the process is:
+C H +
+2 4
+0.5O →
+2
+C H O
+2 4
+(cid:2)G◦
+298
+=
+K
+−404 kJ/mol
+Apart from EO formation, by-products including CO, CO ,
+2
+and
+H O 2 are simultaneously produced [6]. EO selectivity has been
+improved by the use of different catalyst preparation techniques
+[7–15], silver precursors [16–21], and promoters [22–24].
+∗
+Corresponding author at: The Petroleum and Petrochemical College, Chula-
+longkorn University, Soi Chula 12, Phyathai Road, Pathumwan, Bangkok 10330,
+Thailand. Tel.: +66 2 218 4139; fax: +66 2 218 4139.
+E-mail address: sumaeth.c@chula.ac.th (S.
+Cesium
+Chavadej).
+(Cs), as an alkali metal promoter, has been researched
+extensively. The presence of Cs has been found to facilitate cover-
+age of Ag on a support. Cs is mainly located in the subsurface region
+with only a small amount at the catalyst surface [25]. This suggests
+that Cs acts as a binder between the Ag and (cid:2)-Al O support
+2 3
+by cre-
+ating and stabilizing interactions between the two phases. Grant
+and Lambert [26] established that Cs neutralizes acid sites on the
+oxide support that are responsible for isomerization of the epoxide
+to acetaldehyde, followed by combustion. Cs also increases the con-
+centration of crystalline lattice defects located in the electrophilic
+oxygen area and decreases the amount of nucleophilic oxygen that
+is involved in the total oxidation of ethylene.
+Campbell [27] investigated the electronic effect of adding Cs
+on Ag catalysts. The influence of Cs on Ag(1 1 1) was observed
+and surface cesium oxide species (CsO ), 3 which existed in islands,
+decomposed to form gaseous Cs and O at 2 610 K. Linic and Barteau
+[28] stated that EO was produced through the formation of an
+oxametallacycle intermediate (favoring the transition state). Thus,
+the addition of a Cs promoter, which modified the electric field or
+dipole–dipole interactions (electronic effect), resulted in a higher
+transition state, causing more EO production. Epling et al. [29]
+showed that there was a chemical interaction (electronic effect)
+between Al, Cs, and Ag, which led to change in the electronic
+http://dx.doi.org/10.1016/j.molcata.2014.02.003
+1381-1169/© 2014 Elsevier B.V. All rights reserved.
+
+6 A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13
+properties of the Ag catalysts. Moreover, Yinsheng et al. [30]
+compared the Ba and Cs promoting effects on a Ag surface,
+which affected the ethylene epoxidation reaction. Ba was found
+to increase activity in terms of conversion, but with slightly lower
+EO selectivity. On the contrary, Cs enhanced EO selectivity, with
+lower activity in terms of ethylene conversion.
+In industrial practice, chlorine-containing compounds, i.e. 1,2-
+dichloroethane (DCE), HCl, ethyl chloride, etc., are used as feed
+additives to increase EO selectivity over Ag catalysts [22,27,31].
+Conversely, the added chlorinated promoters on the surface of Ag
+catalysts produce AgCl, which can poison the catalysts. To over-
+come the poisoning problem by DCE, paraffins are added to the
+feed. Compared with methane and ethylene, ethane is the most
+effective dechlorinating agent.
+Lafarga and Varma [32] investigated the effect of DCE addition
+in the ethylene epoxidation reaction. EO selectivity increased to
+greater than 80% but ethylene conversion decreased with increas-
+ing DCE concentration in the feed (0–3.3 ppm). The deactivation
+of the catalyst, for the highest level of DCE, was observed after a
+few hours of reaction. Thus, ethane, at a relatively low concentra-
+tion (ca. 1%), was added to the feed to moderate the deactivation
+(controlling the amount of chlorine adsorbed on the catalyst sur-
+face) to maximize the benefit of the DCE addition. The optimum
+DCE level was 1–2 ppm, which gave the maximum EO yield with
+highly stable activity. Recently, Dellamorte et al. [33] studied the
+promotional effect of Re on Ag and Cu–Ag bimetallic catalysts for
+the epoxidation of ethylene. The rhenium addition enhanced the
+selectivity at small loadings with a large decrease in the catalytic
+activity. The optimum rhenium loading for maximum EO selectiv-
+ity was 25 ppm on the Ag catalyst and between 50 and 100 ppm on
+the bimetallic Cu–Ag catalyst. The Re-promoted Ag catalysts had
+more uniform distribution on the reaction sites for oxygen adsorp-
+tion than the unpromoted ones, resulting in the enhancement of
+EO selectivity. Moreover, the Re promoter might improve the EO
+selectivity through the stabilization of defect regions or through
+weakening of the Ag O bond.
+Typical ethylene epoxidation processes are comprised of ethyl-
+ene, oxygen, and diluent gas (balanced gas in the feed beyond the
+reactant gases, C H and
+2 4
+O ,
+2
+so-called “third gas”) in the reactant
+feed. Many researchers have used helium [16,34,35] or nitrogen
+[3,36,37] as the diluent gas with various oxygen to ethylene ratios.
+However, no systematic study of the effect of diluent gas on ethyl-
+ene epoxidation activity has been reported in scientific literature.
+From our previous work [38–40], the most promising cata-
+lyst was the 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.%
+Ag/SrTiO catalyst,
+3
+followed by the 1.41 wt.% Cu–17.16 wt.%
+Ag/SrTiO catalyst.
+3
+In this part (Part IV of the study), the two cat-
+alysts were employed in ethylene epoxidation experiments, and
+compared to the 14.86 wt.% Ag/(cid:2)-Al O catalyst
+2 3
+(commercial cata-
+lyst) with various diluent gases – He, Ar, N ,
+2
+CH ,
+4
+and CH balanced
+4
+with He. The optimum O to
+2
+C H molar
+2 4
+ratio and the most effective
+diluent gas were investigated to identify the best reaction condi-
+tions for the ethylene epoxidation reaction.
+2. Experimental
+2.1. Materials
+Silver nitrate (AgNO )
+3
+was purchased from S.R. Lab and (cid:2)-
+Al O (0.109
+2 3
+m2/g) was purchased from Fluka. Tetraisopropyl
+orthotitanate (TIPT; Ti(OCH(CH ) ) ),
+3 2 4
+strontium nitrate (Sr(NO ) ),
+3 2
+copper nitrate trihydrate (Cu(NO ) ·3H O),
+3 2 2
+and laurylamine (LA,
+CH (CH ) NH )
+3 2 11 2
+were supplied by Merck. Acetylacetone (ACA;
+CH COCH COCH )
+3 2 3
+was obtained from S.D. Fine-Chemical. Tin chlo-
+ride (SnCl )
+2
+was purchased from Aldrich. Hydrochloric acid
+and
+(HCl)
+ethanol (C H OH)
+2 5
+were supplied by Labscan. All chemicals
+used were of analytical grade and used as received without further
+purification.
+2.2. Catalyst preparation
+A mesoporous-assembled SrTiO nanocrystal
+3
+support was syn-
+thesized via a sol–gel process with the aid of a structure-directing
+surfactant [38–40]. Briefly, ACA was first added to TIPT at an
+equimolar ratio. In a separate beaker, the LA surfactant was dis-
+solved with 0.5 ml of HCl and then added to a Sr(NO ) solution
+3 2
+containing a specific amount of Sr(NO ) and
+3 2
+ethanol to obtain the
+Sr(NO ) /LA/HCl
+3 2
+solution. Next, this solution was poured into the
+TIPT/ACA solution and continuously stirred. The resultant mixture
+was incubated at 353 K for 4 d to obtain complete gel formation and
+was further dried at 353 K for 4 d. Finally, the dried gel was calcined
+at 923 K, which was the optimum support calcination temperature
+identified in our previous work [39], to produce the mesoporous-
+assembled nanocrystalline SrTiO support.
+3
+The Ag catalysts used in this work were prepared by incipi-
+ent wetness impregnation using the (cid:2)-Al O and
+2 3
+SrTiO supports
+3
+with a silver nitrate solution to obtain nominal Ag loadings of
+15 wt.% (actual Ag loading = 14.86 wt.%) and 17.5 wt.% (actual Ag
+loading = 17.16 wt.%), respectively, which provided the best cat-
+alytic performance for EO formation [38–40]. Then, the AgNO
+3
+precursor impregnated on the (cid:2)-Al O or
+2 3
+SrTiO support
+3
+was dried
+at 383 K overnight and calcined at 773 K for 5 h to produce Ag/(cid:2)-
+Al O and
+2 3
+Ag/SrTiO catalysts.
+3
+Next, the Ag/SrTiO catalyst
+3
+was
+further impregnated with Cu(NO ) ·3H O
+3 2 2
+precursor to obtain a
+nominal Cu loading of 1.5 wt.%. The catalyst sample was dried at
+383 K overnight and then calcined in air at 773 K for 5 h to obtain
+the bimetallic Cu–Ag catalyst.
+The bimetallic Cu–Ag catalyst was promoted by tin using tin
+chloride precursor with an optimum nominal tin loading of 0.4 wt.%
+[40]. The mixture was first dried at 383 K overnight and finally cal-
+cined at 673 K for 2 h to produce the 0.32 wt.% Sn-promoted on
+1.39 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+[41].
+2.3. Activity testing experiments
+The catalytic performance of the ethylene epoxidation reaction
+on the 14.86 wt.% Ag/(cid:2)-Al O ,
+2 3
+1.41 wt.% Cu–17.16 wt.% Ag/SrTiO ,
+3
+or 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO
+3
+catalyst was tested in a packed-bed 8-mm ID tubular reactor under
+24.7 psia at 548 K [40] with various diluent gas systems. Initially,
+30 mg of catalyst powder was packed in the reactor and pretreated
+with oxygen at 473 K for 2 h. The feed gas was a mixture of 40% eth-
+ylene in He, pure oxygen (HP grade), and a diluent gas (He, Ar, N ,
+2
+CH or
+4
+CH balanced
+4
+with He). The 6% ethylene and 3–7.5% oxygen
+feed gases, with different diluent gas balances (He, Ar, N ,
+2
+CH or
+4
+CH balanced
+4
+with He), were regulated by using mass flow con-
+trollers. The space velocity of the feed gas through the reactor was
+maintained at 6000 h−1for all experimental runs. The composition
+of the feed and effluent gases was analyzed by using an on-line gas
+chromatograph (Perkin Elmer, ARNEL) equipped with a 60/80 CAR-
+BOXEN 1 packed column (capable of separating carbon monoxide,
+carbon dioxide, ethylene, and oxygen) and a Rt-U PLOT capillary
+column (capable of separating EO, ethane, and propane). The forma-
+tion of acetaldehyde was not detected under the studied conditions
+because of further oxidation to carbon dioxide and water. Trace
+amounts of acetaldehyde were formed, but were below the detec-
+tion limit of the analytical system [42]. The catalytic activity of each
+catalyst was compared at 6 h of operation. The experimental data,
+with less than 5% error, were averaged to assess the catalytic per-
+formance. Moreover, the catalysts, with different optimum diluent
+gases, were operated for 72 h on stream to investigate long-term
+
+A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13 7
+stability and performance. Finally, the best catalyst (0.32 wt.% Sn-
+promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO )
+3
+was operated up
+to 7 d (168 h) to observe the long-term stability and performance
+of the ethylene epoxidation reaction.
+2.4. Catalyst characterization
+The N adsorption–desorption
+2
+isotherms of the catalysts were
+obtained by using a surface area analyzer (Quantachrome, SAA-
+1MP). The Brunauer–Emmett–Teller (BET) approach was applied to
+determine the specific surface areas using the adsorption data. The
+actual metal loadings of the investigated catalysts were analyzed by
+an atomic absorption spectrophotometer (AAS; Varian, SpectrAA-
+300).
+The oxygen and ethylene uptake of the synthesized catalysts
+was calculated from the desorption peaks that were obtained
+by using a temperature-programmed desorption (TPD) analyzer
+(Quantachrome, Chembet 3000). Oxygen (4.99% O in
+2
+He) or pure
+ethylene (99.99% C H )
+2 4
+was initially adsorbed onto the catalyst sur-
+face at 473 K for 2 h for the TPD experiments. The catalyst samples
+were then cooled to room temperature in a high-purity He stream.
+Next, the catalyst samples were heated from room temperature to
+1173 K, with a heating rate of 10 K/min, and the desorbed gas was
+swept by the high-purity He at a flow rate of 20 cm3/min. A thermal
+conductivity detector (TCD) was used to measure the concentration
+profile of the oxygen or ethylene in the effluent gas.
+The surface morphology of the studied catalysts before and
+after the reaction experiments, under optimum diluent gas system,
+was characterized using a field emission scanning electron micro-
+scope (FE-SEM; JEOL 5200-2AE). Prior to analysis, the samples were
+coated with Pt to improve conductivity. Furthermore, the particle
+size of loaded metals on the catalyst samples was examined by
+transmission electron microscopes (TEM; JEOL 3011 at 300 kV; and
+JEOL 2010 at 200 kV). The specimens for TEM analysis were pre-
+pared by ultrasonically dispersing the catalyst powders in ethanol
+and then placing drops of the suspension onto a grid coated with a
+carbon film. The existence of Ag, Cu, and Sn particles on either the (cid:2)-
+Al O or
+2 3
+SrTiO support
+3
+was verified by using an energy dispersive
+X-ray spectroscope (EDS) attached to the TEM. The metal parti-
+cle size was determined from measurements of multiple particles,
+followed by statistical analysis of the TEM images.
+The amount of coke deposited on the spent catalysts was
+quantified by a thermogravimetric-differential thermal analyzer
+(TG-DTA; PerkinElmer, Pyris Diamond).
+3. Results and discussion
+3.1. Catalyst characterization results
+The XRD and XPS results of the 14.86 wt.% Ag/(cid:2)-Al O com-
+2 3
+mercial catalyst were reported in Part I of the series [38]. The
+XRD pattern revealed a highly crystalline structure of the SrTiO
+3
+support with dominant peaks of metallic Ag and a minor peak
+of AgO. For the XPS results of the 14.86 wt.% Ag/(cid:2)-Al O catalyst,
+2 3
+the atomic ratio of Ag-to-Ag O
+2
+of 92.02%/7.98% before the reac-
+tion was changed to 82.07%/17.93% after the reaction. The XRD
+and XPS results of the other two catalysts (1.41 wt.% Cu–17.16 wt.%
+Ag/SrTiO and
+3
+0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.%
+Ag/SrTiO )
+3
+were also reported in Part III of this series [40]. The
+XRD patterns also clearly showed the highly crystalline structure
+of the SrTiO support
+3
+with dominant peaks of metallic Ag and a
+minor peak of AgO. The Cu second metal was also detected by XRD
+in metallic form while the Sn promoter was not detected due to
+an insignificant amount of Sn. The XPS results for the 1.41 wt.%
+Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+showed that the
+Ag-to-Ag O
+2
+metallic
+molar ratio changed from 11.5:1 before the reaction
+to 5.4:1 after the reaction while the metallic Cu-to-CuO molar ratio
+decreased from 14.9:1 before the reaction to 2.8:1 after the reac-
+tion. For the 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.%
+Ag/SrTiO catalyst,
+3
+the metallic Ag-to-Ag O
+2
+molar ratio decreased
+from 14.4:1 before the reaction to 11.2:1 after the reaction, whereas
+the metallic Cu-to-CuO molar ratio was changed from 15.7:1 before
+the reaction to 10.6:1 after the reaction. It can be concluded that
+an addition of the Cu second metal and/or Sn promoter can provide
+higher metallic forms of both Ag and Cu, which, in turn, enhance
+the ethylene epoxidation reaction in terms of high selectivity and
+long-term stability [40].
+3.1.1. Specific surface area results
+The characterization results of all catalysts (14.86 wt.%
+Ag/(cid:2)-Al O ,
+2 3
+1.41 wt.% Cu–17.16 wt.% Ag/SrTiO and
+3
+0.32 wt.%
+Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO catalysts),
+3
+including specific surface area, metal particle size, O uptake
+2
+and
+C H uptake
+2 4
+are summarized in Table 1. All catalysts had extremely
+low specific surface area, with the 14.86 wt.% Ag/(cid:2)-Al O cata-
+2 3
+lyst possessing the lowest specific surface area. The tin promoter
+slightly decreased the specific surface area of the bimetallic Cu–Ag
+catalyst.
+3.1.2. TPD results
+Table 1 also summarizes the adsorption capabilities of oxy-
+gen, ethylene, and methane on the catalyst surfaces, in terms
+of O ,
+2
+C H ,
+2 4
+and CH uptake.
+4
+The main oxygen and ethyl-
+ene desorption peaks in the range of 400–700 K, together with
+the main methane desorption peak at 325–600 K were used
+to calculate the uptake results [40]. The highest amounts of
+both the O and
+2
+C H uptake
+2 4
+were found on the 0.32 wt.% Sn-
+promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst,
+3
+followed
+by the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst.
+3
+However, the
+14.86 wt.% Ag/(cid:2)-Al O catalyst
+2 3
+only adsorbed an insignificant
+amount of oxygen, while there was no measurable ethylene adsorp-
+tion. Among the investigated catalysts, the 1.41 wt.% Cu–17.16 wt.%
+Ag/SrTiO catalyst
+3
+had the highest methane uptake while the low-
+est amount of the methane uptake was found on the 14.86 wt.%
+Ag/(cid:2)-Al O catalyst.
+2 3
+The results indicate that the strong interac-
+tion between Ag–Cu and the SrTiO support
+3
+greatly enhanced both
+ethylene and oxygen uptake as compared to the weak interac-
+tion between Ag and the (cid:2)-Al O support.
+2 3
+The addition of a small
+amount of Sn promoter significantly increased both the ethylene
+and oxygen uptake.
+3.1.3. Surface morphology
+The TEM/EDS technique was applied to verify the existence of
+metal nanoparticles in the catalysts. The average catalyst particle
+sizes are summarized in Table 1. Both promoted and unpromoted
+bimetallic 1.41 wt.% Cu–17.16 wt.% Ag catalysts had larger Ag parti-
+cle sizes (58 nm) than the 14.86 wt.% Ag/(cid:2)-Al O catalyst
+2 3
+(44 nm).
+Moreover, the Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO
+3
+catalyst possessed a slightly larger Cu particle size (5.5 nm) than
+the unpromoted catalyst (4.7 nm). For the 0.32 wt.% Sn-promoted
+on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+operated at opti-
+mum conditions with 6% O ,
+2
+6% C H and
+2 4
+35% CH balanced
+4
+with
+53% He diluent gas, the average Ag particle size increased from
+58 nm for the fresh catalyst to 60 nm for the post-reaction catalyst,
+while the average Cu particle size increased from 5.5 to 5.8 nm,
+and the average Sn particle size increased from 2.8 to 2.9 nm,
+respectively. Moreover, for the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO
+3
+catalyst, the average Ag particle size increased from 58 nm for the
+fresh catalyst to 61 nm for the post-reaction catalyst, while the
+average Cu particle size increased from 4.7 to 5.8 nm after oper-
+ating under optimum conditions (6% O ,
+2
+6% C H with
+2 4
+30% CH
+4
+
+8 A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13
+Table 1
+Characteristics of 14.86 wt.% Ag/(cid:2)-Al2O3, 1.41 wt.% Cu–17.16 wt.%Ag/SrTiO3, and 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO3catalysts at their own optimum
+metal loadings (corresponding to the highest ethylene epoxidation activity).
+Characteristic 14.86 wt.% Ag/(cid:2)-Al2O3 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO3 * 0.32 wt.% Sn–1.39 wt.% Cu–17.16 wt.% Ag/SrTiO3 *
+Specific surface area (m2/g) 0.03 1.1 0.8
+Ag particle sizea(nm) 43.6 ± 0.4 58 ± 0.5 58 ± 0.5
+2nd metal particle sizea(nm) – 4.7 ± 0.4 (Cu) 2.8 ± 0.3 (Sn**), 5.5 ± 0.4 (Cu)
+O2uptakeb((cid:3)mol g−1) 6 6935 7429
+C2H4uptakec((cid:3)mol g−1) 0 5767 6065
+CH4uptaked((cid:3)mol g−1) 259 486 403
+a From TEM analysis.
+b Based on 400–700 K.
+c Based on 400–700 K.
+d Based on 325–600 K.
+* 17.16 wt.% Ag loading (actual).
+** Sn-promoted on Cu–Ag bimetallic catalyst.
+balanced with 58% He diluent gas, 24.7 psia, and 548 K). On the
+other hand, for the 14.86 wt.% Ag/(cid:2)-Al O catalyst,
+2 3
+the average Ag
+particle size increased from 44 nm for the fresh catalyst to 49 nm
+for the post-reaction catalyst after operating at optimum condi-
+tions with 25% CH balanced
+4
+with 63% He diluent gas. The small
+increases in the metal particle size of all catalysts after reaction
+reveal that sintering or particle agglomeration was not of major
+concern.
+The surface morphology of the best catalyst (0.32 wt.% Sn-
+promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst)
+3
+under
+various diluent gas systems after the reaction, as compared to
+the fresh catalyst, are illustrated in Fig. 1. There were no signifi-
+cant changes in surface topologies after the reaction for all diluent
+gas systems except for the system with 35% CH balanced
+4
+with
+53% He, where a larger Ag particle size with a rounder shape was
+observed. Fig. 2 compares the surface morphologies of the catalysts
+that had been operated under optimum conditions with CH bal-
+4
+anced with He as diluent gases before and after the reaction. The
+only catalyst that showed any significant change in surface mor-
+phology was the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst,
+3
+where
+surface agglomeration was observed after the reaction, resulting
+in a smoother appearance with fewer attached particles (Fig. 2c
+and d).
+3.1.4. Coke formation
+Table 2 summarizes the amount of coke formation on the
+different post-reaction catalysts after carrying out the ethylene
+epoxidation reaction for 6 and 72 h, respectively, with various dilu-
+ent gas systems. The highest amount of coke formation was found
+on the 14.86 wt.% Ag/(cid:2)-Al O catalyst 2 3 (6.4% at 6 h and 17.6% at 72 h)
+with CH as
+4
+the diluent gas. The 0.32 wt.% Sn-promoted on 1.39 wt.%
+Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+possessed the lowest amount of
+coke formation of 1.7% at 6 h (with He as the diluent gas) and 2.7%
+at 72 h (with 35% CH balanced
+4
+with 53% He as the diluent gas),
+followed by the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+(2.4%
+at 6 h and 4.0% at 72 h) with He as the diluent gas. The results show
+that the addition of tin leads to a decrease in coke formation. For any
+given catalyst, operation with diluent gas containing CH balanced 4
+with He generally provided the lowest coke formation.
+3.2. Ethylene epoxidation activity
+The effects of various oxide supports ((cid:2)-Al O ,
+2 3
+Al O C,
+2 3
+Al O ,
+2 3,Acid
+SiO 90,
+2
+TiO ,
+2
+SrTiO ,
+3
+MgTiO ,
+3
+CaTiO ,
+3
+and BaTiO )
+3
+and
+several loaded metals (Ag, Au, Au–Ag, Cu–Ag, Ba–Ag, Pd–Ag, and
+Sn–Ag) on the best support (SrTiO ) 3 for the ethylene epoxida-
+tion reaction were investigated in our previous work [38–40]. The
+0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO cat- 3
+alyst provided the highest catalytic performance in terms of
+yield,
+EO
+at 5.2%, and enhanced EO selectivity to 95.1%, and the best
+long-term stability at 72 h on stream. Furthermore, the second
+best catalyst was the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO catalyst.
+3
+Therefore, in this present work the two catalysts were studied as a
+comparison to the commercial 14.86 wt.% Ag/(cid:2)-Al O catalyst.
+2 3
+The
+effect of various diluent gases (Ar, N ,
+2
+CH ,
+4
+and CH balanced
+4
+with
+He) on ethylene epoxidation was compared to the effect of the He
+diluent gas that was used in the previous work [38–40].
+Fig. 3 shows the ethylene epoxidation activity of the catalysts
+as a function of O -to-C H molar
+2 2 4
+ratio at various diluent gases
+(He, Ar, N ,
+2
+and CH )
+4
+at 6 h on stream. The optimum O -to-C H
+2 2 4
+molar ratio of 1:1 (6% O and
+2
+6% C H )
+2 4
+provided the highest EO
+selectivity and/or yield for all diluent gases, except for N with
+2
+an
+optimum ratio of 0.75:1 (4.5% O and
+2
+6% C H ).
+2 4
+The He diluent sys-
+tem had the highest EO selectivity in all investigated catalysts and
+the maximum EO yield in some cases. However, the CH diluent
+4
+system provided the highest EO yield for the 14.86 wt.% Ag/(cid:2)-Al O
+2 3
+and the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO catalysts
+3
+at 6 h of oper-
+ation. Hence, the CH gas
+4
+was mixed with He gas to investigate the
+synergistic effect of the two diluent gases at different percentages
+of CH to
+4
+obtain the optimum CH balance
+4
+with He for the three
+catalysts. The ethylene epoxidation activity of the catalysts at 6
+and 72 h on stream under different diluent gases is summarized in
+Table 3. The addition of CH gas
+4
+with a proper fraction balanced
+Table 2
+Coke formation on spent catalysts after 6 and 72 h on stream of the ethylene epoxi-
+dation reaction (a space velocity of 6000 h−1, a pressure of 24.7 psia, and a reaction
+temperature of 548 K).
+Catalyst Diluent gas Coke formation
+at 6 h
+Coke
+(wt.%)
+formation
+at 72 h (wt.%)
+14.86 wt.% 88%
+Ag/(cid:2)-Al2O3
+He 4.3 11.7
+88% Ar 5.1 12.2
+89.5% N2 5.8 13.8
+88% CH4 6.4 17.6
+25% CH4+ 63% He 4.9 12.3
+1.41 wt.%
+Cu–17.16
+88%
+wt.%
+Ag/SrTiO3
+He 2.4 4.0
+88% Ar 3.0 4.9
+89.5% N2 2.9 5.4
+88% CH4 4.8 7.7
+30% CH4+ 58% He 2.6 4.5
+0.32 wt.%
+Sn–1.39 wt.%
+Cu–17.16
+88%
+wt.%
+Ag/SrTiO3
+He 1.7 2.9
+88% Ar 2.5 3.8
+89.5% N2 2.7 4.6
+88% CH4 3.9 7.1
+35% CH4+ 53% He 2.2 2.7
+Note: The optimum concentrations of 6% O2and 6% C2H4were found for all systems,
+except for the N2diluent gas system which its optimum concentrations of O2and
+C2H4were 4.5% and 6%, respectively.
+
+A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13 9
+Fig. 1. SEM images of 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.% Ag/SrTiO3catalysts after the reaction at various diluent gas systems (a) fresh catalyst, (b) He, (c)
+Ar, (d) N2, (e) CH4, and (f) 35% CH4balanced with 53% He (50,000×).
+with He improved ethylene conversion (the data not shown here)
+with high EO selectivity and yield at 6 h on stream for all catalysts.
+The ethylene conversion increased from 3.6% for He diluent gas to
+3.8% for 25% CH balanced
+4
+with He (14.86 wt.% Ag/(cid:2)-Al O cata-
+2 3
+lyst), 5.8% for He diluent gas to 6.0% for the 30% CH balanced
+4
+with
+He (1.41 wt.% Cu–Ag/SrTiO catalyst),
+3
+and 5.5% for He diluent gas
+to 5.6% for the 35% CH balanced
+4
+with He (0.32 wt.% Sn-promoted
+on Cu–Ag/SrTiO catalyst).
+3
+For any given catalyst, EO
+dropped
+selectivity
+substantially after 72 h of operation. Among all the inves-
+tigated diluent gases, the most effective diluent gas was the CH
+4
+balanced with He, providing maximum EO selectivity and superior
+long-term stability at 72 h. Moreover, the 0.32 wt.% Sn-promoted
+on Cu–Ag/SrTiO and
+3
+the 1.41 wt.% Cu–Ag/SrTiO catalysts
+3
+showed
+much better catalytic performance than the 14.86 wt.% Ag/(cid:2)-Al O
+2 3
+catalyst. It should be noted that for any given catalyst, the CH
+4
+conversion was higher in the CH diluent
+4
+system than that of the
+
+10 A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13
+Fig. 2. SEM images of 14.86 wt.% Ag/(cid:2)-Al2O3catalysts (a) before the reaction and (b) after the reaction in 25% CH4balanced with 63% He (the diluent gas system); (c) 1.41 wt.%
+Cu–17.16 wt.% Ag/SrTiO3catalysts before the reaction and (d) after the reaction in 30% CH4balanced with 58% He; (e) 0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16 wt.%
+Ag/SrTiO3catalysts before the reaction and (f) after the reaction in 35% CH4balanced with 53% He (50,000×) (reaction conditions: 6% O2, 6% C2H4, a space velocity of 6000 h−1,
+24.7 psia, and 548 K).
+CH balanced
+4
+with He system. Moreover, the conversion of CH
+4
+was always low for all cases. The results can be used to correlate
+the higher amount of coke formation in the CH diluent
+4
+system
+as compared to the CH balanced
+4
+with He system (Table 2). CH
+4
+may help to increase the ethylene conversion, improve the activity
+of the catalysts as well as suppress CO formation
+2
+[43] while He
+simultaneously maintains high EO selectivity, resulting in syner-
+gistic effects for EO formation. When CH was
+4
+completely replaced
+by ethylene in the feed, the product was found to contain mainly
+CO (the
+2
+data not shown here). This result illustrates that the
+CH addition
+4
+can enhance the catalytic activity of the
+epoxidation
+ethylene
+reaction only when a proper amount of CH is
+4
+added
+to the He diluent gas.
+The best diluent gas (CH balanced
+4
+with He) was next applied
+in the long-term stability experiments of the catalysts, with the
+results shown in Fig. 4. The catalytic activity of all catalysts declined
+with time and reached a steady state at ∼50 h on stream. The
+0.32 wt.% Sn-promoted on Cu–Ag/SrTiO was
+3
+found to be the most
+effective catalyst, in which its EO selectivity slightly dropped from
+99.5% at 6 h to 97% at 72 h and EO yield decreased from 5.5% to 5.1%.
+The second best catalyst was the 1.41 wt.% Cu–17.16 wt.% Ag/SrTiO
+3
+catalyst where the EO selectivity decreased to 91% and EO yield to
+
+A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13 11
+Fig. 3. EO yield and EO selectivity as a function of O2to C2H4molar ratio of the studied catalysts at 6 h on stream in various diluent gas systems: (a) and (b) in He, (c) and (d)
+in Ar, (e) and (f) in N2, (g) and (h) in CH4(a fixed C2H4concentration of 6%, a space velocity of 6000 h−1, a pressure of 24.7 psia, and a reaction temperature of 548 K).
+5% after 72 h of operation. On the other hand, the 14.86 wt.% Ag/(cid:2)-
+Al O catalyst
+2 3
+exhibited the worst long-term stability, providing an
+EO selectivity of only 40% and EO yield of 1.3% after 72 h on stream.
+The reason for the decline in catalytic activity of all catalysts was
+mainly due to coke formation (see Table 2).
+An ethylene epoxidation experiment to determine the best
+catalyst (0.32 wt.% Sn-promoted on 1.39 wt.% Cu–17.16% wt.%
+Ag/SrTiO )
+3
+was conducted for 7 days (168 h) to confirm the
+long-term
+superior
+stability of this catalyst (Fig. 5). The EO selectivity
+remained almost stable after 72 h on stream and slightly dropped
+from 97% at 72 h to 96% at 168 h. The EO yield also depicted the
+same trend, decreasing from 5.1% at 72 h to 4.9% at 168 h. The
+good catalytic activity of this catalyst can be related to the rela-
+tively high oxygen and ethylene adsorption capabilities and the
+tin promoter, which prolongs stability of the ethylene epoxidation
+reaction [40].
+
+12 A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13
+Table 3
+Ethylene epoxidation activity of studied catalysts at 6 and 72 h on stream (a space velocity of 6000 h−1, a pressure of 24.7 psia, reaction temperature of 548 K).
+Catalysts Diluent gas 6 h of time on stream 72 h of time on stream
+EO selectivity (%) EO yield (%) EO selectivity (%) EO yield (%) CH4conversion (%)
+14.86 wt.% 88%
+Ag/(cid:2)-Al2O3
+He 77.4 2.8 43.4 1.3 –
+88% Ar 74.4 2.7 41.0 1.2 –
+89.5% N2 73.9 2.6 37.2 1.1 –
+88% CH4 75.3 3.0 28.4 0.9 3.0
+25% CH4+ 63% He 80.0 3.0 40.0 1.3 2.4
+1.41 wt.%
+Cu–17.16
+88%
+wt.%
+Ag/SrTiO3
+He 99.3 5.7 90.0 4.5 –
+88% Ar 96.1 5.3 86.6 4.2 –
+89.5% N2 96.9 5.3 83.5 4.0 –
+88% CH4 93.1 6.0 76.9 4.1 2.2
+30% CH4+ 58% He 99.3 5.9 91.3 5.0 1.7
+0.32 wt.%
+Sn–1.39 wt.%
+Cu–17.16
+88%
+wt.%
+Ag/SrTiO3
+He 99.2 5.4 95.1 5.2 –
+88% Ar 96.8 5.2 91.8 4.8 –
+89.5% N2 97.0 5.1 89.4 4.5 –
+88% CH4 93.9 5.3 79.8 4.0 2.6
+35% CH4+ 53% He 99.5 5.5 96.7 5.1 2.2
+Note: The optimum concentrations of 6% O2and 6% C2H4were found for all systems, except for the N2diluent gas system with optimum concentrations of O2and C2H4at
+4.5% and 6%, respectively.
+(a) 7
+6
+5
+4
+3
+2
+1
+0
+0 8 16 24 32 40 48 56 64 72
+)%(
+dleiy
+OE
+14.86 wt.% Ag/
+Time on Stream (h)
+α-Al2O3 (25% CH4+He)
+0.32 wt.% Sn-1.39 wt.% Cu-17
+1.41 wt.% Cu-17
+.16 wt.% Ag/SrTiO3(35% CH4+He)
+.16 wt.% Ag/SrTiO3(30% CH4+He)
+(b) 100
+80
+60
+40
+20
+0
+0 8 16 24 32 40 48 56 64 72
+)%(
+ytivitceles
+OE
+14.86 wt.% Ag/
+Time on Stream (h)
+α-Al2O3 (25% CH 4+He)
+0.32 wt.% Sn-1. 39 wt.% Cu -17
+1.41 wt.% Cu
+.16 wt.% Ag/SrTiO3(35% CH4+He)
+-17 .16 wt.% Ag/SrTiO3(30% CH4+He)
+Fig. 4. (a) EO yield and (b) EO selectivity as a function of time on stream for the studied catalysts at their optimum % CH4balanced with He as the diluent gas systems (6%
+O2and 6% C2H4, a space velocity of 6000 h−1, a pressure of 24.7 psia, a reaction temperature of 548 K).
+
+A. Chongterdtoonskul et al. / Journal of Molecular Catalysis A: Chemical 386 (2014) 5–13 13
+100 7
+6
+90
+5
+80
+4
+70
+3
+60
+2
+50
+1
+40 0
+0 16 32 48 64 80 96 112 128 144 160
+)%(
+ytivitceles
+OE
+Time on Stream (h)
+EO
+yield
+(%)
+Fig. 5. EO selectivity and EO yield as a function of time on stream for 0.32 wt.% Sn–1.39 wt.% Cu–17.16 wt.% Ag/SrTiO3catalyst (6% O2and 6% C2H4balanced with 35% CH4+ He,
+a space velocity of 6000 h−1, a pressure of 24.7 psia, a temperature of 548 K).
+4. Conclusions
+In this study, the effect of diluent gas on ethylene epoxidation
+was investigated over the best catalyst (0.32 wt.% Sn-promoted on
+1.39 wt.% Cu–17.16 wt.% Ag/SrTiO )
+3
+in comparison to the 1.41 wt.%
+Cu–17.16 wt.% Ag/SrTiO catalyst
+3
+and a 14.86 wt.% Ag/(cid:2)-Al O
+2 3
+commercial catalyst. The type of diluent gas affected ethylene
+epoxidation in the following order: He > N ∼
+2
+Ar > CH ,
+4
+which corre-
+sponded to coke formation. Interestingly, the addition of CH in
+4
+the
+He diluent gas, at a proper fraction, enhanced the ethylene epoxida-
+tion performance for all studied catalysts, especially for long-term
+activity.
+Acknowledgments
+This work was supported by the Royal Golden Jubilee Ph.D.
+Program (RGJ-Industry) awarded by The Thailand Research Fund
+with the in-kind support from PTT Global Chemical Public Co.
+Ltd.; the Sustainable Petroleum and Petrochemicals Research Unit,
+Center of Excellence on Petrochemical and Materials Technology,
+Chulalongkorn University (Thailand); the postdoctoral research
+fellowship under the Ratchadaphiseksomphot Endowment Fund,
+Chulalongkorn University (Thailand); and the Transportation
+Energy Center, Department of Chemical Engineering, University of
+Michigan (USA).
+References
+[1] S.S. Hassani, M.R. Ghasemi, M. Rashidzadeh, Z. Sobat, Cryst. Res. Technol. 44
+(2009) 948–952.
+[2] Y.Ch. Kim, N.C. Park, J.S. Shin, S.R. Lee, Y.J. Lee, D.J. Moon, Catal. Today 87 (2003)
+153.
+[3] J.T. Jankowiak, M.A. Barteau, J. Catal. 236 (2005) 366.
+[4] T.E. Lefort, French Patent 729 (1931) 952.
+[5] G. Ertl, H. Knozinger, J. Weitkamp, Handbook of Heterogeneous Catalysis, VCH,
+Weinheim, 1997.
+[6] R.E. Kenson, M. Lapkin, J. Phys. Chem. 74 (1970) 1493–1502.
+[7] T. Tsumura, K. Sogabe, M. Toyoda, Mater. Sci. Eng. B 157 (2009) 113–115.
+[8] L. Chen, S. Zhang, L. Wang, D. Xue, S. Yin, J. Cryst. Growth 311 (2009) 746–748.
+[9] J.C. Dellamorte, J. Lauterbach, M.A. Barteau, Top. Catal. 53 (2010) 13–18.
+[10] S. Pak, A. Rokicki, S. Kawabata, US Patent 0016617 A1
+[11]
+(2010).
+A.I. Korchagin, N.K. Kuksanov, A.V. Lavrukhin, S.N. Fadeev, R.A. Salimov, S.P.
+Bardakhanov, V.B. Goncharov, A.P. Suknev, E.A. Paukshtis, T.V. Larina, V.I.
+Zaikovskii, S.V. Bodanov, B.S. Balzhinimaev, Vacuum 77 (2005) 485–491.
+[12] V.G. Nenajdenko, A.Y. Vasilkov, A.A. Goldberg, V.M. Muzalevskiy, A.V. Naumkin,
+V.L. Podshibikhin, A.V. Shastin, E.S. Balenkova, Mendeleev Commun. 20 (2010)
+200–202.
+[13] J. Rebelli, A.A. Rodriguez, S. Ma, C.T. Williams, J.R. Monnier, Catal. Today 160
+(2011) 170–178.
+[14] X. Liu, A. Wang, X. Yang, T. Zhang, C.Y. Mou, D.S. Su, J. Li, Chem. Mater. 21 (2009)
+410–418.
+[15] V. Abdelsayed, K.M. Saoud, M.S. Shall, J. Nanopart. Res. 8 (2006) 519–531.
+[16] C.F. Mao, M.A. Vannice, Appl. Catal., A 122 (1995) 61–76.
+[17] G.B. Hoflund, D.M. Minahan, Nucl. Instrum. Methods Phys. Res. Sect. B 118
+(1996) 517–521.
+[18] A.P. Fotopoulos, K.S. Triantafyllidis, Catal. Today 127 (2007) 148–156.
+[19] Y. Shiraishi, N. Toshima, J. Mol. Catal. A: Chem. 141 (1999) 187–192.
+[20] S.R. Lee, Y.J. Lee, S.G. Hong, Y.C. Kim, N.C. Park, D.J. Moon, Appl. Chem. 7 (2003)
+229–232.
+[21] M. Epifani, C. Giannini, L. Tapfer, L. Vasanelli, J. Am. Ceram. Soc. 83 (2000)
+2385–2393.
+[22] K.L. Yeung, A. Gavriilidis, A. Varma, M.M. Bhasin, J. Catal. 174 (1998) 1–12.
+[23] Ch. Karavasilis, S. Bebelis, C.G. Vayenas, J. Catal. 160 (1996) 205–213.
+[24] E.A. Podgornov, I.P. Prosvirin, V.I. Bukhtiyarov, J. Mol. Catal. A: Chem. 158 (2000)
+337–343.
+[25] D.M. Minahan, G.B. Hoflund, J. Catal. 158 (1996) 109.
+[26] R.B. Grant, R.M. Lambert, J. Catal. 92 (1985) 364.
+[27] C.T. Campbell, J. Catal. 99 (1986) 28.
+[28] S. Linic, M.A. Barteau, J. Am. Chem. Soc. 126 (2004) 8087.
+[29] W.S. Epling, G.B. Hoflund, D.M. Minahan, J. Catal. 171 (1997) 490–497.
+[30] P. Yinsheng, Z. Shi, T. Liang, D. Jingfa, Catal. Lett. 12 (1992) 307–318.
+[31] C.T. Campbell, B.E. Koel, J. Catal. 92 (1985) 272.
+[32] D. Lafarga, A. Varma, Chem. Eng. Sci. 55 (2000) 749–758.
+[33] J.C. Dellamorte, J. Lauterbach, M.A. Barteau, Catal. Today 120 (2007) 182–185.
+[34] C.N. Marta, A. Carvalho, F.B. Passos, M. Schmal, J. Catal. 248 (2007) 124–129.
+[35] A. Ayame, Y. Uchida, H. Ono, M. Miyamoto, T. Sato, H. Hayasaka, Appl. Catal., A
+244 (2003) 59–70.
+[36] J.C. Dellamorte, J. Lauterbach, M.A. Barteau, Appl. Catal., A 391 (2011) 281–288.
+[37] V.M. Mastikhin, S.N. Goncharova, V.M. Tapilin, V.V. Terskikh, B.S. Balzhinimaev,
+J. Mol. Catal. A: Chem. 96 (1995) 175–179.
+[38] A. Chongterdtoonskul, J.W. Schwank, S. Chavadej, J. Mol. Catal. A: Chem. 358
+(2012) 58–66.
+[39] A. Chongterdtoonskul, J.W. Schwank, S. Chavadej, Catal. Lett. 142 (2012)
+991–1002.
+[40] A. Chongterdtoonskul, J.W. Schwank, S. Chavadej, J. Mol. Catal. A: Chem 372
+(2013) 175–182.
+[41] S.M. Lima, A.M. Silva, G. Jacobs, B.H. Davis, L.V. Mattos, F.B. Noronha, Appl. Catal.,
+B 96 (2010) 387–398.
+[42] S. Rojluechai, Ph.D. Dissertation, The Petroleum and Petrochemical College,
+Chalongkorn University, Bangkok, Thailand, 2006.
+[43] Y. Liu, S. Shen, Appl. Catal., A 121 (1995) 57–68.
+

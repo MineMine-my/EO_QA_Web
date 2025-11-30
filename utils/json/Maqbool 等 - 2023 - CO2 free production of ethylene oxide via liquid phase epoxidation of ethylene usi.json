@@ -1,0 +1,147 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1039/d2ra07240h"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "发表年份",
+        "end_node": "2023"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "制备方法",
+        "end_node": "水热合成"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "载体",
+        "end_node": "介孔二氧化硅"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "活性组分",
+        "end_node": "氧化铌"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "转化率",
+        "end_node": "79.5%"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "选择性",
+        "end_node": "84.3%"
+    },
+    {
+        "start_node": "液体相环氧化",
+        "relationship": "使用",
+        "end_node": "过氧乙酸"
+    },
+    {
+        "start_node": "液体相环氧化",
+        "relationship": "避免",
+        "end_node": "CO2排放"
+    },
+    {
+        "start_node": "过氧乙酸",
+        "relationship": "氧化剂",
+        "end_node": "乙烯环氧化"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "40-70°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "50 bar"
+    },
+    {
+        "start_node": "催化剂用量",
+        "relationship": "优化值",
+        "end_node": "0.3 g"
+    },
+    {
+        "start_node": "乙烯/PAA",
+        "relationship": "优化比例",
+        "end_node": "1:3"
+    },
+    {
+        "start_node": "乙腈",
+        "relationship": "最佳溶剂",
+        "end_node": "液体相环氧化"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "催化剂用量",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "氧化剂过量",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Nb/MSM催化剂",
+        "relationship": "抑制",
+        "end_node": "金属浸出"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "20-30 nm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "值",
+        "end_node": "129.4 m2/g"
+    },
+    {
+        "start_node": "孔径",
+        "relationship": "值",
+        "end_node": "4.54 nm"
+    }
+]

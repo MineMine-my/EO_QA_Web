@@ -1,0 +1,167 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-300°C"
+    },
+    {
+        "start_node": "Ag2Al",
+        "relationship": "中间相",
+        "end_node": "Ag/Al2O3"
+    },
+    {
+        "start_node": "Ag2Al",
+        "relationship": "氧化生成",
+        "end_node": "Ag+Al2O3"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "促进",
+        "end_node": "Ag2Al分解"
+    },
+    {
+        "start_node": "高Ag浓度",
+        "relationship": "促进",
+        "end_node": "Ag2Al形成"
+    },
+    {
+        "start_node": "Ag2O",
+        "relationship": "不稳定温度",
+        "end_node": ">237°C"
+    },
+    {
+        "start_node": "AgAlO2",
+        "relationship": "不稳定温度",
+        "end_node": ">237°C"
+    },
+    {
+        "start_node": "Ag/Al2O3",
+        "relationship": "制备方法",
+        "end_node": "原位反应"
+    },
+    {
+        "start_node": "纳米Ag",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "纳米Ag",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "纳米Ag稳定性"
+    },
+    {
+        "start_node": "原位反应",
+        "relationship": "解决",
+        "end_node": "纳米相稳定性"
+    },
+    {
+        "start_node": "第一性原理",
+        "relationship": "计算",
+        "end_node": "热力学参数"
+    },
+    {
+        "start_node": "负ΔG",
+        "relationship": "指示",
+        "end_node": "自发反应"
+    },
+    {
+        "start_node": "负ΔHf",
+        "relationship": "指示",
+        "end_node": "热力学稳定性"
+    },
+    {
+        "start_node": "Ag2Al",
+        "relationship": "优先形成",
+        "end_node": "Ag/Al固溶体"
+    },
+    {
+        "start_node": "Ag2Al",
+        "relationship": "进一步氧化",
+        "end_node": "Ag+Al2O3"
+    },
+    {
+        "start_node": "温度升高",
+        "relationship": "促进",
+        "end_node": "Ag2Al氧化"
+    },
+    {
+        "start_node": "Ag浓度增加",
+        "relationship": "促进",
+        "end_node": "Ag2Al形成"
+    },
+    {
+        "start_node": "低Ag浓度",
+        "relationship": "促进",
+        "end_node": "直接氧化"
+    },
+    {
+        "start_node": "600°C",
+        "relationship": "氧化温度",
+        "end_node": "Ag/Al2O3"
+    },
+    {
+        "start_node": "400°C",
+        "relationship": "生成",
+        "end_node": "Ag2Al"
+    },
+    {
+        "start_node": "600°C",
+        "relationship": "生成",
+        "end_node": "Ag+Al2O3"
+    },
+    {
+        "start_node": "Al2O3",
+        "relationship": "载体",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "工业催化剂"
+    },
+    {
+        "start_node": "Ag颗粒",
+        "relationship": "粒径范围",
+        "end_node": ">200 nm"
+    },
+    {
+        "start_node": "乙烯环氧化",
+        "relationship": "反应温度",
+        "end_node": "200-300°C"
+    }
+]

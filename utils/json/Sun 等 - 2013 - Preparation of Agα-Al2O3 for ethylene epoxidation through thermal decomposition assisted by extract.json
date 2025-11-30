@@ -1,0 +1,202 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "生物质辅助热分解",
+        "relationship": "制备",
+        "end_node": "Ag/α-Al2O3"
+    },
+    {
+        "start_node": "生物质辅助热分解",
+        "relationship": "抑制",
+        "end_node": "银烧结"
+    },
+    {
+        "start_node": "生物质辅助热分解",
+        "relationship": "减少",
+        "end_node": "银损失"
+    },
+    {
+        "start_node": "生物质辅助热分解",
+        "relationship": "提高",
+        "end_node": "分散性"
+    },
+    {
+        "start_node": "银烧结",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "银损失",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "分散性",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "600°C"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "范围",
+        "end_node": "60 min"
+    },
+    {
+        "start_node": "樟树提取物浓度",
+        "relationship": "范围",
+        "end_node": "0.25 g mL-1"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "240°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "2.0 MPa"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "7000 mL h-1mLcat-1"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "范围",
+        "end_node": "15/7/5/73 vol%"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "110.3-727.0 nm"
+    },
+    {
+        "start_node": "600°C煅烧",
+        "relationship": "产生",
+        "end_node": "Ag0物种"
+    },
+    {
+        "start_node": "Ag0物种",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "氧化银簇",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag+物种",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "生物质辅助催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1039/c3ra42336k"
+    },
+    {
+        "start_node": "生物质辅助催化剂",
+        "relationship": "发表年份",
+        "end_node": "2013"
+    },
+    {
+        "start_node": "生物质辅助催化剂",
+        "relationship": "选择性",
+        "end_node": "75.31%"
+    },
+    {
+        "start_node": "生物质辅助催化剂",
+        "relationship": "时空产率",
+        "end_node": "211.48 g h-1Lcat-1"
+    },
+    {
+        "start_node": "传统热分解",
+        "relationship": "导致",
+        "end_node": "银烧结"
+    },
+    {
+        "start_node": "传统热分解",
+        "relationship": "导致",
+        "end_node": "银损失"
+    },
+    {
+        "start_node": "传统热分解催化剂",
+        "relationship": "选择性",
+        "end_node": "77.28%"
+    },
+    {
+        "start_node": "传统热分解催化剂",
+        "relationship": "时空产率",
+        "end_node": "63.32 g h-1Lcat-1"
+    },
+    {
+        "start_node": "樟树提取物",
+        "relationship": "作为",
+        "end_node": "还原剂"
+    },
+    {
+        "start_node": "樟树提取物",
+        "relationship": "作为",
+        "end_node": "稳定剂"
+    },
+    {
+        "start_node": "樟树提取物",
+        "relationship": "控制",
+        "end_node": "粒径分布"
+    },
+    {
+        "start_node": "粒径分布",
+        "relationship": "影响",
+        "end_node": "催化性能"
+    },
+    {
+        "start_node": "N2气氛",
+        "relationship": "用于",
+        "end_node": "煅烧过程"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    }
+]

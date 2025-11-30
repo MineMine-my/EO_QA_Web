@@ -1,0 +1,232 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/(LSA)α-Al2O3",
+        "relationship": "提供",
+        "end_node": "最高选择性"
+    },
+    {
+        "start_node": "Ag/(LSA)α-Al2O3",
+        "relationship": "提供",
+        "end_node": "最低CO2选择性"
+    },
+    {
+        "start_node": "Ag/(LSA)α-Al2O3",
+        "relationship": "提供",
+        "end_node": "最低CO选择性"
+    },
+    {
+        "start_node": "电压增加",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "频率300-500Hz",
+        "relationship": "保持",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "频率>500Hz",
+        "relationship": "降低",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "12.5 wt%"
+    },
+    {
+        "start_node": "12.5 wt% Ag",
+        "relationship": "提供",
+        "end_node": "最高选择性"
+    },
+    {
+        "start_node": "环氧乙烷选择性",
+        "relationship": "数值",
+        "end_node": "12.9%"
+    },
+    {
+        "start_node": "操作电压",
+        "relationship": "范围",
+        "end_node": "15 kV"
+    },
+    {
+        "start_node": "输入频率",
+        "relationship": "范围",
+        "end_node": "500 Hz"
+    },
+    {
+        "start_node": "功率消耗",
+        "relationship": "数值",
+        "end_node": "12.6×10^-16 W s"
+    },
+    {
+        "start_node": "低O2/C2H4",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "低进料流速",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    },
+    {
+        "start_node": "Ag/(LSA)α-Al2O3",
+        "relationship": "具有",
+        "end_node": "低表面积"
+    },
+    {
+        "start_node": "Ag/(HSA)γ-Al2O3",
+        "relationship": "具有",
+        "end_node": "高表面积"
+    },
+    {
+        "start_node": "Au-Ag/(HSA)γ-Al2O3",
+        "relationship": "具有",
+        "end_node": "双金属"
+    },
+    {
+        "start_node": "高表面积",
+        "relationship": "提高",
+        "end_node": "银分散度"
+    },
+    {
+        "start_node": "银分散度",
+        "relationship": "影响",
+        "end_node": "氧吸附"
+    },
+    {
+        "start_node": "Au添加",
+        "relationship": "破坏",
+        "end_node": "多银位点"
+    },
+    {
+        "start_node": "Au添加",
+        "relationship": "创建",
+        "end_node": "分子氧位点"
+    },
+    {
+        "start_node": "分子氧位点",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "9.5 nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "环境温度"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "大气压"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "1:1"
+    },
+    {
+        "start_node": "电晕放电",
+        "relationship": "产生",
+        "end_node": "活性物种"
+    },
+    {
+        "start_node": "活性物种",
+        "relationship": "促进",
+        "end_node": "表面反应"
+    },
+    {
+        "start_node": "催化剂",
+        "relationship": "增强",
+        "end_node": "等离子体效率"
+    },
+    {
+        "start_node": "Ag/(LSA)α-Al2O3",
+        "relationship": "产生",
+        "end_node": "低积碳"
+    },
+    {
+        "start_node": "高Ag负载",
+        "relationship": "导致",
+        "end_node": "高积碳"
+    },
+    {
+        "start_node": "积碳",
+        "relationship": "降低",
+        "end_node": "催化剂活性"
+    },
+    {
+        "start_node": "电压增加",
+        "relationship": "增加",
+        "end_node": "电流"
+    },
+    {
+        "start_node": "电流增加",
+        "relationship": "增加",
+        "end_node": "电子数量"
+    },
+    {
+        "start_node": "电子数量",
+        "relationship": "影响",
+        "end_node": "碰撞机会"
+    },
+    {
+        "start_node": "频率增加",
+        "relationship": "降低",
+        "end_node": "电流"
+    },
+    {
+        "start_node": "C2H2氢化",
+        "relationship": "补偿",
+        "end_node": "C2H4转化"
+    },
+    {
+        "start_node": "低流速",
+        "relationship": "增加",
+        "end_node": "停留时间"
+    },
+    {
+        "start_node": "停留时间",
+        "relationship": "影响",
+        "end_node": "反应效率"
+    }
+]

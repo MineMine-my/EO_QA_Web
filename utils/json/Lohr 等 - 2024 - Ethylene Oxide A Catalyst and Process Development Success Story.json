@@ -1,0 +1,187 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯促进",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "有机氯化物",
+        "relationship": "用作",
+        "end_node": "调节剂"
+    },
+    {
+        "start_node": "铯促进",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "铼促进",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "铼催化剂",
+        "relationship": "需要",
+        "end_node": "铯促进"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "220-230°C"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "260-300°C"
+    },
+    {
+        "start_node": "CO2浓度",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CO2浓度",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "银烧结",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "1-10 m2/g"
+    },
+    {
+        "start_node": "载体",
+        "relationship": "使用",
+        "end_node": "α-氧化铝"
+    },
+    {
+        "start_node": "胺羧酸盐法",
+        "relationship": "提高",
+        "end_node": "银分散度"
+    },
+    {
+        "start_node": "高分散度",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "NOx促进",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧物种",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "电负性氧",
+        "relationship": "促进",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "亲核性氧",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "稳定",
+        "end_node": "OMC中间体"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "分解为",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "OMC中间体",
+        "relationship": "分解为",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "氧化为",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧工艺",
+        "relationship": "优于",
+        "end_node": "空气工艺"
+    },
+    {
+        "start_node": "甲烷平衡气",
+        "relationship": "抑制",
+        "end_node": "可燃性"
+    },
+    {
+        "start_node": "水冷却反应器",
+        "relationship": "提高",
+        "end_node": "热传递"
+    },
+    {
+        "start_node": "热钾碳酸盐",
+        "relationship": "用于",
+        "end_node": "CO2脱除"
+    },
+    {
+        "start_node": "OMEGA工艺",
+        "relationship": "生产",
+        "end_node": "MEG"
+    },
+    {
+        "start_node": "催化MEG",
+        "relationship": "提高",
+        "end_node": "产率"
+    },
+    {
+        "start_node": "高选择性催化剂",
+        "relationship": "降低",
+        "end_node": "CO2排放"
+    }
+]

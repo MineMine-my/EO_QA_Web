@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ca2Ag7",
+        "relationship": "氧化生成",
+        "end_node": "Ag颗粒"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "氧化生成",
+        "end_node": "Ag颗粒"
+    },
+    {
+        "start_node": "Ag颗粒",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag颗粒",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ca2Ag7",
+        "relationship": "选择性范围",
+        "end_node": "50-65%"
+    },
+    {
+        "start_node": "CaAg2",
+        "relationship": "选择性范围",
+        "end_node": "50-65%"
+    },
+    {
+        "start_node": "CaAg",
+        "relationship": "选择性范围",
+        "end_node": "<30%"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "水蒸气",
+        "relationship": "促进",
+        "end_node": "腐蚀"
+    },
+    {
+        "start_node": "CaAg",
+        "relationship": "形成",
+        "end_node": "CaO钝化层"
+    },
+    {
+        "start_node": "CaO钝化层",
+        "relationship": "抑制",
+        "end_node": "氧化"
+    },
+    {
+        "start_node": "CaO钝化层",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "230-350°C"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "1000-2000 h-1"
+    },
+    {
+        "start_node": "乙基氯浓度",
+        "relationship": "范围",
+        "end_node": "0-4.5 ppm"
+    },
+    {
+        "start_node": "Ca-Ag化合物",
+        "relationship": "DOI",
+        "end_node": "10.1080/14686996.2019.1655664"
+    },
+    {
+        "start_node": "Ca-Ag化合物",
+        "relationship": "发表年份",
+        "end_node": "2019"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "提高",
+        "end_node": "安全性"
+    },
+    {
+        "start_node": "化学循环",
+        "relationship": "避免",
+        "end_node": "爆炸风险"
+    },
+    {
+        "start_node": "CeO2-SrFeO3",
+        "relationship": "优于",
+        "end_node": "SrFeO3"
+    },
+    {
+        "start_node": "机械混合",
+        "relationship": "制备",
+        "end_node": "CeO2-SrFeO3"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "制备",
+        "end_node": "CeO2-SrFeO3"
+    },
+    {
+        "start_node": "机械混合材料",
+        "relationship": "稳定性",
+        "end_node": "15循环"
+    },
+    {
+        "start_node": "机械混合材料",
+        "relationship": "选择性",
+        "end_node": "60%"
+    },
+    {
+        "start_node": "机械混合材料",
+        "relationship": "转化率",
+        "end_node": "10%"
+    },
+    {
+        "start_node": "浸渍材料",
+        "relationship": "选择性",
+        "end_node": "85%"
+    },
+    {
+        "start_node": "浸渍材料",
+        "relationship": "性能",
+        "end_node": "衰减"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "增加",
+        "end_node": "氧化学势"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "改善",
+        "end_node": "氧化还原动力学"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "降低",
+        "end_node": "起始温度"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "还原速率"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "再氧化速率"
+    },
+    {
+        "start_node": "CeO2纳米颗粒",
+        "relationship": "尺寸",
+        "end_node": "5 nm"
+    },
+    {
+        "start_node": "机械混合CeO2",
+        "relationship": "尺寸",
+        "end_node": "300 nm"
+    },
+    {
+        "start_node": "Ag颗粒",
+        "relationship": "尺寸",
+        "end_node": "161-312 nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "270°C"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "6250 h-1"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "15 wt%"
+    },
+    {
+        "start_node": "CeO2含量",
+        "relationship": "范围",
+        "end_node": "5 mol%"
+    },
+    {
+        "start_node": "粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "纳米Ag颗粒",
+        "relationship": "促进",
+        "end_node": "二次氧化"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "抑制",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "SrFeO3",
+        "relationship": "提供",
+        "end_node": "氧物种"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "作为",
+        "end_node": "氧网关"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "改善",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "相合作",
+        "relationship": "增强",
+        "end_node": "还原性"
+    },
+    {
+        "start_node": "相合作",
+        "relationship": "提高",
+        "end_node": "氧化还原速率"
+    },
+    {
+        "start_node": "CeO2-SrFeO3界面",
+        "relationship": "促进",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "CeO2体相分布",
+        "relationship": "优于",
+        "end_node": "CeO2表面分布"
+    },
+    {
+        "start_node": "CeO2体相分布",
+        "relationship": "提高",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "CeO2体相分布",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CeO2体相分布",
+        "relationship": "提高",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "CeO2表面分布",
+        "relationship": "导致",
+        "end_node": "性能衰减"
+    },
+    {
+        "start_node": "双浸渍",
+        "relationship": "增加",
+        "end_node": "变异性"
+    },
+    {
+        "start_node": "双浸渍",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "双浸渍",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "氧化学势",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧化学势",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "高氧化学势",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "低氧化学势",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "氧空位",
+        "relationship": "促进",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提供",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "改善",
+        "end_node": "离子电导率"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "加速",
+        "end_node": "氧传输"
+    },
+    {
+        "start_node": "CeO2",
+        "relationship": "提高",
+        "end_node": "表面再生"
+    },
+    {
+        "start_node": "表面杂质",
+        "relationship": "影响",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "高温处理",
+        "relationship": "去除",
+        "end_node": "表面杂质"
+    },
+    {
+        "start_node": "预处理",
+        "relationship": "改善",
+        "end_node": "催化剂活性"
+    }
+]

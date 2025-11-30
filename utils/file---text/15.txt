@@ -1,0 +1,1105 @@
+JournalofCatalysis420(2023)99–109
+ContentslistsavailableatScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+a
+Particle size dependence of ethylene epoxidation rates on Ag/ -Al O
+2 3
+catalysts: Why particle size distributions matter
+⇑
+Krishna R. Iyer, Aditya Bhan
+DepartmentofChemicalEngineeringandMaterialsScience,UniversityofMinnesota,Minneapolis,MN55455,USA
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Thepost-reactionAgsurfaceareadistributionof16Ag/a-Al O ethyleneepoxidationcatalystswithvary-
+2 3
+Received18November2022 ingAgweightloadings(6.9–35wt%)containingdifferentdistributionsofAgparticlesizeswascorrelated
+Revised30January2023 withmeasuredethyleneoxide(EO)ratesinpresenceof3.5ppmethylchlorideviaaparticlesizedepen-
+Accepted11February2023
+dentGaussianratefunction.TheGaussianratefunctionmodeldiffersfromadescriptionbasedonaver-
+Availableonline16February2023
+ageparticlesizeasitaccountsfortheeffectsofthebreadthofparticlesizedistributionaswellasthe
+populationofdifferentparticlesizesthatconstitutetheAgparticledistributiononmeasuredEOrates.
+Keywords:
+Thisdescriptionofparticlesizeeffectsinethyleneepoxidationcatalysisfacilitatesaccurateprediction
+Ethyleneepoxidation
+ofEOratesoverawiderangeofparticlesizes(5–400nm)andsuggeststhatverysmall(5–50nm)and
+Particlesizedistribution verylargeAgparticles(>250nm)havelowEOrates(<3lmolg-1 s(cid:1)1).AnarrowAgparticlesizedistri-
+Promoters Ag
+Alumina butioncentered around (cid:3)130–150 nmwould enableoperation ofethylene epoxidation withhighEO
+Silver ratesandEOselectivity.
+(cid:1)2023ElsevierInc.Allrightsreserved.
+1.Introduction catalysts that this representation of the particle size distribution
+with an average particle size, while simple and convenient, and
+Identification and quantification of active sites relating struc- almost universally adopted, is insufficient to explain the particle
+tureandmorphologyofacatalystformulationtoitsrateisakey size dependence of measured epoxidation rates. Consider a sce-
+objectivein catalysis. Metal nanoparticles supportedon a porous narioinwhichtwocatalystsampleshavethesameaverageparticle
+non-metallic support are a class of catalysts wherein typically sizealbeitresultingfromverydifferentparticlesizedistributions.
+theexposedmetalatomsconstitutetheactivesite.Certainreaction Lumpingalldescriptionoftheparticlesizedistributionintoasin-
+systems[1–4]exhibitaparticlesizeeffectwhereintherateofthe gleaveragemeasuremasksthecontributionsfrommetalclusters
+catalyticeventsensitivelydependsonchangesinthecoordination ofdifferentsizeswhichmaycontributedifferentlytotheobserved
+andelectronicenvironmentinducedbyaggregationandclustering reactionrate.
+of metal atoms which in turn changes the ability of the catalytic TheeffectsofAgparticlesizeonethyleneepoxidationratesand
+a
+centertoadsorbor desorbcatalyticallyrelevantspecies.Thetwo ethyleneoxide(EO)selectivityoverAg/ -Al O catalystshavebeen
+2 3
+macroscopic observables relevant for developing structure–func- extensivelyinvestigatedpreviously[5–14].VanDerReijenetal.[5]
+l
+tioncorrelationsinsuchsystemsarethemetalparticlesizedistri- measured ethylene oxidation rates (0.1–1.5 mol C H
+2 4
+bution and the rate. For convenience and by convention, the g-1 s(cid:1)1)overaseriesof18wt%Ag/ a -Al O catalysts,treated
+Agexposed 2 3
+particle size distribution is only represented by a single num- underdifferentgasenvironmentsandtemperatures,at473Kand
+ber—the average particle size, without explicitly accounting for 1barpressure(30mol%C H ,8.5mol%O )andfoundthatEOrates
+2 4 2
+anyothercharacteristicsofthedistribution. increasewithincreasingsurfaceareaaveragedAgparticlesizeup
+Selective chemisorption, scanning and transmission electron to60nmandthereafterdecreasewithAgparticlesize.Similarly,
+microscopy, X-ray diffraction, among other methods are used to anoptimuminethyleneoxidationrateswithmeanAgcrystallite
+a
+measuremetalparticlesizeshowever,onlyanaverageparticlesize sizewasobservedbyLeeetal.[6]over2–10wt%Ag/ -Al O cat-
+2 3
+isreportedwheninpracticethereisabroaddistributionofparticle alystsat503Kand13barpressure(3mol%C H ,12mol%O )and
+2 4 2
+a a
+sizes. We demonstrate for ethylene epoxidation over Ag/ -Al O by Goncharovaet al. [7] over 0.5–13 wt%Ag/ -Al O catalysts at
+2 3 2 3
+500Kand1bar(2mol%C H ,7mol%O ). Contrarytrendswere
+2 4 2
+observed by Van hoof et al. [8] wherein EO rates decrease with
+⇑
+Correspondingauthor. increasing average particle size until 50 nm before becoming
+E-mailaddresses:iyer0040@umn.edu(K.R.Iyer),abhan@umn.edu(A.Bhan).
+https://doi.org/10.1016/j.jcat.2023.02.008
+0021-9517/(cid:1)2023ElsevierInc.Allrightsreserved.
+
+a
+constant with size over 1–14 wt% Ag/ -Al O catalysts at 498 K
+2 3
+and 20 bar (5 mol% C H , 10 mol% O ) both in presence and in
+2 4 2
+absenceof1ppmvinylchloride.Otherstudiesalludetotheeffects
+ofAgparticlesizeonEOselectivity.ChristopherandLinic[9]mea-
+a
+suredethyleneepoxidationratesoverAg/ -Al O catalystshaving 2 3
+different shapes (nanospheres, nanocubes, and nanowires) and
+sizes (75 nm to 350 nm) at 510 K and 1 atm pressure (10 mol%
+C H ,10mol%O )andobservedthatEOselectivityincreasedwith
+2 4 2
+increasing particle size and oxygen partial pressure. At identical
+reaction conditions, large (350 nm) nanocube-shaped catalysts,
+terminated by Ag (100) surface facets ascertained using HRTEM
+imaging, offered the highest EO selectivity among the different
+shapes and sizes tested. Egelske et al. [10] also tested several
+a
+0.3–5 wt% Ag/ -Al O catalysts at 483 K and 17 bar pressure
+2 3
+(25mol%C H ,8mol%O )andobservedanincreaseinEOselectiv-
+2 4 2
+ityfrom58%foranaverageparticlesizeof65nmto75%at350nm.
+A summary of the catalyst specifications and the reaction condi-
+tionsemployedinpreviousstudiesexaminingparticlesizeeffects
+in ethylene epoxidation is given in Table 1. The disparity in the
+observed EO rates with particle size among different studies is
+plausiblyduetosomedifferencesincatalystformulationanddif-
+ferences in some process conditions including use of C H or O 2 4 2
+rich reactant mixtures, presence/absence of chlorine, total pres-
+sure, and temperature. What is noteworthy is that trends in EO
+rates differ from one study to another when using average size
+as a descriptor. We inquire whether these distinctions arise
+becauseparticlesizesareassessedmerelybythemeanofthedis-
+tribution not accounting for the broad distribution of Ag particle
+sizes.
+Several authors have noted previously that Ag undergoes
+restructuring[15,16]andsintering[17,18]duringethyleneepoxi-
+dation.VanHoofetal.[15]carriedoutSTEMimagingofan8.1wt%
+a Ag/ -Al O catalystbeforeandafterreaction(20bar,498K,5mol% 2 3
+C H , 10 mol% O ) and found that the average Ag particle size
+2 4 2
+increasedfrom107nmto119nminpresenceof1ppmvinylchlo-
+rideinthereactorfeed.Particlesizedistributionsmeasuredafter
+reaction thus are likely more representative of the operational
+state of the epoxidation catalyst and as such these distributions
+shouldbecorrelatedwithepoxidationrates.
+Weber,inarecentpublication[19],articulatedthelimitations
+ofusingfractionalmetalexposureasameasureofactivesitesin
+a catalyst because it obscures the distribution of active sites. In
+makingthispoint,Weberconsidered5–30wt%Pt/Ccatalystswith
+meancrystallitesizesbetween1and4nmsynthesizedbyPeukert
+et al. [20] to have a particle size distribution that can be repre-
+sentedby:(i)aRayleighdistributionwiththesamemeanparticle
+size,withsomevarianceinthedistribution,or(ii)aDeltafunction
+centeredatthemeanparticlesizenotaccountingforthedistribu-
+tionofparticlesizes.Weberassumedthatasubsetofsiteswitha
+specific configuration (C9 sites in this example) are the relevant
+activesiteswhosepopulationcanberepresentedbyadistribution
+thatvarieswithparticlesizeinapowerlawmanner.Theparticle
+size dependency of measured turnover rates was captured only
+byexpressingtherateasacontinuousfunctionofparticlesize(in-
+tegralofthepopulationofC9sites ataparticularparticlesize‘r’
+multipliedbythepopulationofparticlesofsize‘r’)andbyconsid-
+eringthedistributionofparticlesizes(Rayleighdistributioninthis
+example), presenting a hypothetical example of correlating the
+particlesizedistributionwithmeasuredrates.
+Inthisstudy,wedevelopaparticlesizedependentratefunction
+modelthatallowsustomapchangesintheAgparticlesizedistri-
+bution to observed changes in EO rates. We measured ethylene
+a epoxidation rates over 13 different Ag/ -Al O catalysts with
+2 3
+6.9–35wt.%Agweightloadingsand3otherformulationsobtained
+by physically mixing two catalyst formulations, such that the 16
+samples have a wide range of Ag particle sizes (5–400 nm). The
+1elbaT
+.stsylatacdesab-gAnonoitadixopeenelyhtenistceffeeziselcitrapnoseidutssuoiverprofsnoitidnocsnoitcaerdnasnoitacfiicepstsylataC
+snoitavresbO
+enirolhC
+erusserplatoT
+nioitar2O:4H2C
+egarevA
+tsylataC
+ecnerefeR
+sretomorp
+dna
+deefrotcaereht
+eziselcitrap
+erutarepmet
+egnar
+gAhtiwsesaercniytivitcelesOEdnaesaercednehtdnamn21litnuesaercnisetarOE
+enon
+K394,rab3.1
+1:1
+mn05–5
+2OiS/gA%tw5.93–5.0)g11–1(
+)11(ttoirraHdnauW
+ezisetillatsyrc
+saerehwezishtiwylsuounitnocgnisaercnierofebmn05ot03morfesaercedsetarOE
+enon
+K394,rab3.1
+5:1
+mn081–03
+3O2lA-a/gA%tw41–1)g11–1(
+)21(.latesoikyreV
+ezisetillatsyrcgAhtiwgnisaercederofebmn031litnusesaercniytivitcelesOE
+htiwylsuounitnocgnisaercederofebmn72litnuesaercniytivitcelesOEdnasetarOE
+enon
+K305,rab1
+51:1
+mn58–5
+2)4OPaN(rZ/gA%tw55–3)g5.0(
+dlefiraelCdnagnehC
+ezis
+)31(
+OEsaerehwezisetillatsyrcgAhtiwesaercednehtdnamn04litnuesaercnisetarOE
+enon
+K805,rab1.0
+4:1
+mn001–02
+3O2lA-a/gA%tw01–5.0
+)6(.lateeeL
+ezishtiwtnairavnisemocebnehtdna,mn06litnusesaercniytivitceles
+OEsaerehwezishtiwtnairavniemocebnehtdnamn06litnuesaercnisetarOE
+enon
+K305,rab1
+5.3:1
+mn001–02
+3O2lA-a/gA%tw31–5.0)g2–5.0(
+)7(.lateavorahcnoG
+ezishtiwsesaercniytivitceles
+ezishtiwesaercniytivitcelesOEdnanoitpmusnocenelyhterofseicneuqerfrevonruT
+enon
+K574,rab3
+7.1:1
+mn073–05
+3OCaC/gA%tw65–5.0)g5.0(
+)41(.lateuL
+htiwtnairavnisiytivitcelesOEdnaesaercednehtdnamn06litnuesaercnisetarOE
+enon
+K374,rab1
+1:5.3
+mn005–02
+3O2lA-a/gA%tw81)g51.0(
+)5(.latenejieRnednaV
+eziselcitrapgA
+tnatsnocgnimoceberofebmn05litnueziselcitrapegarevahtiwesaercedsetarOE
+mpp1roenoN
+K894,rab02
+2:1
+mn003–91
+/gA%tw4.41–3.1)g51.0–20.0(
+)8(.latefooHnaV
+ezishtiwsesaercniytivitcelesOEsaerehwezishtiw
+edirolhclyniv
+3O2lA-a
+ezishtiwesaercniytivitcelesOEdnanoitpmusnocenelyhterofseicneuqerfrevonruT
+enon
+K384,rab71
+1:1.3
+mn053–56
+3O2lA-a/gA%tw5–3.0
+)01(.lateekslegE
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+100
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+exposedsurfacearea ofAgparticlespost-reactionforeachofthe oftotalAgparticleswithasampleofsize1600wasquantifiedto
+16catalystformulationswasobservedtofollowalognormaldistri- be<1%(SupportingInformationSectionS.2).
+bution. Epoxidationrates on these 16 sampleswere measured in
+presence of an organochloride promoter (3.5 ppm C H Cl) and
+2 5 2.3.Measurementofsteadystateratesofethyleneepoxidation
+these samples exhibited nearly invariant EO selectivity ((cid:3)75–
+81%).WerepresentthemeasuredEOratesasacontinuumi.e.,as
+Rates of ethylene epoxidation were measured in a stainless-
+anintegraloftheproductofaGaussianratefunctionandthelog-
+steel packed-bed reactor (McMaster- Carr, OD = 6.36 mm,
+normal surface area distribution to capture the contributions of a
+ID = 4.57 mm), containing 25–100 mg of Ag/ -Al O catalyst
+different particle sizes to the rate eschewing any assumptions of 2 3
+loadedbetweentwoplugsofquartzwool(CEElantech).Thereac-
+siteensemblerequirementsorspecificityofaparticularAgcrystal
+torwasheldbetweentwosplit-tubecoppersleevesandheatedby
+facetorsite.Therate-functionmodelresultsinanexplicitdescrip-
+twocartridgeheaters(OmegaEngineeringInc.,CIR-2100,600W)
+tionoftheAgparticlesizedistributionandtheratedependenceon
+with heating controlled using a Watlow temperature controller
+Ag particle size. The model captures the low reactivity of very
+(96Series)andpressuremaintainedat530kPausingabackpres-
+small Ag particles (5–50 nm) and very large Ag particles
+sure regulator (Tescom). The reaction temperature (513 K) was
+(>250nm)andleadsustopostulatethatanarrowAgparticlesize
+measuredusingaK-typethermocouple(OmegaEngineeringInc.)
+distribution centered around 130-150 nm will facilitate high EO
+placedinthecenterofthecatalystbed.Thereactorfeedconsisted
+a
+ratesandEOselectivityoverAg/ -Al O catalysts.
+2 3 of 30 mol% C H (Airgas 99.99%), 0.4 mol% C H (Matheson 10%
+2 4 2 6
+diluted in He), 7.7 mol% O (Matheson 99.99%), 3.5 ppm C H Cl
+2 2 5
+2.Materialsandmethods (Airgas 160 ppm diluted in He), and 1 mol% CO 2 (Matheson 10%
+diluted in He), was unchanged for all ethylene oxidation experi-
+2.1.Catalystsynthesis ments and the respective gases were supplied to the reactor
+through mass flow controllers (MKS G-series) at a total flowrate
+TheAg/
+a
+-Al O formulationsinthisreportweresynthesizedby
+of2.78cm3s(cid:1)1.Attheprocessconditions,themeasuredEOrates
+2 3
+incipient-wetnessimpregnationofasilveroxalate(Ag C O )pre- werefreefromexternalheatandmass-transferlimitationsascon-
+2 2 4
+cursorover a -Al O followingprotocolsestablishedpreviouslyby firmedbytheinvarianceofEOrateswithspacevelocity(Support-
+2 3
+severalauthors[5,8,21].CataloxHPa-150 c -Al O washeattreated ing Information Figure S.3) as well as calculations using
+2 3
+instagnantairat1698Kfor4hwitharamprateof0.033Ks(cid:1)1to GradientCheck[22]reportedinSectionS.3oftheSupportingInfor-
+synthesizethe a -Al O support.Ag C O wassynthesizedasapre- mation.Thereactoreffluentcompositionwasanalyzedusingagas
+2 3 2 2 4
+cipitatebymixinga0.24Msolutionofoxalicacid(oxalicaciddihy- chromatograph (GC, Agilent 7890A) equipped with an HP-Plot Q
+drate, Fisher Scientific, 99.6%) in HPLC-grade water with an column (30 m (cid:4) 320 l m (cid:4) 20 l m) and a thermal conductivity
+equimolar amount of silver nitrate (Thermo Scientific, 99.7%) at detector (TCD) in series with a flame ionization detector (FID)
+ambienttemperature. The Ag C O precipitate was washed three before the effluent was discharged into a bubbler containing
+2 2 4
+times in HPLC-grade water before filtration under vacuum 0.5MH 2 SO 4 (BeanTownChemical).Thegaslinesupstreamofthe
+for (cid:3)12 h at ambient temperature. A solution containing 1:3 M reactor were maintained above 393 K using heat tapes (W.W.
+ratioofsilveroxalate:ethylenediamine(Sigma-Aldrich,Reagent- Grainger)topreventcondensationoftheeffluentgasstream.Ethy-
+Plus, >99%) diluted in 2 cm3 HPLC-grade water was impregnated leneconversionsvariedbetween0.2and0.7%andoxygenconver-
+ontothe a -Al O supportbeforedryinginstaticairat333K.The sionswere<5%foralldatareported,andthecarbonmassbalance
+2 3
+molarity of Ag C O solution was varied between 0.5 M and (total carbon moles in/total carbon moles out) closed within 2%.
+2 2 4
+2.5MtoobtainAg/ a -Al O catalystswithdifferentAgweightload- Product selectivities reported in the study are defined as moles
+2 3
+ingsfrom6.9to35%asconfirmedusingSEM-EDXanalysis.Upon ofcarbonintheproductdividedbymolesofcarboninallproducts.
+drying, the Ag-impregnated support was treated in 0.83 cm3 s(cid:1)1 Major reaction products include EO, CO 2 , and H 2 O with trace
+flow of pure He (Research grade) at 498 K for 2 h to breakdown amounts of acetaldehyde formed (<1% selectivity). Steady-state
+theAgprecursorandformAg/ a -Al O .Thecatalyst(1g)washeat ratesreportedinthisstudyaredeterminedafterexposingthecat-
+2 3
+treatedpostsynthesisunderdifferentgasatmospheres(H (Airgas, alysttothereactionmixturefor18htoallowfortheslowevolu-
+2
+UHP99.999%),He(Matheson,Researchgrade),zero-gradeair,and tionofthecatalystwithtimeon-stream(SupportingInformation
+O (Matheson, 99.9%)) at flowrates of 0.8–1.25 cm3 s(cid:1)1 and tem- FigureS.5).
+2
+peraturesbetween498and943KtoobtainawiderangeofAgpar-
+ticlesizesderivedfromprocedurespreviouslydetailedbyVander
+3.Resultsanddiscussion
+Reijenetal.[5]TheheattreatmentconditionsusedtomodifyAg
+particlesizesaredetailedinTable2(Section3.1).
+3.1.AnalysisofAgparticlesizedistribution
+2.2.Catalystcharacterization TheAgparticlesizedistributionofAg/Al O catalystswithdif-
+2 3
+ferentAgweightloadingswasvariedusingheattreatmentsunder
+a
+ThecrystallinephasesinAg/ -Al O samplesweredetermined differentgasenvironments(He/H /O ).Anincreaseintheaverage
+2 3 2 2
+bypowderX-raydiffraction(p-XRD)usingCuKaradiation(k=0. Ag particle size of the Ag/ a -Al
+2
+O
+3
+catalyst after attaining steady
+154 nm) on a Bruker-AXS (Siemens) D5005 diffractometer (Sup- state rates compared to that of the as-synthesized sample (Sup-
+porting Information Section S.1). Ag nanoparticle size was mea- porting information Figure S.6) is consistent with observations
+sured after reaction by Scanning Electron Microscopy (SEM, JEOL madepreviouslybyseveralauthorsnotingAgundergoesrestruc-
+6500 Field Emission gun, 10 kV electron beam accelerating volt- turing[15,16] and sintering[17,18] duringethyleneepoxidation;
+a
+age).ThespentcatalystwaspreparedforSEMimagingbycoating therefore, we determined particle size distribution of Ag/ -Al O
+2 3
+it on a thin film of amorphous carbon. Three SEM images repre- catalystsafterreaction.Asummaryoftotalsurfaceareapergram,
+sentingdifferentregionsoverthecatalystand(cid:3)1600Agparticles surfaceareaweightedparticlediameter(D ),andheattreatment
+S.A.
+were analyzed for each catalyst sample using ImageJ to evaluate conditions used to modify the particle size distribution of all the
+the Ag particle size distribution (Supporting information Fig- catalysts and physical mixtures of catalysts is given in Tables 2
+ureS.2).Thesamplingerrormadeinrepresentingthepopulation and3respectively.Acomparisonofaveragediametersandsurface
+101
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+P
+Table2 nðsizeintervalÞ 2 pðsiÞ2
+t S r u e r a f t a m ce en ar t e c a o w nd ei i g ti h o t n e s d e p m ar p t l i o cl y e e d d ia f m or et d e i r ffe (D re S n .A t .), A t g o / t a al -A su l2 r O fa 3 ce ca a t r a e l a ys p ts e . r T g h ra e m A , g an w d e h ig e h at t Surfaceareapergramðm2g(cid:1) Ag 1Þ¼ Pi¼ n i 1 ¼1 2 3 pðs 2 iÞ3(cid:5)q A 2 g ð1Þ
+loading of the sample has been mentioned as a prefix in the sample name. All
+catalystswereinitiallytreatedin1.25cm3s(cid:1)1flowingHeat498Kwitharamprateof
+0.17Ks(cid:1)1anddwelltimeof2hexcept31S-9whichwastreatedin1.25cm3s(cid:1)1
+3.2.EthyleneepoxidationratesandEOselectivityasafunctionof
+flowingH2at498K.Histogramsdepictingthesurfaceareapergramasafunctionof
+averageparticlesize
+particlesizeforallcatalystsareshowninSupportingInformationSectionS.9.
+Sample DS.A./nm Totalareaper Heattreatmentconditions EOratesmeasuredatidenticalprocessconditionsover13dif-
+name gram/m2
+Ag
+g(cid:1)
+Ag
+1
+ferent Ag/
+a
+-Al 2 O 3 catalyst formulations and 3 physical mixtures
+6.9S-1 69.4±23.4 8.0 1.25cm3s(cid:1)1H2,rampat areshowninFig.3(a).Themeasuredratesofethyleneconsump-
+0.17Ks(cid:1)1,holdat498Kfor4h tion (0.8–8 l mol g-1 s(cid:1)1) are comparable to rates measured by
+Ag
+9.9S-21 74.6±25.4 6.4 – Vander Reijen etal. [5] over 18% Ag/ a -Al O at 473 Kand 1bar
+16.9S- 93.6±31.5 5.4 – 2 3 l
+21 total pressure while they are lower than 50–100 ethylene mol
+16.9S-1 101.7±33.1 5.8
+0
+1
+.
+.
+1
+2
+7
+5
+K
+cm
+s(cid:1)
+3
+1
+s
+,
+(cid:1)
+h
+1
+o
+H
+ld
+2,
+a
+r
+t
+a
+4
+m
+9
+p
+8K
+at
+for4h A
+co
+g
+n
+/ a
+ve
+-A
+rt
+l
+ed
+O
+g
+a
+A -1
+t
+g
+4
+s
+9
+(cid:1)
+8
+1 m
+K
+e
+a
+a
+n
+s
+d
+ur
+2
+e
+0
+d
+b
+b
+a
+y
+r
+V
+to
+a
+t
+n
+al
+H
+p
+o
+re
+o
+s
+f
+su
+et
+re
+al
+p
+.
+la
+[8
+u
+]
+sib
+o
+l
+v
+y
+er
+be
+2
+c
+–
+a
+1
+u
+0
+s
+%
+e
+2 3
+31S-9 151.5±47.3 3.2 1.10cm3s(cid:1)1H2,rampat ofhighertotalpressure.EOratesincreasewithincreasingsurface
+35S-1 164.9±50.7 3.6
+0
+0 1
+.
+. .
+1
+1 2
+7
+7 5
+K
+K cm
+s
+s(cid:1)
+(cid:1)
+3 1
+1
+s ,
+,
+(cid:1) h
+h
+1 o
+o
+H l
+l
+d
+d
+2, a
+a
+r t
+t
+a 6
+4
+m 7
+9
+p 3
+8
+K
+K
+at f
+f
+o
+o
+r
+r
+4
+4
+h
+h t
+a
+o
+re
+d
+a
+e
+a
+c
+v
+re
+e
+a
+ra
+se
+ge
+w
+d
+i
+A
+th
+g
+A
+p
+g
+ar
+p
+t
+a
+ic
+r
+l
+t
+e
+ic
+(
+l
+D
+e
+S
+s
+.A
+iz
+. )
+e
+s
+.
+i
+E
+z
+O
+eu
+s
+p
+el
+t
+e
+o
+ct
+(cid:3)
+iv
+1
+i
+1
+ty
+0
+,
+n
+on
+m
+t
+b
+h
+e
+e
+fo
+o
+r
+th
+e
+e
+s
+r
+ta
+h
+r
+a
+ti
+n
+n
+d
+g
+,
+35S-21 176.1±54.1 3.2 – varied between 75 and 81% and showed no trends with average
+35S-3 181.7±57.4 2.7 0.83cm3s(cid:1)1He,rampat particlesize(Fig.3(b)).
+0.17Ks(cid:1)1,holdat773Kfor4h
+First,weconsideredthepossibilitythatallAgparticlesofdiffer-
+35S-4 203.4±70.3 2.4 0.83cm3s(cid:1)1air,rampat
+0.17Ks(cid:1)1,holdat598Kfor4h ent sizes have equal reactivity and Ag particles of different sizes
+35S-5 257.7±75.2 2.0 0.83cm3s(cid:1)1O2,rampat contribute to rate differently only because of a difference in the
+0.17Ks(cid:1)1,holdat943Kfor4h surfaceareapergramofsilverexposedbytheseparticles.EOrates
+35S-6 261.6±82.6 2.1 0.83cm3s(cid:1)1air,rampat normalized by the total surface area per gram for different cata-
+0.17Ks(cid:1)1,holdat848Kfor4h
+35S-7 268.1±88.6 2.1
+0
+0
+.
+.
+1
+8
+7
+3
+K
+cm
+s(cid:1)
+3
+1
+s
+,
+(cid:1)
+h
+1
+o
+O
+ld
+2,
+a
+r
+t
+a
+8
+m
+9
+p
+8
+a
+K
+t
+for4h
+l
+e
+y
+n
+s
+t
+ts
+si
+s
+z
+h
+e
+o
+s
+u
+h
+ld
+av
+c
+e
+ol
+e
+la
+q
+p
+u
+s
+a
+e
+l
+t
+r
+o
+ea
+a
+c
+c
+t
+o
+iv
+n
+i
+s
+t
+t
+y
+a
+.
+n
+S
+t
+u
+v
+r
+a
+fa
+lu
+ce
+ei
+a
+f
+r
+a
+e
+l
+a
+lA
+n
+g
+or
+p
+m
+ar
+a
+t
+l
+i
+i
+c
+z
+l
+e
+e
+d
+so
+E
+f
+O
+di
+r
+f
+a
+f
+t
+e
+e
+r
+s
+-
+35S-8 272.5±89.3 2.1 0.83cm3s(cid:1)1O2,rampat (EO rate / total Ag surface area per gram), calculated using rates
+0.17Ks(cid:1)1,holdat928Kfor4h from Fig. 3.1 (a) and the total surface area per gram from Tables
+1Thesesampleswerenotsubjectedtoanyadditionalheattreatment.
+2and3,forallcatalyststestedshow(cid:3)4(cid:4)variation(Fig.4)suggest-
+ingthatparticlesofdifferentsizeshaveinherentlydifferentreac-
+tivityandthusuniquelycontributetocumulativeEOrate.
+areahistogramsfor35S-1and35S-2(Table2andSupportingInfor- Wethenexaminedthepossibilitythatthereexistsafunctional
+mationFiguresS.10,S.11)showsthatH 2 treatmentfavorsforma- relationshipbetweenEOrateandaverageAgparticlesizeandthis
+tion of smaller Ag particles whereas treatment in O 2 flow leads relationship is robust to describe particle size effects in ethylene
+to larger Ag particles (see samples 35S-2 with 35S-7 in Table 2 epoxidation. The dependence of EO rates on the surface area-
+andSupportingInformationFiguresS.11,S.16). averagedparticlesize(D )forthe16samplestestedcanbefitted
+S.A.
+AtypicalSEMimageandahistogramdepictingtheAgparticle using a lognormal equation (Eq. (2)) as shown in Fig. 5. This
+a
+size distribution of one of the Ag/ -Al 2 O 3 samples are shown in model,ifappropriate,shouldbeabletopredicttherateofaphys-
+Fig.1(a,b). ical mixture (mix-1 in Table 3) of 16.9S-2 and 35S-2 with a
+Theparticlesizedistributioncanbeexpressedasahistogramof D =144.4nm.EOratepredictedformix-1byEq.(2)is4.17 l mol
+S.A.
+exposed surface area of Ag particles using Eq.1 where ‘s i ’ is the g A -1 g s(cid:1)1whichis(cid:3)1.5(cid:4)higherthantheexperimentallymeasured
+diameter of particle ‘i’, n is the total number of particles, and rate of 2.97 l mol g-1 s(cid:1)1 suggesting that average particle size
+Ag
+q
+‘ Ag ’ is the bulk density of silver. The discrete surface area his- may not be adequate as a descriptor of the size distribution of
+togramwasfittedtoacontinuouslognormaldistributionasitcap- the Ag/ a -Al O catalyst. Subsequently, we attempted to map
+2 3
+turedthetailofthedistributionbettercomparedtothesymmetric changesinAgparticlesizedistributiontoepoxidationratesinstead
+Gaussiandistribution(Fig.2(a,b)).Thelognormaldistributionsfit- ofusingtheaveragediameterwhichdoesnotcapturethevariance
+ted to the surface area histograms for all 16 catalysts enlisted in ofthedistribution.
+Tables 2 and 3 are shown in Supporting Information Section S.8
+a S l .2 o 5 n ) g . withrespective SEMimagesfor eachsample(Figures S.10- rateðl molg (cid:1) Ag 1s(cid:1)1Þ¼0:39þpffi 2 ffiffi p ffiffiffi (cid:4) 51 0 8 :3 :8 6 7 (cid:4)D S:A: (cid:4)e (cid:1) ðln 2 ð (cid:4) 1 D 2 0 S 9 : : 3 : A 6 6 : 8 2 Þ 2 Þ ð2Þ
+3.3.MappingtheparticlesizedistributiontoEOratesusingrate
+functions
+Table3
+Surface area weighted particle diameter (DS.A.), total surface area per gram, and ToincorporatetheAgparticlesizedependenceofepoxidation
+mixturecompositionforphysicalmixturesofAg/a-Al2O3catalysts. rates we formulated a model based on the concept proposed by
+Weber [19] wherein the observed rate is a cumulative quantity
+Sample DS.A./nm Totalareapergram/ Mixturecomposition
+name m2 g(cid:1)1 thatreflectsaccrualofcontributionsfromAgparticlesofdifferent
+Ag Ag
+size.Mathematically,rateisdescribedasanintegral(Eq.(3))ofthe
+mix-1 144.4±47.8 3.9 30wt%35S-2and70wt
+productoftwoterms:(i)aratefunctionr(s)thatgivesthecontri-
+%16.9S-2
+butionofaparticleofsize‘s’totheEOrateand(ii)A(s)whichisthe
+mix-2 181.6±59.4 2.7 40wt%35S-4and60wt
+%9.9S-2 surfaceareaexposedpergram(Eq.(1))ofparticlesofdiameter‘s’,
+mix-3 209.4±67.4 2.3 30wt%35S-2and70wt evaluatedacrosstheparticlesizerange(R toR ).Thesurface
+min max
+%35S-5 areaexposedpergram,A(s),forallcatalystsisfittedbyalognor-
+102
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+Fig.1. (a)RepresentativeSEMimageofsample35S-4(refertoTable2).(b)Measuredparticlediametercountdistributionforasampleof525Agparticles.18hsteadystate
+reactionconditions:30mol%C2H4,7.7mol%O2,1mol%CO2,3.5ppmC2H5Cl,0.4mol%C2H6,balanceHe;5.3bar;513K;catalystmass=0.034g35S-4.
+Fig.2. Ahistogramofexposedsurfaceareapergramasafunctionofparticlesizefortwocatalystsamples(a)35S-2(refertoTable2)and(b)35S-1(refertoTable2)fittedto
+Gaussianandlognormaldistributions.
+l r
+maldistribution(Eq.(5))withA, , asitsparameters(Fittedlog- Theepoxidationratesandthesurfaceareapergramfittedwith
+normal distribution functions for all catalysts are shown in Sup- a lognormal distribution (Eq. (5)) across 23 data points (includes
+portingInformationSectionS.9). replicates and physical mixtures of catalysts) were fitted to Eq.
+RZ
+max
+(3) using Athena Visual Studio to find the optimal rate function
+rateðl molg(cid:1)1 s(cid:1)1Þ¼ rðsÞ(cid:5)ðAðsÞÞds ð3Þ parameters for r(s). The function r(s) is unknown therefore, we
+Ag evaluated different functional forms: power law, polynomials,
+Rmin andGaussianfortheratefunctionr(s)andusedmodeldiscrimina-
+tion statistics to obtain the best fit model (detailed statistics in
+rðsÞ ¼ ae(cid:1)ðsþ c bÞ2 ð4Þ Supporting Information Section S.6). A Gaussian rate function
+model(Eq.(4))correlatesthelognormalsurfaceareadistribution
+AðsÞ ¼ r p A ffiffiffi p ffiffiffi e (cid:1) ðlo 2 g (cid:5) ð r ls 2 ÞÞ2 ð5Þ t A o g m p e a a rt s i u cl r e ed si e z p e o s x ( i 5 d – a 4 ti 0 o 0 n n ra m te ) s e ( v F i i d g e . n 6 ce ( d a)) by ac t r h os e s c a lo w se id a e g r r a e n em ge en o t f
+2 s
+betweenthemeasuredratesandtheratespredictedbytheGaus-
+103
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+Fig.3. (a)EOrates(b)EOselectivitymeasuredasafunctionofsurfaceareaaveragedparticlesize.Reactionconditions:30mol%C2H4,7.7mol%O2,1mol%CO2,3.5ppm
+C2H5Cl,0.4mol%C2H6,balanceHe;5.3bar;513K;catalystmass=0.027–0.082g6.9–35wt%unpromotedAg/a-Al2O3.Dataacquiredat18hon-streamaftersteadystaterates
+wereobtained.
+Fig.4. SurfaceareanormalizedEOratesplottedforallthecatalyststested.CatalystnomenclaturefollowsthepresentationinTables2and3.
+sian rate function model (Fig. 6 (b)). The optimal rate function parameter uncertainties is given in the Supporting Information
+parametersfortheGaussianratefunctionarelistedinTable4.A SectionS.7.AresidualplotdisplayingthedeviationoftheEOrate
+more detaileddiscussionon the magnitude of errorsin the mea- predictedbytheGaussianmodelfromtheexperimental value(%
+sured EO rates and particle size distributions as well as model residual) for all catalysts (Supporting Information Figure S.9)
+104
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+shows that three catalysts (35S-3, 16.9S-1, and 31S-9) primarily
+containingAgparticlesofsizes<100nmhaveresiduals>30%and
+thus deviate slightly from the parity line in Fig. 6 (b). Catalysts
+(35S-5,35S-6,35S-7,35S-8)containingalargefractionofAgpar-
+ticles with sizes >180 nm have much smaller residuals (<15%)
+implying that Gaussian model captures rate contributions from
+largeparticlesbettercomparedtotheones<100nm.
+Considertwocatalysts:35S-2(Table2)andmix-2(Table3)that
+have similar average particle sizes of 176.1 nm and 181.6 nm
+respectivelybutexhibitalmost2(cid:4)differences in EOrates(35S-2
+– 3.49 l mol g-1 s(cid:1)1, mix-2 – 1.79 l mol g-1 s(cid:1)1). A description
+Ag Ag
+basedonaverageparticlesize(Eq.(2))wouldpredictsimilarrates
+(35S-2–2.66 l molg-1 s(cid:1)1,mix-2–2.46 l molg-1 s(cid:1)1)forthetwo
+Ag Ag
+samplesasitlacksinformationaboutthebreadthofthedistribu-
+tionaswellasthepopulationofdifferentparticlesizesthatconsti-
+tutethedistribution.Thedistributionofsurfaceareapergramfor
+thetwocatalysts(Fig.7)notonlyrevealsthebroaderspanofpar-
+ticlesizesinmix-2butalsothehigherfractionofparticlesbetween
+140 nm and 180 nm in 35S-2 that contributes to its higher
+observed EO rate which is captured by the Gaussian rate-
+functionmodel(Fig.6(a,b)).
+WecanclassifythesampleslistedinTable2inthreecategories
+basedonthemeasuredEOratesandAgparticlesizedistribution:
+(i) 6.9 wt% and 9.9 wt% catalysts containing small particle sizes
+between40and80nmthathaveintermediateEOrates(cid:3)2–3 l mol
+g-1 s(cid:1)1(ii)16.9wt%and35wt%catalystswithintermediateparti-
+Ag
+clesizesbetween80and140nmthathavehighEOrates(cid:3)4–5 l
+molg-1 s(cid:1)1(iii)35wt%catalystswithlargeparticlesizesbetween
+Ag
+180and300nmthathavelowEOrates(cid:3)0.5–1 l molg-1 s(cid:1)1.The
+Ag
+Fig.5. EOratesmeasuredasafunctionofsurfaceareaaveragedparticlesize.The surfaceareahistogramsfortwoorthreecatalystsineachofthese
+solidlineisalognormalfitaccordingtoEq.2.Reactionconditions:30mol%C2H4, threecategories,areoverlayedinFig.8(a,b,c).
+c 7 a .7 ta m ly o s l t % m O a 2 s , s 1 = m 0 o . l 0 % 2 C 7 O –0 2, .0 3 8 .5 2 p g pm 6.9 C – 2 3 H 5 5C w l, t% 0.4 un m p o r l o % m C o 2 t H e 6 d ,b A a g l / a a n - c A e l2 H O e 3 ; . 5 D .3 at b a a a r; cq 5 u 1 i 3 re K d ; TheGaussianratefunctionmodel(Fig.6(a))suggeststhatvery
+at18hon-streamaftersteadystaterateswereobtained. small(5–50nm)andverylargeAgparticles(>250nm)havelow
+Fig.6. (a)Variationofthefittedratefunctionmodelwithparticlesize(b)ParityplotcomparingthemeasuredEOrateswithratespredictedbytheGaussianratefunction
+model(Eq.4).EachdatapointisassociatedwithacatalysthavingAgweightloadingasmentionedinthelegendandthecatalystnomenclaturefromTables2and3wasused
+herewithanadditionalletter‘R’torepresentareplicateexperiment.
+105
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+Table4 (iii) Particle morphology: Christopher and Linic [9] measured
+FittedvaluesfortheparametersoftheGaussianratefunctionmodeldescribedbyEq. different ethylene epoxidation rates over Ag/ a -Al O cata-
+2 3
+(4).Uncertaintiesrepresentthe95%confidenceintervalsgeneratedbyAthenaVisual
+lysts having different shapes (100 nm nanospheres –
+studio.
+1.9(cid:4)10-2 mmol g-1 min(cid:1)1, 90 nm nanocubes – 2.3(cid:4)10-3
+Ag
+Parameter Value mmol g-1 min(cid:1)1, and 75 nm nanowires (cid:1) 1.2(cid:4)10-2
+Ag
+a 1.21(cid:4)10-1±1.33(cid:4)10-1lmolm(cid:1)3g(cid:1) Ag 1s(cid:1)1 mmolg A -1 g min(cid:1)1)at510Kand1atmpressuresuggestinga
+b (cid:1)1.42(cid:4)102±2.34(cid:4)101nm possibleroleofAgparticlemorphologyininducingparticle
+c 3.66(cid:4)101±4.81(cid:4)101nm sizeeffects.
+Particle size effects manifest as changes in rate/equilibrium
+constants for elementary steps involved in ethylene epoxidation.
+Two plausible rate limiting steps have been proposed by Stegel-
+mann et al. [25] based on microkinetic modeling studies: (i)
+adsorptionofoxygenoversilverand(ii)surfacereactionbetween
+adsorbedethyleneandadsorbedoxygen.Lamothetal.[26]treated
+a5wt%Ag/SiO catalystcontainingsub-30nmAgparticlesanda
+2
+a
+13.7 wt% Ag/ -Al O catalyst containingAg particlesbetween20
+2 3
+and 250 nm under 1.67 cm3 s(cid:1)1 of 25% O /Ar at 1 bar and
+2
+483 K for 12 h prior to thermal desorption (heating rate of
+25Kmin(cid:1)1upto973K)undervacuumandfoundthattheamount
+of oxygen desorbed was (cid:3)17(cid:4) higher in case of 5 wt% Ag/SiO
+2
+(293 l mol‘O’g-1)comparedtothe13.7wt%Ag/ a -Al O (17 l mol
+Ag 2 3
+‘O’ g-1) catalyst. Moreover, the temperature of the maximum in
+Ag
+oxygen desorption was 638 K for 5 wt% Ag/SiO compared to
+2
+a
+440 K for 13.7 wt% Ag/ -Al O which the authors attributed to
+2 3
+strongerAg-OinteractionsinsmallerAgparticles.Lietal.[27]used
+DFTcalculationsandscalingrelationstoshowthathighO-binding
+energy(>1eV)canincreaseactivationbarriersforthesurfacereac-
+tionofoxygenwithethylenedespitefacileO adsorptionwhichis
+2
+aplausibleexplanationforlowratesoversmallAgparticles.Other
+factorssuchaschangesinchlorinecoverageorcoveragesofother
+surface intermediates with particle size could also play a role in
+inducing particle size effects. An extremum in epoxidation rate
+withparticlesize((cid:3)130–150nm)islikelycausedbyacombination
+ofsuchfactors.Whiletheunderlyingcausetotheobservedparticle
+sizeeffectremainsatopicofstudy,whatisevidentfromthework
+wereportisthattheelectronicandgeometricattributesthatcon-
+Fig.7. Ahistogramofexposedsurfaceareapergramasafunctionofparticlesize
+for two catalysts 35S-2 and mix-2 (Tables 2 and 3). The unit for rates of two tributetothesesizeeffectsshouldbeassociatedwiththeAgpar-
+catalystsmentionedinthelegendislmolgA -1 gs(cid:1)1. ticle size distributionin ethyleneepoxidation catalysis and these
+attributes are not captured by models that correlate measured
+ratestoaverageparticlesize.
+reactivitywhereasAgparticles(cid:3)130–150nmhaveoptimalreac-
+tivity.Particlesizedependentratesinethyleneepoxidationcatal- 3.4.DeterminationofoptimalAgparticlesizeforethyleneepoxidation
+ysishavebeenrationalizedvariouslyasarisingdueto:
+Theratefunctionmodel,thatdefinesrateastheproductofthe
+(i) Geometric factors such as exposed crystal facets (e.g., Ag ratefunctionandexposedsurfaceareapergram(Eq.(3)),canbe
+(110), Ag(111)) or different coordination environment of used to determine the optimal Ag particle size that maximizes
+sitesexposedbymetalclusters:Steadystateturnoverrates epoxidationrates.Thisisdifferentfromthesizecorrespondingto
+forEOandCO 2 productionmeasuredbyCampbell[23]over the peak in the Gaussian rate function (142 nm) as shown in
+Ag(111)andAg(110)singlecrystalsurfacesat20torrC 2 H 4 Fig.6(a).Hypothetically,wecouldgeneratecatalystsamplescon-
+and150torrO 2 at490Kvaried<2(cid:4)implyingthatvariation taining Ag particles of identical sizes between 5 and 400 nm in
+inepoxidationratesof(cid:3)10(cid:4)thatweobserve(Fig.3(a))can-
+intervalsof1nm.Atagivenparticlesizes=D,theepoxidationrate
+notbesolelyexplainedbydifferencesinexposedfacetswith isgivenbytheproductoftheratefunctionr(D)andtheexposed
+particlesize. surface area per gram (A(D)) calculated using Eq. (3) that varies
+(ii) Electronicfactorslikemetalworkfunction/bindingenergy withparticlesizeasshowninFig.9.Expressingtherateasacon-
+orchargetransferbetweenmetalandsupport:Bukthiyarov tinuousfunctionofparticlesizeintheformofaGaussianfunction
+etal.[24]havecorrelatedthechangesinethyleneconsump- allowsustocalculate(cid:3)140nmastheoptimalsizethatmaximizes
+tionrates(0.2to5 l molm c -2 atalyst(BET) s(cid:1)1)withAgparticle epoxidation rate with EO selectivities >76%. An Ag/Al 2 O 3 sample
+size (20 to 100 nm) to corresponding changes in Ag 3d 5/2 with a narrow size distribution centered around 140 nm would
+binding energies from 368.4 eV to 367.9 eV thus revealing thusyield(cid:3)10(cid:4)higherratespergramcomparedtodistributions
+electronicchangesinAgparticleswithincreasingsize. centeredaroundverysmall((cid:3)30nm)orverylargeAgparticlesizes
+106
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+Fig.8. Ahistogramofexposedsurfaceareapergramasafunctionofparticlesizefor(a)6.9S-1,9.9S-2(b)35S-1,16.9S-1,16.9S-2(c)35S-5,35S-6,35S-8(refertoTable2).
+TheunitforratesforallcatalystsmentionedinthelegendislmolgA -1 gs(cid:1)1.
+((cid:3)250 nm) under the conditions of our study. Notably, a recent ethyleneepoxidationratesandselectivity[28]whichmayresultin
+study from Egelske et al. [10] showed that Ag particles <100 nm adifferentoptimalAgparticlesizedistribution.
+exhibit a significantly lower EO selectivity of 58% compared to
+Agparticles>100nm(EOselectivity(cid:3)73%)whichtheauthorscor-
+relatedwithincreasedAgsinteringandcarbonfoulingoversmall 4.Conclusions
+Ag particles which reaffirms why large Ag particles ((cid:3)130–
+150nm)arebeneficialinethyleneepoxidationcatalysisunderdif- The effects of Ag particle size on ethylene epoxidation rates
+ferentialethyleneconversionsastheyexhibithighEOratesandEO were studied over 6.9–35 wt% Ag/ a -Al O catalysts with varying
+2 3
+selectivity.Underintegralethyleneconversionseffectssuchasgra- particlesizedistributions.EOratesincreasewithaverageparticle
+dients in chlorine coverage and changes in ethylene and oxygen sizeuntil(cid:3)110nmbeforedecreasingwithsize.Particlesizeeffects
+reactionordersforEOformationalongthereactorbedcanimpact were better described when the Ag surface area (per gram)
+107
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+technicaldiscussions.Theauthorsgratefullyacknowledgefunding
+supportfromDowthroughtheUniversityPartnershipInitiative.
+AppendixA.Supplementarydata
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.jcat.2023.02.008.
+References
+[1] S.Overbury,V.Schwartz,D.Mullins,W.Yan,S.Dai,EvaluationoftheAuSize
+Effect: CO Oxidation Catalyzed by Au/TiO2, J. Catal. 241 (1) (2006) 56–65,
+https://doi.org/10.1016/j.jcat.2006.04.018.
+[2] M.Du,D.Sun,H.Yang,J.Huang,X.Jing,T.Odoom-Wubah,H.Wang,L.Jia,Q.Li,
+InfluenceofAuParticleSizeonAu/TiO2CatalystsforCOOxidation,J.Phys.
+Chem.C118(33)(2014)19150–19157,https://doi.org/10.1021/jp504681f.
+[3] J.P.denBreejen,P.B.Radstake,G.L.Bezemer,J.H.Bitter,V.Frøseth,A.Holmen,
+K.P.deJong,OntheOriginoftheCobaltParticleSizeEffectsinFischer(cid:1)Tropsch
+Catalysis, J. Am. Chem. Soc. 131 (20) (2009) 7197–7203, https://doi.org/
+10.1021/ja901006x.
+[4] Z. Wang, S. Skiles, F. Yang, Z. Yan, D.W. Goodman, Particle Size Effects in
+Fischer-Tropsch Synthesis by Cobalt, Catal. Today 181 (1) (2012) 75–81,
+https://doi.org/10.1016/j.cattod.2011.06.021.
+[5] J.E.vandenReijen,S.Kanungo,T.A.J.Welling,M.Versluijs-Helder,T.A.Nijhuis,
+K.P.deJong,P.E.deJongh,PreparationandParticleSizeEffectsofAg/a-Al2O3
+CatalystsforEthyleneEpoxidation,J.Catal.356(2017)65–74,https://doi.org/
+10.1016/j.jcat.2017.10.001.
+[6] J.K.Lee,X.E.Verykios,R.Pitchai,SupportandCrystalliteSizeEffectsinEthylene
+Oxidation Catalysis, Appl. Catal. 50 (1) (1989) 171–188, https://doi.org/
+10.1016/S0166-9834(00)80834-9.
+[7] S.N.Goncharova,E.A. Paukshtis,B.S. Bal’zhinimaev,SizeEffectsinEthylene
+OxidationonSilverCatalysts.InfluenceofSupportandCsPromoter,Applied
+CatalysisA:General126(1)(1995)67–84,https://doi.org/10.1016/0926-860X
+Fig.9. EOratesasafunctionofparticlesizecalculatedusingtheproductoftherate (95)00036-4.
+functionandexposedsurfaceareapergram(Eq.(3))ateachparticlesizebetween5 [8] A.J.F. van Hoof, E.A.R. Hermans, A.P. van Bavel, H. Friedrich, E.J.M. Hensen,
+and400nm. Structure Sensitivity of Silver-Catalyzed Ethylene Epoxidation, ACS Catal. 9
+(11)(2019)9829–9839,https://doi.org/10.1021/acscatal.9b02720.
+[9] P. Christopher, S. Linic, Shape- and Size-Specific Chemistry of Ag
+a Nanostructures in Catalytic Ethylene Epoxidation, ChemCatChem 2 (1)
+distributionsofspentAg/ -Al O catalystswerecorrelatedtothe
+2 3 (2010)78–83,https://doi.org/10.1002/cctc.200900231.
+observedEOratesviaaGaussianparticlesize-dependentratefunc- [10] B.T.Egelske,W.Xiong,H.Zhou,J.R.Monnier,EffectsoftheMethodofActive
+tionoverawiderangeofparticlesizes(5–400nm)thanadescrip- Site Characterization for Determining Structure-Sensitivity in Ag-Catalyzed
+EthyleneEpoxidation,J.Catal.410(2022)221–235,https://doi.org/10.1016/j.
+tion based on average particle size as the latter omits details
+jcat.2022.03.021.
+relatedtothebreadthofthedistributionandthepopulationofpar- [11] J.C.Wu,P.Harriott,TheEffectofCrystalliteSizeontheActivityandSelectivity
+ticlesofdifferentsizes.TheGaussianratefunctionmodelreveals ofSilverCatalysts,J.Catal.39(3)(1975)395–402,https://doi.org/10.1016/
+0021-9517(75)90306-1.
+that very small Ag particles (5–50 nm) and large Ag particles
+[12] X.E.Verykios,F.P.Stein,R.W.Coughlin,InfluenceofMetalCrystalliteSizeand
+(>250nm)exhibitlowEOrateswhichcanplausiblybeexplained MorphologyonSelectivityandActivityofEthyleneOxidationCatalyzedby
+basedonchangesinthebindingenergyofoxygenandothersur- Supported Silver, J. Catal. 66 (2) (1980) 368–382, https://doi.org/10.1016/
+0021-9517(80)90040-8.
+face intermediates with silver particle size. The model also sug-
+a [13] S.Cheng,A.Clearfield,OxidationofEthyleneCatalyzedbySilverSupportedon
+gests optimal particle size distributions of Ag/ -Al 2 O 3 centered ZirconiumPhosphate:ParticleSizeandSupportEffect,J.Catal.94(2)(1985)
+around((cid:3)140nm)willfacilitatehighEOrates(>4 l molg-1 s(cid:1)1). 455–467,https://doi.org/10.1016/0021-9517(85)90210-6.
+Ag
+[14] J.Lu,J.Bravosuarez,A.Takahashi,M.Haruta,S.Oyama,InSituUV–VisStudies
+oftheEffectofParticleSizeontheEpoxidationofEthyleneandPropyleneon
+Dataavailability SupportedSilverCatalystswithMolecularOxygen,J.Catal.232(1)(2005)85–
+95,https://doi.org/10.1016/j.jcat.2005.02.013.
+[15] A.J.F. van Hoof, I.A.W. Filot, H. Friedrich, E.J.M. Hensen, Reversible
+Datawillbemadeavailableonrequest.
+Restructuring of Silver Particles during Ethylene Epoxidation, ACS Catal. 8
+(12)(2018)11794–11800,https://doi.org/10.1021/acscatal.8b03331.
+DeclarationofCompetingInterest [16] A.J.F.vanHoof,R.C.J.vanderPoll,H.Friedrich,E.J.M.Hensen,Dynamicsof
+SilverParticlesduringEthyleneEpoxidation,ApplCatalB272(2020),https://
+doi.org/10.1016/j.apcatb.2020.118983.
+Theauthorsdeclarethattheyhavenoknowncompetingfinan- [17] P.H.Keijzer,J.E.vandenReijen,C.J.Keijzer,K.P.deJong,P.E.deJongh,Influence
+cial interests or personal relationships that could have appeared ofAtmosphere,InterparticleDistanceandSupportontheStabilityofSilveron
+a-AluminaforEthyleneEpoxidation,J.Catal.405(2022)534–544,https://doi.
+toinfluencetheworkreportedinthispaper.
+org/10.1016/j.jcat.2021.11.016.
+[18] J.C.Dellamorte,J.Lauterbach,M.A.Barteau,EffectofPreparationConditionson
+Acknowledgements Ag Catalysts for Ethylene Epoxidation, Top. Catal. 53 (1–2) (2010) 13–18,
+https://doi.org/10.1007/s11244-009-9440-9.
+[19] R.S.Weber,Lies,DamnedLies,andTurnoverRates,J.Catal.404(2021)925–
+PartsofthisworkwerecarriedoutintheCharacterizationFacil- 928,https://doi.org/10.1016/j.jcat.2021.06.024.
+ity, University of Minnesota, which receives partial support from [20] M.Peuckert,T.Yoneda,R.A.D.Betta,M.Boudart,OxygenReductiononSmall
+theNSFthroughtheMRSECandtheNNCIprograms.Theauthors SupportedPlatinumParticles,J.Electrochem.Soc. 133(5)(1986)944–947,
+https://doi.org/10.1149/1.2108769.
+acknowledge Dr. Xinyu Li for assistance with XRD analysis, Prof.
+[21] J.H.Miller,A.Joshi,X.Li,A.Bhan,CatalyticDegradationofEthyleneOxideover
+DavidPoerschkeandMr.AtharvaChikhalikarforhelpingoutwith Ag/a-Al2O3, J. Catal. 389 (2020) 714–720, https://doi.org/10.1016/j.
+heattreatmentof c -Al O ,Dr.ChristopherHoatDowInc.,forassis- jcat.2020.07.008.
+2 3 [22] D.A. Hickman, J.C. Degenstein, F.H. Ribeiro, Fundamental Principles of
+tancewithparameterestimationinAthenaVisualStudioand Dr.
+LaboratoryFixedBedReactorDesign,Curr.Opin.Chem.Eng.13(2016)1–9,
+Victor Sussman and Dr. Daniel Hickman at Dow Inc., for helpful https://doi.org/10.1016/j.coche.2016.07.002.
+108
+
+K.R.IyerandA.Bhan JournalofCatalysis420(2023)99–109
+[23] C.Campbell,TheSelectiveEpoxidationofEthyleneCatalyzedbyAg(111):A [26] M. Lamoth, T. Jones, M. Plodinec, A. Machoke, S. Wrabetz, M. Krämer, A.
+Comparison with Ag(110), J. Catal. 94 (2) (1985) 436–444, https://doi.org/ Karpov,F.Rosowski,S.Piccinin,R.Schlögl,E.Frei,NanocatalystsUnravelthe
+10.1016/0021-9517(85)90208-8. SelectiveStateofAg,ChemCatChem12(11)(2020)2977–2988,https://doi.
+[24] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,S.N.Goncharova,B.S.Bal’zhinimaev, org/10.1002/cctc.202000035.
+XPS Study of the Size Effect in Ethene Epoxidation on Supported Silver [27] H.Li,A.Cao,J.K.Nørskov,UnderstandingTrendsinEthyleneEpoxidationon
+Catalysts,JournaloftheChemicalSociety,FaradayTransactions93(13)(1997) Group IB Metals, ACS Catal. 11 (19) (2021) 12052–12057, https://doi.org/
+2323–2329,https://doi.org/10.1039/a608414a. 10.1021/acscatal.1c03094.
+[25] C.Stegelmann,N.C.Schiødt,C.T.Campbell,P.Stoltze,MicrokineticModelingof [28] K.R.Iyer,A.Bhan,InterdependenciesAmongEthyleneOxidationandChlorine
+EthyleneOxidationoverSilver,J.Catal.221(2)(2004)630–649,https://doi. ModerationCatalyticCyclesOverPromotedAg/a-Al2O3Catalysts,ACSCatal.
+org/10.1016/j.jcat.2003.10.004. 11(24)(2021)14864–14876,https://doi.org/10.1021/acscatal.1c03493.
+109
+

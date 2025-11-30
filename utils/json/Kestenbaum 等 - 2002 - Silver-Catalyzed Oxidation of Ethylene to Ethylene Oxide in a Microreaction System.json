@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高温",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-360°C"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "1-20 bar"
+    },
+    {
+        "start_node": "乙烯浓度",
+        "relationship": "范围",
+        "end_node": "1-15 vol%"
+    },
+    {
+        "start_node": "氧浓度",
+        "relationship": "范围",
+        "end_node": "5-85 vol%"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "1-6 L h-1"
+    },
+    {
+        "start_node": "乙烯分压",
+        "relationship": "增加",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "氧分压",
+        "relationship": "增加",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "氧分压",
+        "relationship": "增加",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "长停留时间",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "DCE添加",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DCE添加",
+        "relationship": "降低",
+        "end_node": "时空产率"
+    },
+    {
+        "start_node": "α-Al2O3载体",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银层厚度",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银层厚度",
+        "relationship": "影响",
+        "end_node": "时空产率"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提供",
+        "end_node": "良好传质"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "提供",
+        "end_node": "良好传热"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "避免",
+        "end_node": "热点"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "安全",
+        "end_node": "爆炸条件"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "达到",
+        "end_node": "高时空产率"
+    },
+    {
+        "start_node": "时空产率",
+        "relationship": "范围",
+        "end_node": "0.14-0.78吨h-1m-3"
+    },
+    {
+        "start_node": "工业反应器",
+        "relationship": "时空产率",
+        "end_node": "0.13-0.26吨h-1m-3"
+    },
+    {
+        "start_node": "微反应器",
+        "relationship": "超越",
+        "end_node": "工业反应器"
+    },
+    {
+        "start_node": "OAOR处理",
+        "relationship": "增加",
+        "end_node": "表面积"
+    },
+    {
+        "start_node": "碳沉积",
+        "relationship": "导致",
+        "end_node": "催化剂失活"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "影响",
+        "end_node": "转化率"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "提高",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "生成",
+        "end_node": "SiO3/2F物种"
+    },
+    {
+        "start_node": "SiO3/2F物种",
+        "relationship": "增加",
+        "end_node": "Ti电正性"
+    },
+    {
+        "start_node": "Ti电正性",
+        "relationship": "增强",
+        "end_node": "氢键强度"
+    },
+    {
+        "start_node": "氢键强度",
+        "relationship": "稳定",
+        "end_node": "Ti-氢过氧中间体"
+    },
+    {
+        "start_node": "Ti-氢过氧中间体",
+        "relationship": "影响",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "甲醇溶剂",
+        "relationship": "优于",
+        "end_node": "水溶剂"
+    },
+    {
+        "start_node": "甲醇溶剂",
+        "relationship": "保持",
+        "end_node": "晶体结构"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "生成",
+        "end_node": "二次介孔"
+    },
+    {
+        "start_node": "二次介孔",
+        "relationship": "提高",
+        "end_node": "活性位点可及性"
+    },
+    {
+        "start_node": "活性位点可及性",
+        "relationship": "改善",
+        "end_node": "催化剂稳定性"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "降低",
+        "end_node": "表观活化能"
+    },
+    {
+        "start_node": "表观活化能",
+        "relationship": "影响",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "减少",
+        "end_node": "弱酸位点"
+    },
+    {
+        "start_node": "弱酸位点",
+        "relationship": "促进",
+        "end_node": "环氧乙烷开环"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "抑制",
+        "end_node": "环氧乙烷开环"
+    },
+    {
+        "start_node": "环氧乙烷开环",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氟掺杂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "473–533 K"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "313 K"
+    },
+    {
+        "start_node": "F/Si比",
+        "relationship": "范围",
+        "end_node": "0.05"
+    },
+    {
+        "start_node": "氟化温度",
+        "relationship": "范围",
+        "end_node": "433 K"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "start_node": "铌氧化物",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "介孔二氧化硅",
+        "relationship": "负载",
+        "end_node": "铌氧化物"
+    },
+    {
+        "start_node": "铌氧化物催化剂",
+        "relationship": "实现",
+        "end_node": "无CO2生产"
+    },
+    {
+        "start_node": "铌氧化物催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1039/D2RA07240H"
+    },
+    {
+        "start_node": "铌氧化物催化剂",
+        "relationship": "发表年份",
+        "end_node": "2023"
+    },
+    {
+        "start_node": "液相环氧化",
+        "relationship": "用于",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "液相环氧化",
+        "relationship": "产生",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "无CO2生产",
+        "relationship": "避免",
+        "end_node": "完全氧化"
+    }
+]

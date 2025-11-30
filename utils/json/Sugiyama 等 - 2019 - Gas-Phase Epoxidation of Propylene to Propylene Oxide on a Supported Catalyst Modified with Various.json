@@ -1,0 +1,107 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-Na/CaCO3",
+        "relationship": "产率",
+        "end_node": "1.29%"
+    },
+    {
+        "start_node": "Ag-Na/SrCO3",
+        "relationship": "产率",
+        "end_node": "2.17%"
+    },
+    {
+        "start_node": "大粒径",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "低分散度",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "1-56 wt%"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "523-623K"
+    },
+    {
+        "start_node": "操作压力",
+        "relationship": "范围",
+        "end_node": "大气压"
+    },
+    {
+        "start_node": "Al-MCM-41",
+        "relationship": "产率",
+        "end_node": "0.095%"
+    },
+    {
+        "start_node": "H-ZSM-5",
+        "relationship": "产率",
+        "end_node": "0.67%"
+    },
+    {
+        "start_node": "Ti-ZSM-5",
+        "relationship": "产率",
+        "end_node": "0.57%"
+    },
+    {
+        "start_node": "酸性位点",
+        "relationship": "影响",
+        "end_node": "PO生成"
+    },
+    {
+        "start_node": "碱性碳酸盐",
+        "relationship": "载体",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "Na助剂",
+        "relationship": "提高",
+        "end_node": "PO产率"
+    },
+    {
+        "start_node": "粒径分布",
+        "relationship": "影响",
+        "end_node": "催化活性"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "9.0-13.9 nm"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Al催化剂",
+        "relationship": "催化",
+        "end_node": "环氧乙烷聚合"
+    },
+    {
+        "start_node": "i-Bu3Al/H3PO4/DBU",
+        "relationship": "是",
+        "end_node": "高效催化剂"
+    },
+    {
+        "start_node": "催化剂组分",
+        "relationship": "影响",
+        "end_node": "聚合活性"
+    },
+    {
+        "start_node": "H3PO4/i-Bu3Al",
+        "relationship": "范围",
+        "end_node": "0.35"
+    },
+    {
+        "start_node": "DBU/i-Bu3Al",
+        "relationship": "范围",
+        "end_node": "0.26-0.5"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "25°C"
+    },
+    {
+        "start_node": "反应时间",
+        "relationship": "范围",
+        "end_node": "30分钟"
+    },
+    {
+        "start_node": "聚合活性",
+        "relationship": "最高",
+        "end_node": "1/0.35/0.26"
+    },
+    {
+        "start_node": "随机共聚",
+        "relationship": "生成",
+        "end_node": "FGE/ECH/EO"
+    },
+    {
+        "start_node": "FGE含量",
+        "relationship": "调节",
+        "end_node": "交联密度"
+    },
+    {
+        "start_node": "交联密度",
+        "relationship": "影响",
+        "end_node": "机械性能"
+    },
+    {
+        "start_node": "DA交联",
+        "relationship": "优于",
+        "end_node": "传统硫化"
+    },
+    {
+        "start_node": "热可逆交联",
+        "relationship": "实现",
+        "end_node": "自修复"
+    },
+    {
+        "start_node": "热可逆交联",
+        "relationship": "实现",
+        "end_node": "再加工"
+    }
+]

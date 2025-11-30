@@ -1,0 +1,162 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "作为",
+        "end_node": "溶剂"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "作为",
+        "end_node": "反应物"
+    },
+    {
+        "start_node": "过氧化氢",
+        "relationship": "作为",
+        "end_node": "氧化剂"
+    },
+    {
+        "start_node": "水",
+        "relationship": "包含",
+        "end_node": "过氧化氢"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "膨胀",
+        "end_node": "甲醇"
+    },
+    {
+        "start_node": "温度",
+        "relationship": "影响",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "压力",
+        "relationship": "影响",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "甲醇含量",
+        "relationship": "影响",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "高甲醇含量",
+        "relationship": "提高",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "高压力",
+        "relationship": "提高",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "低温",
+        "relationship": "提高",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "水含量",
+        "relationship": "降低",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "20-40°C"
+    },
+    {
+        "start_node": "反应压力",
+        "relationship": "范围",
+        "end_node": "5-50 bar"
+    },
+    {
+        "start_node": "甲醇含量",
+        "relationship": "范围",
+        "end_node": "0.3-0.8"
+    },
+    {
+        "start_node": "乙烯溶解度",
+        "relationship": "决定",
+        "end_node": "反应速率"
+    },
+    {
+        "start_node": "过氧化氢",
+        "relationship": "替代",
+        "end_node": "水"
+    },
+    {
+        "start_node": "高甲醇含量",
+        "relationship": "简化",
+        "end_node": "相平衡分析"
+    },
+    {
+        "start_node": "体积膨胀比",
+        "relationship": "反映",
+        "end_node": "乙烯溶解度"
+    },
+    {
+        "start_node": "分子模拟",
+        "relationship": "预测",
+        "end_node": "相平衡"
+    },
+    {
+        "start_node": "径向分布函数",
+        "relationship": "分析",
+        "end_node": "液体结构"
+    },
+    {
+        "start_node": "氢键",
+        "relationship": "影响",
+        "end_node": "分子亲和力"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "与",
+        "end_node": "过氧化氢"
+    },
+    {
+        "start_node": "乙烯",
+        "relationship": "与",
+        "end_node": "水"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "与",
+        "end_node": "水"
+    },
+    {
+        "start_node": "甲醇",
+        "relationship": "与",
+        "end_node": "过氧化氢"
+    }
+]

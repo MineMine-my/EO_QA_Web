@@ -1,0 +1,172 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "预处理策略",
+        "relationship": "影响",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "煅烧",
+        "relationship": "降低",
+        "end_node": "乙烯转化率"
+    },
+    {
+        "start_node": "预干燥",
+        "relationship": "导致",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "氧化预处理",
+        "relationship": "消除",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "还原预处理",
+        "relationship": "消除",
+        "end_node": "诱导期"
+    },
+    {
+        "start_node": "DCE预处理",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DCE预处理",
+        "relationship": "降低",
+        "end_node": "反应温度"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "232.6°C"
+    },
+    {
+        "start_node": "DCE浓度",
+        "relationship": "范围",
+        "end_node": "1-2 ppm"
+    },
+    {
+        "start_node": "Cs促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Re促进剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "促进剂负载",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "转化率",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DCE",
+        "relationship": "抑制",
+        "end_node": "氧解离吸附"
+    },
+    {
+        "start_node": "氧解离吸附",
+        "relationship": "导致",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "CO2添加",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "范围",
+        "end_node": "50-500 nm"
+    },
+    {
+        "start_node": "煅烧",
+        "relationship": "导致",
+        "end_node": "银烧结"
+    },
+    {
+        "start_node": "银烧结",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "银氧物种",
+        "relationship": "参与",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "吸附",
+        "end_node": "乙烯"
+    },
+    {
+        "start_node": "亲核氧",
+        "relationship": "参与",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "亲电氧",
+        "relationship": "形成",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "操作温度",
+        "relationship": "范围",
+        "end_node": "200-280°C"
+    },
+    {
+        "start_node": "O2/C2H4",
+        "relationship": "范围",
+        "end_node": "0.06-0.12"
+    }
+]

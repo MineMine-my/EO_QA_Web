@@ -1,0 +1,127 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "DMDO",
+        "relationship": "催化",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "TFDO",
+        "relationship": "催化",
+        "end_node": "环氧化"
+    },
+    {
+        "start_node": "CF3基团",
+        "relationship": "增强",
+        "end_node": "TFDO活性"
+    },
+    {
+        "start_node": "乙酸",
+        "relationship": "降低",
+        "end_node": "DMDO能垒"
+    },
+    {
+        "start_node": "水分子",
+        "relationship": "降低",
+        "end_node": "DMDO能垒"
+    },
+    {
+        "start_node": "溶剂极性",
+        "relationship": "影响",
+        "end_node": "DMDO速率"
+    },
+    {
+        "start_node": "氢键效应",
+        "relationship": "提高",
+        "end_node": "DMDO速率"
+    },
+    {
+        "start_node": "应变能",
+        "relationship": "影响",
+        "end_node": "反应活性"
+    },
+    {
+        "start_node": "烷基取代",
+        "relationship": "提高",
+        "end_node": "环氧化速率"
+    },
+    {
+        "start_node": "扭曲应变",
+        "relationship": "降低",
+        "end_node": "活化能垒"
+    },
+    {
+        "start_node": "共轭烯烃",
+        "relationship": "增加",
+        "end_node": "活化能垒"
+    },
+    {
+        "start_node": "外型进攻",
+        "relationship": "优于",
+        "end_node": "内型进攻"
+    },
+    {
+        "start_node": "DMDO",
+        "relationship": "快于",
+        "end_node": "过氧酸"
+    },
+    {
+        "start_node": "TFDO",
+        "relationship": "快于",
+        "end_node": "DMDO"
+    },
+    {
+        "start_node": "QCISD(T)",
+        "relationship": "提供",
+        "end_node": "准确能垒"
+    },
+    {
+        "start_node": "B3LYP",
+        "relationship": "低估",
+        "end_node": "过氧酸能垒"
+    },
+    {
+        "start_node": "B3LYP",
+        "relationship": "高估",
+        "end_node": "DMDO能垒"
+    },
+    {
+        "start_node": "乙酸催化",
+        "relationship": "降低",
+        "end_node": "DMDO能垒"
+    },
+    {
+        "start_node": "乙酸催化",
+        "relationship": "范围",
+        "end_node": "8 kcal/mol"
+    }
+]

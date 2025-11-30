@@ -1,0 +1,142 @@
+[
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3",
+        "relationship": "作为",
+        "end_node": "载体"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "21-29 m2/g"
+    },
+    {
+        "start_node": "模板尺寸",
+        "relationship": "范围",
+        "end_node": "220-1000 nm"
+    },
+    {
+        "start_node": "模板尺寸",
+        "relationship": "提高",
+        "end_node": "α-Al2O3纯度"
+    },
+    {
+        "start_node": "α-Al2O3纯度",
+        "relationship": "范围",
+        "end_node": "75-98%"
+    },
+    {
+        "start_node": "煅烧时间",
+        "relationship": "提高",
+        "end_node": "α-Al2O3纯度"
+    },
+    {
+        "start_node": "α-Al2O3纯度",
+        "relationship": "提高",
+        "end_node": "环氧乙烷选择性"
+    },
+    {
+        "start_node": "高比表面积",
+        "relationship": "允许",
+        "end_node": "高银负载"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "15-30 wt%"
+    },
+    {
+        "start_node": "银粒径",
+        "relationship": "范围",
+        "end_node": "47-73 nm"
+    },
+    {
+        "start_node": "高银负载",
+        "relationship": "减少",
+        "end_node": "OH基团暴露"
+    },
+    {
+        "start_node": "OH基团",
+        "relationship": "促进",
+        "end_node": "乙醛生成"
+    },
+    {
+        "start_node": "乙醛生成",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "高银负载",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "215°C"
+    },
+    {
+        "start_node": "转化率",
+        "relationship": "范围",
+        "end_node": "2.8-3.6%"
+    },
+    {
+        "start_node": "选择性",
+        "relationship": "范围",
+        "end_node": "56-78%"
+    },
+    {
+        "start_node": "纤维素模板",
+        "relationship": "产生",
+        "end_node": "98% α-Al2O3"
+    },
+    {
+        "start_node": "碳化葡萄糖",
+        "relationship": "产生",
+        "end_node": "75-77% α-Al2O3"
+    },
+    {
+        "start_node": "相杂质",
+        "relationship": "增加",
+        "end_node": "OH浓度"
+    },
+    {
+        "start_node": "相杂质",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "两步加热法",
+        "relationship": "实现",
+        "end_node": "高比表面积"
+    }
+]

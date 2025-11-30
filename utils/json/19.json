@@ -1,0 +1,397 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "催化剂设计",
+        "relationship": "追求",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "氧吸附强度"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "促进",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "抑制",
+        "end_node": "EO降解"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "EO降解"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "抑制",
+        "end_node": "EO降解"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Li",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Na",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "K",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "抑制",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "抑制",
+        "end_node": "EO燃烧"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "抑制",
+        "end_node": "EO燃烧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "EO燃烧"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "抑制",
+        "end_node": "EO燃烧"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "氧物种"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "增强",
+        "end_node": "弱吸附氧"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "增强",
+        "end_node": "强吸附氧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增强",
+        "end_node": "弱吸附氧"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "增强",
+        "end_node": "强吸附氧"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "增强",
+        "end_node": "弱吸附氧"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "增强",
+        "end_node": "强吸附氧"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "抑制",
+        "end_node": "强吸附氧"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "提高",
+        "end_node": "弱吸附氧"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "中和",
+        "end_node": "氯效应"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "中和",
+        "end_node": "氯效应"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "中和",
+        "end_node": "氯效应"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "抑制",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "抑制",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "抑制",
+        "end_node": "异构化"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "乙基氯",
+        "relationship": "影响",
+        "end_node": "转化率"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "反应路径"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "促进",
+        "end_node": "选择性路径"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "选择性路径"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "促进",
+        "end_node": "选择性路径"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "抑制",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "降低",
+        "end_node": "活化能"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "减少",
+        "end_node": "活性位点"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "限制",
+        "end_node": "氧空位"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "吸附模式"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "影响",
+        "end_node": "吸附模式"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "稳定",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "影响",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "提高",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "工业条件"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "优化",
+        "end_node": "工业条件"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "优化",
+        "end_node": "工业条件"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "工艺参数"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "优化",
+        "end_node": "工艺参数"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "优化",
+        "end_node": "工艺参数"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "反应条件"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "优化",
+        "end_node": "反应条件"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "优化",
+        "end_node": "反应条件"
+    },
+    {
+        "start_node": "碱金属",
+        "relationship": "影响",
+        "end_node": "催化剂稳定性"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "提高",
+        "end_node": "催化剂稳定性"
+    },
+    {
+        "start_node": "Rb",
+        "relationship": "提高",
+        "end_node": "催化剂稳定性"
+    }
+]

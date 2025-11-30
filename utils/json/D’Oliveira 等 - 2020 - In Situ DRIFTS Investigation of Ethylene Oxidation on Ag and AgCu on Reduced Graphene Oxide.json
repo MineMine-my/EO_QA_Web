@@ -1,0 +1,162 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-Cu合金",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cu添加",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag-Cu/rGO",
+        "relationship": "增强",
+        "end_node": "氧化反应"
+    },
+    {
+        "start_node": "Cu物种",
+        "relationship": "影响",
+        "end_node": "电子结构"
+    },
+    {
+        "start_node": "电子结构",
+        "relationship": "增强",
+        "end_node": "氧化反应"
+    },
+    {
+        "start_node": "rGO载体",
+        "relationship": "具有",
+        "end_node": "高比表面积"
+    },
+    {
+        "start_node": "rGO载体",
+        "relationship": "具有",
+        "end_node": "高导电性"
+    },
+    {
+        "start_node": "浸渍法",
+        "relationship": "用于",
+        "end_node": "催化剂制备"
+    },
+    {
+        "start_node": "Ag粒径",
+        "relationship": "范围",
+        "end_node": "16-17 nm"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "200-280°C"
+    },
+    {
+        "start_node": "预处理温度",
+        "relationship": "范围",
+        "end_node": "280-350°C"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "是",
+        "end_node": "中间体"
+    },
+    {
+        "start_node": "乙醛",
+        "relationship": "分解为",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "完全氧化",
+        "relationship": "生成",
+        "end_node": "CO2"
+    },
+    {
+        "start_node": "环氧乙烷",
+        "relationship": "异构化",
+        "end_node": "乙醛"
+    },
+    {
+        "start_node": "CuO",
+        "relationship": "存在于",
+        "end_node": "催化剂表面"
+    },
+    {
+        "start_node": "Cu2O",
+        "relationship": "存在于",
+        "end_node": "催化剂表面"
+    },
+    {
+        "start_node": "金属银",
+        "relationship": "存在于",
+        "end_node": "催化剂表面"
+    },
+    {
+        "start_node": "Cu物种",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "rGO载体",
+        "relationship": "含有",
+        "end_node": "羟基基团"
+    },
+    {
+        "start_node": "羟基基团",
+        "relationship": "促进",
+        "end_node": "乙醛形成"
+    },
+    {
+        "start_node": "大Ag颗粒",
+        "relationship": "促进",
+        "end_node": "完全氧化"
+    },
+    {
+        "start_node": "Cu分散",
+        "relationship": "降低",
+        "end_node": "rGO稳定性"
+    },
+    {
+        "start_node": "Ag负载量",
+        "relationship": "范围",
+        "end_node": "9.7-9.8 wt%"
+    },
+    {
+        "start_node": "Cu负载量",
+        "relationship": "范围",
+        "end_node": "5 wt%"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "481 m2/g"
+    }
+]

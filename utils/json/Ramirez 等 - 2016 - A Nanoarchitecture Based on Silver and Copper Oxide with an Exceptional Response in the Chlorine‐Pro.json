@@ -1,0 +1,117 @@
+[
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "DOI",
+        "end_node": "10.1002/anie.201603886"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "发表年份",
+        "end_node": "2016"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "组成",
+        "end_node": "银纳米结构"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "组成",
+        "end_node": "CuO基质"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "制备方法",
+        "end_node": "共沉淀法"
+    },
+    {
+        "start_node": "CuO",
+        "relationship": "促进",
+        "end_node": "氯吸附"
+    },
+    {
+        "start_node": "氯吸附",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "反应温度",
+        "end_node": "225°C"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "产率",
+        "end_node": "21%"
+    },
+    {
+        "start_node": "Ag/CuO催化剂",
+        "relationship": "活性温度",
+        "end_node": "100°C"
+    },
+    {
+        "start_node": "Cu",
+        "relationship": "促进",
+        "end_node": "电子转移"
+    },
+    {
+        "start_node": "电子转移",
+        "relationship": "增加",
+        "end_node": "亲电性氧"
+    },
+    {
+        "start_node": "亲电性氧",
+        "relationship": "促进",
+        "end_node": "环氧乙烷生成"
+    },
+    {
+        "start_node": "氯预处理",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氯预处理",
+        "relationship": "稳定",
+        "end_node": "催化剂性能"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    }
+]

@@ -1,0 +1,556 @@
+JournalofCatalysis356(2017)65–74
+ContentslistsavailableatScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+a
+Preparation and particle size effects of Ag/ -Al O catalysts for ethylene
+2 3
+epoxidation
+J.E. van den Reijena, S. Kanungob, T.A.J. Wellingc, M. Versluijs-Heldera, T.A. Nijhuisb,1, K.P. de Jonga,
+P.E. de
+Jongha,⇑
+aInorganicChemistryandCatalysis,DebyeInstituteforNanomaterialsScience,UtrechtUniversity,Utrecht,TheNetherlands
+bLaboratoryofChemicalReactorEngineering,DepartmentofChemicalEngineeringandChemistry,EindhovenUniversityofTechnology,Eindhoven,TheNetherlands
+cSoftCondensedMatter,DebyeInstituteforNanomaterialsScience,UtrechtUniversity,Utrecht,TheNetherlands
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Currently,fortheindustrialethyleneepoxidationa-aluminasupportedsilvercatalystsaretheonlycat-
+Received26July2017 alystofchoice.Wedemonstrateanovelmethodtoproducethesecatalystswithdifferentsilverparticle
+Revised30September2017 sizes,butwithoutchangingotherkeyparametersthatmayaffectthecatalyticperformancesuchassup-
+Accepted3October2017 portspecificsurfaceareaormetalprecursor.a-Aluminawasimpregnatedwithasilveroxalatesolution,
+Availableonline6November2017
+andwassubsequentlydriedandtreatedindifferentgasatmospheresandatdifferenttemperaturesto
+tunethesilverparticlesizesintherangeof20–500nm.Particlesof20nmexhibitedalowerturnover
+Keywords:
+frequencythanparticlesof70nmandlarger,whichexhibitaconstantturnoverfrequency,inaccordance
+Ethyleneepoxidation
+withresultsinliterature.However,theselectivity,whenmeasuredatconstantconversion,wasparticle
+Silver
+a-Alumina sizeindependent.Thisisthefirsttimethattheeffectoftheparticlesizeontheselectivityofethylene
+Catalystdesign epoxidationisreportedatconstantconversion.Thiswasmadepossiblebyanewmethodofproducing
+Ethyleneoxide supportedsilvercatalysts,whichweexpectthatisalsoapplicableforsilvercatalystswithothersupports
+Particlesizeeffect andforthepreparationofothersupportedmetalcatalysts.
+(cid:1)2017TheAuthors.PublishedbyElsevierInc.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1.Introduction side-reactionspartiallyoccuronsurfaceOHgroupsofthesupport;
+a
+hence, the use of -alumina as a support limits these unwanted
+Ethylene epoxidation using silver catalysts is an important reactions[10,11].
+industrialprocess withan annualworldwideproductionof ethy- Industrial catalysts typically consist of supported silver cata-
+leneoxideof25(cid:1)106tonin2013[1,2]Ethyleneoxide(EO)isused lysts with 100–1000nm particle sizes. Furthermore a moderator
+asadisinfectantandsterilizingagent,butthemostimportantcon- (chlorine containing compound) is used in the process and pro-
+sumption of EO is for hydration to ethylene glycol, which is the motors (Cs, Re, S, etcetera) are added to the catalyst. Industrial
+maincomponentinantifreezeandaprecursorforpolyestersand catalystsnowadaysgivehighselectivitiestowardethyleneoxide;
+polyurethanes [3]. The silver catalysts used for EO production in sometimes exceeding 90% [12,13]. These selectivities exceed the
+industryconsistofpromoted a -aluminasupportedsilverparticles previously assumed theoretical maximum of 6/ or 85.7% associ-
+7
+withasizerangeof100–1000nm[1,4].Theroleofthesupportin ated with the model that Kilty and Sachtler proposed in the
+the catalyst is to enable the preparation of small metal particles 1970s. In their model molecularly adsorbed oxygen is responsi-
+a
+andtopreventdeactivationbysintering[5]. -Aluminaisthemost ble for the selective oxidation reaction, leading to the formation
+stablecrystalphaseofalumina.Itexhibitsalowdensityofsurface of an epoxide and an atomically adsorbed oxygen. Six of these
+groups,typically<1OHnm(cid:3)2,andaspecificsurfaceareabelow10 adsorbed oxygen atoms would be involved in the unselective
+m2 g(cid:3)1 [6]. Both characteristics limit the total amount of surface oxidation of ethylene, leading to carbon dioxide and water
+OH groups [7–9]. Lee et al. and Mao et al. established that [14,15]. Therefore, for every six ethylene oxide molecules pro-
+duced, one ethylene molecule would be fully oxidized. While
+this mechanism was supported for some years by some groups
+⇑
+Correspondingauthor. [16,17], selectivities higher than expected based on this model
+E-mailaddress:P.E.deJongh@uu.nl(P.E.deJongh). were achieved with promoted catalysts shortly after this model
+1 Present address: SABIC, STC Geleen, PO Box 5151, 6130 PD Sittard, The was proposed [14,18,19]. Therefore, another mechanism based
+Netherlands.
+https://doi.org/10.1016/j.jcat.2017.10.001
+0021-9517/(cid:1)2017TheAuthors.PublishedbyElsevierInc.
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+66 J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74
+on atomic oxygen to describe the ethylene epoxidation reaction Fischer-Tropsch reaction, but it occurs at particle sizes an order
+was required [18,20]. ofmagnitudelarger.
+Computational results supported an oxometallocycle (OMC) Alreadyin1975WuandHarriotreportedadecreasingsurface-
+mechanism,inwhichakeystepistheformationofanOMCsurface specificrateofbothepoxidationand combustionwithincreasing
+intermediate: an ethylene molecule adsorbed on an ensemble of particle size in the range of 3–50nm [28]. In 1980, Verykios
+surfaceoxygenatomsandametalsite[21,22].ThisOMCcanthen etal.observedaminimalspecificrateofoxidation(molm(cid:3)2s(cid:3)1)
+form ethylene oxide (EO) or acetaldehyde, of which the latter is ataparticlesizeof50–70nm.Bothgroupsreportedanincreasing
+subsequently fully oxidized over silver [11]. However, while EO selectivitywithparticlesizeovertheentiresizerange[33].Atthe
+selectivitiesaround50%observedwithmodelcatalystsfitthecom- time,theseresultswerecontroversialandtheirconclusionswere
+petitiveformationofacetaldehydeandEO,theobservedincrease disputedbySajkowskiandBoudartwhoclaimedthattheobserved
+inselectivitywithincreasingoxygencoveragecannotbeexplained differencesinspecificreactionsratesweretoosmalltobesignifi-
+bytheOMCmechanism[13,23]. cantandresultstobeinfluencedbycontaminations.Theyexpected
+Özbeketal.proposetheneedforanoxidizedsilversurface.An thepresenceofcontaminationstoactasapoisonduetounexpect-
+Eley–Rideal (E-R) mechanism over an Ag O(001) crystal surface edlylowturnoverratesreportedbyVerykiosetal.[34].
+2
+would open up a fully selective reaction pathway to ethylene Verykiosetal.synthesizedcatalystswithsmallsilverparticles
+oxide.Inthismechanismnoacetaldehydeformationoccurswhen supported on materials with different specific surface area. They
+nooxygenvacanciesarepresent.However,inthepresenceofthese heattreatedthesecatalystsatdifferenttemperaturesfordifferent
+oxygen vacancies, an OMC mechanism is followed, favoring calcinationtimestoobtainsetsofcatalystswithdifferentparticle
+acetaldehyde formation [13,23]. Under real reaction conditions sizes.Inalaterpaperfromthesamegroup,theysynthesizedcata-
+thecompetitiveadsorptionofoxygenandethyleneontheseoxy- lysts with different weight loadings on a single support batch to
+genvacanciesisthereforekey.TheE-Rmechanismthereforeisin obtain silver particles with different particle sizes. Using this
+agreementwithhighselectivitiestowardethyleneoxideobserved, method, they prevented contaminations that may be introduced
+whilealsopredictingthedependenceofselectivityontheoxygen byusingdifferentsupportmaterialsandsegregationofcontamina-
+coverage[24]. tionsduringtheheattreatment[25,35].Inthissecondstudy,they
+TheOMCandthedirectE-Rmechanismsdonottakethesup- obtainedamaximumspecificrateofepoxidationandcombustion
+port into account, but propose that EO isomerization occurs on atsilverparticlesizesofabout40–50nm,contradictingtheirear-
+thesilversurface[13,23].However,thesupportisbelievedtocat- lierresults[35].
+alyze the ring opening of EO, providing an additional pathway Inthissecondpaper,theselectivitytoethyleneoxideincreased
+reducingtheoverallselectivity[25].Inallcases,thesilversurface slightlywithparticlesize,whichtheyattributedtodifferencesin
+isbelievedtopromptlyoxidizeacetaldehydetoformcarbondiox- the rates of the secondary reactions for different particle sizes.
+ideandwater. Since the activity showed a particle size dependence, the partial
+Variousexperimentalstudies,suchasVerykiosetal.,showeda pressureofethyleneoxidedifferspersample.Whencorrectedfor
+particle size dependent activityin the oxidation of ethylene over these secondary reactions with a rate of EO oxidation obtained
+silver catalysts [25]. This trend was suggested to be caused by from experiments over bare supports, they obtained a slight
+inherently different activities of different silver crystal planes decrease in selectivity with particle size [32]. They believed that
+[17,24,26]. While initially supporting this claim [17], Campbell theactualparticlesizedependencyoftheselectivitytowardethy-
+reportedsimilarepoxidationratesonbothcrystalplanesin1985 leneoxideliessomewherebetweentheobservedandthecorrected
+[27]. trend[35].
+Alsotheinfluenceofparticlesizeandcrystalfacetsonselectiv- Sincethelate90s,theparticlesizedependencyoftheactivity
+ityisdebated.RecentlyChristopheretal.argued,basedonstudies hasbeenlargelyacceptedtoexhibitamaximumactivitypergram
+on spheres containing both Ag(100) and Ag(111) facets, and ofsilveratparticlesizesof50–70nmforsupportedsilvercatalysts
+cubesand rods containingprimarilyAg(100)facets, that Ag(10 [35–37].However,thecauseofthiseffectwasstillunderdiscus-
+0) surfaces preferentially lead to EO and Ag(111) surfaces lead sion.In1997thegroupofBal’zhinimaevattributedthetypicalpar-
+totheformationofacetaldehyde[24,28].However,acomplication ticle size dependence to different electronic states of the silver
+is that particle size effects on activity and selectivity are often surfaces.WithXPStheyshowedtheformationofananionicoxy-
+obscuredbymeasuringatdifferentconversions.Conversionlevels genspeciesonlargerparticles,whilethesespecieswerenotpre-
+(whichdependonactivity)havealargeinfluenceontheselectivity sent on silver particles smaller than 50nm [38,39]. These results
+(as we will demonstrate later in this paper) and hence a careful showed a clear correlation with 109Ag-NMR results and catalytic
+deconvolutionofthetwodifferentfactorsparametersisnecessary. datafortheepoxidationreactionoverthesecatalysts[40]andcor-
+Particlesizeeffectsarecommonincatalysis,butthemetalpar- relates well with the observation of Akella and Lee in 1984that
+ticle size of the active metal below which the specific activity correlatesoxygencoveragewithselectivity[41].
+decreasesisgenerallysmallerthan10nm.Awell-knownexample On silver surfaces nucleophilic oxygen is believed to coexist
+ofreportedparticlesizeeffectsare goldcatalystsin theepoxida- with electrophilic oxygen species, and both are required for an
+tion of propylene. In this reaction small particles (<2nm) are activeandselectiveepoxidationcatalyst[20,37,39,42].Theformer
+highly active, but unselective, while large particles (>4nm) are is required for ethyleneadsorption, while the latter activates the
+hardlyactive,leadingtoanoptimalparticlesizeof2–4nm.Simi- ethylene double bond and is inserted to form EO [43,37]. These
+larly cobalt catalyzed Fischer-Tropsch synthesis and copper cat- specieswereidentifiedassubsurfaceoxygenandadsorbedoxygen
+alyzed methanol synthesis exhibit optimal particle sizes [29,30]. species on silver oxide surfaces [18,44]. This observation fits the
+Inthesereactions,metalparticlessmallerthan6–8nmexhibitsig- alternative reaction pathway proposed by Grant and Lambert in
+nificantly lower turnover frequencies (TOF) than larger particles, 1985[20].In2011Özbeketal.proposedthatintheabsenceofoxy-
+whilelargermetalparticlesexhibitparticlesizeindependentTOF’s gen vacancies the reaction occurs via a selective, direct reaction
+[29]. The CO activation requires an ensemble of surface atoms, (Eley–Rideal)pathway,whilethereactionoccursviaanOMCpath-
+whichareuniquetostep-edgesites(B5-typesites),whichinturn waywhenoxygenvacanciesarepresent.Thisreactionexplainsthe
+arerareonparticlessmallerthan10nm[31,32].Inethyleneepox- competitiveformationofacetaldehydeandEObasedontheoxy-
+idation the particle size effect follows a trend similar to the genspeciespresent[23].
+
+J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74 67
+a
+Not many studies address the effects of particle size on Theimpregnatedalumina([Ag(en) ] C O / -Al O )washeated
+22 2 4 2 3
+selectivity and most available literature report an increase in using different conditions, typically 150mg in a U-shaped flow
+selectivity with particle size [25,36,37]. However, in the aca- reactoratatmosphericpressure.Afterthermaltreatmentthecata-
+demic literature the selectivity is generally reported at a con- lystswereagaincrushed,andsievedtoa38–90mmsievefraction.
+a
+stant temperature and hence at widely varying conversions. Theresultingcatalystsconsistedof15wt%silveron -aluminaand
+To our knowledge, only the paper of Lee et al. tried to correct aredenominatedasAgAl O _atm_flow.Thegasatmosphereduring
+2 3
+for the inevitable artifacts introduced by this way of reporting thetemperaturetreatmentisrepresentedinatm,giveninvolume
+[10]. Their method to correct for the secondary reactions, by percentagesinnitrogenandtheflowinmLmin(cid:3)1.Theheatingrate,
+subtracting an ethylene oxide oxidation rate obtained over bare final temperature and dwell time during calcination are 5(cid:3)C
+supports, illustrates clearly how difficult it is to extract the min(cid:3)1,215in(cid:3)Cand2hexceptforthecatalystdenotedasAgAl -
+2
+intrinsic particle size dependency of the catalytic performance O _350_100%N2_0, which was heated to 350(cid:3)C with 1(cid:3)Cmin(cid:3)1,
+3
+for this type of catalysts. andkeptatthistemperaturefor24h.Anoverviewofallcatalysts
+AswasshownbytheworkofVerykiosetal.discussedearlier, discussedinthispaperislistedinTable1.
+intrinsic particle size effects are often obscured by the fact that
+other parameters change as well [4,10,25,35]. Reported methods 2.3.Characterization
+for obtaining different particle sizes involve changing the metal
+precursor, the support material and/or the weight loading The crystalline phases were analyzed with X-ray Diffraction
+[10,25,35,45,46]. (XRD)usingaBrukerD8Advancediffractometerequippedwitha
+Therefore, studying the performance of a set of catalysts CoΚa source(k=0.1789nm)intheanglerangefrom20(cid:3)to90(cid:3)
+having different particle sizes, but obtained from the same pre- in2handacharacterizationprocedureintheDIFFRACEvasoftware
+cursor on the same support and maintaining a constant metal (BrukerAXS).Thisanalysisprimarilyservedtoverifytheformation
+loading, is highly desired. In the present paper we describe a ofsilveroxalateandsilvermetalrespectively.
+a
+synthesis method for -alumina supported silver catalysts with Elemental analysis was performed with induced coupled
+different particle sizes. Building on previous knowledge [47–49], plasma-optical emission spectrometry (ICP-OES) and X-ray fluo-
+we use different gas atmospheres and temperatures during heat rescence (XRF), using a ThermoFischer Scientific ICP-OES and a
+treatment of the catalyst precursor to tune the particle size, ThermoARL9400sequentialXRFatDepartmentofEarthSciences
+while the support type, support surface area and metal loading (Utrecht University) respectively. The weight loss during heat
+are kept constant. Precursor decomposition in hydrogen atmo- treatment was measured using thermal gravimetric analysis
+sphere yielded significantly smaller particles than heating in (TGA) performed in a Perkin Elmer Pyris 1 TGA under a 10mL
+air or nitrogen atmosphere. Different gas atmospheres combined min(cid:3)1flowofoxygenorhydrogenin45mLmin(cid:3)1argonoraflow
+with heat treatments at different temperatures and times, of55mLmin(cid:3)1pureargon.Fortheseexperimentsthetemperature
+yielded a range of different particle sizes. The obtained catalysts was increased from 50(cid:3)C to 250(cid:3)C with a heating ramp of 1(cid:3)C
+were tested in the ethylene epoxidation reaction to investigate min(cid:3)1.ThedecompositionproductswereanalyzedusingaPfeiffer
+the intrinsic effects of the particle size on activity and VacuumOmniStarmassspectrometer.
+selectivity. Thesizeandspatialdistributionoftheobtainedsilverparticles
+weremeasuredusingtransmissionelectronmicroscopy(TEM)and
+scanning electron microscopy (SEM). The images were obtained
+2.Methods
+usingaFEITecnai-12transmissionelectronmicroscopeandaFEI
+XL30 SFEG scanning electron microscope respectively. The
+2.1.Silverprecursor
+obtainedimageswereprocessedusingiTEMSoftImagingSystem
+software[56].UV/VISspectraofthesupportedsilvercatalystswere
+Silveroxalatewasusedasthesilverprecursorfortheimpregna-
+obtained using a Varian CARY 500 Scan UV–Vis–NIR spectropho-
+tionofthealuminasupport.Tosynthesizethesilveroxalate,2.00g
+tometerwithanintegratingspheredetector.Inatypicalanalysis,
+silver nitrate ((cid:4)99.0%, Sigma Aldrich) was dissolved in 20mL a
+30mg of 15wt% Ag/ -Al O catalyst was diluted with 600mg
+milliQwaterandaddedtooxalicacidsolutionat60(cid:3)C.Thelatter 2 3
+solution was obtained by dissolving 1.48g oxalic acid dihydrate
+(99%,SigmaAldrich)(2:1Mratio)in40mLmilliQwaterat60(cid:3)C
+Table1
+[50–52]. Silver oxalate started to precipitate immediately, and OverviewoftheAg/a-Al2O3catalystsampleswerelabeledasAgAl2O3_atm_flow.
+was obtained after centrifugation and three times washing with
+Reducingatmosphere Inertatmosphere Oxidizingatmosphere
+milliQwaterandoncewithethanol.Thewhitepowderwasdried
+overnightat60(cid:3)Cunderstaticair. AgAl2O3_100%H2_0 AgAl2O3_100%N2_0 AgAl2O3_100%O2_0
+AgAl2O3_100%H2_10 AgAl2O3_100%N2_10 AgAl2O3_100%O2_10
+AgAl2O3_100%H2_25 AgAl2O3_100%N2_25 AgAl2O3_100%O2_25
+2.2.Catalystpreparation
+AgAl2O3_100%H2_50 AgAl2O3_100%N2_50 AgAl2O3_100%O2_50
+AgAl2O3_100%H2_100 AgAl2O3_100%N2_100 AgAl2O3_100%O2_100
+Extrudates of a -alumina (surface area 8m2 g(cid:3)1; pore volume AgAl2O3_50%H2_0 – AgAl2O3_50%O2_0
+0.4mLg(cid:3)1,AL4196E,BASF)werecrushedtoroughly400 a l mgrain A A g g A A l l 2 2 O O 3 3 _ _ 5 5 0 0 % % H H 2 2 _ _ 1 5 0 0 – – A A g g A A l l 2 2 O O 3 3 _ _ 5 5 0 0 % % O O 2 2 _ _ 1 5 0 0
+sizewithasizedistributionaslistedinTableS1.5.0gof -alumina AgAl2O3_50%H2_100 – AgAl2O3_50%O2_100
+support grains was dried overnight at 120(cid:3)C in static air before AgAl2O3_20%H2_50 – AgAl2O3_20%O2_50
+impregnation. The dry powder was impregnated with 1.24g dry
+AgAl2O3_8.5%H2_0 – AgAl2O3_8.5%O2_0
+silver oxalatedissolved in 2.0mL of0.73g/g milliQethylenedia- AgAl2O3_8.5%H2_10 – AgAl2O3_8.5%O2_10
+mine(en)/water (1:4:16mol ratio Ag 2 C 2 O 4: en: H 2 O) mixture and AgAl2O3_8.5%H2_25 – AgAl2O3_8.5%O2_25
+subsequently dried in static air at 60(cid:3)C [12,53,54]. To favor a AgAl2O3_8.5%H2_50 – AgAl2O3_8.5%O2_50
+homogeneous distribution of silver over the support, the powder
+AgAl2O3_8.5%H2_100 – AgAl2O3_8.5%O2_100
+was mixed during drying [55]. After drying for 5, 10 and 30min – AgAl2O3_350_100%N2_0* –
+thepowderwasmixedmanuallybeforeleavingthepowderover- * Heatedwith1(cid:3)Cmin(cid:3)1to350(cid:3)C,andkeptatthistemperaturefor24hoursin
+nighttodry. staticnitrogen.
+
+68 J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74
+pristine a -Al O (1m2g(cid:3)1,(cid:3)100mesh,SigmaAldrich)andground GC(Interscience)equippedwithaPorabondQcolumnandaMol-
+2 3
+to a fine powder before taking a spectrum in the 200–750nm sieve 5A column in two separate channels, both with a thermal
+a
+range. A background measurement of pristine -Al O was per- conductivitydetector(TCD).Conversiondatawerecalculatedfrom
+2 3
+formed and subtracted from the obtained spectra. A simplified dataretrievedat190and200(cid:3)Caftersteadystatewasreached,a
+modelofthecatalystwassimulatedusingFDTDSolutions8.0soft- moredetaileddescriptionofthe calculations can befoundin the
+warepackage(Lumerical)tocomputeUV/Visspectra.Simulations supplementary information. Selectivity data were obtained at an
+consistedofasinglesilverparticleinanenvironmentof0,10,20, ethyleneconversionof2.8%.
+a
+25,33.33,50,75and100%of -aluminainairat300K.Thesilver
+particlesizewasvariedbetween10and140nmwithstepsof10
+3.Resultsanddiscussion
+nm.Athree-dimensionalnon-uniformmeshwithagridsizeof0.5
+nmwasusedforthesilverparticleanditsdirectsurroundings.The
+3.1.Particlesizeanalysis
+localized surface plasmon resonance was calculated in the 200–
+800nmrangefromatotalfieldscatteredfieldsource.Thesimula- a
+TypicalimagesofAg/ -Al O catalysts,obtainedusingelectron
+tion was run until converged below 1e(cid:3)05. The data was fitted 2 3
+microscopy,areshowninFig.1.Themicrographsshowthesam-
+with a second order polynomial surface (R2=0.9995). The model ples treated in 50mLmin(cid:3)1 flow of 100% H , 100% N and 100%
+2 2
+wasingoodagreementwiththeworkfromMocketal.forspher-
+O respectively.Inthebright-fieldTEMmicrographofthehydro-
+2
+icalsilverparticles[57].
+gentreatedsampleintheleftframe,thealuminasupportcanbe
+seenindarkgreyspotsandhasaparticlesizeofseveralhundreds
+2.4.Catalytictesting of nanometers. Silver particles are visible as smaller and darker
+spots,withsizesupto100nm.Examplesareindicatedwithcircles.
+Catalytictestswereperformedwithmetalparticlesizesranging In the SEM micrographs of samples obtained after treatment in
+from 20 to 500nm obtained. As a reference a Cs-promoted com- nitrogen and oxygen displayed in the frames in the middle and
+a
+mercialcatalystcontaining18wt%Agon -Al O [58],wasmea- on the right, the alumina support surface is visible as light grey
+2 3
+sured under the same reaction conditions. Typically 150mg of a roundedparticles.Thesilverparticlesarebrightwhitespots,iso-
+38–90mmsievefractionofthematerialwasloadedbetweentwo tropicin shape,and not stronglyfacetted. The silverparticle size
+layers of quartz wool in a quartz reactor with a 4mm internal distributions,showninthelowerframes,aresignificantlydifferent
+diameter. The sample was heated to 180(cid:3)C in a flow of 15mL fordifferentheattreatmentconditions.Notethepresenceofparti-
+min(cid:3)1of8.5%oxygenand30%ethyleneinhelium,corresponding cleslargerthan150nminthesampletreatedinoxygencontaining
+toagashourlyspacevelocityof6000mLg(cid:3)1h(cid:3)1.Afteronehour atmosphere.TheparticlesizedistributionsinFig.1aretypicalfor
+cat
+the temperature was increased stepwise to 270(cid:3)C followed by 1 thistypeofcatalysts[59].
+hat190and180(cid:3)Crespectively(1hat180(cid:3)C,1hat190(cid:3)C,1h Asit ischallengingtoobtainresultsonastatisticallyrelevant
+at200(cid:3)C,1hat215(cid:3)C,1hat230,2hat250(cid:3)C,3hat260(cid:3)C,3 amount of sample using electron microscopy, we explored UV/
+hat270(cid:3)C,1hat190(cid:3)Cand1hat180(cid:3)C)[12].Theoutletgases Vis spectroscopy as a bulk analysis technique for validation. In
+ofthereactionwereanalyzedevery30minbyanonlineCompact Fig. 2 the UV/Vis spectraof selected catalysts can be found,with
+Fig.1. TEMandSEMimagesofAg/a-aluminawitharangeofparticlesizes.Fromlefttoright:AgAl2O3_100%H2_50(TEM),AgAl2O3_100%N2_50(SEM)andAgAl2O3_100%
+O2_50(SEM).
+
+J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74 69
+Fig.2. (left)UV/VisspectraofAg/a-aluminawitharangeofparticlesizes.Displayedspectraobtainedfrom(fromtoptobottom)AgAl2O3_100%H2_25,AgAl2O3_100%H2_100,
+AgAl2O3_8.5%H2_50,AgAl2O3_50%O2_50,andAgAl2O3_100%O2_50.Thespectraareoffsetforclarity.(right)SurfaceplasmonresonancepeakpositionasdeterminedbyUV/
+Viscomparedtotheparticlesizeofsilverparticlesona-aluminaasdeterminedbyelectronmicroscopy.TheoreticalSPRpeakpositionobtainedfromsimulationsofsilver
+particlesina60%air,40%a-aluminaenvironmentobtainedwithLumericalsoftwarepackageisindicatedbydottedgreyline.CatalystAgAl2O3_1_350_100%N2_24h_0with
+largesilverparticlesizeaddedasareference.
+thepeakmaximaoftheSPR peakinthe obtainedUV/Visspectra 3.2.Effectofgasflowduringprecursordecomposition
+indicated with a black dot. The spectra exhibit a broad peak in
+the 300–750nm range corresponding to the surface plasmon An overview of the surface averaged particle size of samples
+resonance(SPR)ofthesilverparticlesonthecatalystsurface.The treated under different gas atmospheres and gas flows are given
+positionofthepeakdependsonthesilverparticlesizeandshape in Fig. 3. Particle sizes obtained both from electron microscopy
+and on the dielectric constant of the direct surroundings of the techniquesaswellasfromUV/Visareincluded.Theaverageparti-
+silverparticles.Whentheparticlesareassumedtobespherical,a clesizeclearlyincreasesgoingfrommorereducingtomoreoxidiz-
+SPRpeakwithamaximuminthe380–500nmrangeisexpected, ingatmospheres.Whentheheattreatmentisperformedinstatic
+shiftingtolongerwavelengthsforlargerparticles[57,60].Average conditions, the final silver particle size is slightly higher than for
+silver particle sizes above about 100nm correspond to grey catalyststreatedinagasflow.Alinearfitexcludingthedatafrom
+samples. catalystsobtainedunderstaticconditionsisaddedasdashedline
+The peak maximum shifts to longer wavelengths when going asaguidefortheeye.
+fromsamplesobtainedfromheattreatmentinreducinggasatmo- ThetrendsobservedinFig.3showapronouncedeffectofgas
+spheres to samples obtained in oxidizing gas atmospheres. The atmosphereduringheattreatment,whileingeneral,theeffectof
+intensity of the SPR peak decreases with increasing particle size flow is less prominent. The slightly higher average silver particle
+and the peak position becomes more difficult to determine size in catalysts obtained in static conditions is attributed to the
+[47,48]. This is in accordance with computational predictions of poor removal of decomposition products, while at intermediate
+the UV/Vis spectra of spherical silver particles of different sizes orhighflowsthisremovalisfacilitated.Overall,themethodofheat
+onaaluminasupportperformedbyusandwithliterature[61,62]. treatmentindifferentatmospheresissuccessfulinproducingcat-
+IntherightframeofFig.2theSPRpeakpositionofdifferently alystswithabroadrangeofsilverparticlesizes.Asmallamountof
+heattreatedsamplesisplottedagainstthesurfaceaveragedparti-
+cle size obtained by electron microscopy. The dotted line is
+obtained from computational results of the SPR peak maximum
+for different silver particle sizes. The resulting peak maximum
+canonlybeusedtopredictanaveragesilverparticlesize,asonly
+asinglesilverparticleissimulatedforeachsize.Theeffectsofpar-
+ticle and size distributions are therefore not taken into account.
+Catalysts with the smallest silver particle sizes, like the samples
+obtainedbyheattreatmentinhydrogen,showintenseandsharp
+SPR peaks in the UV/Vis spectra with maxima at relatively low
+wavelengths.CatalystswithalargeraverageparticlesizeinSEM,
+like the samples treated in oxygen containing atmosphere show
+a much broader peak with a SPR peak maxima at higher wave-
+lengths. UV/Vis spectra with SPR peaks up until circa 440nm, or
+silverparticlesizesofcirca75nm,areintenseenoughforaproper
+estimation of the average silver particle size. For larger particle
+sizesthevaluesobtainedusingelectronmicroscopystarttodevi-
+atestronglyfromthevaluefromUV/Visduetothelowabsorption
+coefficientoftheselargesilverparticles.Areferencecatalystwitha
+surfaceaveragedparticlesizeof500nmwasanalyzed;thiscata-
+lystisdenotedasAgAl O _350_100%N2_0.Thereferencecatalysts
+2 3
+exhibitedaweaksurfaceplasmonresonanceat460nm.Thiscon- Fig. 3. Particle size of silver particles on a-alumina as determined by electron
+firmedthatitispossibletoestimatethesilverparticlesizeforcat- microscopy(closedsymbols)andUV/Vis(opensymbols)afterheattreatmentin
+differentgasatmospheres (hydrogenor oxygeninnitrogen)withdifferentflow
+alystswithaveragesilverparticlesupto75nm.
+ratesover150mgofsample.Dashedlinesaddedasaguidefortheeye.
+
+70 J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74
+hydrogen, exemplified by 8.5% hydrogen in nitrogen, already The results of TGA-MS and XRD show that the decomposition
+resultsinverysmallparticles,whilethesizeofthesilverparticles stepsareprimarilycausedbyaone-stepdecompositionofAg C -
+2 2
+increasingwithincreasingoxygenpartialpressure,ascanbeseen O ,dryingofthesamplesbeforethemeasurementremovedmost
+4
+inFig.S2inthesupplementaryinformation. of the ethylene diamine and water. No major contributions of
+decomposition of ethylene diamine (en) or evaporation of water
+3.3.Decompositionofsilverprecursor wereobservedintheMSresults(Fig.S3)andnoformationofinter-
+mediateproductswasobservedintheXRDduringdecomposition
+InFig.4theweightlossduringheatingofthe[Ag(en) ] C O / a - (Figs.S5andS6).
+22 2 4
+aluminacatalystprecursorindifferentgasatmospheresisplotted. Theslightshiftofweightlosstowardlowertemperaturesdur-
+Priortoanalysisthesamplewasdriedtoremovewaterandethy- ingthedecompositioninhydrogenisprobablycausedbyitshigh
+lene diamine. This resulted in the formation of Ag C O / a -Al O thermal conductivity rather than by an intrinsically different
+2 2 4 2 3
+whichshouldexhibitaweightlossof5.8%whendecomposedfully decomposition mechanism, as is shown in the supplementary
+into Ag/ a -Al O and CO . The total weight loss observed in the information. The decomposition step in at 250(cid:3)C in oxidative
+2 3 2
+thermographic analysis (TGA) is 4.8%, which agrees within the atmospherecouldbecausedbytheformationofsilveroxidedur-
+error of the measurement with the expected weight loss. In the ing decomposition at lower temperatures, which decomposes
+derivativeoftheTGA(DTG)asharppeakcanbeseen,whichrep- around250(cid:3)C.Partofthesilveroxalatecouldhavebeenconverted
+resents decomposition of the complex, with a small shoulder at to amorphous Ag 2 O, which would not be directly visible in XRD.
+higher temperatures. Between 150 and 200(cid:3)C an additional When all the oxalate would undergo formation of silver oxide
+decompositionpeakisvisibleinallthreecases.Theonsetdecom- and subsequentdecompositiontometallicsilvera weightloss of
+position temperature is slightly higher for inert and oxidizing 1.05% above 200(cid:3)C is expected, while a weight loss of 0.25% is
+atmospheres(forthemaindecompositionpeakat73(cid:3)CforH ver- observed. The formation of a small amount of silver oxide most
+2
+sus84and86(cid:3)Cforargonandairrespectively).At250(cid:3)Casharp likelyexplainsthelargersilverparticlesizesobtainedinoxidizing
+weight loss of 0.4% is observed in the measurement in oxidizing atmosphere,assilveroxideisknowntobemobileonthesupport
+atmosphere, while no such decomposition step is visible in inert surface[65].
+or reducing atmospheres. The final weight is referenced to the
+sample measured in inert atmosphere, as the samples after heat 3.4.Temperaturedependenceofcatalyticperformance
+a
+treatmentallresultedin15wt%Ag/ -alumina.
+Thefactthattheinitialweightofsomesamplesexceeds100%at A typical temperature program and resulting ethylene con-
+the start of the measurement is attributed to the residual water version and selectivity to ethylene oxide are displayed in
+contentofthesampleandnotfullycompleteremovalofethylene Fig. 5 for catalyst AgAl O _100%O2_25. The spikes at the start
+2 3
+diaminepriortoanalysis.Massspectrometryanalysis(Fig.S3)pre- of each temperature dwell are caused by an overshoot of the
+dominately shows the formation of CO Less than 0.3at% of the temperature controller, causing similar spikes in conversion
+2.
+decomposition products are N-containing compounds from ethy- and selectivity as is visible in the top left frame. The conversion
+lenediaminedecomposition,andlessthan2at%water.XRDpat- (orange line) increases steadily with temperature, while the
+terns of the catalyst at different stages of decomposition only selectivity (blue line) decreases with temperature. In the right
+showedsilveroxalateandsilver(Fig.S5). frame, the conversion at different temperatures from three cat-
+Theadditionalminorweightlossaround170(cid:3)Cinallthreegas alysts over a range of particle sizes is displayed. The drawn
+atmospheres can be attributed to the formation of a passivation lines represent the fitting with an Arrhenius-type equation.
+layer around the oxalate during the main decomposition step, The ethylene conversion levels off at 12%. This is due to the
+retardingfulldecomposition.Thisbehaviorofsilveroxalateduring depletion of oxygen from the gas stream (equation S1–S13).
+decompositionwasalsoobservedbyMacDonaldin1936andLeiga Small amounts of CO and acetaldehyde were observed at con-
+in1966intheirresearchonthedecompositionofbulksilveroxa- versions exceeding 12%. At lower conversions, carbon dioxide
+late[63,64].Theratioofthedifferentweightlossstepsdependson and water were the only side products observed. Catalytic key
+the crystal shape and size and hence varies withthe preparation parameters, turnover frequency and selectivity, are calculated
+methodofthesilveroxalateandthemeasurementconditions,as from data obtained at conversions below 5%. The absence of
+wealsoconfirmedexperimentally(Figs.S4–S6)[51]. external and internal transport limitations at these conditions
+Fig.4. TGA(left)andDTG(right)of[Ag(en)2]2C2O4/a-Al2O3inhydrogen(red),argon(orange)andoxygen(blue)withaflowof10mLmin(cid:3)1inabackgroundflowof20mL
+min(cid:3)1inert.Samplesdriedinsituininertgasflowat70(cid:3)Cbeforeanalysis.
+
+J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74 71
+Fig.5. Conversionofethylene(orange)andselectivitytowardethyleneoxide(blue)ofAgAl2O3_100%O2_25(topleftframe),withcorrespondingreactortemperature(bottom
+leftframe).ConversiondataofthreeselectedcatalystsplottedagainsttemperaturefittedwithanArrheniusequation(rightframe).Dataobtainedatatmosphericpressurein
+atemperaturerangeof180–270(cid:3)Cwith8.5%O2and30%ethyleneflowinheliumandaGHSVof6.000h(cid:3)1.
+was established by using the Mears and Weisz-Prater criteria 3.5.Particlesizedependenceofselectivity
+(Supplementary information) [66].
+Thesilvertimeyield(STY)ofsilvercatalystswithdifferentpar- Theselectivitytoethyleneoxideasafunctionoftemperatureis
+ticlesizes,definedastheamountofmolesethyleneconvertedper displayedintheleftframeofFig.7forcatalystswithsurfaceaver-
+gramofsilverpersecond,canbefoundinFig.6.TheSTYofsmall agedparticlesizesof20,90and200nm.Theselectivitydecreases
+particlesisrelativelylowandreachesamaximumataparticlesize linearlywithtemperatureuntilacertaintemperature,afterwhich
+of about 60nm. Above this size, the STY scales inversely with thedeclinebecomeslesspronounced.Thesteepdeclineofselectiv-
+particlesize.Therightframeshowstheactivityperexposedsilver itywithtemperatureisduetothefactthattheselectivitystrongly
+surface,betterknownastheturnoverfrequencyorTOF,whichis decreases with increasing conversion levels, as will be discussed
+lowforsmallparticlesandincreaseswithparticlesizeuptoabout later.Theinflectionpointintheselectivitycorrespondstothetem-
+60nm. peratureatwhichtheconversionflattensoffduetooxygendeple-
+The observed decline in STY for larger particles is expected tion as discussed above. The selectivity of the sample containing
+due to a decline in exposed active sites per gram of silver with 90nm silver particles decreases with temperature more sharply
+increasing particle size. The low activity for small particles thanthe samplescontaining20 or 200nm silver particles. In the
+points to an intrinsic particle size effect. The overall trend in rightframeinFig.7,theselectivityat190(cid:3)Casafunctionofpar-
+activity is in good agreement with literature where a similar ticle size is shown [25,53]. The particle size dependency at con-
+sharp decline in turnover frequency at particle sizes below 60 stant temperature corresponds to the trends reported in
+nm was reported [1,2,25,53]. The observed turnover frequencies literature,showingaslightapparent(videinfra)increaseinselec-
+agree with those observed in academic as well as patent litera- tivitywithparticlesize.
+ture. Details can be found in the supplementary information in In contrast, the selectivity at a constant conversion of 2.8%
+section S4 [27,67]. plottedintheleftframeofFig.8showsnosignificantparticlesize
+Fig.6. SilverTimeYieldofAg/a-Al2O3catalystswithdifferentaverageAgparticlesizes(leftframe)andturnoverfrequencyasafunctionofaverageAgparticlesizefor
+ethyleneepoxidationofAg/a-Al2O3catalysts(rightframe).Inbothframeslinesareaddedtoguidetheeye.Catalyticdataobtainedatatmosphericpressurewith8.5%O2and
+30%ethyleneflowinheliumandaGHSVof6.000h(cid:3)1at190and200(cid:3)Candconversionsrangingfrom0to4.5%.
+
+72 J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74
+Fig.7. Selectivitytoethyleneoxideasafunctionoftemperature(left)andparticlesize(right)at190(cid:3)CforethyleneoxidationofAg/a-Al2O3catalysts.Catalyticdataobtained
+atatmosphericpressurewith8.5%O2and30%ethyleneflowinheliumandaGHSVof6.000h(cid:3)1withconversionsrangingfrom0to4.5%.
+Fig.8. SelectivityasafunctionofparticlesizeforethyleneepoxidationofAg/a-Al2O3catalystsatconstantconversion(2.8%,leftframe).Selectivityversusconversionofsilver
+catalyzedepoxidation(right).Catalystswithdifferentparticlesizeshowthatselectivityisconversiondependent,whileallthreecatalystsfollowthesametrendline.
+dependency.Intherightframe,theselectivityovertheentirecon- The selectivity data at constant conversion suggest that the
+versionrangeisplottedagainsttheconversion.Differenttempera- selectivityiseitherparticlesizeindependentoronlyslightlyparti-
+tureshavebeenusedtoobtainthesameconversionforcatalysts clesizedependent.PointsinFig.8havebeenmeasuredatdifferent
+withdifferentparticlesizes,theselectivityofallcatalystsfallson temperatures, however calculations(see supplementary informa-
+thesameline.Itshouldbenotedthatthismethodofvaryingtem- tionsection4)showthattheinfluenceoftemperatureonselectiv-
+peraturecouldintroducedifferencesinselectivity,duetodifferent ityatagivenlowconversionisverylimited.Alsothedatapoints
+activation energies of the selective and unselective reaction that have been obtained at constant temperature (but different
+pathways. flow rates) show that the selectivity is principally particle size
+ThedecreaseinselectivityintheleftframeofFig.7iscausedby independent. While this does not agree with previous results
+anincreased rate ofthesecondaryreaction,subsequentialoxida- reportedinliterature,thesestudieswereeitherperformedatcon-
+tionofethyleneoxide.Thisisduetoanincreasedconversionwith stanttemperature,whichobscurestheselectivitywiththetemper-
+temperature, increasing the partial pressure of the primary reac- ature dependence of conversion, or by using model catalysts
+tantofthissecondaryreaction,ethyleneoxide.Theoverallselec- consistingofAgsinglecrystalplanes[26,68].
+tivityofthereactionisreducedduetothiseffect.Thisalsoplays Althoughweclearlyshowastrongparticlesizedependence(for
+akeyroleintherightframeofthisfigure.Inthisframe,theselec- particlesizesbelow60nm)oftheintrinsicactivity,theselectivity
+tivityisreportedatconstanttemperature,butatdifferentconver- is not significantly affected by particle size in this range. The
+sion. The conversion-dependence of the selectivity introduces a understanding of this particle size dependence is therefore not
+systematicerrorintheparticlesizeeffect. straightforward. It might be expected that the occurrency of cer-
+IntheleftframeofFig.8theselectivityatconstantconversion taincrystalplanes,suchasthesilver(100)crystalplane,depends
+isreported,bothatconstantGHSV(opensymbols)andatconstant on particle size, but there is no consensus in literature that this
+temperature(closedsymbols).Forbothcasesnoapparentparticle shouldhaveastronginfluenceontheintrinsicactivityforethylene
+sizedependencycanbeobserved.Thisshowsthattheselectivityis epoxidation,andonemightexpectthatifthiswouldbeanimpor-
+primarily conversion-dependent, instead of particle size tantfactor,alsotheselectivitywouldbeexpectedtobesizedepen-
+dependence. dent[24,26].
+
+J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74 73
+Rather it is seems likely that oxygen plays a decisive role. As References
+posedbyseveralauthors,thenatureofthesitesthatbindandacti-
+vateethylenecriticallydependsonthepresenceandnatureofoxy- [1] S.Rebsdat,D.Mayer,Ullmann’sEncycl.Ind.Chem.(2012)547–572.
+[2] H.Kestenbaum,A.LangedeOliveira,W.Schmidt,F.Schüth,W.Ehrfeld,K.
+gen on the silver surface [18,20,23,37–39,42,69]. The size
+Gebauer,H.Löwe,T.Richter,D.Lebiedz,I.Untiedt,H.Züchner,Ind.Eng.Chem.
+dependentactivitydepictedinFig.6iscausedbyaverylowoccur- Res.41(4)(2002)710–719.
+renceofactivesitesonsmallsilverparticles.Generallyithasbeen [3] G.C.C.Mendes,T.R.S.Brandão,C.L.M.Silva,Am.J.Infect.Control35(9)(2007)
+posedthatsitesrelatedto‘‘nucleophilic”or‘‘ionic”oxygenarerare 574–581.
+[4] M.Lazaridis,H.A.Little,C.B.Meyer,K.K.Pathiyal,1(12)(2001).
+forsilverparticlesuptosizesof30–50nm[20,37–39,42,70].How- [5] M.Argyle,C.Bartholomew,Catalysts5(1)(2015)145–269.
+ever, the fact that we do not observe, in the same particle size [6] Z.Łodziana,J.K.Nørskov,P.Stoltze,J.Chem.Phys.118(24)(2003)11179.
+region,adependenceoftheselectivityonparticlesize,impliesthat [7] S. Rojluechai, S. Chavadej, J.W. Schwank, V. Meeyoo, Catal. Commun. 8 (1)
+(2007)57–64.
+the concentration of these active ethylene binding sites does not
+[8] C.Petitto,G.Delahay,Catal,Letters142(4)(2012)433–438.
+determinetheselectivityofthereaction.Inotherwords,itdeter- [9] P.Raharjo,C.Ishizaki,K.J.Ishizaki,Ceram,Soc.Japan108(1257)(2000)449–
+mines the activation of the ethylene molecule, but not its fate, 455.
+[10] J.K.Lee,X.E.Verykios,R.Pitchai,Appl.Catal.44(C)(1988)223–237.
+whileapparentlytherearenoalternativebindingsitesonthesilver
+[11] C.-F.Mao,M.AlbertVannice,Appl.Catal.AGen.122(1)(1995)61–76.
+that lead to conversion. Dedicated measurements on the depen- [12] A.M.Lauritzen,EthyleneOxideCataystandProcessforPreparingtheCatalyst,
+dence of the occurrency of the different oxygen containing sites 1988.
+[13] M.O.Özbek,R.A.vanSanten,Catal,Letters143(2)(2013)131–141.
+as a function of Ag particle size and correlating them to activity
+[14] P.A.Kilty,W.M.H.Sachtler,Catal.Rev.Sci.Eng.1974(10)(2012)1–16.
+and selectivity observed could shed further light on this [15] E.A.Carter,W.A.Goddard,J.Catal.112(1)(1988)80–92.
+phenomenon. [16] C.T.Campbell,M.T.Paffett,Surf.Sci.139(2–3)(1984)396–416.
+[17] C.T.Campbell,J.Vac.Sci.Technol.AVac.Surf.Film2(2)(1984)1024–1027.
+[18] R.A.VanSanten,H.P.C.E.Kuipers,AdvancesinCatalysis,vol.23,1987,pp.265–
+321.
+4.Conclusion
+[19] A. Ayame, T. Kimura, M. Yamaguchi, H. Miura, N. Takeno, H. Kanoh, I.
+Toyoshima,J.Catal.100(2)(1986)401–413.
+A study of the synthesis of supported silver catalysts by [20] R.B.Grant,R.M.Lambert,J.Catal.92(2)(1985)364–375.
+decomposition of silver oxalate showed that different silver par- [21] S.Linic,M.A.Barteau,J.Am.Chem.Soc.124(2)(2002)310–317.
+[22] S.Linic,M.A.Barteau,J.Catal.214(2)(2003)200–212.
+ticle sizes can be obtained without changing the weight loading [23] M.O.Özbek,I.Önal,R.A.vanSanten,ChemCatChem3(1)(2011)150–153.
+or the catalyst precursor, by using different gas atmospheres. [24] P.Christopher,S.Linic,ChemCatChem2(1)(2010)78–83.
+The obtained particle sizes were in a range of 20–500nm, with [25] X.Verykios,F.P.Stein,R.W.Coughlin,J.Catal.66(1980)368–382.
+[26] P.Christopher,S.Linic,J.Am.Chem.Soc.130(34)(2008)11264–11265.
+hydrogen gas treatment yielding 20nm silver particles. While
+[27] C.T.Campbell,J.Catal.444(1985)436–444.
+the catalysts have different average silver particle sizes, the [28] J.C.Wu,P.Harriott,J.Catal.39(3)(1975)395–402.
+support and metal loading are identical. The clear surface plas- [29] G.L.Bezemer,J.H.Bitter,H.P.C.E.Kuipers,H.Oosterbeek,J.E.Holewijn,X.Xu,F.
+Kapteijn,A.J.vanDillen,K.P.deJong,J.Am.Chem.Soc.128(12)(2006)3956–
+mon resonance absorption by small silver particles observed in
+3964.
+UV/Vis correlates with particle sizes from electron microscopy [30] R. Van Den Berg, G. Prieto, G. Korpershoek, L.I. Van Der Wal, A.J. Van
+techniques (SEM and TEM) and can therefore be used as a fast Bunningen,S.Lægsgaard-jørgensen,P.E.DeJongh,K.P.DeJong,2016.
+[31] R.VanHardeveld,F.Hartog,Surf.Sci.15(2)(1969)189–230.
+and statistically relevant analysis technique for the silver parti-
+[32] P.VanHelden,I.M.Ciobîc,R.L.J.Coetzer,261(2016),48–59.
+cle size. [33] X.E.Verykios,F.P.Stein,R.W.Coughlin,Catal.Rev.22(2)(1980)197–234.
+Theeffectoftheparticlesizeontheethyleneepoxidationactiv- [34] D.J.Sajkowski,M.Boudart,StructureSensitivityoftheCatalyticOxidationof
+EthenebySilver,vol.29,1987.
+ityisingoodagreementwithliterature.Thisshowsthevalidityof
+[35] J.K.Lee,X.E.Verykios,R.Pitchai,Appl.Catal.50(1)(1989)171–188.
+oursynthesismethod.Weadditionallyshowthattheselectivityis [36] S.N.Goncharova,E.A.Paukshtis,B.S.Bal’zhinimaev,Appl.Catal.AGen.126(1)
+stronglydependent onconversion.This meansthat reportingthe (1995)67–84.
+selectivityataconstanttemperature,asiscommonlydoneinrel- [37] V.I.Bukhtiyarov,I.P.Prosvirin,R.I.Kvon,S.N.Goncharova,B.S.Bal’zhinimaev,J.
+Chem.Soc.FaradayTrans.93(13)(1997)2323–2329.
+evantliterature,introducesmajorartifacts.Whentheselectivityis [38] V.I.Bukhtiyarov,A.F.Carley,L.A.Dollard,M.W.Roberts,Surf.Sci.381(1997)
+reportedatconstantconversion,noclearparticlesizedependence L605–L608.
+ofselectivitywasobserved,incontrasttomostliteraturereports. [39] V.I.Bukhtiyarov,V.V.Kaichev,J.Mol.Catal.AChem.158(1)(2000)167–172.
+[40] V.M. Mastikhin, S.N. Goncharova, V.M. Tapilin, V.V. Terskikh, B.S.
+While different silver crystal planes may have different selectivi-
+Balzhinimaev,J.Mol.Catal.AChem.96(2)(1995)175–179.
+tiestoethyleneoxideasindicatedbysurfacescienceexperiments [41] L.M.Akella,H.H.Lee,J.Catal.86(2)(1984)465–472.
+[23,24,26],theparticlesizeindependenceoftheselectivityshows [42] V.I.Bukhtiyarov,M.Havecker,V.V.Kaichev,A.Knop-Gericke,R.W.Mayer,R.
+Schlogl,Phys.Rev.B67(23)(2003)235422.
+thatthisdoesnotplayanimportantroleinmoreindustriallyrele-
+[43] S.-G.Kim,Y.-G.Seo,Y.-J.Cho,J.-S.Shin,S.-C.Gil,W.-M.Lee,Bull.KoreanChem.
+vantmodelcatalysts,liketheonesstudiedhere. Soc.31(7)(2010)1891–1896.
+[44] P.J.VandenHoek,E.J.Baerends,R.A.VanSanten,J.Phys.Chem.93(17)(1989)
+6469–6475.
+Acknowledgements [45] M.Casavola,J.Hermannsdörfer,N.deJonge,A.I.Dugulan,K.P.deJong,Adv.
+Funct.Mater.25(33)(2015)5309–5319.
+[46] J.P.denBreejen,P.B.Radstake,G.L.Bezemer,J.H.Bitter,V.Frøseth,A.Holmen,
+ThisresearchwasfundedbyNWOViciprojectno.16.130.344.
+K.P.deJong,J.Am.Chem.Soc.131(20)(2009)7197–7203.
+TheauthorswouldliketothankJan-WillemdeRijkfortheDSC [47] T.Toupance,M.Kermarec,C.Louis,(2000)965–972.
+measurements, Carlo Buijs and Marlies Coolen-Kuppens for their [48] J.R.A. Sietsma, J.D. Meeldijk, J.P. Den Breejen, M. Versluijs-helder, A.J. Van
+Dillen,P.E.DeJongh,K.P.DeJong3(3)(2007)4631–4633.
+help on the epoxidation setup, Helen de Waard (Geochemistry,
+[49] P.Munnik,M.Wolters,A.Gabrielsson,S.D.Pollington,G.Headdock,J.H.Bitter,
+UtrechtUniversity)fortheICPanalysis.Wewouldliketoacknowl- P.E.DeJongh,K.P.DeJong,J.Phys.Chem.C115(30)(2011)14698–14706.
+edgeLisettePompefortheTEMmeasurementsandsupportfrom [50] S.M.Pourmortazavi,S.S.Hajimirsadeghi,I.Kohsari,R.FareghiAlamdari,M.
+Rahimi-Nasrabadi,Chem.Eng.Technol.31(10)(2008)1532–1535.
+the European Research Council, EU FP7 ERC Advanced Grant no.
+[51] V.V.Boldyrev,Thermochim.Acta388(1–2)(2002)63–90.
+338846forfundingoftheTEMmeasurementtime. [52] A.R.Fiorucci,L.M.Saran,É.T.G.Cavalheiro,E.A.Neves,Thermochim.Acta356
+(1–2)(2000)71–78.
+[53] J.Jiang,T.Xu,Y.Li,X.Lei,H.Zhang,D.G.Evans,X.Sun,X.Duan,Bull.Korean
+AppendixA.Supplementarymaterial Chem.Soc.35(6)(2014)1832–1836.
+[54] R.P.Nielsen,J.H.LaRochelle,Patentcatalystforproductionofethyleneoxide,
+1976.
+Supplementarydataassociatedwiththisarticlecanbefound,in [55] E.Plessers,I.Stassen,S.P.Sree,K.P.F.Janssen,H.Yuan,J.Martens,J.Hofkens,D.
+theonlineversion,athttps://doi.org/10.1016/j.jcat.2017.10.001. DeVos,M.B.J.Roeffaers,ACSCatal.5(11)(2015)6690–6695.
+
+74 J.E.vandenReijenetal./JournalofCatalysis356(2017)65–74
+[56] J. Hoekstra, A.M. Beale, F. Soulimani, M. Versluijs-Helder, J.W. Geus, L.W. [63] A.G.Leiga,J.Phys.Chem.70(10)(1966)3254–3259.
+Jenneskens,NewJ.Chem.39(8)(2015)6593–6601. [64] J.Y.Macdonald,Nature137(3456)(1936)152–153.
+[57] J.J.Mock,M.Barbic,D.R.Smith,D.A.Schultz,S.Schultz,J.Chem.Phys.116(15) [65] N.M.Wichner,J.Beckers,G.Rothenberg,H.Koller,J.Mater.Chem.20(19)
+(2002)6755–6759. (2010)3840–3847.
+[58] T.A.Nijhuis,Towardsanewpropeneepoxidationprocess,1997. [66] H.S. Fogler, in: N.R. Amundson (ed.), Elements of Chemical Reaction
+[59] P.Harriott,J.Catal.21(1)(1971)56–65. Engineering,thirded.,PrenticeHallInternational,1999.
+[60] A.G.M.daSilva,T.S.Rodrigues,J.Wang,L.K.Yamada,T.V.Alves,F.R.Ornellas,R. [67] W.E.Evans,P.I.Chipman,UnitedStatesPatent.US6717011B2,2004.
+A.Ando,P.H.C.Camargo,Langmuir31(37)(2015)10272–10278. [68] R.A.VanSanten,Acc.Chem.Res.42(1)(2009)57–66.
+[61] V.Amendola,O.M.Bakr,F.Stellacci,Plasmonics5(1)(2010)85–97. [69] A.M.Sorokin,I.P.Prosvirin,D.V.Demidov,V.I.Bukhtiyarov2(2)(2013)1–4.
+[62] A.Liebsch,Phys.Rev.B48(15)(1993)11317–11328. [70] R.B.Grant,R.M.Lambert,Surf.Sci.146(1)(1984)256–268.
+

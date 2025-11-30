@@ -1,0 +1,192 @@
+[
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag催化剂",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Ag",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "优于",
+        "end_node": "Ag(100)晶面"
+    },
+    {
+        "start_node": "Ag(111)晶面",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)晶面",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "α-Al2O3载体",
+        "relationship": "支撑",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "Cs",
+        "relationship": "促进",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "Re",
+        "relationship": "促进",
+        "end_node": "Ag催化剂"
+    },
+    {
+        "start_node": "CsRe-Ag催化剂",
+        "relationship": "显示",
+        "end_node": "高选择性"
+    },
+    {
+        "start_node": "CsRe-Ag催化剂",
+        "relationship": "显示",
+        "end_node": "稳定性"
+    },
+    {
+        "start_node": "平均孔径",
+        "relationship": "范围",
+        "end_node": "0.5-1.2μm"
+    },
+    {
+        "start_node": "最佳孔径",
+        "relationship": "提高",
+        "end_node": "产率因子"
+    },
+    {
+        "start_node": "小孔径",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "大孔径",
+        "relationship": "降低",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "纯α-Al2O3",
+        "relationship": "具有",
+        "end_node": "高纯度"
+    },
+    {
+        "start_node": "纯α-Al2O3",
+        "relationship": "具有",
+        "end_node": "均匀孔结构"
+    },
+    {
+        "start_node": "高温煅烧",
+        "relationship": "制备",
+        "end_node": "α-Al2O3载体"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "1073-1673K"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "433-503K"
+    },
+    {
+        "start_node": "银负载量",
+        "relationship": "范围",
+        "end_node": "2-12wt%"
+    },
+    {
+        "start_node": "CsRe-Ag/AA5a",
+        "relationship": "显示",
+        "end_node": "稳定转化率"
+    },
+    {
+        "start_node": "CsRe-Ag/AA5a",
+        "relationship": "显示",
+        "end_node": "71%选择性"
+    },
+    {
+        "start_node": "商业载体",
+        "relationship": "含有",
+        "end_node": "酸性杂质"
+    },
+    {
+        "start_node": "酸性杂质",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "介孔",
+        "relationship": "促进",
+        "end_node": "副反应"
+    },
+    {
+        "start_node": "均匀孔结构",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "乙烯-D4",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "同位素效应",
+        "relationship": "指示",
+        "end_node": "反应机理"
+    },
+    {
+        "start_node": "C-H断裂",
+        "relationship": "是",
+        "end_node": "速率决定步骤"
+    },
+    {
+        "start_node": "分子间氢转移",
+        "relationship": "是",
+        "end_node": "速率决定步骤"
+    },
+    {
+        "start_node": "直接燃烧路径",
+        "relationship": "贡献",
+        "end_node": "二氧化碳生成"
+    },
+    {
+        "start_node": "二次反应",
+        "relationship": "降低",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "固定床反应器",
+        "relationship": "用于",
+        "end_node": "长期测试"
+    },
+    {
+        "start_node": "GHSV",
+        "relationship": "范围",
+        "end_node": "186-246h-1"
+    },
+    {
+        "start_node": "进料组成",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "氧化条件",
+        "relationship": "影响",
+        "end_node": "同位素效应"
+    },
+    {
+        "start_node": "还原条件",
+        "relationship": "影响",
+        "end_node": "同位素效应"
+    }
+]

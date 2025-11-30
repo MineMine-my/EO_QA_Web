@@ -1,0 +1,137 @@
+[
+    {
+        "start_node": "Cs/SiO2",
+        "relationship": "催化",
+        "end_node": "环氧乙烷"
+    },
+    {
+        "start_node": "Cs/SiO2",
+        "relationship": "影响",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Cs/SiO2",
+        "relationship": "决定",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "Cs+",
+        "relationship": "形成",
+        "end_node": "强碱性位"
+    },
+    {
+        "start_node": "强碱性位",
+        "relationship": "促进",
+        "end_node": "脱水环氧化"
+    },
+    {
+        "start_node": "SiO2",
+        "relationship": "提供",
+        "end_node": "酸性表面"
+    },
+    {
+        "start_node": "酸性表面",
+        "relationship": "促进",
+        "end_node": "H2O消除"
+    },
+    {
+        "start_node": "Cs+",
+        "relationship": "低渗透",
+        "end_node": "SiO2"
+    },
+    {
+        "start_node": "低渗透",
+        "relationship": "提高",
+        "end_node": "可及性"
+    },
+    {
+        "start_node": "Cs+",
+        "relationship": "强相互作用",
+        "end_node": "SiO2表面"
+    },
+    {
+        "start_node": "强相互作用",
+        "relationship": "稳定",
+        "end_node": "碱性位"
+    },
+    {
+        "start_node": "反应温度",
+        "relationship": "范围",
+        "end_node": "673K"
+    },
+    {
+        "start_node": "空速",
+        "relationship": "范围",
+        "end_node": "1.38 L/(min·g)"
+    },
+    {
+        "start_node": "Cs2O负载量",
+        "relationship": "范围",
+        "end_node": "1-20 wt%"
+    },
+    {
+        "start_node": "煅烧温度",
+        "relationship": "范围",
+        "end_node": "723-1023K"
+    },
+    {
+        "start_node": "比表面积",
+        "relationship": "范围",
+        "end_node": "13-187 m2/g"
+    },
+    {
+        "start_node": "表面密度",
+        "relationship": "影响",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "低表面密度",
+        "relationship": "提高",
+        "end_node": "活性"
+    },
+    {
+        "start_node": "SiO2载体",
+        "relationship": "优于",
+        "end_node": "Al2O3载体"
+    },
+    {
+        "start_node": "SiO2载体",
+        "relationship": "优于",
+        "end_node": "TiO2载体"
+    },
+    {
+        "start_node": "SN2机理",
+        "relationship": "导致",
+        "end_node": "立体选择性"
+    },
+    {
+        "start_node": "meso-2,3-丁二醇",
+        "relationship": "生成",
+        "end_node": "trans-2,3-环氧丁烷"
+    },
+    {
+        "start_node": "碱性位",
+        "relationship": "协同",
+        "end_node": "表面羟基"
+    },
+    {
+        "start_node": "协同作用",
+        "relationship": "促进",
+        "end_node": "脱水环氧化"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "优于",
+        "end_node": "Ag(100)"
+    },
+    {
+        "start_node": "Ag(111)",
+        "relationship": "提高",
+        "end_node": "选择性"
+    },
+    {
+        "start_node": "Ag(100)",
+        "relationship": "降低",
+        "end_node": "选择性"
+    }
+]
